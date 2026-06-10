@@ -20,7 +20,37 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 from typing import Optional
 from pathlib import Path
-from dotenv import load_dotenv
+try:
+    from dotenv import load_dotenv
+except ModuleNotFoundError:
+    def load_dotenv(path: Path) -> None:
+        """Load simple KEY=VALUE pairs, including quoted multiline values."""
+        pending_key = None
+        pending_lines: list[str] = []
+
+        for raw_line in path.read_text(encoding="utf-8").splitlines():
+            line = raw_line.strip()
+            if pending_key:
+                if line.endswith('"'):
+                    pending_lines.append(line[:-1])
+                    os.environ.setdefault(pending_key, "\n".join(pending_lines))
+                    pending_key = None
+                    pending_lines = []
+                else:
+                    pending_lines.append(raw_line)
+                continue
+
+            if not line or line.startswith("#") or "=" not in line:
+                continue
+
+            key, value = line.split("=", 1)
+            key = key.strip()
+            value = value.strip()
+            if value.startswith('"') and not (len(value) > 1 and value.endswith('"')):
+                pending_key = key
+                pending_lines = [value[1:]]
+            else:
+                os.environ.setdefault(key, value.strip('"'))
 
 env_path = Path(__file__).resolve().parent / ".env"
 load_dotenv(env_path)
