@@ -1,0 +1,68 @@
+{
+  "palette": [
+    "#db2777",
+    "#0891b2",
+    "#ca8a04",
+    "#4f46e5",
+    "#15803d",
+    "#b91c1c",
+    "#9333ea",
+    "#0d9488"
+  ],
+  "categories": [
+    {
+      "id": "genai",
+      "emoji": "✨",
+      "label": "생성AI",
+      "color": "#7c3aed"
+    },
+    {
+      "id": "biz",
+      "emoji": "💼",
+      "label": "AI기업/비즈니스",
+      "color": "#0ea5e9"
+    },
+    {
+      "id": "tech",
+      "emoji": "🔬",
+      "label": "AI연구/기술",
+      "color": "#059669"
+    },
+    {
+      "id": "service",
+      "emoji": "⚡",
+      "label": "AI활용/서비스",
+      "color": "#f59e0b"
+    },
+    {
+      "id": "policy",
+      "emoji": "📋",
+      "label": "AI정책/규제",
+      "color": "#dc2626"
+    },
+    {
+      "id": "chip",
+      "emoji": "🔧",
+      "label": "AI반도체",
+      "color": "#6366f1"
+    },
+    {
+      "id": "security",
+      "emoji": "🔒",
+      "label": "AI보안",
+      "color": "#991b1b"
+    },
+    {
+      "id": "robot",
+      "emoji": "🤖",
+      "label": "로봇/자율주행",
+      "color": "#0f766e"
+    },
+    {
+      "id": "others",
+      "emoji": "📰",
+      "label": "기타",
+      "color": "#64748b"
+    }
+  ]
+}
