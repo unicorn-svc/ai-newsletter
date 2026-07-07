@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>AI 뉴스레터 | {{ date_label }}</title>
+  <style>
+    body{margin:0;background:#f3f6fb;color:#172033;font-family:Arial,"Noto Sans KR",sans-serif;line-height:1.65}
+    .wrap{max-width:900px;margin:0 auto;padding:28px 16px 60px}
+    .hero{padding:36px 40px;border-radius:20px;background:linear-gradient(135deg,#172554,#2563eb);color:#fff;margin-bottom:32px}
+    .hero h1{margin:0 0 8px;font-size:26px;font-weight:800;letter-spacing:-0.5px}
+    .hero .meta{opacity:.8;font-size:14px}
+    .hero .stats{margin-top:18px;display:flex;gap:24px;flex-wrap:wrap}
+    .hero .stat{background:rgba(255,255,255,.12);border-radius:10px;padding:8px 18px;font-size:13px}
+    .hero .stat strong{font-size:20px;display:block;font-weight:800}
+    .cat-section{margin-bottom:36px}
+    .cat-header{display:flex;align-items:center;gap:10px;margin-bottom:16px}
+    .cat-badge{padding:6px 18px;border-radius:30px;font-size:15px;font-weight:700;color:#fff;white-space:nowrap}
+    .cat-count{font-size:13px;color:#64748b}
+    .article-card{background:#fff;border-radius:14px;padding:18px 22px;margin-bottom:12px;box-shadow:0 1px 4px rgba(0,0,0,.07);border-left:4px solid #e2e8f0;transition:box-shadow .2s}
+    .article-card:hover{box-shadow:0 4px 16px rgba(0,0,0,.12)}
+    .article-title{font-size:15px;font-weight:700;margin:0 0 8px;line-height:1.45}
+    .article-title a{text-decoration:none}
+    .article-title a:hover{text-decoration:underline}
+    .article-summary{font-size:13.5px;color:#374151;margin:0 0 10px;line-height:1.6}
+    .article-meta{display:flex;gap:12px;font-size:12px;color:#94a3b8;align-items:center}
+    .article-meta .source{font-weight:600;color:#64748b}
+    .article-meta .time{background:#f1f5f9;border-radius:6px;padding:2px 8px}
+    footer{text-align:center;font-size:12px;color:#94a3b8;margin-top:40px}
+
+    /* 카테고리별 색상 (id 는 generate_newsletter.py 의 CATEGORIES 와 1:1 매칭) */
+    .badge-genai{background:#7c3aed}
+    .badge-biz{background:#0ea5e9}
+    .badge-tech{background:#059669}
+    .badge-service{background:#f59e0b}
+    .badge-policy{background:#dc2626}
+    .badge-chip{background:#6366f1}
+    .badge-security{background:#991b1b}
+    .badge-robot{background:#0f766e}
+
+    .border-genai{border-left-color:#7c3aed}
+    .border-biz{border-left-color:#0ea5e9}
+    .border-tech{border-left-color:#059669}
+    .border-service{border-left-color:#f59e0b}
+    .border-policy{border-left-color:#dc2626}
+    .border-chip{border-left-color:#6366f1}
+    .border-security{border-left-color:#991b1b}
+    .border-robot{border-left-color:#0f766e}
+
+    .title-genai a{color:#7c3aed}
+    .title-biz a{color:#0ea5e9}
+    .title-tech a{color:#059669}
+    .title-service a{color:#d97706}
+    .title-policy a{color:#dc2626}
+    .title-chip a{color:#6366f1}
+    .title-security a{color:#991b1b}
+    .title-robot a{color:#0f766e}
+  </style>
+</head>
+<body>
+<div class="wrap">
+
+  <div class="hero">
+    <div class="meta">{{ meta_label }}</div>
+    <h1>🤖 AI 뉴스레터</h1>
+    <p style="margin:4px 0 0;opacity:.85;font-size:14px">{{ sources_label }} 종합</p>
+    <div class="stats">
+      <div class="stat"><strong>{{ total_articles }}</strong>기사</div>
+      <div class="stat"><strong>{{ source_count }}</strong>개 소스</div>
+      <div class="stat"><strong>{{ category_count }}</strong>개 카테고리</div>
+    </div>
+  </div>
+
+{% for cat in categories %}
+  <!-- ===== {{ cat.label }} ===== -->
+  <div class="cat-section">
+    <div class="cat-header">
+      <span class="cat-badge badge-{{ cat.id }}">{{ cat.emoji }} {{ cat.label }}</span>
+      <span class="cat-count">{{ cat.articles | length }}개 기사</span>
+    </div>
+
+{% for a in cat.articles %}
+    <div class="article-card border-{{ cat.id }}">
+      <div class="article-title title-{{ cat.id }}">
+        <a href="{{ a.url }}" target="_blank">{{ a.title }}</a>
+      </div>
+      <div class="article-summary">{{ a.summary }}</div>
+      <div class="article-meta"><span class="source">{{ a.source }}</span><span class="time">{{ a.time }}</span></div>
+    </div>
+{% endfor %}
+  </div>
+{% endfor %}
+
+  <footer>
+    <p>AI 뉴스레터 | {{ footer_label }} | {{ sources_label }}</p>
+  </footer>
+</div>
+</body>
+</html>
