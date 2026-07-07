@@ -24,9 +24,11 @@
     - Medium: https://medium.com/
     - VentureBeat: https://venturebeat.com/category/ai/
     - MIT News: https://news.mit.edu/topic/artificial-intelligence2
-- 분류 체계(단일 출처 = `categories.json`): 아래 9개가 기본 정의됨. 분류 시 1차로 사용
-    - genai(✨생성AI), biz(💼AI기업/비즈니스), tech(🔬AI연구/기술), service(⚡AI활용/서비스),
-      policy(📋AI정책/규제), chip(🔧AI반도체), security(🔒AI보안), robot(🤖로봇/자율주행),
+- 분류 체계(단일 출처 = `categories.json`): 이미 정의된 카테고리(id/이모지/라벨/색)를 1차로 사용
+    - `categories.json`이 비어 있거나(값이 하나도 없는 초기 상태) 파일이 없어도 정상 동작함 —
+      이 경우 아래 [처리] 절차대로 필요한 카테고리를 처음부터 새로 만들어 나감
+    - 참고용 기본 예시(이미 존재하면 그대로 재사용): genai(✨생성AI), biz(💼AI기업/비즈니스), tech(🔬AI연구/기술),
+      service(⚡AI활용/서비스), policy(📋AI정책/규제), chip(🔧AI반도체), security(🔒AI보안), robot(🤖로봇/자율주행),
       others(📰기타)
 
 [처리]
@@ -36,10 +38,12 @@
   - 최근 24시간 뉴스만 필터링
   - 해외 뉴스는 제목·요약을 한국어로 번역
   - 각 뉴스를 카테고리로 분류
-    - 1차: `categories.json` 의 기존 카테고리(id)로 분류
-    - 기존에 없는 새 주제면: 새 id 를 정하고, 기사에 `category`(새 id) + `category_label`(한글 라벨) + `category_emoji` 를 함께 기입
-      → 렌더러가 색을 자동 배정하고 `categories.json` 에 누적(다음 호부터 재사용). CSS/코드 수정 불필요
-    - 분류가 애매하면 `others`(기타)로
+    - 1차: `categories.json` 에 이미 있는 카테고리(id)면 그대로 재사용(`category` 필드만 기입)
+    - `categories.json` 에 없는 카테고리면(새 주제, 또는 `categories.json` 자체가 비어 있는 초기 상태 포함)
+      새 id 를 정하고, 기사에 `category`(새 id) + `category_label`(한글 라벨) + `category_emoji` 를 함께 기입(필수)
+      → 렌더러가 팔레트에서 색을 자동 배정하고 `categories.json` 에 누적(다음 호부터 재사용). CSS/코드 수정 불필요
+    - `categories.json` 이 비어 있으면 `others`(기타)를 포함한 모든 카테고리를 위 방식으로 새로 생성함
+    - 분류가 애매하면 `others`(기타)로(단, 이미 `categories.json`에 있을 때만 라벨/이모지 생략 가능)
 - 뉴스레터 데이터 작성 (UI 직접 작성 금지 — 순수 데이터만)
   - `data/YYYYMMDD_HHMM.json` 으로 저장. 형식:
     ```json

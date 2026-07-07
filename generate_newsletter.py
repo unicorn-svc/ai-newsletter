@@ -40,23 +40,30 @@ from jinja2 import Environment, FileSystemLoader, select_autoescape
 BASE_DIR = Path(__file__).resolve().parent
 TEMPLATE_DIR = BASE_DIR / "templates"
 OUTPUT_DIR = BASE_DIR / "newsletters"
+CATEGORIES_PATH = BASE_DIR / "categories.json"
 
-# ── 카테고리 레지스트리 : (id, 이모지, 라벨) ─────────────────────────
-# 표시 순서 = 이 목록의 순서. 기사가 있는 카테고리만 렌더(빈 카테고리 자동 생략).
-# 색상은 templates/newsletter.html 의 .badge-/.border-/.title- CSS 가 같은 id 로 정의.
-# 카테고리 추가/이름변경: 아래 항목 수정 + 템플릿 CSS 에 동일 id 클래스 추가.
-CATEGORIES = [
-    ("genai",    "✨", "생성AI"),
-    ("biz",      "💼", "AI기업/비즈니스"),
-    ("tech",     "🔬", "AI연구/기술"),
-    ("service",  "⚡", "AI활용/서비스"),
-    ("policy",   "📋", "AI정책/규제"),
-    ("chip",     "🔧", "AI반도체"),
-    ("security", "🔒", "AI보안"),
-    ("robot",    "🤖", "로봇/자율주행"),
+# categories.json 이 없거나 palette 가 비어 있을 때를 위한 최소 안전장치.
+DEFAULT_PALETTE = [
+    "#db2777", "#0891b2", "#ca8a04", "#4f46e5",
+    "#15803d", "#b91c1c", "#9333ea", "#0d9488",
 ]
 
 WEEKDAYS_KO = ["월", "화", "수", "목", "금", "토", "일"]
+
+
+def load_category_registry() -> tuple[list[dict], list[str]]:
+    """categories.json -> (카테고리 목록, 팔레트). 파일이 없거나 비어 있어도 정상 동작."""
+    raw = json.loads(CATEGORIES_PATH.read_text(encoding="utf-8")) if CATEGORIES_PATH.exists() else {}
+    categories = raw.get("categories") or []
+    palette = raw.get("palette") or DEFAULT_PALETTE
+    return categories, palette
+
+
+def save_category_registry(categories: list[dict], palette: list[str]) -> None:
+    CATEGORIES_PATH.write_text(
+        json.dumps({"palette": palette, "categories": categories}, ensure_ascii=False, indent=2) + "\n",
+        encoding="utf-8",
+    )
 
 
 def format_dates(published_at: str) -> dict:
@@ -78,23 +85,41 @@ def format_dates(published_at: str) -> dict:
 def build_context(data: dict) -> dict:
     """순수 데이터 dict -> 템플릿 렌더 컨텍스트(그룹핑/통계/날짜 포맷 완료)."""
     articles = data.get("articles", [])
-    known_ids = {cid for cid, _, _ in CATEGORIES}
+    registry, palette = load_category_registry()
+    known = {cat["id"]: cat for cat in registry}
+    registry_changed = False
 
     grouped: dict[str, list] = {}
     for art in articles:
         cid = art.get("category")
-        if cid not in known_ids:
-            raise ValueError(
-                f"알 수 없는 카테고리 '{cid}'. 허용값: {sorted(known_ids)} "
-                f"(기사: {str(art.get('title', '?'))[:40]})"
-            )
+        if cid not in known:
+            label = art.get("category_label")
+            emoji = art.get("category_emoji")
+            if not cid or not label or not emoji:
+                raise ValueError(
+                    f"알 수 없는 카테고리 '{cid}'. categories.json 에 없는 카테고리는 "
+                    f"category_label/category_emoji 를 함께 기입해야 함 "
+                    f"(기사: {str(art.get('title', '?'))[:40]})"
+                )
+            new_cat = {
+                "id": cid,
+                "emoji": emoji,
+                "label": label,
+                "color": palette[len(registry) % len(palette)],
+            }
+            registry.append(new_cat)
+            known[cid] = new_cat
+            registry_changed = True
         grouped.setdefault(cid, []).append(art)
 
-    # 레지스트리 순서대로, 기사가 있는 카테고리만
+    if registry_changed:
+        save_category_registry(registry, palette)
+
+    # 레지스트리 순서대로(기존 + 새로 누적된 순), 기사가 있는 카테고리만
     categories = [
-        {"id": cid, "emoji": emoji, "label": label, "articles": grouped[cid]}
-        for cid, emoji, label in CATEGORIES
-        if grouped.get(cid)
+        {**cat, "articles": grouped[cat["id"]]}
+        for cat in registry
+        if grouped.get(cat["id"])
     ]
 
     sources = data.get("sources", [])

@@ -27,34 +27,6 @@
     .article-meta .source{font-weight:600;color:#64748b}
     .article-meta .time{background:#f1f5f9;border-radius:6px;padding:2px 8px}
     footer{text-align:center;font-size:12px;color:#94a3b8;margin-top:40px}
-
-    /* 카테고리별 색상 (id 는 generate_newsletter.py 의 CATEGORIES 와 1:1 매칭) */
-    .badge-genai{background:#7c3aed}
-    .badge-biz{background:#0ea5e9}
-    .badge-tech{background:#059669}
-    .badge-service{background:#f59e0b}
-    .badge-policy{background:#dc2626}
-    .badge-chip{background:#6366f1}
-    .badge-security{background:#991b1b}
-    .badge-robot{background:#0f766e}
-
-    .border-genai{border-left-color:#7c3aed}
-    .border-biz{border-left-color:#0ea5e9}
-    .border-tech{border-left-color:#059669}
-    .border-service{border-left-color:#f59e0b}
-    .border-policy{border-left-color:#dc2626}
-    .border-chip{border-left-color:#6366f1}
-    .border-security{border-left-color:#991b1b}
-    .border-robot{border-left-color:#0f766e}
-
-    .title-genai a{color:#7c3aed}
-    .title-biz a{color:#0ea5e9}
-    .title-tech a{color:#059669}
-    .title-service a{color:#d97706}
-    .title-policy a{color:#dc2626}
-    .title-chip a{color:#6366f1}
-    .title-security a{color:#991b1b}
-    .title-robot a{color:#0f766e}
   </style>
 </head>
 <body>
@@ -75,14 +47,14 @@
   <!-- ===== {{ cat.label }} ===== -->
   <div class="cat-section">
     <div class="cat-header">
-      <span class="cat-badge badge-{{ cat.id }}">{{ cat.emoji }} {{ cat.label }}</span>
+      <span class="cat-badge" style="background:{{ cat.color }}">{{ cat.emoji }} {{ cat.label }}</span>
       <span class="cat-count">{{ cat.articles | length }}개 기사</span>
     </div>
 
 {% for a in cat.articles %}
-    <div class="article-card border-{{ cat.id }}">
-      <div class="article-title title-{{ cat.id }}">
-        <a href="{{ a.url }}" target="_blank">{{ a.title }}</a>
+    <div class="article-card" style="border-left-color:{{ cat.color }}">
+      <div class="article-title">
+        <a href="{{ a.url }}" target="_blank" style="color:{{ cat.color }}">{{ a.title }}</a>
       </div>
       <div class="article-summary">{{ a.summary }}</div>
       <div class="article-meta"><span class="source">{{ a.source }}</span><span class="time">{{ a.time }}</span></div>
