@@ -1,0 +1,214 @@
+{
+  "published_at": "2026-07-09T09:00",
+  "sources": ["AI Times", "지디넷", "전자신문", "TechCrunch", "VentureBeat"],
+  "articles": [
+    {
+      "category": "genai",
+      "title": "미국 정부, 오픈AI 'GPT-5.6' 규제 풀었다…9일 글로벌 정식 출시",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212555",
+      "summary": "트럼프 행정부가 오픈AI GPT-5.6 규제를 해제. 오픈AI는 플래그십 '솔(Sol)', 균형형 '테라(Terra)', 경제형 '루나(Luna)' 등 3가지 모델을 7월 9일 글로벌 정식 출시. 상무부 산하 AI 표준혁신센터 테스트를 거쳐 승인됐으며, 이는 AI 규제 완화의 신호탄으로 주목받음.",
+      "source": "AI Times",
+      "time": "07/08 16:56"
+    },
+    {
+      "category": "genai",
+      "title": "OpenAI, 자연스러운 실시간 대화를 위한 신규 음성 모델 GPT-Live 출시",
+      "url": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
+      "summary": "OpenAI가 동시 송수신(full-duplex) 기반 음성 모델 GPT-Live-1·mini를 출시해 기존 Advanced Voice Mode를 대체. 사용자가 말하는 도중 AI가 응답하거나 끊어들을 수 있는 인간형 대화 구현. 30~40분 장시간 대화와 실시간 번역 지원, iOS·Android·웹에 전 세계 순차 배포.",
+      "source": "TechCrunch",
+      "time": "07/09 01:30"
+    },
+    {
+      "category": "genai",
+      "title": "xAI, 오퍼스급 AI 모델 '그록 4.5' 공개…경쟁사 절반 가격",
+      "url": "https://www.etnews.com/20260709000006",
+      "summary": "xAI가 7월 8일 코딩·에이전트 작업 특화 AI 모델 '그록 4.5'를 출시. 터미널-벤치 2.1에서 83.3% 기록. 입력 100만 토큰당 2달러·출력 6달러로 Anthropic Opus 대비 절반 이하 가격. 일론 머스크 CEO \"오퍼스급이지만 더 빠르고 비용이 낮다\"고 강조.",
+      "source": "전자신문",
+      "time": "07/09 00:00"
+    },
+    {
+      "category": "biz",
+      "title": "MS, 엑셀·아웃룩에 자체 'MAI' 모델 도입…오픈AI·앤트로픽 의존도 낮춘다",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212531",
+      "summary": "마이크로소프트가 엑셀·아웃룩 등 핵심 제품에 자체 개발 AI 모델 'MAI' 확대 적용. 매주 수만 건 AI 요청 처리 중. 6월 개발자 행사에서 7종 신규 MAI 모델 공개. 무스타파 술레이만 AI CEO \"앤트로픽 비용을 궁극적으로 없애는 것이 목표\"라고 밝혀 주목.",
+      "source": "AI Times",
+      "time": "07/08 18:06"
+    },
+    {
+      "category": "biz",
+      "title": "\"최고 모델이 공짜\"…오픈AI·앤트로픽이 무료 토큰 경쟁에 나선 이유",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212534",
+      "summary": "OpenAI와 Anthropic이 YCombinator 스타트업 대상 대규모 무료 AI 토큰 지원 경쟁. OpenAI 최대 200만 달러, Anthropic 50만 달러 크레딧 제공. 성능 격차 축소·오픈소스 인기 확대로 락인 효과를 통한 생태계 선점 경쟁으로 전환되고 있음.",
+      "source": "AI Times",
+      "time": "07/09 07:00"
+    },
+    {
+      "category": "biz",
+      "title": "아마존, 38조 'AI 회사채' 발행…빅테크 채권 공급 과잉 우려도",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212538",
+      "summary": "아마존이 AI 인프라 투자를 위해 250억 달러(약 38조원) 규모 회사채 발행. 8개 트랜치, 만기 2029~2066년. 투자자 주문이 620억 달러에 달해 높은 수요를 보였으나, 메타·구글 등 빅테크 AI 투자 자금 조달 경쟁으로 채권 공급 과잉 우려가 제기됨.",
+      "source": "AI Times",
+      "time": "07/08 14:36"
+    },
+    {
+      "category": "biz",
+      "title": "네이버클라우드, 프랑스 미스트랄AI와 제조 AI 혁신 파트너십",
+      "url": "https://www.etnews.com/20260708000294",
+      "summary": "네이버클라우드가 프랑스 미스트랄AI와 전략적 파트너십 체결. 에어버스·BMW·ASML 협력으로 검증된 제조 특화 AI 역량 결합. 데이터 주권을 보호하는 소버린 AI 솔루션으로 글로벌 제조 기업 공략. 유럽 사례를 국내에 적용할 예정.",
+      "source": "전자신문",
+      "time": "07/08 00:00"
+    },
+    {
+      "category": "biz",
+      "title": "Lovable, 기업가치 두 배 증가한 132억 달러 투자 협상 진행 중",
+      "url": "https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/",
+      "summary": "스웨덴 AI 코딩 스타트업 Lovable이 Menlo Ventures 주도로 3억 달러 투자 유치를 협상 중. 기업가치는 2025년 12월 66억 달러에서 132억 달러로 두 배 상승 예정. 연간 반복 매출(ARR) 5억 달러 달성, Workday·Asana·Nvidia 등 대형 기업 고객 보유.",
+      "source": "TechCrunch",
+      "time": "07/09 07:30"
+    },
+    {
+      "category": "biz",
+      "title": "Prime Intellect, 기업용 자체 AI 에이전트 구축 지원으로 1.3억 달러 시리즈 A 조달",
+      "url": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
+      "summary": "2024년 창업한 Prime Intellect가 Radical Ventures 주도, Nvidia·Intel Capital 참여로 10억 달러 기업가치에 1.3억 달러 시리즈 A 조달. 외부 프런티어 AI 의존 없이 기업이 자체 AI 에이전트를 학습·운영할 수 있는 컴퓨팅 인프라·강화학습 도구 제공, ARR 1억 달러 달성.",
+      "source": "TechCrunch",
+      "time": "07/09 00:30"
+    },
+    {
+      "category": "tech",
+      "title": "LG, 엑사원 디스커버리로 신소재 발굴 성공…액침 냉각유 소재 최초 공개",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212547",
+      "summary": "LG AI연구원이 ICML 2026에서 AI 플랫폼 '엑사원 디스커버리' 성과 공개. 탈모 신소재 '람시딜' 42만개 후보 물질 중 하루 만에 발굴. GS칼텍스와 공동 개발한 AI 데이터센터용 액침 냉각유 소재 최초 공개. LeMat-GenBench 세계 2위 기록.",
+      "source": "AI Times",
+      "time": "07/08 17:18"
+    },
+    {
+      "category": "tech",
+      "title": "AI의 '의식' 공간 발견했다? 클로드를 들여다봤더니…",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212553",
+      "summary": "앤트로픽이 AI 모델 '클로드' 내부에서 인간 의식과 유사한 '생각 공간(J-스페이스)' 발견 발표. 클로드가 정보를 처리·사고하는 방식이 인간 의식 구조와 닮아 있음을 시사. AI 내부 작동 원리 이해의 중요한 진전으로 평가받으며 AI 의식 논쟁 재점화.",
+      "source": "AI Times",
+      "time": "07/09 06:55"
+    },
+    {
+      "category": "tech",
+      "title": "앤트그룹, '유리'까지 인식하는 차세대 비전 AI '링봇-비전' 공개…12개 벤치마크 SOTA",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212542",
+      "summary": "중국 앤트그룹이 7월 7일 '링봇-비전' 공개. 11억개 매개변수로 메타 70억개 매개변수 모델 능가. 유리·거울·투명 물체까지 인식하는 공간 네이티브 비전 파운데이션 모델. 12개 벤치마크 최고 성능(SOTA) 달성하며 오픈소스로 제공.",
+      "source": "AI Times",
+      "time": "07/08 17:38"
+    },
+    {
+      "category": "tech",
+      "title": "카카오 VLM, 국내 모델 최다 다운로드…멀티모달 경쟁력 뽐냈다",
+      "url": "https://www.etnews.com/20260708000336",
+      "summary": "카카오 비전언어모델 '카나나-1.5-v-3b-인스트럭트'가 한 달간 38만4,561건 다운로드로 국내 VLM 최다 기록. 3.6B 경량 모델로 누적 다운로드 159만건. 네이버·LG AI 대비 우위. 스타트업·공공기관의 활용이 확대되고 있음.",
+      "source": "전자신문",
+      "time": "07/08 00:00"
+    },
+    {
+      "category": "service",
+      "title": "앤트로픽, '클로드 코워크' 모바일·웹으로 확장…\"기기 꺼져도 백그라운드 자동화\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212530",
+      "summary": "앤트로픽이 AI 업무 에이전트 '클로드 코워크'를 7월 7일 모바일·웹으로 확대 출시. 기기가 꺼져도 서버에서 자동으로 업무를 수행. 맥스 구독자 대상 베타. 사용의 90% 이상이 일반 지식노동으로, 사무직 생산성 플랫폼으로 진화하고 있음.",
+      "source": "AI Times",
+      "time": "07/08 16:25"
+    },
+    {
+      "category": "service",
+      "title": "美 사로잡은 K-뷰티, AI로 소비자 읽는다",
+      "url": "https://zdnet.co.kr/view/?no=20260709091105",
+      "summary": "뉴엔AI가 코스모프로프 2026(7월 13일, 라스베이거스)에서 뷰티 특화 AI 플랫폼 '뷰센스' 공개. 한국 화장품 美 수출 17억 달러로 프랑스 추월. 글로벌 뷰티 AI 시장 2025년 49억 달러, 연평균 22.3% 성장해 2029년 약 2.6배 확대 전망.",
+      "source": "지디넷",
+      "time": "07/09 09:14"
+    },
+    {
+      "category": "service",
+      "title": "Google Photos, Gemini 기반 AI 'Video Remix' 도구 추가",
+      "url": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
+      "summary": "Google Photos에 Gemini Omni 기반 'Video Remix' 기능이 추가돼 영상에 시네마틱 조명·배경 교체·수채화/유화 스타일 적용이 가능. 미국·인도·브라질·일본 등 14개국의 Google AI Plus·Pro·Ultra 구독자에게 순차 출시.",
+      "source": "TechCrunch",
+      "time": "07/08 11:30"
+    },
+    {
+      "category": "service",
+      "title": "Slack의 Slackbot, CRM 데이터 조회·차트 생성·DocuSign 전송까지 채팅 한 줄로 가능",
+      "url": "https://venturebeat.com/orchestration/slacks-slackbot-can-now-pull-your-crm-data-generate-charts-and-send-docusigns-all-from-a-chat-message",
+      "summary": "Salesforce가 Slack과의 MCP 기반 통합을 발표해 Slackbot에서 Salesforce CRM·Tableau·DocuSign 등 전 플랫폼 접근 가능. Atlassian·Box·Canva·Zoom 등 25개 이상 파트너 포함한 생태계 구성으로 '멀티플레이어 AI' 비전 실현.",
+      "source": "VentureBeat",
+      "time": "07/08 14:00"
+    },
+    {
+      "category": "policy",
+      "title": "중국, 자국산 최첨단 AI 모델 해외 접근 제한 검토",
+      "url": "https://www.etnews.com/20260708000321",
+      "summary": "중국 상무부가 알리바바·바이트댄스·즈푸 등과 비공개 회의. 알리바바 '큐원', 바이트댄스 '더우바오', 즈푸 'GLM-5.2' 등 폐쇄형·오픈웨이트 모델 수출 제한 논의. 미국의 대외국인 AI 접근 제한에 대한 대응 조치로 분석됨.",
+      "source": "전자신문",
+      "time": "07/08 00:00"
+    },
+    {
+      "category": "policy",
+      "title": "우크라이나, '온프레미스 AI' 전격 도입…외부 통제 벗어나 'AI 주권' 선언",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212543",
+      "summary": "우크라이나 정부가 외부 통제를 벗어난 온프레미스 AI 도입 추진. 구글 오픈소스 모델 '젬마' 기반 맞춤형 AI 개발 중. 올가을 출시 목표로 정부·민간·군사 영역 활용 계획. 디지털전환부 AI 책임자 \"AI 주권은 국가 생존을 위한 필수\".",
+      "source": "AI Times",
+      "time": "07/08 15:21"
+    },
+    {
+      "category": "policy",
+      "title": "금감원, 보험사 AI 활용 들여다본다",
+      "url": "https://www.etnews.com/20260708000125",
+      "summary": "금융감독원이 보험사 AI 활용 현황 종합 점검 착수. 고객 분석·상품 추천·보험료 산정·보험금 지급심사·보험사기 탐지 등 판매 전 과정 점검. AI 적합성·적정성 원칙 준수 여부 확인 후 소비자 피해 우려 서비스에 가이드라인 제시 또는 시정 조치 예정.",
+      "source": "전자신문",
+      "time": "07/08 00:00"
+    },
+    {
+      "category": "chip",
+      "title": "딥시크·지푸도 자체 AI 칩 개발 검토…엔비디아·화웨이 탈피 가속",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212532",
+      "summary": "중국 딥시크와 지푸 AI가 자체 AI 반도체 개발 추진. 딥시크는 추론 특화 칩 개발 위해 1년 전부터 설계업체와 협의. 지푸는 GLM-5.2 최적화 맞춤형 프로세서 검토. 미국 수출 규제 장기화 대응 및 비용 절감 전략으로 분석.",
+      "source": "AI Times",
+      "time": "07/08 13:59"
+    },
+    {
+      "category": "chip",
+      "title": "\"전기는 막고 열만 뺍니다\"…액체 금속으로 AI 냉각 난제 푼 웨어플루",
+      "url": "https://zdnet.co.kr/view/?no=20260708145332",
+      "summary": "웨어플루가 액체 금속 입자 표면에 나노 두께 산화막을 코팅해 전기는 차단하고 냉각 효율을 기존 대비 40% 이상 향상시키는 기술 개발. 성균관대 교수 창업. 프리 시리즈A 투자 진행 중. AI 서버 발열 문제 해결 방안으로 주목받고 있음.",
+      "source": "지디넷",
+      "time": "07/08 14:53"
+    },
+    {
+      "category": "security",
+      "title": "과기부, '실무진 즉시 활용 가능' AI 보안 위협 대응 가이드 발간",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212554",
+      "summary": "과학기술정보통신부와 한국인터넷진흥원이 'AI 보안 위협 대응 매뉴얼'과 'AI 보안 레드티밍 가이드' 2종 발간. ISO/IEC 42119-7 국제표준 부합. 경영진·실무자 맞춤형 구성. 두 가이드 모두 홈페이지에서 무료 다운로드 가능.",
+      "source": "AI Times",
+      "time": "07/08 17:20"
+    },
+    {
+      "category": "security",
+      "title": "Google SynthID, 딥페이크 탐지로 맥코넬 상원의원 조작 사진 허위 규명",
+      "url": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
+      "summary": "Google의 SynthID 워터마킹 시스템이 Reddit·X에 유포된 맥코넬 상원의원 입원 조작 사진을 AI 생성물로 식별해 팩트체크 사이트 Snopes가 허위임을 확인. AI 생성 이미지에 삽입된 비가시 워터마크를 활용한 공인 관련 허위정보 차단 효과 입증.",
+      "source": "TechCrunch",
+      "time": "07/09 05:30"
+    },
+    {
+      "category": "security",
+      "title": "AI가 사이버 대응 시간을 붕괴시켰다…이제 방어는 공격 이전에 시작해야",
+      "url": "https://venturebeat.com/security/ai-has-collapsed-the-cyber-response-window-resilience-now-starts-before-the-attack",
+      "summary": "프런티어 AI 모델이 최초 침입부터 시스템 완전 장악까지 27초 이내 자율 공격을 가능케 해 인간 개입 기반 보안 워크플로우가 무력화됨. Rubrik은 선제적 복구 상태 식별과 자동화된 운영 복원으로 수 시간 내 회복하는 '사이버 복원력' 전략을 제시.",
+      "source": "VentureBeat",
+      "time": "07/08 13:00"
+    },
+    {
+      "category": "robot",
+      "title": "로보틱스 스타트업 General Intuition, '챗GPT 모멘트' 도래 선언하며 3.2억 달러 조달",
+      "url": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
+      "summary": "General Intuition이 23억 달러 기업가치에 3.2억 달러 투자 유치. 비디오게임 데이터 기반 물리 AI 파운데이션 모델 개발 중. 단 8분의 실제 영상 파인튜닝으로 4족 로봇 제어에 성공했으며, 범용화된 모델 자체가 제품이라는 비전 제시.",
+      "source": "TechCrunch",
+      "time": "07/09 03:30"
+    }
+  ]
+}
