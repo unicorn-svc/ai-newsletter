@@ -1,0 +1,70 @@
+{
+  "published_at": "2026-07-11T14:00",
+  "sources": ["AI Times", "전자신문", "TechCrunch"],
+  "articles": [
+    {
+      "category": "genai",
+      "title": "GPT-5.6이 보여준 '파레토 프론티어' 경쟁...벤치마크 기준이 바뀌기 시작",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212613",
+      "summary": "GPT-5.6 출시를 계기로 AI 모델 평가 기준이 벤치마크 점수 중심에서 비용 효율 중심으로 이동 중이다. GPT-5.6 솔은 클로드 페이블 5보다 성능은 낮지만 작업당 비용이 2.75달러에서 1.04달러로 저렴해 에이전트 시대의 새 경쟁 기준으로 부상 중이다.",
+      "source": "AI Times",
+      "time": "07/11 07:00"
+    },
+    {
+      "category": "genai",
+      "title": "AI 음성 끝판왕? 사람처럼 듣고 동시에 말하는 GPT-라이브",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212645",
+      "summary": "오픈AI가 전이중(full-duplex) 아키텍처를 적용한 차세대 음성 AI 모델 'GPT-라이브'를 출시했다. 사람처럼 듣고 동시에 말하는 기능을 구현해 기존 음성 AI의 한계를 극복하며 자연스러운 실시간 대화형 음성 상호작용이 가능하다.",
+      "source": "AI Times",
+      "time": "07/11 06:55"
+    },
+    {
+      "category": "biz",
+      "title": "저커버그 '메타 AI 인프라 외부 임대 검토 타당'...클라우드 사업 진출 시사",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212636",
+      "summary": "마크 저커버그 메타 CEO가 AI 인프라를 외부에 임대하고 클라우드 사업 진출을 검토 중임을 밝혔다. 컴퓨팅 서비스 시장의 높은 수요를 고려해 외부 임대가 합리적이며, 경쟁사 AI 모델 호스팅도 충분히 고려할 만하다고 언급했다.",
+      "source": "AI Times",
+      "time": "07/10 15:41"
+    },
+    {
+      "category": "service",
+      "title": "스캐터랩 '제타', 상반기 신규 설치 337만건…국내 AI 서비스 중 독주",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212623",
+      "summary": "스캐터랩의 AI 캐릭터챗 서비스 '제타'가 상반기 337만 건의 신규 설치를 기록하며 전체 앱 순위 9위에 올랐다. 월간 활성 사용자 129만 명, 총 사용 시간 3.1억 시간 등 5개 주요 지표에서 국내 AI 서비스 중 1위를 기록했다.",
+      "source": "AI Times",
+      "time": "07/10 14:27"
+    },
+    {
+      "category": "robot",
+      "title": "1X, '읽고 쓰는' 촉각 휴머노이드 손 공개…'올해 1만개 대량 생산 가능'",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212635",
+      "summary": "노르웨이 로봇 스타트업 1X가 25자유도 힘줄 구동 방식의 촉각 휴머노이드 손을 공개했다. 레고 조립부터 차 따르기까지 정밀 조작이 가능하며, 수백만 회 반복 테스트를 통과해 올해 1만 개 대량 생산 체계를 구축했다.",
+      "source": "AI Times",
+      "time": "07/10 17:53"
+    },
+    {
+      "category": "policy",
+      "title": "영남이공대, 초·중등 교장(감) 60명 대상 AI 리터러시 직무연수 운영",
+      "url": "https://www.etnews.com/20260711000009",
+      "summary": "영남이공대가 대구시교육청과 협력해 초·중등 교장·교감 60명을 대상으로 AI 리터러시 직무연수를 실시했다. 생성형 AI 활용법, AI 윤리, 딥페이크 위험성, 개인정보 보호 등을 실습 위주로 교육해 교육 현장의 AI 대응 역량을 강화했다.",
+      "source": "전자신문",
+      "time": "07/11 08:31"
+    },
+    {
+      "category": "robot",
+      "title": "대구가톨릭대, 로봇 인재양성 본격화…FOCUS 몰입형 과정 1기 30명 수료",
+      "url": "https://www.etnews.com/20260711000007",
+      "summary": "대구가톨릭대 AX로봇부트캠프사업단이 교육부·한국산업기술진흥원의 FOCUS 몰입형 과정 1기를 완료해 30명이 수료했다. 로봇 분야 전국 2개 선정 대학 중 하나로 진로 설계부터 취업 연계까지 밀착 지원한다.",
+      "source": "전자신문",
+      "time": "07/11 08:25"
+    },
+    {
+      "category": "tech",
+      "title": "Oratomic, 단 2만 큐비트로 실용적 양자컴퓨터 구현 위해 3억 달러 유치",
+      "url": "https://techcrunch.com/2026/07/10/oratomic-raises-300m-to-build-a-viable-quantum-computer-that-needs-only-20k-qubits/",
+      "summary": "칼텍 물리학자 출신 창업 스타트업 Oratomic이 ARCH Venture Partners·Spark Capital 주도로 3억 달러 시리즈A를 유치했다. 레이저 기반 광학 핀셋 기술로 경쟁사 대비 훨씬 적은 큐비트만으로 2030년대 실용적 양자컴퓨터 구현을 목표로 한다.",
+      "source": "TechCrunch",
+      "time": "07/11 01:00"
+    }
+  ]
+}
