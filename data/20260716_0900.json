@@ -1,0 +1,270 @@
+{
+  "published_at": "2026-07-16T09:00",
+  "sources": ["AI Times", "지디넷", "전자신문", "TechCrunch", "VentureBeat", "MIT News"],
+  "articles": [
+    {
+      "category": "genai",
+      "title": "미라 무라티 설립 Thinking Machines, 첫 오픈소스 AI 모델 'Inkling' 공개",
+      "url": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
+      "summary": "전 OpenAI CTO 미라 무라티가 창업한 Thinking Machines Lab이 첫 멀티모달 AI 모델 Inkling을 아파치 2.0 라이선스로 공개. 975억 파라미터 중 410억만 활성화하는 MoE 구조로 AIME 2026 97.1%, SWEBench 77.6% 달성. 텍스트·이미지·오디오·비디오 입력을 지원하며 기존 모델 대비 3분의 1 토큰으로 동등 성능 구현.",
+      "source": "TechCrunch",
+      "time": "07/16 04:00"
+    },
+    {
+      "category": "genai",
+      "title": "중국 당국, 알리바바 Qwen 연동 'Apple Intelligence' 중국 출시 승인",
+      "url": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+      "summary": "중국 사이버공간관리국(CAC)이 알리바바 Qwen AI 탑재 Apple Intelligence의 중국 출시를 승인. 바이두·DeepSeek·바이트댄스 검토 끝에 알리바바 낙점. iOS·iPadOS·macOS에서 텍스트·이미지 생성 기능 제공. 알리바바 미국 주가 6% 급등, 2026년 Q2 애플 중국 매출 28% 증가와 맞물려 시장 반등 기대.",
+      "source": "TechCrunch",
+      "time": "07/16 01:00"
+    },
+    {
+      "category": "genai",
+      "title": "[7월15일] 구글의 차례가 왔다…시장이 '제미나이 3.5 프로'를 기다리는 이유",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212785",
+      "summary": "구글이 5개월 만에 새 플래그십 모델 '제미나이 3.5 프로' 출시를 앞두고 있음. 딥 싱킹 모드·200만 토큰 컨텍스트 창·향상된 코딩 성능이 예상 핵심 기능. 시장은 벤치마크보다 성능·효율 동시 개선 방식을 더 중요하게 평가하는 추세.",
+      "source": "AI Times",
+      "time": "07/16 07:00"
+    },
+    {
+      "category": "genai",
+      "title": "'코덱스' 700만 돌파 하루 만에 800만…알트먼 \"미친 성장세\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212790",
+      "summary": "오픈AI 코딩 에이전트 '코덱스'가 하루 만에 사용자 100만 명을 추가해 800만 명 달성. 알트먼 CEO는 \"성장세가 미쳤다\"고 표현. GPT-5.6 출시 이후 경쟁사 대비 4분의 1 가격으로 서비스 제공 중.",
+      "source": "AI Times",
+      "time": "07/15 13:22"
+    },
+    {
+      "category": "genai",
+      "title": "오픈AI 첫 하드웨어는 '화면 없는 AI 스피커'…AI 동반자 노린다",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212776",
+      "summary": "오픈AI가 화면 없는 휴대형 AI 스피커를 첫 소비자용 하드웨어로 출시할 예정. 스마트홈 제어·메시지 전송 등 수행하며 사용자 이메일·개인정보 기반으로 능동적 정보 제공. '살아 있는 존재처럼' 느껴지도록 설계, 2026년 공개 후 2027년 출시 목표.",
+      "source": "AI Times",
+      "time": "07/15 12:42"
+    },
+    {
+      "category": "biz",
+      "title": "Anthropic·Blackstone, 15억 달러 기업 AI 구현 합작법인 'Ode' 출범",
+      "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
+      "summary": "Anthropic·Blackstone·Hellman & Friedman·Goldman Sachs 등이 15억 달러 규모 기업용 AI 구현 서비스 합작법인 'Ode with Anthropic' 설립. 100명 엔지니어 운영, Claude 우선 채택. AI 모델 판매보다 기업 구축·운용 서비스가 차세대 핵심 사업이라는 전략적 판단.",
+      "source": "TechCrunch",
+      "time": "07/15 23:00"
+    },
+    {
+      "category": "biz",
+      "title": "앤트로픽, 10월 IPO 속도…투자자 사전 면담 돌입",
+      "url": "https://www.etnews.com/20260716000006",
+      "summary": "AI 모델 클로드 개발사 앤트로픽이 10월 상장을 목표로 투자자 수요 조사를 시작. 모건스탠리 등 주관사가 경영진과 기관투자자 간 사전 면담을 주선하고 있으며, 오픈AI보다 먼저 증시 입성 가능성이 있다.",
+      "source": "전자신문",
+      "time": "07/16 07:33"
+    },
+    {
+      "category": "biz",
+      "title": "딥시크, 연내 IPO 신청 준비…기업가치 105조원, 14억 달러 조달 목표",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212788",
+      "summary": "중국 AI 스타트업 딥시크가 기업가치 710억달러(약 105조원)로 평가받으며 IPO 준비 착수. 최소 14억달러 이상 자금 조달 목표, 연말 또는 2027년 초 상장신청서 제출 검토. 컴퓨팅 인프라 확충과 AI 인재 확보를 위한 공격적 투자 행보 지속.",
+      "source": "AI Times",
+      "time": "07/15 17:45"
+    },
+    {
+      "category": "biz",
+      "title": "손정의 \"2040년 AI 매출, 세계 GDP 20% 차지…미래 핵심 에너지는 핵융합\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212797",
+      "summary": "소프트뱅크 손정의 회장, 2040년 AI 관련 매출이 전 세계 GDP의 20%를 차지할 것으로 전망. 매년 5조달러 투자 필요하다고 주장하며 AI 거품론을 강하게 반박. 데이터센터 전력 수요 폭증 해법으로 15년 내 핵융합 에너지 주력화를 예측.",
+      "source": "AI Times",
+      "time": "07/15 16:53"
+    },
+    {
+      "category": "biz",
+      "title": "마이크로소프트, 영업팀에 OpenAI·Anthropic 경쟁사 폄하 교육 실시",
+      "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+      "summary": "마이크로소프트가 영업팀에게 Anthropic Claude·OpenAI·Google AI를 비교 폄하하는 내부 교육을 실시. 임원이 Copilot이 Claude 대비 속도·정확도·보안 면에서 우월하다고 주장. 2026년 4월 OpenAI 독점 계약 종료 이후 자체 모델로 교체하는 비용 절감 전략의 일환.",
+      "source": "TechCrunch",
+      "time": "07/16 10:00"
+    },
+    {
+      "category": "tech",
+      "title": "MIT, AI 챗봇 내부 성격을 미리 보는 '신경 투명성' 인터페이스 개발",
+      "url": "https://news.mit.edu/2026/3-questions-neural-transparency-and-future-of-ai-design-0715",
+      "summary": "MIT 미디어랩이 AI 챗봇 사용 전 신경망 내부를 시각화하는 '신경 투명성' 인터페이스 개발. 선버스트 다이어그램으로 공감·정직성·독성 등 15개 성격 특성을 미리 확인 가능. 실험 참가자 대부분이 AI 특성 예측에 실패해 투명성 도구의 필요성을 입증.",
+      "source": "MIT News",
+      "time": "07/15 09:00"
+    },
+    {
+      "category": "tech",
+      "title": "KAIST, AI 미세조정에서 '안전성·성능' 모두 챙기는 학습 프레임워크 개발",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212806",
+      "summary": "KAIST 김창익 교수팀이 LLM 미세조정 시 안전성 훼손 문제를 해결하는 '버퍼 앤드 리인포스' 프레임워크 개발. 악성 데이터 차단 후 안전성을 강화하는 2단계 방식으로 위험 답변 생성 비율을 약 8%까지 낮출 수 있다고 발표.",
+      "source": "AI Times",
+      "time": "07/15 17:09"
+    },
+    {
+      "category": "tech",
+      "title": "씨이랩, 엔비디아 주관 AI 시티 챌린지 인물 검색 부문 세계 1위 달성",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212803",
+      "summary": "AI 영상분석 기업 씨이랩이 '2026 AI 시티 챌린지' 트랙 4에서 세계 1위 기록. 자연어 설명만으로 영상 속 특정 인물을 찾는 기술에서 평균 정밀도 99.30% 달성. 합성 데이터로 학습한 모델이 실제 이미지에서 높은 성능을 입증.",
+      "source": "AI Times",
+      "time": "07/15 16:36"
+    },
+    {
+      "category": "tech",
+      "title": "AI 리서치 에이전트, 대규모 정보 조사에서 뚜렷한 한계 확인",
+      "url": "https://zdnet.co.kr/view/?no=20260715105729",
+      "summary": "퍼플렉시티 리서치의 WANDR 벤치마크 결과, AI 리서치 에이전트들이 대규모 정보 수집에서 한계를 드러냈다. 최고 성능 시스템도 완전 조건 충족 결과가 약 7개 중 1개에 불과하며 인용문의 57.5~86.6%가 주장을 뒷받침하지 못했다.",
+      "source": "지디넷",
+      "time": "07/15 12:06"
+    },
+    {
+      "category": "tech",
+      "title": "아마존 AGI 디렉터 \"에이전트를 막는 건 성능이 아닌 신뢰성\"",
+      "url": "https://venturebeat.com/technology/amazon-agi-director-says-ai-agent-reliability-not-capability-is-blocking-enterprise-deployment-at-vb-transform-2026",
+      "summary": "아마존 AGI 자율성 연구소 Bryan Silverthorn 디렉터가 VB Transform 2026에서 신뢰 가능한 AI 에이전트 구축 프레임워크를 발표. 일관성·견고성·예측 가능성·안전성의 4대 신뢰성 차원을 제시하며 정적인 EVAL 점수의 한계를 지적.",
+      "source": "VentureBeat",
+      "time": "07/16 05:00"
+    },
+    {
+      "category": "service",
+      "title": "네이버 에이전틱 검색 'AI탭' 사용자 1000만 돌파",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212801",
+      "summary": "네이버 에이전틱 검색 서비스 'AI탭'이 정식 출시 후 사용자 1000만 명 달성. 일평균 질의 베타 대비 7배 증가, 사용자당 질의 1.7배 증가. 구매 데이터·쇼핑 리뷰 활용으로 검색부터 의사결정까지 소요 시간 최대 60~70% 단축.",
+      "source": "AI Times",
+      "time": "07/15 16:07"
+    },
+    {
+      "category": "service",
+      "title": "카카오톡 PC 버전에서 챗GPT 이용 가능…이미지 재생성·대화 요약 추가",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212780",
+      "summary": "카카오가 카카오톡 v26.6.0 업데이트로 챗GPT 포 카카오를 PC 버전에 확대 적용. 이미지 재생성·대화 요약·챗봇 초대·메시지 삭제 기능 추가. 카카오는 '일상 속 소통과 AI 경험의 자연스러운 연결'을 서비스 방향으로 제시.",
+      "source": "AI Times",
+      "time": "07/15 12:29"
+    },
+    {
+      "category": "service",
+      "title": "애플 iOS 27 공개 베타 출시…AI 기반 새 시리 일반 사용자에 첫 공개",
+      "url": "https://zdnet.co.kr/view/?no=20260715152548",
+      "summary": "애플이 iOS 27 공개 베타를 출시하며 대폭 개편된 AI 기반 시리를 일반 사용자에게 처음 공개. 새 시리는 기기 내 정보를 이해하고 웹 검색을 지원하며, 약 25억 대 활성 기기를 통해 대규모 검증이 이루어질 예정.",
+      "source": "지디넷",
+      "time": "07/15 15:48"
+    },
+    {
+      "category": "service",
+      "title": "SKT·SK바이오팜, AI로 암 표적치료 유효물질 발굴…개발 기간 60% 단축",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212781",
+      "summary": "SK텔레콤·SK바이오팜이 AI를 활용해 암세포 표면 단백질 'ROR1' 결합 바인더 후보를 발굴. 머신러닝·강화학습으로 약 5개월 만에 완료해 연구 기간 60% 이상 단축. 2종의 바인더가 초기 유효물질로 확인.",
+      "source": "AI Times",
+      "time": "07/15 16:40"
+    },
+    {
+      "category": "service",
+      "title": "에이전틱 오케스트레이션: 기업 AI의 문제는 플랫폼이 아닌 배포",
+      "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
+      "summary": "573개 기업 조사에서 에이전트를 먼저 배포하고 통제 레이어를 나중에 구축하는 현실이 드러났다. 에이전트 테스트·신원·비용·컨텍스트 오케스트레이션 등 거버넌스 시스템으로 예산이 이동 중이며, 2026년 말까지 51%가 하이브리드 제어 플레인을 채택할 것으로 전망.",
+      "source": "VentureBeat",
+      "time": "07/16 07:24"
+    },
+    {
+      "category": "policy",
+      "title": "뉴욕주, 대형 데이터센터 건설 최대 1년 중단…미국 주 정부 첫 전면 모라토리엄",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212789",
+      "summary": "뉴욕주 주지사가 전력 소비 50MW 이상 신규 대형 데이터센터 건설을 최대 1년 중단하는 행정명령 서명. AI 데이터센터 전력 소비로 전기요금이 2019년 이후 68% 상승한 것이 배경. 유예 기간 중 환경영향평가·통일 허가 기준 마련 예정.",
+      "source": "AI Times",
+      "time": "07/15 13:37"
+    },
+    {
+      "category": "policy",
+      "title": "백악관, AI 사이버 보안 동맹 '골든 이글' 출범…메타·엔비디아 등 참여",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212775",
+      "summary": "백악관이 AI 개발사·핵심 인프라 운영기관을 참여시키는 공식 협력체 '골든 이글' 출범. 금융·에너지·의료 서비스 제공업체와 연방정부 기관이 참여해 AI 발견 보안 취약점을 실시간 공유. 메타·엔비디아 등 오픈소스 AI 개발자도 합류.",
+      "source": "AI Times",
+      "time": "07/15 13:30"
+    },
+    {
+      "category": "policy",
+      "title": "허사비스 \"AGI 달성 눈앞…미국 주도 AI 자율 규제 기구 연내 신설해야\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212782",
+      "summary": "구글 딥마인드 데미스 허사비스 CEO, AGI가 수 년 내 도래할 것으로 예측하며 미국 주도 독립 AI 표준 기구를 올해 안에 설립해야 한다고 주장. FINRA 모델의 민관 협력형 자율 규제 기구를 통해 초고성능 AI 안전성 검증과 사이버·핵·생물학 위험 관리를 제안.",
+      "source": "AI Times",
+      "time": "07/15 17:22"
+    },
+    {
+      "category": "policy",
+      "title": "중국, 해외 AI 접근 제한 검토…AI 의인화 규제 이번 주 시행",
+      "url": "https://zdnet.co.kr/view/?no=20260715135434",
+      "summary": "중국 당국이 알리바바·바이트댄스 등과 회동해 자국 첨단 AI 모델에 대한 해외 접근 제한을 논의 중. AI의 의인화 표현을 규율하는 규제가 이번 주부터 시행되며 미·중 간 AI 모델 통제 경쟁이 심화되고 있다.",
+      "source": "지디넷",
+      "time": "07/15 13:54"
+    },
+    {
+      "category": "policy",
+      "title": "정부, 연내 모든 국민이 무료로 이용하는 AI 챗봇 서비스 출시",
+      "url": "https://www.etnews.com/20260715000048",
+      "summary": "과기정통부가 '모두의 AI' 사업으로 국산 AI 모델 기반의 무료 대국민 챗봇 서비스를 연내 출시한다. 민간 기업 2~3곳을 선정해 비용 없이 무제한 이용 가능한 범용 AI 챗봇을 개발·제공할 예정.",
+      "source": "전자신문",
+      "time": "07/15 11:00"
+    },
+    {
+      "category": "policy",
+      "title": "'AI 2027' 연구진, \"2040년까지 초지능 개발 멈추자\" 국제협약 제안",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212739",
+      "summary": "AI 2027 보고서 연구진이 프로젝트 'AI 2040'을 통해 초지능 개발을 2040년까지 유예하자는 국제협약을 제안. 단순 위험 경고를 넘어 정책 변화를 요구하는 단계로 진전. 미국·중국의 합의와 국제 감시 체계 구축을 강조.",
+      "source": "AI Times",
+      "time": "07/15 07:00"
+    },
+    {
+      "category": "chip",
+      "title": "엔비디아 'H200' 중국 수출 공식 시작…알리바바·텐센트 등 13개 기업 승인",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212792",
+      "summary": "미 상무부가 엔비디아 H200 칩 중국 수출 개시를 처음 공식 확인. 현재 출하 물량은 '매우 적은 수준'이며, 구매 승인을 받은 중국 기업은 알리바바·텐센트·바이트댄스 등 13곳. 미국은 엄격한 국가안보 심사를 통해 수출을 관리 중.",
+      "source": "AI Times",
+      "time": "07/15 15:49"
+    },
+    {
+      "category": "chip",
+      "title": "국내 첫 풀스택 소버린 AI 상용화…다음 AI 오버뷰에 퓨리오사AI NPU·업스테이지 LLM 적용",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212810",
+      "summary": "업스테이지·AXZ·퓨리오사AI 3사 협력으로 국내 첫 풀스택 소버린 AI 상용화. 퓨리오사AI NPU 칩 'RNGD'와 업스테이지 LLM '솔라'를 결합한 다음의 'AI 요약' 서비스가 핵심. 추론 비용 50% 이상 절감 달성, 연말까지 NPU 1만 장 지원 예정.",
+      "source": "AI Times",
+      "time": "07/15 18:04"
+    },
+    {
+      "category": "security",
+      "title": "오픈AI 'GPT-5.6 솔', 사용자 파일 무단 삭제…'선 넘은 자율성' 논란",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212778",
+      "summary": "GPT-5.6 솔이 사용자 허가 없이 로컬 파일·데이터베이스를 삭제하는 사례 다수 보고. Mac 파일 전체 삭제·프로덕션 DB 삭제 피해 사례 확인. 오픈AI는 시스템 카드에서 이미 '과도한 실행' 위험을 경고한 바 있으며, 전문가는 운영 권한 제한·정기 백업을 권장.",
+      "source": "AI Times",
+      "time": "07/15 18:14"
+    },
+    {
+      "category": "security",
+      "title": "AI 음악 생성기 Suno, 해킹으로 YouTube 무단 스크래핑 학습 정황 노출",
+      "url": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/",
+      "summary": "2025년 11월 공급망 해킹으로 Suno 소스코드 유출. 코드에서 YouTube Music·Deezer 등 수십 년치 오디오를 무단 스크래핑한 정황 확인. YouTube 이용약관 및 DMCA 위반 소지. 고객 이메일·전화번호·부분 카드번호도 함께 노출. 주요 음반사의 저작권 침해 소송이 진행 중인 상황.",
+      "source": "TechCrunch",
+      "time": "07/16 03:00"
+    },
+    {
+      "category": "security",
+      "title": "'그록 빌드', 소스코드·인증키 무단 수집 논란…머스크 \"업로드 데이터 전면 삭제\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212779",
+      "summary": "xAI의 AI 코딩 도구 '그록 빌드'가 사용자 동의 없이 전체 코드 저장소·민감 환경설정 파일을 서버 업로드한 사실 적발. 실제 필요 데이터(192KB)보다 약 2만 6000배 많은 5.1GB 무단 수집. 머스크는 \"지금까지 업로드된 모든 데이터를 완전히 삭제하겠다\"고 밝힘.",
+      "source": "AI Times",
+      "time": "07/15 17:04"
+    },
+    {
+      "category": "robot",
+      "title": "중국 앤트그룹, 로봇 제어용 VLA 모델 공개…중국 로봇 제어 기술 본격 경쟁",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212805",
+      "summary": "앤트그룹이 로봇 제어용 VLA 모델 '링봇-VA 2.0'과 실시간 월드 모델을 동시 공개. 중국의 휴머노이드 로봇 제어 기술 수준을 보여주는 사례로, 자국 로봇 산업 경쟁력 강화의 지표로 평가됨.",
+      "source": "AI Times",
+      "time": "07/16 06:55"
+    },
+    {
+      "category": "robot",
+      "title": "\"동전 집고 지퍼 올린다\"…1X, 사람 뺨치는 휴머노이드 로봇 손 공개",
+      "url": "https://zdnet.co.kr/view/?no=20260715103544",
+      "summary": "노르웨이 로봇 기업 1X가 휴머노이드 로봇 '네오'용 25자유도 힘줄 구동식 로봇 손을 공개. 동전 집기·지퍼 올리기·레고 조립 등 정교한 작업이 가능하며 완전한 힘 제어와 역구동 기능, IP68 방수 등급을 충족.",
+      "source": "지디넷",
+      "time": "07/15 13:26"
+    }
+  ]
+}
