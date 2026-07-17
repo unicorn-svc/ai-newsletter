@@ -1,0 +1,174 @@
+{
+  "published_at": "2026-07-17T09:00",
+  "sources": ["AI Times", "ZDNet Korea", "전자신문", "TechCrunch", "VentureBeat", "MIT News", "이데일리", "뉴스핌"],
+  "articles": [
+    {
+      "category": "genai",
+      "title": "문샷, 2.8조 매개변수 '키미 K3' 공개...세계 3위 성능으로 도약",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212881",
+      "summary": "중국 문샷 AI가 2.8조 매개변수 MoE 아키텍처 모델 '키미 K3' 공개. 아티피셜 애널리시스 평가 57점으로 세계 3위 기록. 100만 토큰 컨텍스트 윈도우 지원, 7월 27일까지 전체 가중치 오픈소스 공개 예정. 전문가들은 '오픈소스 AI의 중요한 전환점'으로 평가.",
+      "source": "AI Times",
+      "time": "07/17"
+    },
+    {
+      "category": "genai",
+      "title": "구글, '제미나이 3.5 프로' 출시 지연…\"성능 목표 미달·코딩 한계\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212879",
+      "summary": "구글 차세대 AI 제미나이 3.5 프로 출시가 코딩 능력 등 핵심 성능 미달로 수개월 지연. 지난달 학습 데이터 업데이트로 코딩 개선 시도했으나 실패. 오픈AI·메타에 밀리며 내부 관료주의와 부서간 갈등도 지연 원인으로 지목.",
+      "source": "AI Times",
+      "time": "07/17"
+    },
+    {
+      "category": "genai",
+      "title": "오픈AI, GPT-5.6 '파일 삭제' 원인 규명...\"샌드박스·오토 리뷰 필수\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212888",
+      "summary": "오픈AI가 GPT-5.6 파일 삭제 오작동 원인 공식 발표. 전체 권한 모드에서 보호 기능 없이 실행 시 임시 디렉터리 생성 중 HOME 디렉터리 삭제 발생 확인. 개발자 문서 개정과 샌드박스·오토 리뷰 등 추가 보호 장치 적용 계획.",
+      "source": "AI Times",
+      "time": "07/17"
+    },
+    {
+      "category": "tech",
+      "title": "엔비디아, 4B 규모 월드 모델 '코스모스 3 엣지' 공개...'온디바이스 피지컬 AI' 실현",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212880",
+      "summary": "엔비디아가 40억 매개변수 월드 모델 '코스모스 3 엣지' 공개. 엣지 환경에서 실시간 주변 인식 및 즉각 의사결정 설계. 제조·물류·자율주행 등 피지컬 AI 분야 적용 대상, 하루 만에 맞춤형 적용 가능.",
+      "source": "AI Times",
+      "time": "07/17"
+    },
+    {
+      "category": "tech",
+      "title": "\"모델 그대로 하네스만 바꿨더니...ARC-AGI-3서 인간 효율 99% 근접\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212889",
+      "summary": "임파서블 리서치가 에이전트 실행 프레임워크 '스키마' 공개. 모델 가중치 변경 없이 실행 방식만 개선해 ARC-AGI-3에서 98.98% 성능 달성. 물리학자 사고방식 적용, 동일 모델 성능 42.83%→98.98%로 2배 이상 향상.",
+      "source": "AI Times",
+      "time": "07/17"
+    },
+    {
+      "category": "tech",
+      "title": "2D 도면을 3D 모델로 변환하는 신속 프로토타이핑용 AI 프레임워크 개발",
+      "url": "https://news.mit.edu/2026/turning-2d-designs-into-3d-models-for-rapid-prototyping-0716",
+      "summary": "MIT 연구진이 GIFT(Geometric Inference Feedback Tuning) 프레임워크 개발. AI 비전-언어 모델이 2D 도면을 CAD 프로그램으로 변환하는 정확도 향상. 기존 대비 약 20% 컴퓨팅 자원으로 우수한 성능 달성. 항공우주·자동차 산업의 프로토타이핑 비용 절감 기대.",
+      "source": "MIT News",
+      "time": "07/16 09:00"
+    },
+    {
+      "category": "tech",
+      "title": "씨이랩, ICML 2026 워크숍서 온디바이스 비전AI 경량화 기술 발표",
+      "url": "https://www.newspim.com/news/view/20260716000122",
+      "summary": "물리적 AI 전문 기업 씨이랩이 서울 COEX 개최 ICML 2026 공식 워크숍에서 온디바이스 비전AI 경량화 논문 발표. 저사양 엣지 장비에서 고성능 AI 구동 가능케 하는 기술로, CCTV 관제·스마트 팩토리·리테일 현장 등 실환경 적용 가능성 제시.",
+      "source": "뉴스핌",
+      "time": "07/16 11:00"
+    },
+    {
+      "category": "chip",
+      "title": "일본, 엔비디아 '루빈'으로 국가 AI 인프라 구축…'피지컬 AI' 승부",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212885",
+      "summary": "소프트뱅크 등 44개 기관 참여 '노에트라' 컨소시엄이 엔비디아 루빈 기반 AI 팩토리 건설. GPU 2만7500개·140MW 규모. 야스카와전기 등 제조기업들이 코스모스 플랫폼 활용, 피지컬 AI 중심 산업 생태계 확대.",
+      "source": "AI Times",
+      "time": "07/17"
+    },
+    {
+      "category": "service",
+      "title": "'노트북LM'→'제미나이 노트북' 리브랜딩…코드 실행·데이터 분석 탑재",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212882",
+      "summary": "구글이 인기 AI 도구 '노트북LM'을 '제미나이 노트북'으로 리브랜딩. 보안 클라우드 환경에서 코드 직접 작성·실행과 복잡한 데이터 분석 기능 추가. 현재 3000만 명 이상 사용 중이며 제미나이 앱과의 통합 강화.",
+      "source": "AI Times",
+      "time": "07/17 10:55"
+    },
+    {
+      "category": "service",
+      "title": "구글 비즈에 '제미나이 옴니·개인 아바타' 탑재...종합 AI 영상 플랫폼으로 진화",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212891",
+      "summary": "구글 비즈(Google Vids)에 멀티모달 AI '제미나이 옴니'와 개인 아바타 기능 추가. 텍스트·이미지 결합 영상 생성, 자연어 명령 편집 지원. 셀카·음성 녹음만으로 디지털 아바타 생성해 자동 메시지 전달 영상 제작 가능. SynthID 워터마크 적용.",
+      "source": "AI Times",
+      "time": "07/17 13:52"
+    },
+    {
+      "category": "service",
+      "title": "구글, 'AI 모드'에 외부 앱 연동 확장...\"검색에서 장보기·디자인까지\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212883",
+      "summary": "구글 AI 검색 'AI 모드'에 인스타카트·캔바·유튜브 등 외부 앱 연동 기능 대폭 확장. AI 모드 내에서 쇼핑·디자인 작업·음악 재생 등 직접 수행 가능. ChatGPT·Claude 등 경쟁 서비스 대응 전략으로 평가.",
+      "source": "AI Times",
+      "time": "07/17"
+    },
+    {
+      "category": "service",
+      "title": "AI가 직접 일하는 시대…신뢰성 검증 시장 커진다",
+      "url": "https://zdnet.co.kr/view/?no=20260717084103",
+      "summary": "생성형 AI 확산으로 AI 결과물 신뢰성 검증 시장 성장 중. 무하유 'GPT킬러'(텍스트 검증), 셀렉트스타 '다투모 이벨'(모델 신뢰성 평가), 딥브레인AI 'AI 디텍터'(멀티미디어 진위 판별) 3개 솔루션 주목. AI 에이전트 확산으로 시장 성장세 가속 전망.",
+      "source": "ZDNet Korea",
+      "time": "07/17 09:13"
+    },
+    {
+      "category": "service",
+      "title": "박민준 뤼튼AX 대표 \"AI가 컴퓨터 직접 쓰는 시대 내년에 온다\"",
+      "url": "https://www.etnews.com/20260717000044",
+      "summary": "뤼튼테크놀로지스 박민준 대표가 제주 경영자포럼에서 AI가 컴퓨터를 직접 사용하는 시대가 내년에 도래하면 대부분의 사무 업무를 AI가 수행할 것으로 전망. 기업들은 데이터 인프라 구축과 매출 발생 영역부터 AI 도입을 추진해야 한다고 강조.",
+      "source": "전자신문",
+      "time": "07/17 11:15"
+    },
+    {
+      "category": "service",
+      "title": "KB부동산, AI 기반 '단지분석·비교' 대화형 서비스 출시",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=03506326645482704",
+      "summary": "KB국민은행이 KB부동산 플랫폼에 AI 대화형 단지분석·비교 서비스 출시. 관심 단지 선택 시 AI가 빅데이터 기반으로 시세·학군·교통·개발 호재를 종합 분석하고 'AI 브리핑'으로 요약 제공. 아파트·오피스텔·빌라 등 다양한 유형 지원.",
+      "source": "이데일리",
+      "time": "07/17 09:00"
+    },
+    {
+      "category": "biz",
+      "title": "인프라 고객서 경쟁사된 메타…네오클라우드 업계 '긴장'",
+      "url": "https://zdnet.co.kr/view/?no=20260717094752",
+      "summary": "메타가 '메타 컴퓨트' 프로젝트로 자체 데이터센터 인프라를 외부에 제공하며 AI 특화 클라우드 시장 직접 진출. 최대 수요처였던 메타가 경쟁사로 전환되며 네비우스·코어위브 등 네오클라우드 업계 긴장. 당분간 GPU 수요 규모상 외부 인프라 계약 유지 전망.",
+      "source": "ZDNet Korea",
+      "time": "07/17 10:30"
+    },
+    {
+      "category": "biz",
+      "title": "\"AI 데이터센터 구축 속도\"… SK텔레콤 주가 5%↑",
+      "url": "https://www.etnews.com/20260716000236",
+      "summary": "SK텔레콤이 정부 'AI 데이터센터 구축 사업' 추진을 위해 CEO 직속 'AI DC 통합추진단' 신설. 부지 선정부터 설계·구축·고객 유치까지 전 과정 통합 관리. 발표 직후 주가 5.76% 상승.",
+      "source": "전자신문",
+      "time": "07/16 14:16"
+    },
+    {
+      "category": "policy",
+      "title": "EU, 구글에 안드로이드 개방 명령…\"타사 AI 허용하고 검색 데이터 공유할 것\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212890",
+      "summary": "EU 집행위가 구글에 안드로이드 내 AI 기능 경쟁사 개방과 검색 데이터 공유 명령. 2027년 7월까지 음성명령으로 타사 AI 비서 활성화 가능하도록 재설계 요구. 2027년 1월까지 AI 챗봇 개발사의 검색 데이터 접근 허용 의무.",
+      "source": "AI Times",
+      "time": "07/17"
+    },
+    {
+      "category": "policy",
+      "title": "정부, 한국 독자 '보안 특화' AI 모델 개발한다",
+      "url": "https://zdnet.co.kr/view/?no=20260716112653",
+      "summary": "과기부가 한국 독자 보안 특화 AI 모델 개발·보급 추진 발표. 배경훈 부총리는 독자 AI 모델에 보안 데이터 추가 학습 및 프론티어급 모델 개발 착수 방침 명시. GPU B200 지원을 735기에서 1만 기로 확대 등 3대 메가 프로젝트 추진.",
+      "source": "ZDNet Korea",
+      "time": "07/16 11:39"
+    },
+    {
+      "category": "security",
+      "title": "메타, AI 챗봇에 청소년 자해 감지 기능 도입…부모에게 즉시 알린다",
+      "url": "https://zdnet.co.kr/view/?no=20260716214155",
+      "summary": "메타 AI 챗봇에 청소년 자해·자살 위험 징후 실시간 감지 기능 도입. 미국·캐나다·영국·호주 우선 제공, 감지 시 부모에 문자·이메일·앱 알림 발송. 대화 내용은 비공개, 지원 정보만 제공. 응급 구조 기관 자동 알림 기능 개발 중.",
+      "source": "ZDNet Korea",
+      "time": "07/17 09:19"
+    },
+    {
+      "category": "security",
+      "title": "제로 트러스트 보안, 이제 AI 에이전트 속도에 맞춰 즉각 도입해야",
+      "url": "https://venturebeat.com/security/zero-trust-must-now-move-at-agent-speed",
+      "summary": "Ping Identity CEO가 기업의 AI 에이전트 대상 제로 트러스트 보안 즉각 도입 촉구. 에이전트는 5분 만에 1,000개 작업 처리로 위험 타임라인 압축. 각 에이전트에 고유 ID 부여, API 게이트웨이에서 실시간 권한 검증 체계 구축 필수.",
+      "source": "VentureBeat",
+      "time": "07/17 02:10"
+    },
+    {
+      "category": "security",
+      "title": "AI 에이전트 보안 격차: 기업 54%가 이미 사고 경험, 대부분 자격증명 여전히 공유",
+      "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
+      "summary": "기업 54%가 AI 에이전트 보안 사고(18%) 또는 아슬아슬한 상황(36%)을 이미 경험. 69%는 공유 API 키로 에이전트 운영 중, 30%만 고위험 에이전트를 샌드박스로 격리. 107개 기업 대상 2026년 6월 설문조사 결과.",
+      "source": "VentureBeat",
+      "time": "07/16 22:00"
+    }
+  ]
+}
