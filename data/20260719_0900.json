@@ -1,0 +1,102 @@
+{
+  "published_at": "2026-07-19T09:00",
+  "sources": ["AI Times", "ZDNet Korea", "TechCrunch"],
+  "articles": [
+    {
+      "category": "biz",
+      "title": "데이터브릭스, 280조 가치로 '시리즈 M' 투자 유치…'상장 안 서두른다'",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212897",
+      "summary": "데이터브릭스가 1,880억달러(약 280조원)의 기업 가치로 시리즈 M 투자 유치에 성공했다. CEO는 IPO를 서두르지 않겠다고 밝혔으며, 약 1년 반 만에 기업 가치가 3배 이상 증가해 연간 환산 매출은 54억달러를 돌파했다.",
+      "source": "AI Times",
+      "time": "07/18 11:14"
+    },
+    {
+      "category": "biz",
+      "title": "애플, 오픈AI '하드웨어 이직자' 40명에 경고 서한 발송…'증거 보존하라'",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212898",
+      "summary": "애플이 오픈AI로 이직한 직원 40명에게 영업비밀 관련 자료 보존 법률 서한을 발송했다. 영업비밀 침해 소송에 이어 인재 이탈 차단 전략으로 분석된다. 오픈AI는 의혹을 반박하며 타사 영업비밀을 활용할 의사가 없다고 밝혔다.",
+      "source": "AI Times",
+      "time": "07/18 11:57"
+    },
+    {
+      "category": "biz",
+      "title": "지푸, 'GLM-5.2' 흥행으로 중국 AI 최초 연매출 10억달러 눈앞",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212899",
+      "summary": "중국 AI 기업 지푸가 GLM-5.2의 성공으로 연간 반복 매출 10억달러를 달성할 전망이다. 경쟁사인 문샷(ARR 2억달러), 미니맥스(ARR 3억달러)를 크게 앞질렀으나 1분기 순손실이 전년 대비 60% 증가하며 수익성 확보는 여전한 과제다.",
+      "source": "AI Times",
+      "time": "07/18 15:53"
+    },
+    {
+      "category": "biz",
+      "title": "딥시크, 기업가치 77조 달해...공식 문서로 몸값 처음 확인",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212901",
+      "summary": "중국 AI 기업 딥시크가 외부 투자를 통해 3,509억위안(약 77조원)의 기업 가치를 공식 인정받았다. 중국 상장사들의 공시로 처음 확인된 수치로, 올해 500억위안 투자 유치에 성공하고 내년 상장을 목표로 하고 있다.",
+      "source": "AI Times",
+      "time": "07/18 16:34"
+    },
+    {
+      "category": "biz",
+      "title": "스페이스X, 미 국방부와 수십억달러 'AI 클라우드 공급' 논의",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212905",
+      "summary": "스페이스X가 미국 국방부의 AI 모델 운영을 위한 데이터센터 용량 공급을 협상 중이며, 계약 규모는 수십억달러에 달할 전망이다. 이미 앤트로픽·구글과 대규모 계약을 체결한 국방부가 공급업체 다변화 차원에서 협상에 나선 것으로 분석된다.",
+      "source": "AI Times",
+      "time": "07/18 17:48"
+    },
+    {
+      "category": "security",
+      "title": "영국 AISI 경고 '중국 오픈 모델, 미국과 보안 격차 4개월로 단축'",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212900",
+      "summary": "영국 AI 보안연구소(AISI)가 중국 오픈웨이트 AI 모델이 사이버 보안 능력에서 미국 모델을 빠르게 추격 중이라고 경고했다. 지푸 GLM-5.2가 Claude Opus 4.6과 유사한 성능을 기록했으며, 누구나 접근 가능한 오픈웨이트 모델의 악용 위험이 크다고 지적했다.",
+      "source": "AI Times",
+      "time": "07/19 05:45"
+    },
+    {
+      "category": "biz",
+      "title": "115년 상징의 추락...IBM 25% 폭락이 경고하는 'AI 블랙홀'",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212907",
+      "summary": "IBM이 2분기 실적 부진으로 주가 25% 폭락했다. 기업들이 AI 예산에 집중하면서 IBM의 메인프레임·소프트웨어 투자가 미뤄지는 'AI 예산 블랙홀' 현상이 발생, 전통 엔터프라이즈 기업의 생존을 위협하는 신호로 평가된다.",
+      "source": "AI Times",
+      "time": "07/19 08:00"
+    },
+    {
+      "category": "genai",
+      "title": "中 문샷, 신형 AI '키미 K3' 공개…오픈AI·앤트로픽 턱밑 추격",
+      "url": "https://zdnet.co.kr/view/?no=20260718173700",
+      "summary": "중국 문샷AI가 2.8조 개 파라미터 규모의 AI 모델 '키미 K3'를 공개했다. 최대 100만 토큰 컨텍스트 윈도를 지원하며 SWE 벤치 69.6점을 기록해, 미국 반도체 규제 속에서도 중국 AI의 기술 격차 축소를 보여주는 사례로 평가됐다.",
+      "source": "ZDNet Korea",
+      "time": "07/19 07:39"
+    },
+    {
+      "category": "policy",
+      "title": "中, 개발도상국에 AI 영향력 확대…오픈소스 앞세워 美 견제",
+      "url": "https://zdnet.co.kr/view/?no=20260719001127",
+      "summary": "시진핑 주석은 상하이 세계인공지능대회에서 개발도상국 AI 지원으로 글로벌 주도권을 확보하겠다고 밝혔다. 5년간 AI 교육 5,000건과 협력센터 설립을 발표하며 저비용 오픈소스 AI로 중국식 기술 표준 확산을 추진 중이다.",
+      "source": "ZDNet Korea",
+      "time": "07/19 07:36"
+    },
+    {
+      "category": "service",
+      "title": "마이크로소프트, '코파일럿 코워크' 정식 출시…'업무별 추가 비용'",
+      "url": "https://zdnet.co.kr/view/?no=20260719003211",
+      "summary": "마이크로소프트가 기업용 AI 에이전트 '코파일럿 코워크'를 정식 출시했다. M365 코파일럿 구독자는 추가 비용 부담이 있으며, 장시간 실행 에이전트 업무의 컴퓨팅 자원을 반영해 페이고 또는 P3 약정 방식 중 선택 가능하다.",
+      "source": "ZDNet Korea",
+      "time": "07/19 07:23"
+    },
+    {
+      "category": "tech",
+      "title": "'월 70원 쓰는데 3조원 요금폭탄'...AWS 비용 예상 버그에 고객 패닉",
+      "url": "https://zdnet.co.kr/view/?no=20260719063539",
+      "summary": "AWS 청구 계산 시스템 오류로 일부 고객 계정에 과도한 예상 청구액이 표시됐다. 월 70원 사용자에게 약 3조4000억원 청구가 나타나는 사례가 보도됐으나 실제 청구에는 영향 없었으며, AWS는 단위 변환 데이터 오류가 원인이라고 밝혔다.",
+      "source": "ZDNet Korea",
+      "time": "07/19 07:08"
+    },
+    {
+      "category": "policy",
+      "title": "Kimi: 위협인가 재해인가? — 오픈웨이트 AI의 지정학적 논쟁",
+      "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+      "summary": "중국 무샷AI의 키미 K3 공개를 계기로 미국 내 오픈웨이트 AI의 지정학적 위험성 논쟁이 재점화됐다. 일부 전문가는 '오픈소스 AI 공산주의' 위험을 주장하는 반면, 다른 측에서는 규제보다 혁신이 답이라며 반박하는 분위기다.",
+      "source": "TechCrunch",
+      "time": "07/18 11:51"
+    }
+  ]
+}
