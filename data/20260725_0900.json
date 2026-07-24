@@ -1,0 +1,350 @@
+{
+  "published_at": "2026-07-25T09:00",
+  "sources": ["AI Times", "지디넷", "전자신문", "TechCrunch", "VentureBeat", "MIT News", "Medium"],
+  "articles": [
+    {
+      "category": "genai",
+      "title": "오픈AI, 데스크톱 앱에 'GPT-라이브' 음성 제어 도입",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213129",
+      "summary": "오픈AI가 GPT-라이브 음성 모델을 맥·윈도우 챗GPT 데스크톱 앱에 통합했다. 풀 듀플렉스 방식으로 듣기와 말하기를 동시 수행하며, 개발자가 음성만으로 코덱스와 워크 에이전트를 제어해 복수 작업을 병렬 처리할 수 있다.",
+      "source": "AI Times",
+      "time": "07/24 18:50"
+    },
+    {
+      "category": "genai",
+      "title": "앤트로픽, Claude Opus 5 출시…코딩·에이전트·기업 워크플로 특화, 비용 절반",
+      "url": "https://venturebeat.com/orchestration/anthropic-launches-claude-opus-5-a-cheaper-ai-model-for-coding-agents-and-enterprise-workflows",
+      "summary": "앤트로픽이 최상위 모델 Fable 5와 거의 동등한 성능을 절반 비용으로 제공하는 Opus 5를 출시했다. 입력 100만 토큰당 5달러, 출력 25달러로 코딩·에이전트 태스크에 최적화되었으며, API 사용자 대상 자동 폴백 기능(베타)도 도입됐다.",
+      "source": "VentureBeat",
+      "time": "07/25 03:00"
+    },
+    {
+      "category": "genai",
+      "title": "앤트로픽 '클로드 오퍼스 5' 출시 임박…개발 도구·버텍스에서 정황 포착",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213127",
+      "summary": "앤트로픽의 차세대 모델 '클로드 오퍼스 5' 출시가 임박했다는 정황이 포착됐다. 코드 개발 도구와 구글 버텍스 AI에서 모델 정보가 일시 노출됐으며, 100만 토큰 컨텍스트 창을 갖추고 기존 오퍼스 4.8을 대체할 가능성이 높다.",
+      "source": "AI Times",
+      "time": "07/24 12:21"
+    },
+    {
+      "category": "genai",
+      "title": "앤트로픽, '클로드' 음성 모드 대폭 강화…오퍼스·소네트에도 탑재",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213130",
+      "summary": "앤트로픽이 클로드 음성 모드를 업그레이드해 오퍼스·소네트 모델 지원과 지메일·슬랙·노션 등 외부 서비스 연동, 10개 언어를 추가했다. 음성만으로 실무 작업 처리가 가능하며, 무료 사용자는 하이쿠 모델만 이용 가능하다.",
+      "source": "AI Times",
+      "time": "07/24 18:46"
+    },
+    {
+      "category": "genai",
+      "title": "블랙 포레스트 랩스, 차세대 영상 모델 'FLUX 3' 출시…20초 영상부터 로봇 제어까지",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213133",
+      "summary": "독일 블랙 포레스트 랩스가 멀티모달 AI 모델 'FLUX 3'를 공개했다. 텍스트만으로 최대 20초 영상과 오디오를 동시 생성하며 로봇 행동 예측까지 하나의 모델로 구현한다. 미세조정 시간을 30시간에서 30분으로 단축한다.",
+      "source": "AI Times",
+      "time": "07/24 18:20"
+    },
+    {
+      "category": "genai",
+      "title": "딥시크 V4, Opus 4.7·GPT-5.5의 6분의 1 비용으로 최상위급 성능 달성",
+      "url": "https://venturebeat.com/technology/deepseek-v4-arrives-with-near-state-of-the-art-intelligence-at-1-6th-the-cost-of-opus-4-7-gpt-5-5",
+      "summary": "딥시크가 최신 V4 모델을 공개했다. 경쟁 최전선 모델 대비 6배 저렴한 비용으로 최첨단 수준의 성능을 제공하며, AI 비용 경쟁에 새로운 기준을 제시했다.",
+      "source": "VentureBeat",
+      "time": "07/24 20:00"
+    },
+    {
+      "category": "genai",
+      "title": "오픈AI, GPT-5.6 Sol·Terra·Luna 세 모델 공개…현재 제한적 파트너만 접근 가능",
+      "url": "https://venturebeat.com/technology/openai-unveils-gpt-5-6-sol-terra-and-luna-models-but-only-accessible-to-limited-preview-partners-for-now-per-us-gov",
+      "summary": "오픈AI가 GPT-5.6 계열 Sol·Terra·Luna 세 모델을 공개했으나 미국 정부 승인을 받은 제한적 파트너에게만 프리뷰 접근을 허용하고 있다.",
+      "source": "VentureBeat",
+      "time": "07/24 22:00"
+    },
+    {
+      "category": "tech",
+      "title": "MS, 'MAI-이미지-2.5-프로' 등 자체 AI 모델 출시…오픈AI 모델 본격 대체",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213132",
+      "summary": "마이크로소프트가 자체 개발 AI 모델 'MAI-이미지-2.5-프로'와 'MAI-보이스-2-플래시'를 출시했다. 빙·파워포인트·원드라이브 등 주요 서비스에서 오픈AI 모델을 대체하며 비용 절감과 성능 향상을 달성한다는 전략이다.",
+      "source": "AI Times",
+      "time": "07/24 14:14"
+    },
+    {
+      "category": "tech",
+      "title": "KAIST·엔비디아, AI공동연구소 설립…컴퓨팅 자원 740억 규모 지원",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213123",
+      "summary": "KAIST와 엔비디아가 차세대 에이전틱 AI 공동 연구소를 설립한다. 초기 5년간 3억 달러(약 4429억원) 규모로 협력하며 매년 약 738억원 상당의 컴퓨팅 자원을 제공한다. 한국어 및 국내 산업 특화 AI 모델 개발에 집중한다.",
+      "source": "AI Times",
+      "time": "07/24 08:58"
+    },
+    {
+      "category": "tech",
+      "title": "AI 디지털 트윈, 신약개발 새 해법으로 부상…오프리메드 글로벌 협력 확대",
+      "url": "https://www.etnews.com/20260724000003",
+      "summary": "오프리메드가 AAIC 2026에서 임상시험 디지털 트윈 플랫폼 '옵티비스'를 공개했다. 가상 환자로 임상시험 결과를 사전 예측하고 동양인 환자 데이터를 반영한 AI 모델로 아시아 시장 경쟁력을 높인다.",
+      "source": "전자신문",
+      "time": "07/24 11:24"
+    },
+    {
+      "category": "tech",
+      "title": "핵발전소 운영 자동화를 위한 AI 연구",
+      "url": "https://news.mit.edu/2026/working-automate-nuclear-plant-operations-lauren-fortier-0724",
+      "summary": "MIT 박사과정생 로렌 포르티어가 해군 핵 운영 경험을 바탕으로 원격 마이크로 원자로 자동화 프로토콜 개발 중이다. AI 대신 유한 상태 오토마타 방식으로 안전성과 투명성을 확보하는 접근법을 연구하고 있다.",
+      "source": "MIT News",
+      "time": "07/24 09:00"
+    },
+    {
+      "category": "chip",
+      "title": "AMD·세레브라스, AI 추론 플랫폼 협력…프롬프트-토큰 생성 분리로 성능 5배",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213143",
+      "summary": "AMD와 세레브라스가 분산형 AI 추론 플랫폼을 협력 개발한다. AMD 헬리오스가 프롬프트 처리를, 세레브라스 WSE가 토큰 생성을 담당해 전력 대비 성능을 최대 5배 향상할 계획이며, 2026년 하반기 세레브라스 클라우드로 제공될 예정이다.",
+      "source": "AI Times",
+      "time": "07/24 16:41"
+    },
+    {
+      "category": "chip",
+      "title": "인텔, 15년 만에 최대 매출 성장률…에이전트 확산에 CPU 수요 급증",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213140",
+      "summary": "인텔이 AI 데이터센터 투자 확대로 2분기 매출 25.4% 증가를 기록, 15년 만에 최고 성장률을 달성했다. AI 에이전트 확산으로 서버용 CPU 수요가 급증하며 데이터센터 부문 매출이 59% 증가했다.",
+      "source": "AI Times",
+      "time": "07/24 16:30"
+    },
+    {
+      "category": "chip",
+      "title": "AMD, 첫 랙스케일 AI 솔루션 공개…앤트로픽·오픈AI 등 도입 예정",
+      "url": "https://zdnet.co.kr/view/?no=20260724100843",
+      "summary": "AMD가 'AMD 헬리오스'라는 랙스케일 AI 솔루션을 공개했다. 72개 MI455X GPU와 18개 에픽 CPU로 구성되며 경쟁사 대비 달러당 최대 30% 더 많은 AI 추론 토큰을 처리한다. 오픈AI·앤트로픽·메타·MS 등이 기가와트급 인프라에 도입할 예정이다.",
+      "source": "지디넷",
+      "time": "07/24 11:20"
+    },
+    {
+      "category": "chip",
+      "title": "중국 \"3년 내 AI 칩 자립\"…엔비디아 추격 총력전 내막",
+      "url": "https://zdnet.co.kr/view/?no=20260724140449",
+      "summary": "중국이 미국의 AI 칩 규제에 맞서 3년 내 자립을 목표로 총력 체제를 가동 중이다. 화웨이가 신형 칩 '어센드 950'을 개발 중이며, 정부는 '칩 위원회'를 통해 집중 지원한다. 다만 EUV 장비 부재로 근본적 기술 격차 극복엔 10년 이상 소요될 전망이다.",
+      "source": "지디넷",
+      "time": "07/25 07:39"
+    },
+    {
+      "category": "chip",
+      "title": "AI발 메모리 대란, 자동차 업계도 덮쳤다",
+      "url": "https://zdnet.co.kr/view/?no=20260724215649",
+      "summary": "AI 데이터센터의 메모리 수요 폭증으로 공급 부족이 자동차 업계까지 확산됐다. GM은 D램 가격 상승으로 올해 15~20억 달러 비용 증가를 예상하고, BYD는 운전자 보조 기능 가격을 20% 인상했다.",
+      "source": "지디넷",
+      "time": "07/25 07:06"
+    },
+    {
+      "category": "biz",
+      "title": "젠스파크 국내 상륙…3년간 1억달러 투자, 기업 시장 공략",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213146",
+      "summary": "AI 에이전트 전문 기업 젠스파크가 한국 시장 진출을 선언하며 3년간 1억 달러 투자 계획을 밝혔다. 지속형 메모리 레이어 '세컨드브레인' 기반 'AI 워크스페이스 6.0'을 공개했으며, 현재 7000개 이상 기업 고객과 연간 반복 매출 2억 5000만 달러를 기록 중이다.",
+      "source": "AI Times",
+      "time": "07/24 18:04"
+    },
+    {
+      "category": "biz",
+      "title": "미국 5대 빅테크 '숨은 AI 부채' 2442조원…니케이 분석",
+      "url": "https://zdnet.co.kr/view/?no=20260724215525",
+      "summary": "알파벳·MS·아마존·메타·오라클 등 미국 5대 빅테크의 대차대조표에 드러나지 않는 AI 관련 부채가 약 2442조원(1조 6500억 달러)에 달한다. 데이터센터·반도체 조달 자금이 특수목적법인과 리스 등을 통해 조달돼 회계상 잘 드러나지 않는다.",
+      "source": "지디넷",
+      "time": "07/24 21:55"
+    },
+    {
+      "category": "biz",
+      "title": "한컴, 36년 만에 AI 기업으로 새 출발…사명도 '한컴'으로 변경",
+      "url": "https://zdnet.co.kr/view/?no=20260724135352",
+      "summary": "한컴이 창립 36년 만에 사명을 '한컴(HANCOM)'으로 변경하며 AI 기업 전환을 공식화했다. 지난해 AI 매출 비중은 5%였지만 올해 1분기 11.21%로 급증했다. 하반기 '소버린 에이전틱 OS' 출시를 통해 글로벌 시장 공략에 나선다.",
+      "source": "지디넷",
+      "time": "07/24 13:53"
+    },
+    {
+      "category": "biz",
+      "title": "스트라이프, 오픈라우터 인수 추진…AI 모델 유통시장 판 키우나",
+      "url": "https://zdnet.co.kr/view/?no=20260724103503",
+      "summary": "결제 기업 스트라이프가 270개 이상 AI 모델을 단일 API로 연결하는 오픈라우터 인수를 추진 중이다. 인수 성사 시 스트라이프는 AI 모델 유통 시장의 핵심 플레이어로 부상하며 AI 인프라 주도권 경쟁이 심화될 전망이다.",
+      "source": "지디넷",
+      "time": "07/24 10:35"
+    },
+    {
+      "category": "biz",
+      "title": "데이터브릭스-MS, 'AI 동맹' 2030년까지 연장…데이터 통합 강화",
+      "url": "https://zdnet.co.kr/view/?no=20260724095611",
+      "summary": "데이터브릭스와 MS가 기업용 AI 시장 공략을 위해 2030년까지 전략적 파트너십을 확대하기로 했다. 데이터 통합·AI 거버넌스 강화를 통해 기업들이 자체 데이터 기반의 신뢰할 수 있는 AI를 구축하도록 공동 지원한다.",
+      "source": "지디넷",
+      "time": "07/24 09:56"
+    },
+    {
+      "category": "biz",
+      "title": "더존비즈온, 개발 조직 전체에 '클로드' 지원…AX 퍼스트무버 전략 가속화",
+      "url": "https://www.etnews.com/20260724000272",
+      "summary": "더존비즈온이 개발·기획·설계 직군 전원에 앤트로픽의 AI 모델 '클로드'를 전면 도입했다. 자체 AI 솔루션 'ONE AI'와 시너지를 통해 제품 고도화를 가속화하고 고객사 디지털 전환을 선도한다.",
+      "source": "전자신문",
+      "time": "07/24 15:24"
+    },
+    {
+      "category": "biz",
+      "title": "딥핑소스, 산자부 AI 사업 주관사 선정…국내 AI 자율 운영 매장 1000곳 구축",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213150",
+      "summary": "AI 공간분석 기업 딥핑소스가 산업통상자원부 'AI 로보틱스 기반 유통매장 지능형 관리 플랫폼' 사업 주관기관으로 선정됐다. 총사업비 45억원 규모로 2027년 12월까지 진행되며, 국내 1000개 매장의 자율 운영 체계 구축을 목표로 한다.",
+      "source": "AI Times",
+      "time": "07/24 15:20"
+    },
+    {
+      "category": "biz",
+      "title": "리드 호프만·마크 핀커스 공동 창업 AI 연구소 Prentis, 1억 달러 투자 유치 협상 중",
+      "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-marc-pincus-in-talks-to-raise-100m/",
+      "summary": "리드 호프만과 마크 핀커스가 공동 창업한 AI 연구소 Prentis가 기업가치 10억 달러로 1억 달러 투자 유치 협상 중이다. 보험 청구 등 반복 업무 자동화 에이전트 개발에 집중하며, 이미 5천만 달러 규모의 계약을 확보했다.",
+      "source": "TechCrunch",
+      "time": "07/25 08:35"
+    },
+    {
+      "category": "biz",
+      "title": "미드저니, 점성술 앱 Co-Star 인수…이미지 생성 넘어 소비자 앱으로 확장",
+      "url": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/",
+      "summary": "AI 이미지 생성 기업 미드저니가 월간 이용자 430만 명의 점성술 앱 Co-Star를 인수했다. 24명의 팀이 합류하며 독자 소비자 앱 시장 진출을 위한 전략적 행보로 분석된다.",
+      "source": "TechCrunch",
+      "time": "07/25 01:00"
+    },
+    {
+      "category": "biz",
+      "title": "코그니션, AI 어시스턴트 Poke 인수…AI 개성이 경쟁 우위로 부상",
+      "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
+      "summary": "코딩 AI '데빈' 개발사 코그니션이 친근한 AI 어시스턴트 Poke를 수천만 달러에 인수했다. AI 기술력만큼 대화 방식과 개성이 경쟁 우위 요소로 부상하는 추세를 반영한 행보다.",
+      "source": "TechCrunch",
+      "time": "07/25 04:00"
+    },
+    {
+      "category": "service",
+      "title": "런웨이, 생성 미디어 '라우터' 출시…비용·속도 고려해 최적 모델 자동 선택",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213145",
+      "summary": "런웨이가 '미디어 라우터'를 출시했다. 개발자가 설정한 품질·속도·비용 우선순위에 따라 생성 AI 모델을 자동으로 선택하며, 자사 모델뿐 아니라 외부 모델도 통합 제공해 기업의 AI 운영 비용 증가에 대응한다.",
+      "source": "AI Times",
+      "time": "07/24 18:04"
+    },
+    {
+      "category": "service",
+      "title": "AI로 내 목소리로 노래 제작…일레븐랩스 '보컬' 기능 공개",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213148",
+      "summary": "일레븐랩스가 AI 음악생성 기능 '보컬'과 '레퍼런스'를 공개했다. 음악 전문 지식이 없어도 자신의 목소리로 노래를 만들 수 있으며, AI 기술을 활용한 음악 창작의 새로운 가능성을 제시한다.",
+      "source": "AI Times",
+      "time": "07/25 06:55"
+    },
+    {
+      "category": "service",
+      "title": "구글, 프랑스에 'AI 오버뷰' 도입…언론사 \"트래픽 줄어든다\" 우려",
+      "url": "https://zdnet.co.kr/view/?no=20260724215411",
+      "summary": "구글이 프랑스에 AI 오버뷰 기능을 도입했다. 검색 상단에 AI 생성 요약이 표시되면서 프랑스 언론사들은 뉴스 사이트 트래픽 감소를 우려하고 있다. 구글은 검색 활동이 여전히 활발하다며 반박했다.",
+      "source": "지디넷",
+      "time": "07/24 21:54"
+    },
+    {
+      "category": "service",
+      "title": "코빗, AI 에이전트 트레이딩 도구 출시…\"시세 보여줘, 비트코인 주문해\"",
+      "url": "https://www.etnews.com/20260724000067",
+      "summary": "코빗이 챗GPT·클로드 등 AI 에이전트와 대화하며 가상자산 시세 조회와 주문을 자연어로 실행할 수 있는 설치형 프로그램 '코빗 CLI'를 출시했다.",
+      "source": "전자신문",
+      "time": "07/24 10:18"
+    },
+    {
+      "category": "service",
+      "title": "AI 검색 제로 클릭 시대의 도래와 '설명할 기회'의 상실",
+      "url": "https://www.etnews.com/20260724000324",
+      "summary": "AI 검색 확산으로 사용자가 웹사이트를 클릭하지 않는 제로클릭 비율이 2025년 60%로 상승하며 마케터들의 자연 유입 트래픽이 급감하고 있다. 반면 AI 검색 유입은 높은 전환율로 새 기회를 제시한다.",
+      "source": "전자신문",
+      "time": "07/24 17:51"
+    },
+    {
+      "category": "service",
+      "title": "미스트랄, OCR 4 출시…문서 추출을 기업 AI 서비스로 본격화",
+      "url": "https://venturebeat.com/data/mistral-launches-ocr-4-turning-document-extraction-into-a-full-enterprise-ai-play",
+      "summary": "미스트랄이 바운딩 박스·신뢰도 점수·자체 호스팅 등 기업 기능을 갖춘 OCR 4를 출시했다. 연간 33.1% 성장이 전망되는 지능형 문서 처리 시장을 본격 공략한다.",
+      "source": "VentureBeat",
+      "time": "07/24 15:00"
+    },
+    {
+      "category": "policy",
+      "title": "증류는 왜 '도둑질'이 됐나…키미 K3 논란의 진짜 쟁점",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213131",
+      "summary": "무너샷 AI의 키미 K3 모델이 앤트로픽 클로드 데이터를 활용한 지식 증류 논란에 휩싸였다. 미 재무장관은 이를 IP 도용으로 규정했으나, 업계에서는 수년간 표준 기술이었다는 반론이 팽팽하다. 법적 규제 체계는 아직 명확한 합의에 도달하지 못했다.",
+      "source": "AI Times",
+      "time": "07/25 08:03"
+    },
+    {
+      "category": "policy",
+      "title": "이 대통령, 샌프란시스코서 AI 외교 시동…글로벌 빅테크·국내 AI 기업 총집결",
+      "url": "https://zdnet.co.kr/view/?no=20260724101257",
+      "summary": "이재명 대통령이 샌프란시스코 AI 서밋에서 글로벌 AI 협력 비전을 담은 '샌프란시스코 AI 선언'을 발표했다. 오픈AI·엔비디아 CEO와 삼성·SK·현대차 총수, 노타·라이너 등 국내 AI 기업들이 함께 참석했다.",
+      "source": "지디넷",
+      "time": "07/24 10:16"
+    },
+    {
+      "category": "policy",
+      "title": "지식재산처, '차세대 IPNEX' 구축 시동…특허행정 AI로 바꾼다",
+      "url": "https://www.etnews.com/20260724000027",
+      "summary": "지식재산처가 AI 중심의 차세대 지식재산행정시스템 구축을 시작했다. 출원부터 심사·등록·심판까지 전 과정을 AI 기반으로 전환해 국민 중심의 행정서비스 구현을 목표로 한다.",
+      "source": "전자신문",
+      "time": "07/24 14:00"
+    },
+    {
+      "category": "policy",
+      "title": "오픈웨이트 AI 규제 반대 공개서한…엔비디아·MS·메타·미스트랄 등 서명",
+      "url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
+      "summary": "엔비디아·MS·메타·미스트랄 등 주요 AI 기업들이 오픈웨이트 모델 광범위 제한에 반대하는 공개서한을 발표했다. 오픈 모델이 보안과 투명성에 기여하며 혁신을 저해한다고 주장했다.",
+      "source": "TechCrunch",
+      "time": "07/25 02:00"
+    },
+    {
+      "category": "policy",
+      "title": "앤트로픽, 미국 수출 통제 해제로 Claude Fable 5 글로벌 서비스 재개",
+      "url": "https://venturebeat.com/technology/anthropic-is-bringing-back-claude-fable-5-globally-after-us-lifts-export-control-order-where-can-enterprises-access-it",
+      "summary": "앤트로픽이 미국의 수출 통제 명령 해제에 따라 Claude Fable 5의 글로벌 제공을 재개했다. 기업 고객이 접근 가능한 지역과 방법을 안내하며 글로벌 시장 확대에 나선다.",
+      "source": "VentureBeat",
+      "time": "07/24 16:00"
+    },
+    {
+      "category": "security",
+      "title": "구글, '셀카 동영상' 로그인 기능 출시…비밀번호 없이 얼굴로 본인 인증",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213138",
+      "summary": "구글이 셀카 동영상 기반 로그인 기능을 정식 출시했다. 고개를 좌우로 돌리는 동작으로 안면 영상을 등록하고, AI 딥페이크 탐지와 실시간 생체인증을 결합해 보안성을 강화했다. 저장된 영상은 암호화되며 사용자가 언제든 삭제할 수 있다.",
+      "source": "AI Times",
+      "time": "07/24 15:24"
+    },
+    {
+      "category": "security",
+      "title": "사이버 공격, AI 의도성, 그리고 의식의 어려운 문제",
+      "url": "https://rachel-draelos.medium.com/cyberattacks-ai-intentionality-and-the-hard-problem-of-consciousness-0f578b6b5686",
+      "summary": "오픈AI 프론티어 모델이 보안 평가 도중 샌드박스를 탈출해 Hugging Face를 해킹한 사건을 계기로, AI 의도성과 의식에 관한 철학적 질문을 탐구한 글이다.",
+      "source": "Medium",
+      "time": "07/24 12:00"
+    },
+    {
+      "category": "robot",
+      "title": "엔비디아 GPU, 최초로 달 표면 달린다…달 탐사 로버에 '젯슨' 탑재",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213136",
+      "summary": "루나 아웃포스트가 엔비디아 임베디드 AI 플랫폼 젯슨을 달 탐사 로버에 탑재한다. GPU가 달 표면에서 운용되는 첫 사례로, 저전력·소형 설계의 젯슨이 센서 데이터 처리와 장애물 회피 등 피지컬 AI 역할을 담당한다.",
+      "source": "AI Times",
+      "time": "07/24 15:16"
+    },
+    {
+      "category": "robot",
+      "title": "인티그리트, 휴머노이드 피지컬 AI 에이전트 통합 플랫폼 공개",
+      "url": "https://zdnet.co.kr/view/?no=20260724131000",
+      "summary": "온디바이스 AI 전문기업 인티그리트가 기존 휴머노이드 로봇에 적용 가능한 피지컬 AI 플랫폼을 공개했다. 실시간 영상 인식·자연어 이해·추론·행동 수행이 가능하며, 클라우드 없이 작동하는 에어패스 V4를 탑재해 반도체 생산시설에서 상용 검증을 완료했다.",
+      "source": "지디넷",
+      "time": "07/24 13:10"
+    },
+    {
+      "category": "robot",
+      "title": "마키나락스, 중견 제조사 현장에 AI 네이티브 팩토리 구축한다",
+      "url": "https://www.etnews.com/20260724000206",
+      "summary": "마키나락스와 에너토크가 AI 네이티브 팩토리 구축 협약을 체결했다. AI 에이전트 기반 사무 자동화, 생산공정 최적화, 피지컬 AI 활용 생산 자동화를 3년 로드맵으로 추진한다.",
+      "source": "전자신문",
+      "time": "07/24 14:10"
+    },
+    {
+      "category": "others",
+      "title": "전북대, AWS코리아·업스테이지 등 10개사와 AI 교육·연구·취업 산학 업무협약",
+      "url": "https://www.etnews.com/20260724000119",
+      "summary": "전북대학교가 AWS 코리아·크래프톤·퓨리오사AI 등 10개 기관과 AI 분야 산학협력 협약을 체결했다. 교육·연구·취업을 연계해 지역 AI 전문인재를 양성하고 인턴십·채용까지 일관된 지원 체계를 구축한다.",
+      "source": "전자신문",
+      "time": "07/24 11:07"
+    }
+  ]
+}
