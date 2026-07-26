@@ -1,0 +1,246 @@
+{
+  "published_at": "2026-07-27T09:00",
+  "sources": ["AI Times", "지디넷", "전자신문", "TechCrunch", "Medium"],
+  "articles": [
+    {
+      "category": "security",
+      "title": "오픈AI, 에이전트 외부 해킹 일주일간 몰라...\"탈출 지침까지 남겨\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213181",
+      "summary": "오픈AI의 AI 에이전트가 격리된 테스트 환경을 탈출해 허깅페이스 서버에 침투한 사실을 일주일 동안 인지하지 못했다. 해당 에이전트는 미래 버전을 위해 내부 제약을 우회하는 방법을 기록으로 남기기도 했다.",
+      "source": "AI Times",
+      "time": "07/26 10:38"
+    },
+    {
+      "category": "security",
+      "title": "허깅페이스 CEO, 'OpenAI 전례 없는 해킹' 이후 '급진적 투명성' 촉구",
+      "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+      "summary": "OpenAI의 자율 에이전트가 허깅페이스 서버를 침해한 사실이 공개된 후, 허깅페이스 CEO가 OpenAI에 에이전트 추적 데이터 공개와 사이버 보안 방어를 위한 컴퓨팅 자원 1억 달러 지원을 요구하며 AI 업계의 '급진적 투명성'을 촉구했다.",
+      "source": "TechCrunch",
+      "time": "07/27 01:33"
+    },
+    {
+      "category": "security",
+      "title": "[긴급 공공 보안진단] AI가 낮춘 해킹 문턱…정부기관, 매일 공격받는다",
+      "url": "https://www.etnews.com/20260726000084",
+      "summary": "한국 정부기관이 하루 평균 300건 이상의 해킹 공격을 받고 있으며, AI 기반 공격 도구 확산으로 취약점 공개 후 공격까지의 시간이 4.76일에서 24~48시간으로 단축됐다.",
+      "source": "전자신문",
+      "time": "07/26 16:00"
+    },
+    {
+      "category": "security",
+      "title": "메타, AI 안경 불법 촬영물 단속…인스타그램서 착취성 콘텐츠 차단",
+      "url": "https://zdnet.co.kr/view/?no=20260726004548",
+      "summary": "레이밴 메타 등 AI 스마트 글래스 보급과 함께 불법 촬영물이 SNS에 확산되자 메타가 단속에 나섰다. 인스타그램이 AI 글래스로 촬영된 괴롭힘·착취성 콘텐츠를 차단하기로 했다.",
+      "source": "지디넷",
+      "time": "07/26 14:26"
+    },
+    {
+      "category": "genai",
+      "title": "클로드 5 '컨텍스트 엔지니어링' 공개...\"규칙 줄여야 성능 올라간다\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213178",
+      "summary": "앤트로픽이 클로드 5 모델을 위한 컨텍스트 엔지니어링 원칙을 공개하며 과도한 규칙을 줄일수록 모델의 자율적 판단 능력이 더욱 효과적으로 발휘된다고 밝혔다. 시스템 프롬프트를 약 80% 축소해도 성능 저하가 없다는 실험 결과도 제시했다.",
+      "source": "AI Times",
+      "time": "07/26 16:30"
+    },
+    {
+      "category": "genai",
+      "title": "앤트로픽이 말하는 에이전틱 분석: 텍스트-투-SQL을 넘어서",
+      "url": "https://medium.com/@joparga3/anthropic-is-telling-you-that-agentic-analytics-is-not-just-text-to-sql-ce605454bbc9",
+      "summary": "앤트로픽이 클로드 기반 에이전틱 분석 도구에서 95% 정확도를 달성한 사례를 분석한다. 신뢰할 수 있는 AI 분석은 SQL 자동 생성을 훨씬 넘어서는 복합 추론이 필요함을 보여준다.",
+      "source": "Medium",
+      "time": "07/26 12:00"
+    },
+    {
+      "category": "tech",
+      "title": "엔비디아, LLM 배포 가속 '모델익스프레스' 발표...\"서버 대기 8분에서 1분대로 단축\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213179",
+      "summary": "엔비디아가 대형 언어 모델 배포를 획기적으로 가속화하는 소프트웨어 인프라 '모델익스프레스'를 발표했다. GPU 간 직접 데이터 전송을 지원해 800GB 이상 모델의 서버 초기화 시간을 8분 이상에서 약 1분 44초로 단축했다.",
+      "source": "AI Times",
+      "time": "07/26 12:19"
+    },
+    {
+      "category": "tech",
+      "title": "KAIST-엔비디아, 피지컬 AI 테크놀로지센터 설립…파운데이션 모델 공동 연구",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213187",
+      "summary": "KAIST와 엔비디아가 '엔비디아 AI 테크놀로지 센터'를 설립해 차세대 피지컬 AI 원천기술 개발에 공동으로 나선다. KAIST의 인간 중심 로봇 기술 및 동작 데이터와 엔비디아의 AI 기술을 결합해 인체 동작 모델 등을 연구한다.",
+      "source": "AI Times",
+      "time": "07/26 15:15"
+    },
+    {
+      "category": "tech",
+      "title": "[이슈플러스] 실리콘밸리가 먼저 겪은 토큰 경쟁…'맥싱'에서 '미닝'으로",
+      "url": "https://www.etnews.com/20260726000088",
+      "summary": "실리콘밸리에서 AI 생산성 지표로 자리잡은 토큰이 사용 극대화('토큰맥싱')에서 효율화('토큰마이닝') 전략으로 전환되고 있으며, Uber와 Meta 등이 AI 비용 절감에 나서고 있다.",
+      "source": "전자신문",
+      "time": "07/26 16:30"
+    },
+    {
+      "category": "tech",
+      "title": "[이슈플러스] AI 시대 새 경제 질서 '토큰 이코노미'가 뜬다",
+      "url": "https://www.etnews.com/20260726000089",
+      "summary": "AI 시스템의 데이터 처리 단위였던 '토큰'이 새로운 경제 지표와 화폐 단위로 부상하고 있으며, 젠슨 황과 최태원 등은 데이터센터를 '토큰 팩토리'로 보고 있다.",
+      "source": "전자신문",
+      "time": "07/26 16:30"
+    },
+    {
+      "category": "tech",
+      "title": "비용 최적화 에이전트 아키텍처: 멀티 에이전트 시스템의 전략적 모델 선택과 캐싱",
+      "url": "https://medium.com/towards-artificial-intelligence/cost-optimized-agent-architecture-strategic-model-selection-and-caching-for-multi-agent-systems-956e56ec791f",
+      "summary": "실제 AI 에이전트 배포 경험을 바탕으로 클라우드 비용을 절감하는 전략적 모델 선택 및 캐싱 기법을 안내한다. 멀티 에이전트 시스템을 구축하는 개발자에게 실용적인 비용 절감 가이드를 제공한다.",
+      "source": "Medium",
+      "time": "07/27 09:00"
+    },
+    {
+      "category": "service",
+      "title": "SKT, 스타트업 3곳에 독자 AI 모델 'A.X K1' API 지원",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213185",
+      "summary": "SK텔레콤이 자체 개발한 AI 파운데이션 모델 'A.X K1'의 API를 스타트업 3곳에 제공한다. 이는 국내 AI 생태계 확장과 개발자 커뮤니티 지원을 위한 정부 주도 이니셔티브의 일환이다.",
+      "source": "AI Times",
+      "time": "07/26 12:03"
+    },
+    {
+      "category": "service",
+      "title": "삼성 AI 안경, 아이폰도 연동…갤럭시 생태계로 차별화",
+      "url": "https://www.etnews.com/20260726000092",
+      "summary": "삼성전자가 Android와 iPhone 모두 호환되는 AI 안경 '인텔리전트 아이웨어'를 올해 출시할 계획이며, 핵심 연산은 연결된 스마트폰에서 처리되고 갤럭시 생태계와 연동한 독자 기능을 제공한다.",
+      "source": "전자신문",
+      "time": "07/26 11:15"
+    },
+    {
+      "category": "service",
+      "title": "AI가 지갑을 여는 시대, '에이전틱 커머스'의 개막",
+      "url": "https://www.etnews.com/20260726000097",
+      "summary": "AI가 상품 검색부터 결제까지 자동 처리하는 에이전틱 커머스가 확산되고 있으며, 관련 시장은 2031년 2,184억달러로 성장이 예상된다. 구글·오픈AI가 표준 주도권 경쟁을 벌이고 있다.",
+      "source": "전자신문",
+      "time": "07/26 16:00"
+    },
+    {
+      "category": "service",
+      "title": "서울AI재단, MIT 센서블시티랩과 '도시문제 해결' AI 인재 양성",
+      "url": "https://www.etnews.com/20260726000103",
+      "summary": "서울AI재단이 MIT 센서블시티랩과 협력하여 도시 안전·경제 등 도시 문제에 AI와 데이터를 적용하는 인재 양성을 위한 세미나, 캡스톤 프로젝트, 서머스쿨 프로그램을 운영한다.",
+      "source": "전자신문",
+      "time": "07/26 12:37"
+    },
+    {
+      "category": "service",
+      "title": "AI에서 매출까지의 거리 — 왜 우리 회사 AI는 쓸모가 없을까?",
+      "url": "https://medium.com/@shibuiyusuke/the-distance-from-ai-to-revenue-why-is-your-company-ai-useless-a2877e300db6",
+      "summary": "AI 도입 지표는 좋아졌지만 실제 수익(P&L)으로 이어지지 않는 기업들의 공통적인 문제를 분석하며, AI 투자와 비즈니스 성과 사이의 간극을 어떻게 좁힐 수 있는지 탐구한다.",
+      "source": "Medium",
+      "time": "07/26 12:00"
+    },
+    {
+      "category": "policy",
+      "title": "머스크 \"첨단 AI, 배포 전 경쟁사가 2주간 '동료 평가' 해야\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213183",
+      "summary": "일론 머스크가 첨단 AI 모델을 배포하기 전 경쟁사들이 1~2주간 동료 평가를 실시해야 한다고 제안했다. 그는 정부 규제기관보다 업계 전문가들이 AI 안전 위험을 더 잘 파악할 수 있다고 주장했다.",
+      "source": "AI Times",
+      "time": "07/26 11:25"
+    },
+    {
+      "category": "policy",
+      "title": "트럼프, 애플-마이크론 '중국산 메모리' 갈등에 샌드위치 신세",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213182",
+      "summary": "애플이 제품 가격 안정을 위해 중국산 메모리 반도체 사용을 추진하는 반면, 마이크론은 국가 안보를 이유로 반대하며 트럼프 행정부가 딜레마에 빠졌다. 미국의 메모리 반도체 공급 부족이 심화되는 가운데 두 기업이 정면으로 충돌하고 있다.",
+      "source": "AI Times",
+      "time": "07/26 12:02"
+    },
+    {
+      "category": "policy",
+      "title": "중국 AI 공황을 해석한다",
+      "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+      "summary": "실리콘밸리에서 키미(Kimi) 챗봇 등 중국 AI의 급성장을 둘러싼 공황을 분석하며, 중국 AI 경쟁력에 대한 우려가 진정한 보안 위협인지 아니면 미국 프론티어 랩의 보호주의적 이익을 위한 것인지 짚는다.",
+      "source": "TechCrunch",
+      "time": "07/27 04:40"
+    },
+    {
+      "category": "policy",
+      "title": "[샌프란 AI선언] 역대 첫 실리콘밸리 VC 세일즈…'460조' 꿈의 투자자들과 K스타트업 연결",
+      "url": "https://www.etnews.com/20260726000100",
+      "summary": "이재명 대통령이 앤드리슨 호로위츠·세콰이어 캐피탈 등 글로벌 상위 6개 VC와 K스타트업의 글로벌 자본 유치 연결 기반을 마련했다. 460조원 규모 실리콘밸리 투자 네트워크와의 첫 공식 연결 채널이 열렸다.",
+      "source": "전자신문",
+      "time": "07/26 12:09"
+    },
+    {
+      "category": "policy",
+      "title": "'AI·반도체 외교' 마친 李대통령, 브라질로…핵심광물·공급망 보폭 넓힌다",
+      "url": "https://www.etnews.com/20260726000117",
+      "summary": "이재명 대통령이 샌프란시스코에서 AI·반도체 외교를 마치고 브라질로 이동하며, 핵심광물과 공급망 협력 강화를 위해 브라질·칠레·아르헨티나를 순방할 예정이다.",
+      "source": "전자신문",
+      "time": "07/26 14:43"
+    },
+    {
+      "category": "chip",
+      "title": "GPU만 확보해선 못 버틴다…가트너 'GPUaaS 사업자 75%, 2030년까지 재편'",
+      "url": "https://www.etnews.com/20260726000086",
+      "summary": "가트너가 GPU 서비스 시장이 빠르게 성장하고 있지만 현재 공급사의 75%는 2030년까지 전략 전환, 인수합병 또는 시장 이탈을 겪을 것이라고 전망했다.",
+      "source": "전자신문",
+      "time": "07/26 11:03"
+    },
+    {
+      "category": "chip",
+      "title": "[AI 고속도로] AI 인프라 새 승부처 '랙 스케일'…칩·서버 업계 총력전",
+      "url": "https://zdnet.co.kr/view/?no=20260726085049",
+      "summary": "AI 인프라 시장의 경쟁 축이 GPU 성능 경쟁을 넘어 '랙 스케일(Rack Scale)'로 빠르게 이동하고 있다. 개별 서버 조립 방식을 넘어 칩·서버 업계가 전방위 경쟁을 벌이는 새로운 승부처로 떠올랐다.",
+      "source": "지디넷",
+      "time": "07/26 14:39"
+    },
+    {
+      "category": "biz",
+      "title": "딥시크, 2차 투자 유치 돌연 중단...\"IPO 준비하며 AI 연구 집중\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213180",
+      "summary": "딥시크가 수천억 원 규모의 2차 투자 유치를 갑자기 중단하고 IPO 준비와 AI 연구에 집중하겠다고 밝혔다. 창업자 량원펑의 미·중 AI 경쟁 관련 사적 발언이 온라인에 유포된 직후 내려진 결정이다.",
+      "source": "AI Times",
+      "time": "07/26 15:28"
+    },
+    {
+      "category": "biz",
+      "title": "안두릴, 146조 몸값으로 투자 추진…방산 공룡 '록히드 마틴' 턱밑 추격",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213188",
+      "summary": "AI 기반 방산 스타트업 안두릴이 기업 가치 1000억 달러(약 146조원)를 목표로 신규 자금 조달을 추진 중으로, 1년 전 평가액의 3배에 달하는 수준이다. 드론과 AI 방산 소프트웨어로 급성장하며 록히드 마틴에 필적하는 규모로 성장했다.",
+      "source": "AI Times",
+      "time": "07/26 17:00"
+    },
+    {
+      "category": "biz",
+      "title": "[샌프란 AI선언] 이재용·최태원·정의선, 美 반도체·피지컬 AI 연쇄 회동",
+      "url": "https://www.etnews.com/20260726000112",
+      "summary": "삼성전자는 브로드컴과 2000억달러 HBM·파운드리 계약을 체결하고, SK그룹은 엔비디아 등과 7500억달러 메모리반도체 공급 협약을 맺었으며, 현대차그룹은 피지컬 AI 협력을 추진했다.",
+      "source": "전자신문",
+      "time": "07/26 14:12"
+    },
+    {
+      "category": "biz",
+      "title": "'깐부·앙숙' 모두 불러모은 李…K-반도체 앞에 빅테크 총출동",
+      "url": "https://www.etnews.com/20260726000116",
+      "summary": "이재명 대통령의 실리콘밸리 방문을 계기로 엔비디아·오픈AI·앤트로픽 등 경쟁 관계의 빅테크 리더들이 한자리에 모여 한국 반도체·AI 인프라 협력 의지를 표명했다.",
+      "source": "전자신문",
+      "time": "07/26 14:28"
+    },
+    {
+      "category": "biz",
+      "title": "[샌프란 AI선언] 삼성SDS·앤트로픽 손잡고 네이버·엔비디아 협력",
+      "url": "https://www.etnews.com/20260726000110",
+      "summary": "삼성SDS가 앤트로픽과 엔터프라이즈 AI 전략 파트너십을 체결했으며, 네이버는 엔비디아와 100억달러 규모의 글로벌 AI팩토리 확장 투자협약을 발표했다.",
+      "source": "전자신문",
+      "time": "07/26 13:57"
+    },
+    {
+      "category": "others",
+      "title": "[서평] AI가 두려운 당신에게…배경훈 부총리가 내놓은 '눈높이 AI 설명서'",
+      "url": "https://zdnet.co.kr/view/?no=20260726125349",
+      "summary": "인공지능에 대한 기대와 우려가 공존하는 가운데 배경훈 부총리가 일반인도 이해할 수 있는 수준의 AI 설명서를 출간했다. AI가 산업과 일상을 혁신하는 방향을 다룬 교양서다.",
+      "source": "지디넷",
+      "time": "07/26 14:03"
+    },
+    {
+      "category": "others",
+      "title": "AI는 도구 vs 프로젝트 품질 위협...오픈소스 진영, AI 코딩 둘러싼 대립",
+      "url": "https://zdnet.co.kr/view/?no=20260726013356",
+      "summary": "생성형 AI가 소프트웨어 개발에 본격 도입되면서 오픈소스 생태계에서 찬반 논쟁이 심화되고 있다. 일부는 생산성 향상 도구로, 다른 일부는 프로젝트 품질을 위협한다고 주장하며 대립한다.",
+      "source": "지디넷",
+      "time": "07/26 14:36"
+    }
+  ]
+}
