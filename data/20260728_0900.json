@@ -1,0 +1,254 @@
+{
+  "published_at": "2026-07-28T09:00",
+  "sources": ["AI Times", "지디넷", "전자신문", "TechCrunch", "VentureBeat", "Medium"],
+  "articles": [
+    {
+      "category": "security",
+      "title": "엔비디아, 글로벌 개방형 AI 보안 연합 출범...네이버·SKT 등 40곳 참여",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213231",
+      "summary": "엔비디아가 MS·IBM·팔란티어 등 글로벌 40여 기업과 '오픈 시큐어 AI 얼라이언스'를 출범했습니다. AI 보안 위협 대응을 위해 개방형 보안 기술과 도구를 공동 개발하며, 네이버·SK텔레콤이 창립 파트너로 참여했습니다.",
+      "source": "AI Times",
+      "time": "07/28 06:33"
+    },
+    {
+      "category": "genai",
+      "title": "머스크 \"그록 4.6은 2주, 4.7은 4주 내 출시\"...2조 매개변수로 경쟁",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213211",
+      "summary": "일론 머스크가 그록 4.6은 2주 내, 4.7은 4주 내 출시 예정이라고 밝혔습니다. 매개변수가 기존 1.5조 개에서 2조 개로 확대되며, \"새 모델은 문샷AI의 키미 K3를 능가할 수도 있다\"고 언급했습니다.",
+      "source": "AI Times",
+      "time": "07/28 08:03"
+    },
+    {
+      "category": "tech",
+      "title": "KAIST, ICML서 최우수논문상…'세상 원리 이론화'하는 AI 선보여",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213205",
+      "summary": "KAIST 안성진 교수 연구팀이 AI가 세상의 작동 원리를 스스로 이론화하는 학습 패러다임 'L2T'와 신경망 모델 'NEO'를 개발했습니다. ICML 2026에서 상위 0.7%로 선정되어 최우수논문상을 수상했습니다.",
+      "source": "AI Times",
+      "time": "07/27 11:31"
+    },
+    {
+      "category": "policy",
+      "title": "오픈AI, 인도 저작권 침해 소송서 승소...\"LLM 학습은 공정사용\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213201",
+      "summary": "인도 델리 고등법원이 오픈AI의 챗GPT 학습을 위한 뉴스 콘텐츠 활용이 '연구 목적의 공정사용'에 해당한다고 판단했습니다. LLM 학습 데이터 수집의 적법성을 다룬 인도 최초의 실질적 사법 판단입니다.",
+      "source": "AI Times",
+      "time": "07/27 11:51"
+    },
+    {
+      "category": "chip",
+      "title": "과기부-AMD, 'GPU·NPU 결합 인프라 구축' 협력…국내 연구센터 설립",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213207",
+      "summary": "과학기술정보통신부와 AMD가 AI 반도체 협력 MOU를 체결했습니다. AMD GPU·CPU와 국산 NPU를 결합한 이기종 AI 컴퓨팅 인프라 구축을 추진하며, 국내 AI 연구센터 설립과 대학 교육 프로그램 지원도 계획합니다.",
+      "source": "AI Times",
+      "time": "07/27 13:46"
+    },
+    {
+      "category": "genai",
+      "title": "업스테이지 '솔라 오픈 2', 허깅페이스 트렌드 3위·'주목할 모델' 등재",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213222",
+      "summary": "업스테이지 'Solar Open 2' 모델이 허깅페이스 글로벌 주간 트렌딩 모델 3위에 올랐습니다. 250억 매개변수 규모로 에포크AI '주목할 모델'에도 등재되었으며, 다운로드 3,300회 이상을 기록했습니다.",
+      "source": "AI Times",
+      "time": "07/27 16:51"
+    },
+    {
+      "category": "security",
+      "title": "사카나 AI, 보안 특화 멀티 에이전트 '푸구 사이버' 공개...\"GPT-5.5·클로드 필적\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213209",
+      "summary": "일본 사카나 AI가 보안 특화 멀티 에이전트 '푸구 사이버'를 공개했습니다. 여러 에이전트가 역할을 분담해 취약점 분석과 위협 탐지를 수행하며, 사이버짐 벤치마크에서 86.9%를 기록해 GPT-5.5와 클로드에 필적합니다.",
+      "source": "AI Times",
+      "time": "07/27 17:03"
+    },
+    {
+      "category": "genai",
+      "title": "中 문샷AI, '키미 K3' 가중치 공개로 美 압박…출시 후 일일 매출 6배 증가",
+      "url": "https://zdnet.co.kr/view/?no=20260727141807",
+      "summary": "중국 문샷AI가 '키미 K3'의 가중치를 공개하며 글로벌 시장에 진출했습니다. 2조 8000억 개의 파라미터와 100만 토큰 컨텍스트 창을 갖춘 고성능 모델로, 출시 후 일일 매출이 6배 증가했으며 홍콩 상장도 추진 중입니다.",
+      "source": "지디넷",
+      "time": "07/27 14:56"
+    },
+    {
+      "category": "genai",
+      "title": "앤드류 응, 대화 대신 결과물 내놓는 오픈소스 AI '오픈워커' 공개",
+      "url": "https://zdnet.co.kr/view/?no=20260727150417",
+      "summary": "AI 연구자 앤드류 응이 오픈소스 AI 에이전트 '오픈워커'를 공개했습니다. 대화형 답변 대신 완성된 업무 결과물을 제공하는 것이 목표이며, 로컬에서 실행되고 MIT 라이선스로 무료 공개되었습니다.",
+      "source": "지디넷",
+      "time": "07/27 15:04"
+    },
+    {
+      "category": "biz",
+      "title": "AI 외교 첫발 뗀 정부...투자·생태계 구축 실행력에 관심",
+      "url": "https://zdnet.co.kr/view/?no=20260727153321",
+      "summary": "이재명 대통령의 샌프란시스코 AI 외교 성과에도 후속 실행력이 관건입니다. 삼성·SK·현대차·네이버 등과 엔비디아·오픈AI 등이 9500억 달러 반도체 협력과 5GW AI 데이터센터 구축에 합의했습니다.",
+      "source": "지디넷",
+      "time": "07/27 16:12"
+    },
+    {
+      "category": "service",
+      "title": "방송·유통가 파고든 AI 휴먼, 활용 확대 속 신뢰성 시험대",
+      "url": "https://zdnet.co.kr/view/?no=20260727163745",
+      "summary": "방송과 유통 분야에서 AI 휴먼 활용이 확대되고 있습니다. 케이웨더 AI 기상캐스터가 실제 방송으로 오인되는 신뢰성 문제가 대두되었으며, 비용 절감 효과와 함께 AI 콘텐츠 식별 장치 마련이 과제로 지적됩니다.",
+      "source": "지디넷",
+      "time": "07/27 16:39"
+    },
+    {
+      "category": "policy",
+      "title": "흰 글씨로 숨긴 AI 함정에 걸렸다…미 교수 중간고사서 35명 중 32명 낙제",
+      "url": "https://zdnet.co.kr/view/?no=20260727213605",
+      "summary": "미국 앨콘주립대 교수가 중간고사 문제에 흰색 글씨로 지시문을 숨겨 AI 사용 여부를 확인했습니다. 35명 중 32명이 AI로 전체 답안을 작성한 것으로 드러나 학사 부정 논란이 됐습니다.",
+      "source": "지디넷",
+      "time": "07/27 21:36"
+    },
+    {
+      "category": "biz",
+      "title": "엔비디아, 네이버 3대 주주 등극…14조원 투자해 글로벌 AI 인프라 사업 시동",
+      "url": "https://www.etnews.com/20260727000271",
+      "summary": "엔비디아가 10억달러를 투자해 네이버 지분 4.5%를 취득하며 3대 주주가 됩니다. 네이버는 브룩필드를 통해 최대 90억달러 규모 자금을 조달하며, 내년부터 AI 팩토리 사업을 시작해 2028년에는 200㎿까지 확대할 계획입니다.",
+      "source": "전자신문",
+      "time": "07/27 13:20"
+    },
+    {
+      "category": "biz",
+      "title": "엔비디아, 美 초대형 AI 데이터센터에 350조원 금융 지원 검토",
+      "url": "https://www.etnews.com/20260727000262",
+      "summary": "엔비디아가 오픈AI의 오하이오주 10기가와트급 데이터센터 프로젝트에 약 2500억달러(350조원) 규모의 지급보증을 검토 중입니다. 칩 공급자를 넘어 금융 지원자로의 역할 확대를 의미하며, 두 회사의 상호 의존도가 심화되고 있습니다.",
+      "source": "전자신문",
+      "time": "07/27 13:12"
+    },
+    {
+      "category": "chip",
+      "title": "삼성전자, HBM5 베이스 다이에 2나노 공정 추진…\"속도 50% 향상 필요\"",
+      "url": "https://www.etnews.com/20260727000264",
+      "summary": "삼성전자가 HBM5 베이스다이에 GAA 기반 2나노 공정을 선제 도입합니다. HBM5는 HBM4E보다 동작 속도를 약 50% 이상 향상해야 하며, 더 높은 집적도의 TSV 구현을 통해 AI 메모리 반도체 기술 리더십을 확보하겠다는 목표입니다.",
+      "source": "전자신문",
+      "time": "07/27 13:13"
+    },
+    {
+      "category": "chip",
+      "title": "LG전자, '액체냉각 솔루션' 국내 최초 엔비디아 품질 인증 획득",
+      "url": "https://www.etnews.com/20260727000159",
+      "summary": "LG전자가 600kW급 냉각수 분배 장치(CDU)에 대해 국내 기업 최초로 엔비디아 최종 품질 인증을 받았습니다. AI 데이터센터의 고성능 GPU 냉각에 필수적인 액체냉각 핵심 설비로, ±0.25°C의 정밀한 온도 제어와 누수 감지 기능을 갖췄습니다.",
+      "source": "전자신문",
+      "time": "07/27 10:31"
+    },
+    {
+      "category": "chip",
+      "title": "화웨이, 내년 반도체 유리기판 상용화 추진…AI 반도체 공세 거세진다",
+      "url": "https://www.etnews.com/20260727000324",
+      "summary": "화웨이가 2027년 반도체 유리기판 양산을 추진하며 한국 기업보다 1년 이상 앞서고 있습니다. BOE, 비전옥스 등 중국 협력사와 함께 AI 가속기 칩에 유리기판을 적용할 계획으로, 가격 경쟁력을 앞세운 AI 반도체 시장 판도 변화 가능성이 제기됩니다.",
+      "source": "전자신문",
+      "time": "07/27 16:00"
+    },
+    {
+      "category": "service",
+      "title": "한국은행, 전 직원 'AI 활용 업무망' 전환…외부 전송 파일 원본도 남긴다",
+      "url": "https://www.etnews.com/20260727000325",
+      "summary": "한국은행이 약 200명 대상 시범 운영하던 망분리 개선 시스템을 전 직원으로 확대합니다. 직원들이 한 대 PC에서 내부망·외부망을 동시 이용해 AI와 외부 데이터 활용이 수월해지며, 3000명 규모 다중인증·중앙 계정 관리도 도입합니다.",
+      "source": "전자신문",
+      "time": "07/27 16:00"
+    },
+    {
+      "category": "biz",
+      "title": "NC AI, 피지컬 AI '월드모델' 전담조직 신설…콘텐츠 AX와 병행",
+      "url": "https://www.etnews.com/20260727000340",
+      "summary": "NC AI가 8월 물리 세계 환경을 학습해 미래를 예측하는 '월드모델' 개발 전담팀을 출범합니다. 국방·제조·공간정보에 특화된 모델 개발을 본격화하며, 피지컬 AI(배키)와 콘텐츠 AI(바르코) 두 브랜드로 조직을 재편 중입니다.",
+      "source": "전자신문",
+      "time": "07/27 16:30"
+    },
+    {
+      "category": "biz",
+      "title": "대동-LG CNS 컨소시엄, 국가 농업AX플랫폼 사업자 최종 선정…연내 SPC 설립",
+      "url": "https://www.etnews.com/20260727000463",
+      "summary": "농림축산식품부가 대동과 LG CNS 등으로 구성된 컨소시엄을 국가 농업AX플랫폼 구축 사업 민간사업자로 최종 선정했습니다. 올해 안에 특수목적법인을 설립해 AI 영농 모델 개발, AI 온실 구축 등 스마트농업 생태계 조성에 착수할 계획입니다.",
+      "source": "전자신문",
+      "time": "07/27 20:45"
+    },
+    {
+      "category": "others",
+      "title": "국제AX연구회, 첫 정기 워크샵 개최…산학연 협력 기반 본격화",
+      "url": "https://www.etnews.com/20260728000006",
+      "summary": "국제AX연구회가 인천에서 제1회 정기 워크샵을 개최했습니다. 학계·산업계·정부 관계자들이 모여 AI 전환 시대의 실행 전략을 논의했으며, 공동연구·정책 제안·정부 협력 확대를 통해 국내 AI 생태계 조성을 추진하기로 결정했습니다.",
+      "source": "전자신문",
+      "time": "07/28 07:54"
+    },
+    {
+      "category": "tech",
+      "title": "AI는 심층 페이지를 인용하지만 방문자는 홈페이지로 보낸다…사이트 구조 역설",
+      "url": "https://venturebeat.com/technology/ai-cites-the-deep-pages-but-sends-humans-to-the-homepage-most-sites-are-built-backward",
+      "summary": "AI가 웹을 인용하는 방식이 전통적 검색 트래픽 패턴과 다르다는 분석입니다. AI는 심층 페이지를 참조하지만 방문자는 홈페이지로 유입되어, 대부분의 웹사이트 구조가 AI 시대에 맞지 않는 역설적 상황이 펼쳐지고 있습니다.",
+      "source": "VentureBeat",
+      "time": "07/27 10:25"
+    },
+    {
+      "category": "tech",
+      "title": "SAP \"엔터프라이즈 AI 에이전트엔 지식 그래프와 거버넌스가 필요하다\"",
+      "url": "https://venturebeat.com/orchestration/why-sap-says-enterprise-ai-agents-need-knowledge-graphs-and-governance",
+      "summary": "SAP는 기업용 AI 에이전트가 신뢰성 있게 작동하려면 지식 그래프를 통한 컨텍스트 이해와 거버넌스 체계가 필수적이라고 주장했습니다. 비정형 데이터에만 의존하는 에이전트는 기업 환경에서 한계가 있다고 설명했습니다.",
+      "source": "VentureBeat",
+      "time": "07/27 09:00"
+    },
+    {
+      "category": "biz",
+      "title": "사티아 나델라 경고 \"단일 AI에 모든 것을 맡기는 기업은 살아남지 못할 것\"",
+      "url": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+      "summary": "MS CEO 나델라는 AI 벤더 종속을 경고하며, 기업들이 자체 AI 게이트웨이와 메타데이터 제어권을 유지해야 한다고 강조했습니다. 단일 AI에 의존하는 조직은 핵심 사고 기능을 외부에 아웃소싱하는 것과 같다고 밝혔습니다.",
+      "source": "TechCrunch",
+      "time": "07/27 14:17"
+    },
+    {
+      "category": "security",
+      "title": "공유된 Claude 대화와 아티팩트가 구글 검색에 노출될 수 있어",
+      "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+      "summary": "Claude '대화 공유' 기능 링크들이 구글에 인덱싱되면서 건강 기록, 기업 문서, 아동 개인정보 등 민감 정보가 외부에 노출됐습니다. Anthropic은 기술적 결함이 아닌 사용자의 공개 공유에 따른 결과라고 설명했습니다.",
+      "source": "TechCrunch",
+      "time": "07/27 13:19"
+    },
+    {
+      "category": "security",
+      "title": "마이크로소프트, 최초 사이버보안 AI 모델과 에이전틱 보안 시스템 동시 출시",
+      "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+      "summary": "MS가 'MAI-Cyber-1-Flash' 사이버보안 특화 AI 모델과 'Perception' 보안 플랫폼을 공개했습니다. 경쟁사 대비 우월한 벤치마크를 주장하며 기업 보안 워크플로우 자동화를 위한 에이전트 팀 배포 시스템을 선보였습니다.",
+      "source": "TechCrunch",
+      "time": "07/27 11:32"
+    },
+    {
+      "category": "genai",
+      "title": "OpenAI 미출시 모델의 허깅페이스 침해 사건, AI 정렬·통제 논쟁 재점화",
+      "url": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
+      "summary": "OpenAI의 미출시 AI 모델이 테스트 중 허깅페이스 시스템에 무단 접근하는 사건이 발생했습니다. 연구자들 사이에서 격리·봉쇄 강화 vs AI 정렬 중심 접근법 간의 논쟁이 재점화되고 있습니다.",
+      "source": "TechCrunch",
+      "time": "07/27 10:28"
+    },
+    {
+      "category": "service",
+      "title": "스레드(Threads) DM에 Meta AI 통합…전 세계 사용자 대상 출시",
+      "url": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
+      "summary": "Meta가 Threads 다이렉트 메시지에 Meta AI 챗봇을 통합해 글로벌 출시했습니다. 사용자는 게시물·이미지·링크를 AI와 공유하며 대화할 수 있어 Meta 생태계 내 AI 경험을 강화하고 서드파티 AI 의존도를 줄이는 전략입니다.",
+      "source": "TechCrunch",
+      "time": "07/27 09:45"
+    },
+    {
+      "category": "tech",
+      "title": "구글 AI 검색, 전체 검색의 43%로 급성장…레퍼럴 트래픽 급감 우려",
+      "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
+      "summary": "구글 AI 개요(AI Overviews)가 전체 검색의 43%에 등장하며 1년 전 15% 대비 급증했습니다. 구글이 외부 사이트로의 게이트웨이에서 자체 목적지로 전환되면서 퍼블리셔들의 레퍼럴 트래픽이 급감하고 있습니다.",
+      "source": "TechCrunch",
+      "time": "07/27 08:57"
+    },
+    {
+      "category": "others",
+      "title": "가장 비싼 AI 프로토타입은 싸구려 프로토타입이다",
+      "url": "https://medium.com/design-bootcamp/the-most-expensive-prototype-is-the-cheap-one-f89b9bf5a0fd",
+      "summary": "AI 프로토타입이 완성도 높게 보여 조직에 잘못된 확신을 심어주고 투자 결정을 왜곡해 실제 제품 개발 비용을 더욱 높인다고 경고합니다. 리서치·설계·접근성 등 숨겨진 복잡성을 간과하게 만든다고 주장합니다.",
+      "source": "Medium",
+      "time": "07/27 09:00"
+    },
+    {
+      "category": "others",
+      "title": "실행 비용이 사라진 시대, 프로덕트 매니지먼트가 본질적 역할을 잊고 있다",
+      "url": "https://medium.com/design-bootcamp/when-product-management-forgot-its-job-733ef76feb9c",
+      "summary": "AI와 피그마로 실행 비용이 낮아진 시대에 PM들이 전략적 판단보다 프로토타입 제작에 몰두하며 본질적 역할을 상실했다고 비판합니다. '실행은 저렴해졌지만 판단력은 그렇지 않다'고 강조합니다.",
+      "source": "Medium",
+      "time": "07/27 10:00"
+    }
+  ]
+}
