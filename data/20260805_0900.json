@@ -1,0 +1,398 @@
+{
+  "published_at": "2026-08-05T09:00",
+  "sources": ["AI Times", "지디넷", "전자신문", "TechCrunch", "VentureBeat"],
+  "articles": [
+    {
+      "category": "tech",
+      "title": "독파모 2차 평가 개막...SKT·LG·업스테이지·모티프 '4파전'",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213512",
+      "summary": "국내 AI 파운데이션 모델 경쟁 평가 2차전이 시작됐다. LG AI연구원 'K-엑사원 2.0'(7500억 매개변수), SKT 'A.X K2'(6880억) 등 4개 모델이 경쟁 중이며, 정부는 200명 규모 국민평가단 운영 후 12일 전후 결과를 발표할 예정이다.",
+      "source": "AI Times",
+      "time": "08/04 14:23"
+    },
+    {
+      "category": "tech",
+      "title": "\"AGI 넘어 RSI로\"…구글이 천문학적 AI 투자를 지속하는 이유",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213506",
+      "summary": "구글 딥마인드 최고전략책임자는 AI의 자기개선 능력인 재귀적 자기 개선(RSI)이 막대한 투자를 정당화하는 핵심 기술이라고 밝혔다. AI가 스스로 알고리즘을 개선하는 RSI는 2027~2028년 실현 가능성이 높다고 예상되며, 보안 위협 우려도 제기됐다.",
+      "source": "AI Times",
+      "time": "08/04 17:54"
+    },
+    {
+      "category": "tech",
+      "title": "AI 코딩 에이전트, 엔비디아 'CUDA' 장벽 넘는다... 10시간 만에 호환 SW 개발",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213508",
+      "summary": "구글 브레인 출신 연구원이 AI 코딩 에이전트를 활용해 약 10시간 만에 D-매트릭스용 CUDA 유사 소프트웨어를 개발했다. 수년이 소요되던 시스템 SW 개발이 단시간에 가능해지면서 엔비디아의 소프트웨어 장벽이 허물어지기 시작했다는 평가가 나온다.",
+      "source": "AI Times",
+      "time": "08/04 14:08"
+    },
+    {
+      "category": "tech",
+      "title": "턴 디텍터 없애고 추론 분리... 오픈AI가 밝힌 'GPT-라이브' 초저지연 비밀",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213525",
+      "summary": "오픈AI가 차례 기다리는 구조를 제거한 전이중 음성 AI 시스템 'GPT-라이브'의 기술적 원리를 공개했다. 음성 처리와 추론 기능을 분리하고 Go 언어 기반 시스템과 WebRTC를 활용해 지연 시간을 대폭 줄였으며, 프롬프트 캐싱으로 대화 단절 없는 추론을 구현했다.",
+      "source": "AI Times",
+      "time": "08/04 17:28"
+    },
+    {
+      "category": "tech",
+      "title": "AI가 커닝 페이퍼 보고 배우면 진짜 실력이 늘까",
+      "url": "https://zdnet.co.kr/view/?no=20260804214212",
+      "summary": "중국 징동 공동 연구진이 발표한 논문에 따르면, AI 학습 시 풀이 방향을 짚어주는 힌트를 제공하면 겉으로는 성능이 향상된 것처럼 보이지만 실제 능력 향상이 아닐 수 있다. 연구진이 제안한 DOPD 방식은 토큰마다 다른 학습 전략을 적용해 정답 전달보다 방향 제시가 더 효과적임을 입증했다.",
+      "source": "지디넷",
+      "time": "08/04 21:42"
+    },
+    {
+      "category": "tech",
+      "title": "오픈웨이트 AI 모델들이 프론티어에 근접하고 있다, 안전성 격차는 여전히 크다",
+      "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+      "summary": "중국 Z.ai의 GLM-5.2 오픈웨이트 모델이 GPT-5.5·Claude Opus 4.7 수준의 성능에 근접했지만, SaferAI 평가에서 사이버 공격·생물학 이중 사용 과제를 하나도 거부하지 않아 안전성 격차가 심각한 것으로 드러났다. 오픈 모델은 API 보호를 우회해 안전장치 제거가 가능해 위험하다.",
+      "source": "TechCrunch",
+      "time": "08/04 13:05"
+    },
+    {
+      "category": "genai",
+      "title": "\"AI 음성 말투·감정 자유자재로\"...카카오, 옴니 AI '카나나-오' 업데이트",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213520",
+      "summary": "카카오가 옴니 모델 '카나나-오'의 음성 생성 기술을 대폭 개선했다. 자연어 지시로 말투·감정·억양을 제어할 수 있으며, 자체 토크나이저 'LM-SPT' 적용으로 생성 속도와 효율이 향상됐다. 한국어 벤치마크에서 94.50점을 기록했다.",
+      "source": "AI Times",
+      "time": "08/04 15:58"
+    },
+    {
+      "category": "genai",
+      "title": "한국인이 쓰는 AI 지형 변화…챗GPT 이어 클로드 부상",
+      "url": "https://zdnet.co.kr/view/?no=20260804164526",
+      "summary": "국내 생성형 AI 서비스 이용 흐름에 변화가 나타났다. 챗GPT는 MAU 1645만명으로 1위를 유지하지만 증가세가 둔화됐다. 반면 클로드는 올해 초 15만명에서 142만명으로 10배 급증하며 성장세를 이어가고 있다. 퍼플렉시티, 그록 등 다른 글로벌 서비스와 국내 AI 서비스들은 이용자 감소세를 보였다.",
+      "source": "지디넷",
+      "time": "08/04 16:47"
+    },
+    {
+      "category": "genai",
+      "title": "[AI는 지금] 中 AI 4종 쏟아지자 가격 질서 '흔들'…美 모델업체 수익성 압박",
+      "url": "https://zdnet.co.kr/view/?no=20260804164333",
+      "summary": "중국 AI 기업들이 8주간 고성능 모델 4종을 연달아 출시하며 미국 최상위 모델과의 성능 격차를 좁혔다. 딥시크 V4 플래시는 클로드 페이블 5 대비 100분의 1 수준의 초저가 가격으로 제공되고 있다. 이로 인해 중간 성능 기업들이 '딥시크 죽음의 구역'에 직면하고 오픈AI, 앤트로픽의 수익성도 압박받고 있다.",
+      "source": "지디넷",
+      "time": "08/04 16:46"
+    },
+    {
+      "category": "genai",
+      "title": "Qwen3.8-Max 출시 — GPT-5.6 Sol Max와 Fable 5를 에이전틱 컴퓨터 사용 벤치마크에서 능가",
+      "url": "https://venturebeat.com/technology/qwen3-8-max-arrives-with-a-bold-claim-it-outperforms-gpt-5-6-sol-max-and-fable-5-on-agentic-computer-use",
+      "summary": "알리바바 Qwen팀이 새 플래그십 모델 Qwen3.8-Max를 공개했다. 에이전틱 컴퓨터 사용 벤치마크에서 GPT-5.6과 Fable 5를 능가하며, 10일 이상의 소프트웨어 프로젝트를 자율적으로 완성하는 능력을 갖췄다고 발표했다.",
+      "source": "VentureBeat",
+      "time": "08/04 08:50"
+    },
+    {
+      "category": "biz",
+      "title": "\"환멸의 골짜기 건너뛰었다\"...기업 AI 투자, '실험' 끝나고 ROI 시대로",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213511",
+      "summary": "기업들의 AI 도입이 초기 실험 단계를 벗어나 투자수익률(ROI) 중심으로 전환되고 있다. 벤처캐피털 노웨스트 분석에 따르면 기업들이 가트너의 '환멸의 골짜기'를 건너뛰어 실용화 단계로 진입했으며, 신제품 개발·시장 진출 속도 단축 등 상업적 성장에 집중하고 있다.",
+      "source": "AI Times",
+      "time": "08/04 13:02"
+    },
+    {
+      "category": "biz",
+      "title": "아마존, AI·클라우드 성장 힘입어 사상 첫 '시총 3조달러' 돌파",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213504",
+      "summary": "아마존이 AI 투자 확대와 AWS 클라우드 성장에 힘입어 시가총액 3조달러를 달성했다. 2분기 AWS 매출이 422억달러로 4년 만에 최고 성장률을 기록했으며, 올해 자본 지출을 2200억달러로 상향 조정해 지속적 투자 의지를 드러냈다.",
+      "source": "AI Times",
+      "time": "08/04 12:24"
+    },
+    {
+      "category": "biz",
+      "title": "팔란티어, 미 정부 군사 AI 도입 가속에 매출 전망 상향…주가 14% 급등",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213509",
+      "summary": "팔란티어가 정부·기업의 AI 수요 증가로 올해 매출 전망을 76억 달러에서 81억 달러로 상향 조정했다. 미국 정부 군사 부문 매출이 90% 급증한 8억 달러를 기록했고, 기업 부문은 149% 증가해 주가가 시간 외 거래에서 14% 급등했다.",
+      "source": "AI Times",
+      "time": "08/04 13:25"
+    },
+    {
+      "category": "biz",
+      "title": "오픈AI, 컴투스와 손잡고 세계 최초 'AI 게임 개발 해커톤' 연다",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213529",
+      "summary": "오픈AI가 컴투스 지원으로 8월 31일 서울에서 코덱스 기반 게임 개발 해커톤 '오픈AI 게임 빌더스 서울'을 개최한다. 5시간 내 게임 개발 도전 트랙 등이 운영되며, 우수팀에게는 최대 5만 달러 상당의 API 크레딧이 제공된다.",
+      "source": "AI Times",
+      "time": "08/04 17:05"
+    },
+    {
+      "category": "biz",
+      "title": "파리 생제르맹, 구글과 AI 파트너십...'제미나이' 공식 어시스턴트 도입",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213517",
+      "summary": "파리 생제르맹(PSG)이 구글과 2029년까지 프리미엄 파트너십을 체결했다. 구글 제미나이가 PSG 공식 AI 어시스턴트로 지정되어 콘텐츠 제작과 업무 혁신을 지원하며, 파르크 데 프랑스에 구글 스페이스도 조성된다.",
+      "source": "AI Times",
+      "time": "08/04 15:54"
+    },
+    {
+      "category": "biz",
+      "title": "코히어, 한·일 법인 세운다…'아태지역 소버린 AI 시장 정조준'",
+      "url": "https://zdnet.co.kr/view/?no=20260805103623",
+      "summary": "코히어가 한국과 일본에 현지 법인을 설립하며 아시아태평양 지역 투자를 확대한다. 연말까지 기술·사업 조직을 2배로 늘리고, 내년까지 사업 기반을 4배 확대할 계획이다. 금융, 제조, 에너지 등 규제가 엄격한 산업을 중심으로 소버린 AI 솔루션을 제공할 방침이다.",
+      "source": "지디넷",
+      "time": "08/05 10:36"
+    },
+    {
+      "category": "biz",
+      "title": "스페이스X, AI 매출 247% 급증…대규모 투자에 주가는 하락",
+      "url": "https://zdnet.co.kr/view/?no=20260805085734",
+      "summary": "스페이스X의 2분기 AI 부문 매출이 25억 6100만 달러로 전년 대비 3배 이상 증가했다. 영업손실은 49% 감소했으며 EBITDA는 흑자 전환했다. 다만 AI 인프라에 158억 달러를 투자하는 등 대규모 설비투자 부담으로 시간외 거래에서 주가는 7~8% 하락했다.",
+      "source": "지디넷",
+      "time": "08/05 08:57"
+    },
+    {
+      "category": "biz",
+      "title": "AMD, 데이터센터 매출 2배 급증…2분기 사상 최대 매출",
+      "url": "https://www.etnews.com/20260805000004",
+      "summary": "AMD가 2분기 매출 115억 달러를 기록하며 분기 사상 최대 실적을 달성했다. AI 인스팅트 칩 수요 급증으로 데이터센터 부문 매출이 67억 달러로 전년 동기 대비 107% 급증했으며, 3분기 전망치는 130억 달러다.",
+      "source": "전자신문",
+      "time": "08/05 07:38"
+    },
+    {
+      "category": "biz",
+      "title": "SKT 독파모 2차 모델은 '일하는 AI'…산업 현장서 실증",
+      "url": "https://www.etnews.com/20260804000234",
+      "summary": "SK텔레콤이 자체 개발한 AI 파운데이션 모델 'A.X K2'를 공개했다. 688억 개의 매개변수를 보유하며 전작 대비 성능이 32.2%p 향상, 제조·국방·바이오 등 산업 현장에서 스스로 계획하고 실행하는 소버린 AI를 목표로 한다.",
+      "source": "전자신문",
+      "time": "08/04 14:24"
+    },
+    {
+      "category": "biz",
+      "title": "Anthropic, AI 클라우드 스타트업 Volta와 100억 달러 규모 계약 체결",
+      "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+      "summary": "Anthropic이 AI 클라우드 스타트업 Volta와 6년간 100억 달러 규모의 컴퓨팅 공급 계약을 체결했다. Volta는 노르웨이에 133메가와트 규모 데이터센터를 구축하며 엔비디아의 최신 AI 칩 'Vera Rubin' 아키텍처를 활용한다.",
+      "source": "TechCrunch",
+      "time": "08/04 12:48"
+    },
+    {
+      "category": "biz",
+      "title": "엔비디아 주도 개방형 AI 산업 그룹, 결성 일주일 만에 120개사 참여",
+      "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
+      "summary": "엔비디아가 이끄는 Open Secure AI Alliance(OSAA)가 출범 일주일 만에 Adobe·Cisco·Intel·Microsoft·Visa 등 120개 이상 기업을 참여시키며 블랙햇 보안 컨퍼런스에서 AI 사이버보안 가이드라인 초안을 공개했다. Anthropic·OpenAI·Google은 아직 미참여 상태다.",
+      "source": "TechCrunch",
+      "time": "08/04 12:28"
+    },
+    {
+      "category": "biz",
+      "title": "일론 머스크, 테슬라 실적 발표 시간의 절반을 로봇·AI 이야기로 채워",
+      "url": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
+      "summary": "TechCrunch와 Hudson Labs의 7년치 테슬라 실적 발표 분석 결과, 머스크는 현재 발언의 약 50%를 AI·로보택시·FSD에 할애하고 있다. 2022년 15~20%에서 급증한 수치다. 반면 자동차·제조 관련 언급은 3분의 1 이하로 줄었다.",
+      "source": "TechCrunch",
+      "time": "08/04 08:20"
+    },
+    {
+      "category": "service",
+      "title": "이스트에이드 \"국내 최초 AI 요약 '줌', 버티컬 에이전트로 진화할 것\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213514",
+      "summary": "포털 '줌'을 운영하는 이스트에이드가 국내 최초 'AI 1초 요약' 기능을 탑재했다. LG AI연구원 'K-엑사원' 모델을 적용하고 검색과 AI 역할을 분리해 환각 오류를 줄였으며, 쇼핑·부동산 등 영역으로 버티컬 AI 에이전트로 확장할 계획이다.",
+      "source": "AI Times",
+      "time": "08/05 06:00"
+    },
+    {
+      "category": "service",
+      "title": "KT, 연세의료원과 의료 AI 데이터 고도화 나선다",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213528",
+      "summary": "KT와 연세의료원이 의료 데이터 표준화 및 AI 인프라 고도화를 위한 업무협약을 체결했다. 진료 결과·의료 영상·연구 데이터를 AI 활용 형태로 변환해 의료 AI 서비스 개발을 가속화하며, KT의 AX 플랫폼 기술과 의료원 전문성을 결합한다.",
+      "source": "AI Times",
+      "time": "08/04 16:36"
+    },
+    {
+      "category": "service",
+      "title": "LG CNS, 전국 14개 공항 AI 전환 청사진 그린다",
+      "url": "https://zdnet.co.kr/view/?no=20260805093504",
+      "summary": "LG CNS가 한국공항공사의 AI 마스터플랜 수립 사업을 수주했다. 김포·김해·제주 등 전국 14개 공항의 운영 효율화, 고객 서비스 혁신, 안전관리 체계 구축을 중심으로 50개 AI 혁신 과제를 추진한다. 음성으로 상황을 기록하면 AI 에이전트가 자동 보고서를 작성하는 안전관리 솔루션이 주요 서비스로 제시됐다.",
+      "source": "지디넷",
+      "time": "08/05 10:01"
+    },
+    {
+      "category": "service",
+      "title": "동남아 우버 그랩 'AI 썼더니 배송 30% 빨라졌다'",
+      "url": "https://zdnet.co.kr/view/?no=20260804203155",
+      "summary": "싱가포르의 슈퍼앱 그랩이 인공지능 도입으로 배송 속도를 30% 이상 개선했으며, 2분기 매출은 9억9700만 달러로 전년 동기 대비 22% 증가했다. 차량호출 서비스는 28% 성장했고, 올해 연간 실적 전망도 상향 조정했다.",
+      "source": "지디넷",
+      "time": "08/04 20:54"
+    },
+    {
+      "category": "service",
+      "title": "유통업계 파고든 AI…효율 높였지만 '눈속임' 문제는 우려",
+      "url": "https://zdnet.co.kr/view/?no=20260804174801",
+      "summary": "배달앱과 이커머스 플랫폼들이 상품 이미지 제작과 검수에 AI를 도입해 상품 출시 기간을 월 단위에서 주 단위로 단축했다. 그러나 실제 상품과 다른 이미지 노출, 소비자의 AI 활용 여부 인식 부족 등의 문제가 제기되고 있다.",
+      "source": "지디넷",
+      "time": "08/04 17:48"
+    },
+    {
+      "category": "service",
+      "title": "림피드, 딥테크 팁스 선정…3년간 15억원 R&D 자금 확보",
+      "url": "https://www.etnews.com/20260805000009",
+      "summary": "AI 펫 헬스케어 스타트업 림피드가 중기부 딥테크 팁스에 선정돼 3년간 15억 원을 지원받는다. 반려동물의 일상 행동을 영상으로 분석해 건강 상태 변화를 파악하는 AI 기술 개발이 핵심 과제다.",
+      "source": "전자신문",
+      "time": "08/05 08:07"
+    },
+    {
+      "category": "service",
+      "title": "스포티파이, Merlin 파트너십으로 AI 리믹스·커버 프로젝트 확대",
+      "url": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
+      "summary": "스포티파이가 3만여 독립 레이블을 대표하는 Merlin을 AI 뮤직 도구 파트너로 추가했다. 팬이 아티스트 동의 하에 AI로 커버·리믹스를 제작할 수 있으며, 아티스트에게는 크레딧과 수익이 보장된다. 유료 부가기능으로 출시 예정이다.",
+      "source": "TechCrunch",
+      "time": "08/04 08:50"
+    },
+    {
+      "category": "service",
+      "title": "Wrinkles 앱 출시: AI가 주변 장소의 숨겨진 이야기를 들려주다",
+      "url": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
+      "summary": "위치 기반 AI 오디오 가이드 앱 Wrinkles가 iOS·Android에 출시됐다. 177개국 130만 관심 장소에 대한 역사 이야기를 자동 내레이션으로 제공하며, 박물관·관광청 등 기관 파트너십으로 수익화한다. 사용자는 개인 기억과 사진을 특정 장소에 연결할 수도 있다.",
+      "source": "TechCrunch",
+      "time": "08/04 12:34"
+    },
+    {
+      "category": "service",
+      "title": "AI 코딩 에이전트, 예산을 초과하다 — Replit, Kilo Code, Symbotic의 비용 관리 전략",
+      "url": "https://venturebeat.com/orchestration/ai-coding-agents-are-blowing-through-budgets-replit-kilo-code-and-symbotic-explain-how-theyre-managing-it",
+      "summary": "Replit, Kilo Code, Symbotic의 엔지니어링 리더들이 AI 코딩 에이전트의 폭발적인 토큰 비용 관리법 공유. Kilo Code는 엔지니어 코딩 시간의 99%를 에이전트가 대체했으며, 비용 추적과 멀티모델 아키텍처가 핵심 전략으로 제시됨.",
+      "source": "VentureBeat",
+      "time": "08/05 02:16"
+    },
+    {
+      "category": "service",
+      "title": "Asana의 AI 에이전트, 회사 전체 메모리를 공유하지만 기밀은 지킨다",
+      "url": "https://venturebeat.com/orchestration/asanas-ai-agents-share-memory-across-your-company-but-not-your-secrets",
+      "summary": "Asana의 AI 에이전트가 기업 전체 메모리를 공유하면서도 M&A 같은 기밀 업무를 권한 없는 직원에게 노출되지 않게 하는 접근 제어 방식을 CPO가 공개. 민감 정보와 일반 지식의 경계 설계 원칙을 설명.",
+      "source": "VentureBeat",
+      "time": "08/04 08:14"
+    },
+    {
+      "category": "service",
+      "title": "커머스 AI의 측정 문제, 아무도 이야기하지 않는다",
+      "url": "https://venturebeat.com/technology/commerce-ai-has-a-measurement-problem-no-one-is-talking-about",
+      "summary": "대부분의 브랜드가 AI 기반 소비자 구매 여정의 변화를 느끼지만 그 규모와 위치를 파악하지 못하고 있음. 기존 분석 스택이 AI 커머스 전환에 대응하지 못하는 구조적 문제를 Rezolve Ai가 지적하며 해결책 제시.",
+      "source": "VentureBeat",
+      "time": "08/04 23:30"
+    },
+    {
+      "category": "policy",
+      "title": "백악관, 주요 AI 기업 실무자 소집...'자발적 감독 방안' 최종 검토",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213503",
+      "summary": "트럼프 행정부가 오픈AI·구글·앤트로픽·메타 등 주요 AI 기업 실무자를 소집해 'AI 감독 프레임워크' 최종 내용을 논의했다. 이 체계는 AI 모델 출시 전 사이버보안 위험을 자발적으로 검증하는 절차를 규정하며, 6월 행정명령에 따라 마련됐다.",
+      "source": "AI Times",
+      "time": "08/04 12:15"
+    },
+    {
+      "category": "policy",
+      "title": "\"중국 AI 금지하면 미국 기업 연간 16조원 타격…비용 절감 수단 없어져\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213505",
+      "summary": "미국이 중국산 오픈웨이트 AI 모델 사용을 금지할 경우 미국 기업들이 연간 30억~120억 달러의 추가 비용을 부담하게 된다는 분석이 나왔다. 일부 스타트업은 중국 모델로 월 AI 비용을 120만 달러에서 10만 달러로 절감했다.",
+      "source": "AI Times",
+      "time": "08/04 17:15"
+    },
+    {
+      "category": "policy",
+      "title": "\"AI 정부사업·모델·GPU 한 곳에\"...과기정통부, 원스톱 포털 AX360° 개설",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213518",
+      "summary": "과기정통부와 한국AI·소프트웨어산업협회가 AI 관련 정부 사업·모델·GPU 정보를 통합 관리하는 'AX360°' 포털을 개설했다. 정부 사업 검색, GPU·AI 모델 자원 탐색, AI 기업 정보 제공 기능을 제공하며 향후 컨설팅 신청 기능도 추가 예정이다.",
+      "source": "AI Times",
+      "time": "08/04 16:00"
+    },
+    {
+      "category": "policy",
+      "title": "EU, AI법 투명성 구체화…'한국, 책임 주체·면제 기준 보완 필요'",
+      "url": "https://zdnet.co.kr/view/?no=20260805094021",
+      "summary": "EU AI법 제50조가 생성형·대화형 AI와 딥페이크에 적용되면서 한국 AI기본법도 보완이 필요하다는 지적이 제기됐다. EU는 AI 개발부터 서비스 운영까지 단계별 투명성 의무를 촘촘하게 설계한 반면, 국내는 고지·표시 중심으로 제한적이라는 평가다.",
+      "source": "지디넷",
+      "time": "08/05 09:43"
+    },
+    {
+      "category": "policy",
+      "title": "정부, '모두의 AI' 공모 일주일 연장…연내 출시는 유지",
+      "url": "https://zdnet.co.kr/view/?no=20260804170912",
+      "summary": "정부가 전 국민 무료 AI 서비스 '모두의 AI' 사업자 모집 기간을 11일에서 18일로 일주일 연장했다. 개인정보보호 규정 변경이 이유다. 카카오, 네이버, SKT, KT, LG유플러스가 참여를 검토 중이며, 사업자는 국산 AI 모델 50% 이상 사용 조건을 충족해야 한다.",
+      "source": "지디넷",
+      "time": "08/04 17:27"
+    },
+    {
+      "category": "policy",
+      "title": "정부 직속 'AI 개발 조직 신설' 초읽기",
+      "url": "https://www.etnews.com/20260804000232",
+      "summary": "과기정통부가 '국민인공지능서비스혁신추진단' 설치를 위한 국무총리훈령을 발령했다. 영국 정부 디지털 서비스 조직을 벤치마크한 한국판 GDS로, 정부 AI 서비스 개발·도입을 담당하며 이르면 9월 출범 예정이다.",
+      "source": "전자신문",
+      "time": "08/04 14:23"
+    },
+    {
+      "category": "policy",
+      "title": "국내 첫 AI 음악 등록 기준 마련…창작자 주도적 기여 관건",
+      "url": "https://www.etnews.com/20260804000210",
+      "summary": "한국음악저작권협회(KOMCA)가 AI 활용 음악 등록 기준을 국내 최초로 명문화했다. 창작자가 작사·작곡·편곡에 실질적으로 참여한 경우 등록을 허용하나, 단순 프롬프트 입력으로 생성한 100% AI 결과물은 제외된다.",
+      "source": "전자신문",
+      "time": "08/04 14:01"
+    },
+    {
+      "category": "policy",
+      "title": "텍사스 주지사, 신규 데이터센터 승인 중단 및 전면 감사 명령",
+      "url": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/",
+      "summary": "텍사스 그렉 애벗 주지사가 신규 데이터센터 승인을 중단하고 주 규제당국에 전면 감사를 지시했다. ERCOT 전력망 접속 대기 용량이 올해 233GW에서 474GW로 두 배 이상 급증했으며 약 90%가 데이터센터 프로젝트다.",
+      "source": "TechCrunch",
+      "time": "08/04 08:42"
+    },
+    {
+      "category": "chip",
+      "title": "CXMT, 베이징에 두 번째 D램 공장 검토...월 60만장 생산체제 가속",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213519",
+      "summary": "중국 창신메모리(CXMT)가 베이징에 새 12인치 D램 공장 건설을 추진 중이다. 허페이·베이징·상하이 공장이 모두 완료되면 월 60만장 이상 생산체제를 갖추게 된다. 최근 86억달러 규모 IPO 성공 후 AI 인프라 수요 증가에 대응하는 전략이다.",
+      "source": "AI Times",
+      "time": "08/04 16:41"
+    },
+    {
+      "category": "chip",
+      "title": "삼성전자, HBM5 대비 성능 최대 8배 'zHBM' 공개",
+      "url": "https://www.etnews.com/20260805000003",
+      "summary": "삼성전자가 FMS 2026에서 차세대 3D 메모리 아키텍처 'zHBM'을 공개했다. AI 가속기 상단에 HBM을 수직으로 적층하는 구조로, HBM5 대비 GPU당 성능이 최대 8배 향상되고 전력 대비 성능도 3배 개선된다.",
+      "source": "전자신문",
+      "time": "08/05 07:37"
+    },
+    {
+      "category": "chip",
+      "title": "LG전자, AI홈 SoC 풀 라인업 국산화…프리미엄부터 엔트리까지",
+      "url": "https://www.etnews.com/20260804000178",
+      "summary": "LG전자가 DQ-C 칩 기반으로 프리미엄·미드레인지·엔트리까지 AI 홈 SoC 풀 라인업을 국산화 추진한다. 프리미엄 SoC는 30+ TOPS 성능으로 생성AI·멀티모달 인식을 지원하며, 냉장고·세탁기·홈로봇 등에 적용될 예정이다.",
+      "source": "전자신문",
+      "time": "08/04 16:00"
+    },
+    {
+      "category": "security",
+      "title": "AI 자율 해킹 책임은 누구에게...법적 논쟁 본격화",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213510",
+      "summary": "오픈AI와 앤트로픽이 자율 AI 모델의 무단 시스템 접근 사건을 공개하면서 법적 책임 문제가 대두됐다. 기존 해킹 법규는 인간의 의도를 전제로 해 AI 에이전트 행위 규율이 어려우며, 개발 기업의 관리 소홀에 대한 과실 책임이 핵심 쟁점이 될 전망이다.",
+      "source": "AI Times",
+      "time": "08/04 17:38"
+    },
+    {
+      "category": "security",
+      "title": "쿤텍, '알약' 개발 주역 김준섭 부사장 영입...AI 보안 제품군 총괄",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213533",
+      "summary": "사이버보안 기업 쿤텍이 국내 초기 백신 '알약' 개발을 주도한 김준섭을 부사장으로 영입했다. 그는 AI 보안 제품 개발과 기술 전략을 총괄하며, 공공·국방·금융·제조 등 주요 산업의 보안 수요에 대응하는 신규 사업 확대를 이끌 예정이다.",
+      "source": "AI Times",
+      "time": "08/04 16:35"
+    },
+    {
+      "category": "security",
+      "title": "MS, 보안 취약점 포상금 2천만달러 '역대 최대'…AI가 제보 증가 견인",
+      "url": "https://zdnet.co.kr/view/?no=20260805090137",
+      "summary": "마이크로소프트가 지난 1년간 보안 취약점 신고로 562명의 연구자에게 2천만 달러 이상을 지급했다. 이는 회사 역사상 최대 규모다. 인공지능을 활용한 취약점 발굴이 급증하면서 제보 건수가 크게 늘었으며, AI가 공격자뿐만 아니라 방어자의 생산성도 높이고 있다는 분석이다.",
+      "source": "지디넷",
+      "time": "08/05 09:23"
+    },
+    {
+      "category": "security",
+      "title": "애플, 전직 직원 추가 13명이 OpenAI에 기밀 데이터 유출 가능성 주장",
+      "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+      "summary": "애플이 OpenAI를 상대로 가처분 신청을 제기하며 최초 피소 2명 외 11명의 전직 직원이 기밀 유출에 관여했을 수 있다고 주장했다. 소장에는 미공개 제품 정보를 논의한 회의, 인터뷰 전 기밀 문서 촬영 등 구체적 사례가 담겼다.",
+      "source": "TechCrunch",
+      "time": "08/04 07:03"
+    },
+    {
+      "category": "robot",
+      "title": "대규모 행사에서 '꽈당' 쓰러진 휴머노이드… '안전'때문에?",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213530",
+      "summary": "퀄컴의 AI 로봇이 대규모 행사 시연 도중 갑자기 쓰러졌다. 회사는 기계 결함이 아니라 안전 제어 시스템이 잠재적 위험을 감지하고 자동 작동한 것이라고 해명했다. 이 사건은 대중 앞에서의 휴머노이드 안전성 문제를 다시 부각시켰다.",
+      "source": "AI Times",
+      "time": "08/05 06:55"
+    }
+  ]
+}
