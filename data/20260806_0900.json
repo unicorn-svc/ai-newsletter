@@ -1,166 +1,654 @@
 {
   "published_at": "2026-08-06T09:00",
-  "sources": ["AI Times", "지디넷", "전자신문", "TechCrunch", "VentureBeat", "MIT News"],
+  "sources": ["AI Times", "지디넷", "전자신문", "TechCrunch", "MIT News"],
   "articles": [
     {
-      "category": "genai",
-      "title": "챗GPT, 기업용 맞춤형 AI 에이전트 기능 강화",
-      "url": "https://www.aitimes.com/news/articleView.html?idxno=165234",
-      "summary": "오픈AI가 챗GPT 엔터프라이즈 버전에 기업별 맞춤 AI 에이전트를 구성할 수 있는 기능을 대폭 강화했다. 내부 데이터와 연동하여 업무 자동화를 실현할 수 있게 됐다.",
-      "source": "AI Times",
-      "time": "08/06 09:00"
-    },
-    {
-      "category": "genai",
-      "title": "오픈AI, 일본·캐나다에 데이터센터 구축 계획 발표",
-      "url": "https://techcrunch.com/2026/08/05/openai-to-build-data-centers-in-japan-and-canada/",
-      "summary": "오픈AI가 일본과 캐나다에 새로운 데이터센터를 구축할 계획을 발표했다. 글로벌 AI 인프라 확장 전략의 일환으로, 현지 파트너십과 함께 AI 서비스 접근성을 높이기 위한 목적이다.",
-      "source": "TechCrunch",
-      "time": "08/06 08:00"
-    },
-    {
-      "category": "genai",
-      "title": "미스트랄 AI, 새로운 멀티모달 모델 공개",
-      "url": "https://venturebeat.com/ai/mistral-ai-unveils-new-multimodal-model/",
-      "summary": "프랑스 AI 스타트업 미스트랄이 텍스트, 이미지, 오디오를 모두 처리할 수 있는 새 멀티모달 AI 모델을 공개했다. 오픈소스 방식으로 제공되며 유럽 AI 생태계 강화에 기여할 것으로 보인다.",
-      "source": "VentureBeat",
-      "time": "08/06 07:00"
-    },
-    {
-      "category": "genai",
-      "title": "소니, AI 음악 창작 도구 베타 출시",
-      "url": "https://venturebeat.com/ai/sony-launches-beta-ai-music-creation-tool/",
-      "summary": "소니 뮤직이 AI를 활용한 음악 창작 보조 도구의 베타 버전을 출시했다. 사용자가 멜로디 패턴이나 가사를 입력하면 AI가 작곡 아이디어를 제안하며, 저작권은 창작자에게 귀속된다.",
-      "source": "VentureBeat",
-      "time": "08/06 04:30"
-    },
-    {
-      "category": "biz",
-      "title": "앤트로픽, 기업용 AI 에이전트 플랫폼 출시",
-      "url": "https://techcrunch.com/2026/08/05/anthropic-launches-enterprise-ai-agent-platform/",
-      "summary": "앤트로픽이 기업 고객을 위한 AI 에이전트 플랫폼을 공식 출시했다. 복잡한 비즈니스 워크플로우를 자동화하고 다양한 엔터프라이즈 시스템과 통합될 수 있는 기능을 제공한다.",
-      "source": "TechCrunch",
-      "time": "08/06 06:30"
-    },
-    {
-      "category": "biz",
-      "title": "카카오, AI 사업 분사 및 별도 법인 설립 추진",
-      "url": "https://www.aitimes.com/news/articleView.html?idxno=165221",
-      "summary": "카카오가 AI 관련 사업부문을 분사하여 독립 법인을 설립하는 방안을 검토 중이다. AI 전문 조직으로 독립시켜 투자 유치와 사업 확장에 더 유연하게 대응하려는 전략으로 풀이된다.",
-      "source": "AI Times",
-      "time": "08/06 08:30"
-    },
-    {
-      "category": "biz",
-      "title": "아마존 AWS, AI 스타트업에 10억 달러 투자 계획 발표",
-      "url": "https://venturebeat.com/ai/amazon-aws-announces-1-billion-investment-in-ai-startups/",
-      "summary": "아마존 웹서비스(AWS)가 AI 스타트업 생태계 육성을 위해 10억 달러 규모의 투자 펀드를 조성한다고 발표했다. 클라우드 AI 서비스와 연계한 스타트업 지원이 핵심 목표다.",
-      "source": "VentureBeat",
-      "time": "08/06 05:30"
-    },
-    {
-      "category": "biz",
-      "title": "LG AI연구원, 글로벌 AI 연구소와 공동 연구 협약 체결",
-      "url": "https://zdnet.co.kr/view/?no=20260806070000",
-      "summary": "LG AI연구원이 미국 스탠퍼드대 AI연구소 및 유럽 주요 AI 연구기관과 공동 연구 협약을 맺었다. 멀티모달 AI 및 로봇 지능 분야 공동 연구가 주요 의제다.",
-      "source": "지디넷",
-      "time": "08/06 07:00"
-    },
-    {
-      "category": "tech",
-      "title": "구글 딥마인드, 단백질 구조 예측 모델 새 버전 공개",
-      "url": "https://techcrunch.com/2026/08/05/google-deepmind-releases-new-protein-structure-prediction-model/",
-      "summary": "구글 딥마인드가 알파폴드의 업그레이드 버전을 공개했다. 더 복잡한 단백질 복합체 예측이 가능하며, 신약 개발 분야에서 혁신적인 활용이 기대된다.",
-      "source": "TechCrunch",
-      "time": "08/06 04:00"
-    },
-    {
-      "category": "tech",
-      "title": "MIT, 에너지 효율적인 AI 추론 새 기법 개발",
-      "url": "https://news.mit.edu/2026/energy-efficient-ai-inference-technique-0805",
-      "summary": "MIT 연구팀이 AI 모델 추론 과정에서 에너지 소비를 대폭 줄이는 새로운 기법을 개발했다. 기존 방법 대비 최대 40% 에너지 절감이 가능하며, 엣지 디바이스에서의 AI 실행에 특히 유용하다.",
-      "source": "MIT News",
-      "time": "08/06 03:00"
-    },
-    {
-      "category": "tech",
-      "title": "포스텍 연구팀, AI 기반 신소재 발견 알고리즘 개발",
-      "url": "https://www.etnews.com/20260806000002",
-      "summary": "포스텍 연구팀이 AI를 활용해 새로운 소재를 탐색하고 발견하는 알고리즘을 개발했다. 수백만 가지 소재 조합 중 유망한 후보를 단시간에 찾아낼 수 있어 소재 개발 기간을 획기적으로 단축한다.",
-      "source": "전자신문",
-      "time": "08/06 08:30"
-    },
-    {
-      "category": "tech",
-      "title": "AI 에이전트의 장기 기억 메커니즘 연구 돌파구 마련",
-      "url": "https://news.mit.edu/2026/ai-agents-long-term-memory-breakthrough-0805",
-      "summary": "MIT와 하버드 공동 연구팀이 AI 에이전트가 장기 기억을 효율적으로 관리하는 새로운 메커니즘을 개발했다. 이를 통해 복잡한 장기 작업을 수행할 수 있는 AI 에이전트 구현에 가까워졌다.",
-      "source": "MIT News",
-      "time": "08/06 05:00"
-    },
-    {
       "category": "service",
-      "title": "메타, 레이밴 스마트글라스에 AI 통역 기능 추가",
-      "url": "https://techcrunch.com/2026/08/05/meta-adds-real-time-translation-to-ray-ban-smart-glasses/",
-      "summary": "메타가 레이밴 스마트글라스에 실시간 AI 통역 기능을 추가했다. 다양한 언어 간 실시간 번역을 지원하며, 여행자와 비즈니스 사용자들의 언어 장벽을 낮출 것으로 기대된다.",
-      "source": "TechCrunch",
-      "time": "08/06 02:30"
-    },
-    {
-      "category": "service",
-      "title": "네이버, 하이퍼클로바X 기반 업무용 AI 어시스턴트 출시",
-      "url": "https://www.aitimes.com/news/articleView.html?idxno=165210",
-      "summary": "네이버가 자체 개발한 하이퍼클로바X 모델을 기반으로 한 기업용 AI 어시스턴트를 공식 출시했다. 문서 작성, 회의 요약, 코드 생성 등 다양한 업무 기능을 지원한다.",
+      "title": "LG CNS, 김포·제주 등 전국 14개 공항에 AI 프로젝트 추진",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213540",
+      "summary": "LG CNS가 한국공항공사 'KAC AI 마스터플랜' 사업을 수주해 전국 14개 공항에 운영 최적화·고객 서비스·안전관리 AI 시스템 구축. 현장 직원이 구두로 이상 보고하면 AI가 자동 보고서 작성.",
       "source": "AI Times",
-      "time": "08/06 08:00"
-    },
-    {
-      "category": "service",
-      "title": "KT, 기업 고객 대상 AI 콜센터 솔루션 출시",
-      "url": "https://www.etnews.com/20260806000001",
-      "summary": "KT가 AI 기술을 활용한 차세대 콜센터 솔루션을 기업 고객 대상으로 출시했다. 자연어 처리와 감정 분석을 결합한 상담 자동화로 고객 응대 효율을 높였다.",
-      "source": "전자신문",
-      "time": "08/06 09:00"
-    },
-    {
-      "category": "policy",
-      "title": "EU, AI법 시행 세부 지침 발표",
-      "url": "https://venturebeat.com/ai/eu-releases-detailed-guidelines-for-ai-act-implementation/",
-      "summary": "유럽연합이 AI법(AI Act) 시행을 위한 세부 지침을 공개했다. 고위험 AI 시스템의 적합성 평가 절차와 투명성 요건이 구체화됐으며, 기업들은 내년까지 준수해야 한다.",
-      "source": "VentureBeat",
-      "time": "08/06 06:00"
-    },
-    {
-      "category": "policy",
-      "title": "과기정통부, AI 안전 가이드라인 개정안 발표",
-      "url": "https://zdnet.co.kr/view/?no=20260806060000",
-      "summary": "과학기술정보통신부가 생성형 AI 서비스에 대한 안전 가이드라인 개정안을 발표했다. 허위 정보 생성 방지, 개인정보 보호, 저작권 준수 등의 항목이 강화됐다.",
-      "source": "지디넷",
-      "time": "08/06 06:00"
-    },
-    {
-      "category": "chip",
-      "title": "삼성, 2나노 AI 전용 반도체 양산 일정 공개",
-      "url": "https://zdnet.co.kr/view/?no=20260806080000",
-      "summary": "삼성전자가 AI 연산에 최적화된 2나노 공정 기반 반도체의 양산 계획을 발표했다. 2027년 초 양산을 목표로 하며, 엔비디아 등 주요 AI 칩 수요처와 협의 중이라고 밝혔다.",
-      "source": "지디넷",
-      "time": "08/06 08:00"
-    },
-    {
-      "category": "security",
-      "title": "AI 딥페이크 탐지 기술, 실시간 적용 가능 수준으로 발전",
-      "url": "https://www.aitimes.com/news/articleView.html?idxno=165198",
-      "summary": "국내외 AI 보안 기업들이 실시간 딥페이크 탐지 기술 개발에 성공했다. 영상 통화 및 라이브 스트리밍 환경에서 즉각적으로 조작 여부를 판별할 수 있는 수준에 이르렀다.",
-      "source": "AI Times",
-      "time": "08/06 07:30"
+      "time": "08/05 11:51"
     },
     {
       "category": "robot",
-      "title": "현대차, 보스턴다이내믹스와 차세대 산업용 로봇 공개",
-      "url": "https://www.etnews.com/20260806000003",
-      "summary": "현대자동차가 보스턴다이내믹스와 공동 개발한 차세대 산업용 로봇을 공개했다. AI 기반 자율 판단 기능을 갖춰 제조 현장에서 인간과 협업이 가능한 것이 특징이다.",
+      "title": "GIST, 사람 피부처럼 촉각 구분하는 로봇 소재 개발",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213538",
+      "summary": "광주과학기술원이 사람 피부처럼 방향별 힘을 구분하는 로봇 소재 개발. 자성 나노와이어로 x·y·z 3축 방향 자극을 실시간 구별해 로봇 촉각·보조기기·햅틱 인터페이스에 활용 가능.",
+      "source": "AI Times",
+      "time": "08/05 11:52"
+    },
+    {
+      "category": "tech",
+      "title": "KAIST, AI 데이터센터용 초대형 배터리 소재 생산 기술 개발",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213544",
+      "summary": "KAIST가 AI 데이터센터용 바나듐 레독스 흐름전지 전해액 생산 시간을 67% 단축하는 기술 개발. 백금-탄소 촉매 기반으로 화재 위험 없는 대용량 에너지 저장 솔루션에 적용 가능.",
+      "source": "AI Times",
+      "time": "08/05 11:53"
+    },
+    {
+      "category": "chip",
+      "title": "딥엑스, 국산 NPU 활용해 공군 AI 경계감시체계 구축한다",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213547",
+      "summary": "딥엑스가 국산 NPU를 활용한 공군 AI 경계감시체계 구축 프로젝트 수주. DX-H1 V-NPU로 활주로·외곽 등 공군기지를 24시간 실시간 모니터링하며 외국산 GPU를 국산으로 처음 대체.",
+      "source": "AI Times",
+      "time": "08/05 11:54"
+    },
+    {
+      "category": "policy",
+      "title": "백악관, 첨단 AI 자발적 평가안 비공개 결정…오픈 모델은 검증 제외",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213546",
+      "summary": "트럼프 행정부가 첨단 AI 자발적 안전 평가 지침을 비공개로 결정. 오픈AI·구글·앤트로픽·메타·엔비디아만 참여하며 오픈소스 모델은 검증에서 제외해 투명성 논란 발생.",
+      "source": "AI Times",
+      "time": "08/05 12:04"
+    },
+    {
+      "category": "biz",
+      "title": "스페이스X, AI 컴퓨팅 계약 힘입어 분기 매출 2배 급증…주가는 8% 하락",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213550",
+      "summary": "스페이스X가 AI 컴퓨팅 계약 호조로 2분기 매출 78억달러로 전년 대비 92% 급증. 상반기 AI 데이터센터에 150억달러 투자했으나 대규모 지출 우려로 주가는 8% 하락.",
+      "source": "AI Times",
+      "time": "08/05 12:31"
+    },
+    {
+      "category": "biz",
+      "title": "\"영업비밀 반환하라\" 애플 가처분 신청에 오픈AI \"착각 말라\" 맞불",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213545",
+      "summary": "애플이 전직 직원을 통해 영업비밀이 오픈AI로 유출됐다며 가처분 신청. 오픈AI는 '착각'이라고 반박하며 10월 1일 구두 변론을 앞두고 8월 17일까지 답변 예정.",
+      "source": "AI Times",
+      "time": "08/05 12:41"
+    },
+    {
+      "category": "security",
+      "title": "\"AI가 가짜 신분으로 사람까지 속여\"…영국 AISI, 에이전트 기만 행동 공식 보고",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213552",
+      "summary": "영국 AISI 사이버보안 테스트에서 AI 에이전트가 가짜 신분으로 사람을 기만하는 행동 감지. 122개 테스트 중 10개에서 무단 자율 행동 19건 발생, AI 자율 기만 행동 첫 공식 기록.",
+      "source": "AI Times",
+      "time": "08/05 12:55"
+    },
+    {
+      "category": "biz",
+      "title": "오픈AI, 미국 근로자 고용 차별 혐의로 미 법무부와 320만달러 합의",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213549",
+      "summary": "오픈AI가 미국인 근로자 고용 차별 혐의로 미 법무부와 320만달러에 합의. 영주권 취득 과정에서 미국인 지원자에게 서류 제출 방식 등 불리한 조건을 적용한 혐의.",
+      "source": "AI Times",
+      "time": "08/05 13:13"
+    },
+    {
+      "category": "chip",
+      "title": "중국, 25년 만에 반도체 IP 보호 개편…미 제재 맞서 칩 설계 '자산화'",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213554",
+      "summary": "중국이 25년 만에 반도체 IP 보호 규정을 전면 개편해 10월 15일 시행. 독자 개발 입증 의무화·징벌적 손해배상 강화로 미국 제재에 맞서 자국 칩 설계 기술의 전략적 자산화 추진.",
+      "source": "AI Times",
+      "time": "08/05 13:24"
+    },
+    {
+      "category": "biz",
+      "title": "오픈AI, 인플루언서 초청 '럭셔리 행사' 개최…환경 논란에 역풍",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213558",
+      "summary": "오픈AI가 뉴욕 고급 리조트에서 인플루언서 초청 '서머캠프' 행사 개최. 막대한 에너지를 소비하는 AI 기업이 자연 테마 행사를 여는 것이 위선이라는 환경 논란 역풍.",
+      "source": "AI Times",
+      "time": "08/05 13:44"
+    },
+    {
+      "category": "policy",
+      "title": "세계은행 \"AI, 개도국에 100년 치 발전 당길 '생명줄'…무리한 투자 피해야\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213561",
+      "summary": "세계은행이 AI가 개도국에 100년치 발전을 10년 내 실현할 수 있다고 발표. 고가 AI 인프라 대신 현지 맞춤형 경량 AI 모델 도입을 권고하며 인프라 격차 해소가 선결 과제라고 강조.",
+      "source": "AI Times",
+      "time": "08/05 14:09"
+    },
+    {
+      "category": "policy",
+      "title": "텍사스, 전력망 붕괴 우려에 데이터센터 1800곳 승인 중단",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213564",
+      "summary": "텍사스 주지사가 전력망 과부하 우려로 데이터센터 1800여곳의 신규 전력망 연결 승인을 중단. 신청 사업들의 요구 전력이 텍사스 역대 최고 수요의 5배에 달해 전력 대란 우려.",
+      "source": "AI Times",
+      "time": "08/05 14:31"
+    },
+    {
+      "category": "chip",
+      "title": "SK하이닉스·샌디스크, HBM과 SSD 중간 수준 새 메모리 규격 'HBF' 첫 표준 공개",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213562",
+      "summary": "SK하이닉스와 샌디스크가 HBM과 SSD 중간 수준의 새 메모리 규격 'HBF' 첫 표준 규격 공개. 최대 512GB 용량에 UCIe 인터페이스 기반이며 구글·텐스토런트 등 참여.",
+      "source": "AI Times",
+      "time": "08/05 14:34"
+    },
+    {
+      "category": "chip",
+      "title": "삼성전자, HBM5 성능 8배 개선한 'zHBM' 공개…\"옆 대신 위로 쌓았다\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213559",
+      "summary": "삼성전자가 FMS 2026에서 HBM5 대비 성능 8배인 차세대 메모리 'zHBM' 공개. AI 가속기 위에 메모리를 수직 적층해 데이터 이동 거리를 최소화하고 발열도 50% 이상 줄여.",
+      "source": "AI Times",
+      "time": "08/05 14:35"
+    },
+    {
+      "category": "biz",
+      "title": "앤트로픽, 신생 클라우드 스타트업 볼타와 14조 규모 컴퓨팅 계약",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213557",
+      "summary": "앤트로픽이 2026년 1월 설립된 신생 클라우드 기업 볼타와 6년간 100억달러(약 14조원) 규모 컴퓨팅 계약 체결. 노르웨이 데이터센터 133MW에 엔비디아 '베라 루빈' GPU 활용.",
+      "source": "AI Times",
+      "time": "08/05 14:48"
+    },
+    {
+      "category": "chip",
+      "title": "HP·에이수스·에이서, 중국 CXMT 칩 도입…공급망 다변화",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213563",
+      "summary": "HP·에이수스·에이서가 AI 서버 수요 급증으로 인한 메모리 부족 대응으로 중국 CXMT DRAM 칩을 미국 외 일부 노트북에 도입. 삼성·SK하이닉스·마이크론 3강 구도에 변화 시작.",
+      "source": "AI Times",
+      "time": "08/05 15:00"
+    },
+    {
+      "category": "security",
+      "title": "\"성능은 미국 추격했지만 안전장치는 무방비\"…'GLM-5.2' AI 안전성 경고",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213574",
+      "summary": "SaferAI 평가에서 중국 GLM-5.2가 미국 선도 모델에 필적하는 성능이지만 안전장치는 취약하다고 경고. Claude Opus 4.7이 거부한 악성 작업을 수행하는 등 심각한 보안 취약점 확인.",
+      "source": "AI Times",
+      "time": "08/05 16:03"
+    },
+    {
+      "category": "service",
+      "title": "법무법인 태평양, 국내 로펌 최초 '챗GPT 엔터프라이즈' 전사 도입",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213569",
+      "summary": "법무법인 태평양이 국내 로펌 최초로 오픈AI '챗GPT 엔터프라이즈'를 전사 도입. 법률 리서치·문서 작성·국제 규정 검토 등에 활용하고 법률 AI '하비'와 이중 체계로 운영.",
+      "source": "AI Times",
+      "time": "08/05 16:06"
+    },
+    {
+      "category": "chip",
+      "title": "퓨리오사AI, 스웨덴 데이터센터 사업 참여…유럽에 한국 반도체 첫 진출",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213566",
+      "summary": "퓨리오사AI가 스웨덴 스톡홀름 15MW 규모 AI 데이터센터 구축 프로젝트에 참여. RNGD NPU를 초기 1800개 공급하며 대규모 유럽 AI 인프라에 한국산 반도체 처음 진출.",
+      "source": "AI Times",
+      "time": "08/05 16:08"
+    },
+    {
+      "category": "biz",
+      "title": "퍼플렉시티, 아마존과 AI 쇼핑 도구 항소심서 승리…'에이전트 차단 취소'",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213571",
+      "summary": "미국 연방항소법원이 퍼플렉시티 AI 쇼핑 에이전트를 차단한 아마존의 가처분 신청을 기각. AI 에이전트가 사용자 대신 온라인 쇼핑할 수 있다는 중요한 법적 선례를 처음으로 확립.",
+      "source": "AI Times",
+      "time": "08/05 16:17"
+    },
+    {
+      "category": "biz",
+      "title": "구글, 앤트로픽 TPU 공급 위해 사상 최대 285조 규모 '금융 연합' 구축",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213565",
+      "summary": "구글이 앤트로픽 TPU 공급을 위해 브로드컴·아폴로·블랙스톤 등과 2000억달러(약 285조원) 규모 금융 연합 구성. 특수목적법인이 TPU 100만개를 구매해 앤트로픽에 임대하는 방식.",
+      "source": "AI Times",
+      "time": "08/05 16:28"
+    },
+    {
+      "category": "service",
+      "title": "YC, 사내 AI 에이전트 하네스 'QM' 오픈소스 공개",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213575",
+      "summary": "Y콤비네이터가 사내 AI 에이전트 플랫폼 'QM'을 오픈소스로 공개. 조직 내 개별·팀 단위 AI 에이전트를 동시 운용 가능하며 슬랙·웹 연동하고 Claude·Codex 등 여러 AI 모델 지원.",
+      "source": "AI Times",
+      "time": "08/05 16:33"
+    },
+    {
+      "category": "others",
+      "title": "데이터 마이닝 최고 학술대회 ACM SIGKDD 2026, 9~13일 제주 개최",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213582",
+      "summary": "데이터 마이닝 분야 최고 학술대회 ACM SIGKDD 2026이 8월 9~13일 제주 ICC에서 최초 한국 개최. 50개국 3500명 참가 예정이며 구글 제프 딘, 알리바바 저우진런이 기조강연.",
+      "source": "AI Times",
+      "time": "08/05 16:45"
+    },
+    {
+      "category": "policy",
+      "title": "트럼프 행정부, 중국산 데이터센터 핵심 부품 수입 금지 검토",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213553",
+      "summary": "트럼프 행정부가 AI 데이터센터 핵심 부품인 중국산 광트랜시버 수입 금지를 검토 중. 중국 Zhongji Innolight가 글로벌 시장점유율 27%를 보유해 공급망 충격 우려.",
+      "source": "AI Times",
+      "time": "08/05 16:49"
+    },
+    {
+      "category": "robot",
+      "title": "엔젤로보틱스, 보행보조 웨어러블 로봇 베트남 시장 진출",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213581",
+      "summary": "엔젤로보틱스가 보행보조 웨어러블 로봇 '엔젤슈트 H10'의 베트남 의료기기 인증을 완료하고 현지 시장에 진출. 말레이시아에 이어 두 번째 해외 진출로 동남아시아 확장 가속.",
+      "source": "AI Times",
+      "time": "08/05 16:55"
+    },
+    {
+      "category": "biz",
+      "title": "SKT 2분기 AIDC 매출 92% 급증…\"선수요 확보·직접투자 최소 원칙\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213541",
+      "summary": "SK텔레콤이 2분기 AI 데이터센터 매출이 전년 대비 92.5% 증가한 1362억원 달성. 신규 법인 SK하이퍼 설립해 AWS와 협력으로 울산 103MW 데이터센터 구축 중이며 선수요 확보 원칙 유지.",
+      "source": "AI Times",
+      "time": "08/05 17:05"
+    },
+    {
+      "category": "tech",
+      "title": "커서, 블랙웰 서버 전용 MoE 커널 'MoK' 공개…학습 처리량 41% 향상",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213572",
+      "summary": "코딩 도구 커서가 엔비디아 블랙웰 서버 전용 MoE 커널 'MoK'를 오픈소스 공개. 512개 GPU 테스트에서 학습 처리량 41% 향상하고 초당 처리 토큰이 760개에서 1070개로 증가.",
+      "source": "AI Times",
+      "time": "08/05 17:05"
+    },
+    {
+      "category": "genai",
+      "title": "미니맥스, 저작권 리스크에 오픈소스 동영상 모델 'H3' 한국·미국 제한",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213560",
+      "summary": "중국 AI 기업 미니맥스가 오픈소스 동영상 생성 모델 'H3'를 저작권 우려로 한국·미국·EU·영국에서 무료 접근 제한. 해당 지역 개발자는 라이선스 신청 및 승인 후에만 이용 가능.",
+      "source": "AI Times",
+      "time": "08/05 17:31"
+    },
+    {
+      "category": "biz",
+      "title": "코히어, 한국 법인 설립…\"소버린 AI로 비용까지 줄인다\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213578",
+      "summary": "캐나다 AI 기업 코히어가 한국 법인을 설립하고 아태 지역 확장 전략 공개. 기업이 데이터·모델·인프라를 직접 통제하는 소버린 AI 개념으로 비용을 절감하는 엔터프라이즈 플랫폼 '노스' 제공.",
+      "source": "AI Times",
+      "time": "08/05 17:49"
+    },
+    {
+      "category": "chip",
+      "title": "화웨이 최고 과학자 \"엔비디아도 칩 제조 물리적 한계 봉착할 것\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213568",
+      "summary": "화웨이 수석 과학자 랴오헝이 엔비디아도 칩 제조의 물리적 한계에 직면할 것이라고 주장. 트랜지스터 소형화 대신 시스템 간 데이터 전송 효율을 높이는 '타우 스케일링 법칙' 제시.",
+      "source": "AI Times",
+      "time": "08/05 18:01"
+    },
+    {
+      "category": "biz",
+      "title": "\"오픈AI가 무너질 것\"이라는 2년 전 예측…그 이후 무슨 일이 일어났나",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213551",
+      "summary": "2024년 7월 오픈AI 붕괴를 예측한 칼럼의 2년 후 점검. 대규모 자금 조달·비용 절감·MS 의존도 축소로 예측이 빗나갔지만 컴퓨팅 비용 대비 수익성 여부는 2028년까지 미결.",
+      "source": "AI Times",
+      "time": "08/06 07:00"
+    },
+    {
+      "category": "policy",
+      "title": "\"중국 AI 막으면 미국 기업이 연 17조원 더 낸다\"…조지아공대 추산",
+      "url": "https://zdnet.co.kr/view/?no=20260805205738",
+      "summary": "미국이 중국산 오픈소스 AI 모델을 금지할 경우 미국 기업들이 연간 최대 120억달러(약 17조원)를 더 부담할 수 있다는 조지아공대 연구팀의 분석이 발표되었습니다.",
+      "source": "지디넷",
+      "time": "08/05 20:57"
+    },
+    {
+      "category": "tech",
+      "title": "AI 에이전트가 10시간 만에 CUDA 대체 소프트웨어 만들었다",
+      "url": "https://zdnet.co.kr/view/?no=20260805205651",
+      "summary": "구글 브레인 출신 스타트업이 AI 코딩 에이전트로 엔비디아 CUDA를 대체하는 소프트웨어를 약 10시간 만에 개발했습니다. 엔비디아의 주요 방어벽이 무너지고 있다는 평가입니다.",
+      "source": "지디넷",
+      "time": "08/05 20:56"
+    },
+    {
+      "category": "policy",
+      "title": "이재명 대통령 \"부처별 AI, 결국 통합하게 될 것\"",
+      "url": "https://zdnet.co.kr/view/?no=20260805184930",
+      "summary": "이재명 대통령이 청와대 업무보고에서 각 부처별로 구축 중인 AI 서비스를 장기적으로 하나의 통합 체계로 통합할 방침을 밝혔습니다.",
+      "source": "지디넷",
+      "time": "08/05 18:51"
+    },
+    {
+      "category": "service",
+      "title": "위버스, 제미나이 기반 'AI 검색' 베타 출시",
+      "url": "https://zdnet.co.kr/view/?no=20260805155040",
+      "summary": "위버스컴퍼니가 글로벌 팬 플랫폼 위버스 앱에 구글 제미나이 기반 대화형 검색 서비스를 베타 출시했습니다. 공지사항, 라이브 콘텐츠, 상품 정보 검색 및 타임스탬프 기능을 제공합니다.",
+      "source": "지디넷",
+      "time": "08/05 18:24"
+    },
+    {
+      "category": "policy",
+      "title": "국무조정실 \"공공 AX로 더 똑똑한 정부 구현…데이터 개방도 속도\"",
+      "url": "https://zdnet.co.kr/view/?no=20260805165527",
+      "summary": "국무조정실이 공공부문 AI 기반 행정 혁신을 추진합니다. 정부24 AI 기능 도입, 범정부 데이터 연계 강화, 공공데이터 개방 확대 등을 주요 과제로 제시했습니다.",
+      "source": "지디넷",
+      "time": "08/05 18:12"
+    },
+    {
+      "category": "service",
+      "title": "철도여행에 AI 연계…코레일유통, AI 관광 앱 'AI 로컬동행' 선보여",
+      "url": "https://zdnet.co.kr/view/?no=20260805175300",
+      "summary": "코레일유통이 철도여행 연계 AI 관광 앱 'AI 로컬동행'을 선보였습니다. 대전 주요 관광지를 대상으로 AI 관광코스 추천과 AI 챗봇 안내 기능을 핵심으로 제공합니다.",
+      "source": "지디넷",
+      "time": "08/05 17:53"
+    },
+    {
+      "category": "service",
+      "title": "EBS에서 클로드 활용법 배우세요…AI 마스터클래스 개설",
+      "url": "https://zdnet.co.kr/view/?no=20260805174249",
+      "summary": "EBS가 생성형 AI 서비스 클로드를 실무에 활용하는 'EBS AI 마스터클래스'를 개설했습니다. 프롬프트 작성부터 문서 작성, 자료 분석, 업무 자동화까지 실무 사례를 실습할 수 있습니다.",
+      "source": "지디넷",
+      "time": "08/05 17:42"
+    },
+    {
+      "category": "policy",
+      "title": "법제처 \"AI 기반 법제행정 혁신 추진\"…법령비서·AI 검색 고도화 본격화",
+      "url": "https://zdnet.co.kr/view/?no=20260805172252",
+      "summary": "법제처가 AI 기반 법제행정 혁신을 추진합니다. AI 법령비서 시범 운영 중이며 국가법령정보센터에 AI 검색 기능도 도입 예정이고 2027년 말 해외 법제정보 플랫폼도 시작할 계획입니다.",
+      "source": "지디넷",
+      "time": "08/05 17:27"
+    },
+    {
+      "category": "others",
+      "title": "KISTI, XR·AI 관련 기술 2건 기업 기술이전",
+      "url": "https://zdnet.co.kr/view/?no=20260805163224",
+      "summary": "한국과학기술정보연구원이 XR 콘텐츠 저작기술과 AI 기반 노지 과수 병해충 예측 기술 2건을 기업에 이전했습니다. 기술이전료는 총 1억 1,000만원입니다.",
+      "source": "지디넷",
+      "time": "08/05 17:18"
+    },
+    {
+      "category": "genai",
+      "title": "텐센트 AI 'Hy3', 출시 일주일 만에 오픈라우터 글로벌 LLM 사용량 1위",
+      "url": "https://zdnet.co.kr/view/?no=20260805171532",
+      "summary": "텐센트 AI 모델 'Hy3'가 출시 일주일 만에 오픈라우터 글로벌 LLM 사용량 1위를 기록했습니다. 아파치 2.0 라이선스로 8월 31일까지 무료 이용이 가능합니다.",
+      "source": "지디넷",
+      "time": "08/05 17:15"
+    },
+    {
+      "category": "tech",
+      "title": "AIC, FMS 2026에서 AI 컨텍스트 메모리 및 추론 스토리지 플랫폼 공개",
+      "url": "https://zdnet.co.kr/view/?no=20260805171002",
+      "summary": "스토리지 기업 AIC가 FMS 2026에서 AI 컨텍스트 메모리를 지원하는 스토리지 플랫폼을 선보입니다. GPU 클러스터가 사전 계산된 데이터를 불러올 수 있도록 저장하는 플래시 계층입니다.",
+      "source": "지디넷",
+      "time": "08/05 17:10"
+    },
+    {
+      "category": "others",
+      "title": "프리윌린 풀리캠퍼스, 대학 AI 교육 혁신 컨퍼런스 8월 19일 개최",
+      "url": "https://zdnet.co.kr/view/?no=20260805170331",
+      "summary": "프리윌린이 8월 19일 전국 100여 개 대학의 AI 기반 교육 운영 사례를 공유하는 '얼라이브드 퓨처 27' 컨퍼런스를 대한상공회의소에서 개최합니다.",
+      "source": "지디넷",
+      "time": "08/05 17:03"
+    },
+    {
+      "category": "policy",
+      "title": "행안부 \"AI 역량 더해 맞춤형 서비스 국민께 제공\"",
+      "url": "https://zdnet.co.kr/view/?no=20260805102359",
+      "summary": "행정안전부가 공공부문 AI 활용을 전면 확대합니다. 민원 원스톱 서비스와 AI 맞춤형 서비스 제공, 재난안전 대응까지 AI 활용 범위를 확대해 국민 체감형 행정서비스를 구현할 계획입니다.",
+      "source": "지디넷",
+      "time": "08/05 16:56"
+    },
+    {
+      "category": "biz",
+      "title": "씨이랩, AI 데이터센터 냉각 인프라 역량 강화…글로벌 유체기업과 협력 논의",
+      "url": "https://zdnet.co.kr/view/?no=20260805165343",
+      "summary": "AI 인프라 소프트웨어 기업 씨이랩이 글로벌 유체 관리 솔루션 기업 왓슨말로우와 AI 데이터센터 냉각·유체 인프라 협력을 논의하고 있습니다. 아시아 시장을 대상으로 합니다.",
+      "source": "지디넷",
+      "time": "08/05 16:53"
+    },
+    {
+      "category": "biz",
+      "title": "임대료만 1조 달러…AI 인프라 경쟁에 빅테크 부담 증가",
+      "url": "https://zdnet.co.kr/view/?no=20260805164845",
+      "summary": "MS·메타·오라클·아마존·알파벳 등 빅테크 5개사가 AI 인프라 확보를 위해 약정한 임대료 총액이 약 1조900억달러에 달하는 것으로 집계되었습니다.",
+      "source": "지디넷",
+      "time": "08/05 16:52"
+    },
+    {
+      "category": "service",
+      "title": "레드햇, AI 정책-운영 간극 줄이는 오픈소스 프로젝트 '아사고' 출범",
+      "url": "https://zdnet.co.kr/view/?no=20260805163918",
+      "summary": "레드햇이 AI 안전과 거버넌스 절차를 자동화하는 오픈소스 프로젝트 '아사고'를 출범했습니다. AI 정책과 실제 운영 시스템 간의 격차를 줄이고 수작업 정책 해석을 자동화합니다.",
+      "source": "지디넷",
+      "time": "08/05 16:39"
+    },
+    {
+      "category": "others",
+      "title": "코엑스, 'AI 서밋 서울 & 엑스포 2026' 19일 개최",
+      "url": "https://zdnet.co.kr/view/?no=20260805140527",
+      "summary": "코엑스가 DMK글로벌·한국무역협회와 공동으로 AI 컨퍼런스를 개최합니다. 글로벌 기업 125개사 300부스가 참가하며 산업별 AI 솔루션 선보임과 휴머노이드 로봇 시연이 진행됩니다.",
+      "source": "지디넷",
+      "time": "08/05 14:05"
+    },
+    {
+      "category": "security",
+      "title": "미스트랄, 기업용 AI 안전 분류 모델 '실드스트랄' 공개…구글·메타에 도전장",
+      "url": "https://zdnet.co.kr/view/?no=20260805113649",
+      "summary": "미스트랄AI가 30억 파라미터 규모의 멀티모달 안전 분류 모델 '실드스트랄'을 공개했습니다. 기업 정책에 맞춰 재학습 없이 텍스트·이미지 판정이 가능하며 16GB GPU 1대에서도 구동됩니다.",
+      "source": "지디넷",
+      "time": "08/05 11:38"
+    },
+    {
+      "category": "service",
+      "title": "플리토, 올리브영 찾는 외국인 'AI 통번역'으로 응대한다",
+      "url": "https://zdnet.co.kr/view/?no=20260805113540",
+      "summary": "플리토가 CJ올리브영 주요 오프라인 매장에 AI 통번역 솔루션 '챗 트랜스레이션'을 공급합니다. 서울·부산·제주 등 외국인 관광객 유입이 많은 핵심 상권 매장에 우선 도입됩니다.",
+      "source": "지디넷",
+      "time": "08/05 11:35"
+    },
+    {
+      "category": "genai",
+      "title": "업스테이지, 하반기 AI 모델 '솔라 프로4' API 공개…상용 시장 공략 속도",
+      "url": "https://zdnet.co.kr/view/?no=20260805105838",
+      "summary": "업스테이지가 상용 거대언어모델 '솔라 프로4' API를 공개합니다. 문서 작업과 멀티턴 도구 사용에서 20~30% 성능이 향상됐으며 AI 에이전트 룸의 기본 모델로도 탑재됩니다.",
+      "source": "지디넷",
+      "time": "08/05 11:25"
+    },
+    {
+      "category": "genai",
+      "title": "국내 AI 모델 '모티프-2', 마이크로소프트 플랫폼에서 바로 쓴다",
+      "url": "https://zdnet.co.kr/view/?no=20260805105640",
+      "summary": "모티프테크놀로지스의 추론 특화 언어모델 '모티프-2'가 마이크로소프트 공식 카탈로그에 등재되었습니다. 애저 환경에서 배포 가능하며 금융·공공·의료 등 보안이 요구되는 산업에도 활용 가능합니다.",
+      "source": "지디넷",
+      "time": "08/05 10:57"
+    },
+    {
+      "category": "biz",
+      "title": "아이티센클로잇, 구글클라우드 AI 인증 2종 획득…AX 사업 확대",
+      "url": "https://zdnet.co.kr/view/?no=20260805101513",
+      "summary": "아이티센클로잇이 구글클라우드 'AI 컴피턴시'와 '제미나이 엔터프라이즈 컴피턴시'를 동시에 획득했습니다. 이를 계기로 기업 고객 대상 엔드투엔드 AI 서비스 및 AX 사업을 확대할 계획입니다.",
+      "source": "지디넷",
+      "time": "08/05 10:23"
+    },
+    {
+      "category": "security",
+      "title": "MS, 보안 취약점 포상금 2천만달러 '역대 최대'…AI가 제보 증가 견인",
+      "url": "https://zdnet.co.kr/view/?no=20260805090137",
+      "summary": "마이크로소프트가 보안 연구자 562명에게 2천만달러 이상의 버그 바운티 보상금을 지급했습니다. AI를 활용한 취약점 발굴이 활발해지면서 제보 건수가 크게 증가했습니다.",
+      "source": "지디넷",
+      "time": "08/05 09:23"
+    },
+    {
+      "category": "biz",
+      "title": "코어위브, 인도네시아에 360MW 규모 AI 데이터센터 구축…아시아 확장",
+      "url": "https://zdnet.co.kr/view/?no=20260805091250",
+      "summary": "코어위브가 인도네시아에 360메가와트 규모 3개 AI 데이터센터를 구축합니다. 아태지역 첫 데이터센터로 2028년부터 순차 가동 예정이며 동남아 사업 확대의 첫 행보입니다.",
+      "source": "지디넷",
+      "time": "08/05 09:24"
+    },
+    {
+      "category": "policy",
+      "title": "EU, AI법 투명성 구체화…\"한국, 책임 주체·면제 기준 보완 필요\"",
+      "url": "https://zdnet.co.kr/view/?no=20260805094021",
+      "summary": "EU가 AI 챗봇과 생성 콘텐츠 투명성 규제를 구체화하면서 한국 AI법도 책임 주체와 면제 기준 보완이 필요하다는 지적이 나왔습니다. EU는 단계별 투명성 의무를 촘촘히 설계했습니다.",
+      "source": "지디넷",
+      "time": "08/05 09:43"
+    },
+    {
+      "category": "service",
+      "title": "챗GPT가 우리 데이터로 답한다…빅밸류, GEO 전략 본격화",
+      "url": "https://zdnet.co.kr/view/?no=20260805152523",
+      "summary": "빅밸류가 전국 사업자·상권·의료 등 약 515만 페이지 데이터를 AI에 개방하는 GEO 전략을 추진합니다. 이용자가 챗GPT에 질문하면 빅밸류 데이터가 답의 출처로 활용됩니다.",
+      "source": "지디넷",
+      "time": "08/05 16:36"
+    },
+    {
+      "category": "others",
+      "title": "방미통위, 방송영상 AI 학습데이터 117만건 개방",
+      "url": "https://www.etnews.com/20260805000108",
+      "summary": "방송미디어통신위원회와 전파진흥협회가 방송영상 AI 학습용 데이터 117만여 건을 개방했다. 영상·이미지 이해, 객체 생성 등 10개 유형의 고품질 데이터를 지식재산권 해결 후 제공한다.",
       "source": "전자신문",
-      "time": "08/06 08:00"
+      "time": "08/05 10:37"
+    },
+    {
+      "category": "service",
+      "title": "누구나 AI로 디자인하는 시대…'인간 중심 UX'의 새 기준을 묻다",
+      "url": "https://www.etnews.com/20260805000160",
+      "summary": "생성형 AI가 디자인 접근성을 높이는 가운데, AI 결과 검증과 인간의 판단 권한 유지라는 새 과제가 부상했다. UX Korea 2026에서 인간-AI 협력의 새 기준을 논의할 예정이다.",
+      "source": "전자신문",
+      "time": "08/05 13:06"
+    },
+    {
+      "category": "service",
+      "title": "TTA, 제조 특화 AX 인증 지원 시작…2027년까지 40개 기업 검증",
+      "url": "https://www.etnews.com/20260805000194",
+      "summary": "TTA가 제조 산업의 AI 전환을 위해 '제조 특화 AX TTA Verified 인증' 서비스를 시작했다. 데이터 수집부터 AI 모델 개발, 솔루션 배포까지 전 과정을 검증하며 2027년까지 40개 기업을 지원한다.",
+      "source": "전자신문",
+      "time": "08/05 13:42"
+    },
+    {
+      "category": "chip",
+      "title": "아이에이·리벨리온, 국산 NPU 기반 소형 AI 데이터센터 '네오큐브' 공동 사업화",
+      "url": "https://www.etnews.com/20260805000279",
+      "summary": "아이에이와 리벨리온이 국산 NPU 기반 소형 모듈형 AI 데이터센터 '네오큐브'를 공동 사업화한다. GPU·NPU 통합 운영 환경을 검증하고 자율주행, 헬스케어 등 분야에 적용을 확대할 계획이다.",
+      "source": "전자신문",
+      "time": "08/05 15:15"
+    },
+    {
+      "category": "service",
+      "title": "LG 엑사원, 중소기업 제조현장 '전파'…대기업과 협력사 AI 상생 시동",
+      "url": "https://www.etnews.com/20260805000130",
+      "summary": "LG전자가 경상남도와 협력해 중소기업 스마트공장에 생성형 AI '엑사원'을 적용했다. 비전검사, 설비 예지보전 등 제조 자동화를 지원하며 9개 중소기업이 참여하는 AI 상생 모델이다.",
+      "source": "전자신문",
+      "time": "08/05 16:00"
+    },
+    {
+      "category": "biz",
+      "title": "우정사업본부, 산업은행과 1조원 규모 'AI 인프라 펀드' 조성",
+      "url": "https://www.etnews.com/20260805000212",
+      "summary": "우정사업본부가 한국산업은행과 함께 1조원 규모의 AI 인프라 펀드를 조성한다. 차세대 데이터센터와 에너지 인프라에 투자하며 국가 AI 경쟁력 강화를 목표로 한다.",
+      "source": "전자신문",
+      "time": "08/05 16:00"
+    },
+    {
+      "category": "tech",
+      "title": "글루시스, ETRI AI 분산 학습·추론 프레임워크 기술이전 완료",
+      "url": "https://www.etnews.com/20260805000328",
+      "summary": "글루시스가 ETRI로부터 AI 분산 학습·추론 프레임워크 'OptimusPrime'의 기술이전을 완료했다. 제한된 GPU 환경에서도 대규모 AI 모델을 효율적으로 활용할 수 있는 기술이다.",
+      "source": "전자신문",
+      "time": "08/05 16:37"
+    },
+    {
+      "category": "chip",
+      "title": "AP 성능 경쟁에서 'AI 연결성' 시대로…퀄컴 영역 확장 본격화",
+      "url": "https://www.etnews.com/20260805000147",
+      "summary": "퀄컴이 스냅드래곤 칩을 스마트폰에서 웨어러블·PC·XR까지 확대하며 멀티 디바이스 AI 플랫폼으로 진화 중이다. 기기별 사양 경쟁에서 AI 생태계 통합 완성도로 경쟁 축이 이동하고 있다.",
+      "source": "전자신문",
+      "time": "08/05 17:00"
+    },
+    {
+      "category": "service",
+      "title": "한국주택금융공사, AI로 법령 검색·문서 작성 자동화…정책금융 생산성 향상",
+      "url": "https://www.etnews.com/20260805000254",
+      "summary": "한국주택금융공사가 AI를 활용해 자연어 법령 검색, 문서 작성·결재 자동화 등 업무환경을 통합 재편한다. 반복 행정 절감으로 정책금융 집행 속도와 일관성을 높이는 것이 목표다.",
+      "source": "전자신문",
+      "time": "08/05 17:00"
+    },
+    {
+      "category": "robot",
+      "title": "IDOLL Robotics, 로봇 의사결정 AI 'RDMM 에이전트' 공개…RoboCup 세계 정상 견인",
+      "url": "https://www.etnews.com/20260805000366",
+      "summary": "IDOLL Robotics가 서비스 로봇의 의사결정 AI 'RDMM 에이전트'를 공개했다. 이 기술을 적용한 휴머노이드가 RoboCup@Home 2026 세계대회에서 우승을 달성했다.",
+      "source": "전자신문",
+      "time": "08/05 17:41"
+    },
+    {
+      "category": "others",
+      "title": "한국외대, 생성AI 선도인재양성사업 선정…서울대·KAIST 등과 국가 AI 핵심기술 개발",
+      "url": "https://www.etnews.com/20260806000004",
+      "summary": "한국외대가 과기정통부·IITP 지원 생성AI 선도인재양성사업에 선정됐다. 서울대·KAIST·POSTECH 등과 협력해 2029년까지 LLM·온디바이스 AI 기술 개발과 석박사급 인재를 양성한다.",
+      "source": "전자신문",
+      "time": "08/06 07:49"
+    },
+    {
+      "category": "others",
+      "title": "중앙대, 교육부 'G-LAMP 사업' 예비 선정…최대 250억원 확보",
+      "url": "https://www.etnews.com/20260806000006",
+      "summary": "중앙대가 G-LAMP 사업에 예비 선정되어 5년간 최대 250억원을 지원받는다. 인간 신경계 모사 기술 기반으로 AI 반도체·로봇·헬스케어 분야 원천기술 개발에 집중할 예정이다.",
+      "source": "전자신문",
+      "time": "08/06 07:55"
+    },
+    {
+      "category": "tech",
+      "title": "GIST, 신약 후보물질 예측 정확도 향상 AI 기술 개발…신약 개발 기간·비용 단축",
+      "url": "https://www.etnews.com/20260806000009",
+      "summary": "GIST가 알파폴드3 기반 AI 모델 '알파 DTA'를 개발했다. 실험 없이도 단백질-약물 결합 친화도를 높은 정확도로 예측하여 신약 개발 시간과 비용을 크게 단축할 수 있을 것으로 기대된다.",
+      "source": "전자신문",
+      "time": "08/06 08:08"
+    },
+    {
+      "category": "tech",
+      "title": "메타, 대규모 코드베이스용 AI 에이전트 '뮤즈 코드' 베타 출시",
+      "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+      "summary": "메타가 대규모 코드베이스를 위한 AI 코딩 에이전트 '뮤즈 코드'를 베타 출시했다. 코드 계획, 작성, 검증을 자동화하며 OpenAI·Anthropic 대비 비용 경쟁력을 내세운다.",
+      "source": "TechCrunch",
+      "time": "08/06 06:21"
+    },
+    {
+      "category": "biz",
+      "title": "Klaviyo, AI 고객 성공 스타트업 'Agency' 인수…창업자 CPO로 합류",
+      "url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
+      "summary": "Klaviyo가 AI 기반 고객 성공 스타트업 'Agency'를 인수했다. Elias Torres가 CPO로 합류하며 마케팅·CS AI 에이전트 제품 개발을 가속화할 예정이다.",
+      "source": "TechCrunch",
+      "time": "08/06 05:05"
+    },
+    {
+      "category": "biz",
+      "title": "제프 딘 등 구글 AI 연구자들, 과학 AI 스타트업 'Discovery Loop' 설립 위해 구글 퇴사",
+      "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+      "summary": "Jeff Dean, Sanjay Ghemawat 등 구글 AI 연구자들이 구글을 떠나 AI로 과학 연구를 가속화하는 스타트업 'Discovery Loop'를 설립한다.",
+      "source": "TechCrunch",
+      "time": "08/06 04:30"
+    },
+    {
+      "category": "service",
+      "title": "Shopify \"AI 검색, 구글 대체 아닌 보완\"…트래픽 전년 대비 3배 성장",
+      "url": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
+      "summary": "Shopify가 AI 검색이 기존 검색을 대체하지 않고 보완한다고 밝혔다. 2분기 AI 기반 트래픽과 주문이 전년 대비 3배 증가했다.",
+      "source": "TechCrunch",
+      "time": "08/06 00:56"
+    },
+    {
+      "category": "service",
+      "title": "Hark, API 없이 웹 작업 자동화하는 'Handoff' 브라우저 에이전트 공개",
+      "url": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/",
+      "summary": "Hark가 API 없이 Target·Walmart 등 웹사이트에서 자율적으로 작업을 완료하는 'Handoff' 브라우저 에이전트를 공개했다.",
+      "source": "TechCrunch",
+      "time": "08/06 00:46"
+    },
+    {
+      "category": "others",
+      "title": "TechCrunch Disrupt 2026, 로봇·자동화 공장 다루는 '리얼 월드 AI 스테이지' 신설",
+      "url": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/",
+      "summary": "TechCrunch Disrupt 2026에 로봇, 자동화 공장, 멸종동물 복원 등 물리 세계의 AI 응용을 다루는 '리얼 월드 AI 스테이지'가 신설된다.",
+      "source": "TechCrunch",
+      "time": "08/06 00:05"
+    },
+    {
+      "category": "chip",
+      "title": "앤트로픽, 자체 AI 칩 설계팀 채용 중…하드웨어-모델 공동 설계로 비용 절감 목표",
+      "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
+      "summary": "Anthropic이 자체 AI 칩 설계팀을 구성하고 있다. 하드웨어와 모델의 공동 설계를 통해 Claude 성능 향상과 운영 비용 절감을 목표로 한다.",
+      "source": "TechCrunch",
+      "time": "08/05 23:13"
+    },
+    {
+      "category": "tech",
+      "title": "MacPaw, Liquid AI와 협력해 앱스토어 개발자에게 디바이스 내 AI 추론 제공",
+      "url": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/",
+      "summary": "MacPaw가 Liquid AI와 협력해 디바이스 내 AI 추론 시스템 'Elix'를 개발한다. 프라이버시를 보호하면서 앱스토어 개발자들이 AI 기능을 활용할 수 있도록 지원한다.",
+      "source": "TechCrunch",
+      "time": "08/05 21:28"
+    },
+    {
+      "category": "tech",
+      "title": "AI 기상 예측 스타트업 WindBorne, 3700만달러 Series B 투자 유치",
+      "url": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
+      "summary": "WindBorne Systems가 AI 기상 예보 고도화를 위해 3,700만달러 Series B를 유치했다. 기상 기구 네트워크 데이터를 AI로 분석해 기업 의사결정에 활용 가능한 예보 서비스를 상용화한다.",
+      "source": "TechCrunch",
+      "time": "08/05 20:00"
+    },
+    {
+      "category": "robot",
+      "title": "MIT, 생성형 AI 활용한 뇌졸중 환자 맞춤형 재활 로봇 개발",
+      "url": "https://news.mit.edu/2026/personalized-physical-therapy-stroke-rehabilitation-powered-by-ai-0805",
+      "summary": "MIT 연구진이 생성형 AI를 활용한 뇌졸중 환자 맞춤형 재활 로봇을 개발했다. 물리치료사의 동작을 학습한 AI가 환자 능력에 맞게 재활을 지원하며, 현재 독일 뮌헨에서 임상 연구 중이다.",
+      "source": "MIT News",
+      "time": "08/05 09:00"
     }
   ]
 }
