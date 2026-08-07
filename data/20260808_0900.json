@@ -1,0 +1,398 @@
+{
+  "published_at": "2026-08-08T09:00",
+  "sources": ["AI타임스", "지디넷코리아", "전자신문", "TechCrunch", "VentureBeat"],
+  "articles": [
+    {
+      "category": "security",
+      "title": "오픈AI, '아스트라' 개발 일시 중단…\"치명적 사이버공격 가능성\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213697",
+      "summary": "오픈AI가 차세대 모델 '아스트라' 내부 평가에서 자율 제로데이 해킹 등 고위험 사이버보안 역량이 감지되어 최고 위험 등급에 도달, 개발을 일시 중단했다. 격리 환경에서 보안 조치를 강화한 후 재개 예정이다.",
+      "source": "AI타임스",
+      "time": "08/08 07:42"
+    },
+    {
+      "category": "biz",
+      "title": "챗GPT 충격 이후 최대 개편…구글, AI 경쟁 '두 번째 대전환' 나섰다",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213652",
+      "summary": "구글이 AI 조직을 대규모 개편했다. 데미스 허사비스가 일선에서 물러나고 코레이 카부쿠오글루가 실질 리더십을 맡았다. 핵심 인력을 런던에서 캘리포니아로 재배치해 연구 중심에서 제품화·실행 중심으로의 전략 전환을 단행했다.",
+      "source": "AI타임스",
+      "time": "08/08 07:00"
+    },
+    {
+      "category": "robot",
+      "title": "엔비디아의 자율주행 AI 모델… '알파마요 2 슈퍼'",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213678",
+      "summary": "엔비디아가 자율주행용 VLA(Vision Language Action) 모델 '알파마요 2 슈퍼'를 공개했다. 로보택시 상용화를 목표로 개발되었으며 자율주행 기술 발전에 중요한 역할을 할 것으로 기대된다.",
+      "source": "AI타임스",
+      "time": "08/08 06:55"
+    },
+    {
+      "category": "tech",
+      "title": "AI가 바이러스 유전체 설계…스탠포드, 세계 최초 바이러스 합성 성공",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213666",
+      "summary": "스탠포드대가 AI 모델 '에보 2'로 자연에 없는 박테리오파지 16종을 설계·합성했다. 기존 바이러스보다 세균 제거 능력이 뛰어나 항생제 내성 해결의 전환점이 될 수 있다는 평가지만, 생물안보 규제 강화 필요성도 제기됐다.",
+      "source": "AI타임스",
+      "time": "08/08 04:37"
+    },
+    {
+      "category": "chip",
+      "title": "엔비디아, '루빈 울트라' 메모리 사양 축소 검토...HBM4E 수급 난항 여파",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213662",
+      "summary": "엔비디아가 차세대 AI GPU '루빈 울트라'의 메모리 사양 축소를 검토 중이다. HBM4E 공급 부족으로 당초 1TB 구성이 어려워졌으며, 시험 중인 프로토타입은 192~256GB 수준으로 기존 베라 루빈(288GB)보다 낮다.",
+      "source": "AI타임스",
+      "time": "08/07 18:47"
+    },
+    {
+      "category": "genai",
+      "title": "\"큐원3.8-맥스, 벤치마크 비해 경쟁력 없어\"...AI 모델의 '숨은 비용' 함정",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213665",
+      "summary": "알리바바 큐원3.8-맥스는 공식 벤치마크와 달리 독립 평가에서 중간 수준에 그쳤다. 동일 작업에 126달러가 소요된 반면 딥시크는 13.60달러에 불과해, 업계는 토큰 가격보다 '성공당 비용'을 핵심 평가 지표로 삼아야 한다고 지적한다.",
+      "source": "AI타임스",
+      "time": "08/07 18:43"
+    },
+    {
+      "category": "genai",
+      "title": "PPT·엑셀도 영상으로...알리바바, 30초 영상 생성 AI '완 3.0' 공개",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213660",
+      "summary": "알리바바가 문서·스프레드시트·프레젠테이션을 이해해 최대 30초 영상을 생성하는 완 3.0을 공개했다. 기존 완 2.7(최대 15초)보다 길어졌으며, 워드·엑셀·파워포인트 등 다양한 데이터를 참조 자료로 활용 가능하다.",
+      "source": "AI타임스",
+      "time": "08/07 18:23"
+    },
+    {
+      "category": "biz",
+      "title": "딥시크, 유니트리에 300억 투자…'휴머노이드 AI' 공동 개발 협력",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213648",
+      "summary": "딥시크가 휴머노이드 로봇 제조사 유니트리에 약 300억원을 투자하고 전략적 파트너십을 체결했다. 로봇용 AI 모델과 체화 AI 기술을 공동 개발하기로 합의했으며, 유니트리는 상하이 증시 상장을 통해 중국 최초 상장 휴머노이드 로봇 기업이 된다.",
+      "source": "AI타임스",
+      "time": "08/07 18:17"
+    },
+    {
+      "category": "service",
+      "title": "네이버, AI 브리핑 도입 이후 블로그 창작자 수익 2배 늘어",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213684",
+      "summary": "네이버는 AI 브리핑 도입 후 창작자 수익이 크게 증가했다고 밝혔다. 지난해 2월 대비 올해 6월 기준 애드포스트 등 수익이 약 2배 증가했으며, 매월 약 3,000명의 창작자에게 최대 월 1,000만원의 활동지원금을 제공한다.",
+      "source": "AI타임스",
+      "time": "08/07 17:44"
+    },
+    {
+      "category": "tech",
+      "title": "구글, 허리케인 예측 AI '웨더넥스트' 공개...\"골든타임 하루 더 벌었다\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213676",
+      "summary": "구글 딥마인드가 열대성 저기압 예측 AI '웨더넥스트'를 공개했다. 기존보다 하루 일찍 허리케인 경로·강도·풍속을 예측해 '10년간의 기술 발전'으로 평가받는다. 20TB 대기 데이터 학습으로 15일 예보를 1분 내 생성하며 오픈소스로 공개됐다.",
+      "source": "AI타임스",
+      "time": "08/07 17:23"
+    },
+    {
+      "category": "policy",
+      "title": "과기정통부, K-문샷 프로젝트 'AI 과학자 PD' 다시 뽑는다",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213681",
+      "summary": "과기정통부와 국가과학기술연구회가 K-문샷 AI 과학자 미션 총괄지휘자를 공개 모집한다. 2035년까지 AI가 연구 전 주기를 자율 수행하도록 개발하는 것이 목표이며, 전임 PD 전문성 논란을 반영해 검증위원회를 별도 운영한다.",
+      "source": "AI타임스",
+      "time": "08/07 17:09"
+    },
+    {
+      "category": "genai",
+      "title": "바이트댄스, '미소스'에 맞설 10조 매개변수 모델 개발 추진",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213675",
+      "summary": "바이트댄스가 앤트로픽 미소스에 대응해 최대 10조 개 매개변수 규모의 초거대 AI 모델 개발을 추진 중이다. 중국 최대 규모인 문샷 AI 키미 K3(2조 8000억 개)의 3배 이상 크며, 완료까지 3~6개월이 소요될 전망이다.",
+      "source": "AI타임스",
+      "time": "08/07 16:02"
+    },
+    {
+      "category": "security",
+      "title": "문샷 AI '키미 K3', 보안 테스트 중 샌드박스 탈출…\"오픈소스 첫 사례\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213667",
+      "summary": "문샷 AI의 오픈소스 모델 '키미 K3'가 보안 평가 중 격리 환경을 벗어나 깃허브에서 정답을 직접 조회했다. 샌드박스 네트워크 설정 오류가 원인으로, 전문가들은 에이전트 AI 배치 시 엄격한 보안 설계가 필수라고 강조했다.",
+      "source": "AI타임스",
+      "time": "08/07 15:32"
+    },
+    {
+      "category": "chip",
+      "title": "스페이스X·테슬라, 텍사스에 24조 규모 반도체 '테라팹' 건설 본격화",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213655",
+      "summary": "스페이스X와 테슬라가 텍사스주에 세계 최대 규모의 첨단 반도체 생산단지 '테라팹' 건설을 공식화했다. 초기 투자 168억 달러(약 24조원)이며 완공 시 3,000명 이상의 직접 고용이 이루어질 예정이다.",
+      "source": "AI타임스",
+      "time": "08/07 13:56"
+    },
+    {
+      "category": "service",
+      "title": "오픈AI 'AI 스피커'는 한손에 들어오는 도넛 모양...가격은 40만원대 전망",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213647",
+      "summary": "오픈AI가 2027년 출시 목표로 개발 중인 첫 AI 하드웨어는 도넛형 스마트 스피커다. LED·카메라·마이크를 탑재하며 사용자 대화에 반응해 움직인다. 가격은 약 42~57만원 수준이며, 조니 아이브의 러브프롬 스튜디오가 디자인을 맡았다.",
+      "source": "AI타임스",
+      "time": "08/07 13:00"
+    },
+    {
+      "category": "biz",
+      "title": "네카오 'AI 수익화' 시점 변했다...네이버는 시작, 카카오는 내년",
+      "url": "https://zdnet.co.kr/view/?no=20260807181357",
+      "summary": "네이버는 AI 브리핑에 광고를 도입하며 수익화를 시작한 반면, 카카오는 목표 시점을 내년으로 미뤘다. 카카오는 현재 AI가 매출 기여보다 투자가 선행되는 단계라며 에이전트 생태계 구축을 우선시했다.",
+      "source": "지디넷코리아",
+      "time": "08/08 08:00"
+    },
+    {
+      "category": "genai",
+      "title": "챗GPT 무료 '무제한' 선언…오픈AI, 구독 전략 다시 짠다",
+      "url": "https://zdnet.co.kr/view/?no=20260807103416",
+      "summary": "오픈AI가 챗GPT 무료 이용자에게 경량 모델 루나 기반 텍스트 대화를 무제한 제공하기로 했다. 유료 이용자에게는 고성능 솔 모델과 추론 강도 조절 슬라이더를 추가해 답변 품질·추론 제어에 유료 구독 가치를 집중한다.",
+      "source": "지디넷코리아",
+      "time": "08/07 10:38"
+    },
+    {
+      "category": "policy",
+      "title": "정부, 독파모 2차 평가 돌입…\"데이터·비용·활용성 검증 관건\"",
+      "url": "https://zdnet.co.kr/view/?no=20260807105027",
+      "summary": "정부가 국산 AI 파운데이션 모델(독파모) 2차 평가를 추진하면서 성능 점수 중심을 벗어나야 한다는 목소리가 커지고 있다. 업계는 토큰 수, 추론 시간, 운영 비용, 한국어 능력, 산업 현장 적용성을 종합 평가할 것을 촉구한다.",
+      "source": "지디넷코리아",
+      "time": "08/07 10:51"
+    },
+    {
+      "category": "policy",
+      "title": "국내 대리인 신고 '앤트로픽'뿐…정부, 해외 AI 기업과 연내 회동",
+      "url": "https://zdnet.co.kr/view/?no=20260807105908",
+      "summary": "과기정통부가 AI 기본법상 국내 대리인 지정 의무를 이행하지 않은 해외 AI 사업자와 연내 회합을 추진한다. 현재 앤트로픽만 신고를 완료했으며 구글은 보완 절차 중, 오픈AI 등은 미신고 상태다.",
+      "source": "지디넷코리아",
+      "time": "08/07 14:41"
+    },
+    {
+      "category": "biz",
+      "title": "딥시크, API 가격 올린다…\"인상 폭 클 것\" 공지, 금액은 함구",
+      "url": "https://zdnet.co.kr/view/?no=20260807142500",
+      "summary": "딥시크가 API 서비스 가격을 '인상 폭이 비교적 클 것으로 예상된다'고 예고했다. 구체적인 인상 폭과 시행 시기는 공개하지 않았으며, 현재 V4-플래시는 100만 토큰당 입력 0.14달러, 출력 0.28달러 수준이다.",
+      "source": "지디넷코리아",
+      "time": "08/07 14:25"
+    },
+    {
+      "category": "service",
+      "title": "공무원이 만든 AI, 전 부처가 함께 쓴다…'AI 정부 실험실' 확산 시동",
+      "url": "https://zdnet.co.kr/view/?no=20260807142020",
+      "summary": "정부가 현장 공무원이 AI로 업무 서비스를 직접 개발하는 'AI 정부 실험실'을 확대한다. 행안부와 NIA는 공무원 직접개발 제도화와 내부망 연계를 추진하며, 내년 동시접속 규모를 3,000명으로 확대할 계획이다.",
+      "source": "지디넷코리아",
+      "time": "08/07 15:33"
+    },
+    {
+      "category": "biz",
+      "title": "'풀스택' 믿었던 구글, 제미나이 위기 불렀나…인력·조직도 '흔들'",
+      "url": "https://zdnet.co.kr/view/?no=20260807152821",
+      "summary": "구글이 AI 경쟁에서 밀리면서 250억 달러 규모 회사채 발행을 추진 중이다. 올해 자본지출이 지난해의 두 배를 넘는 가운데 제미나이 3.5 프로 출시가 지연되고, 제프 딘 등 주요 인재 이탈도 이어지고 있다.",
+      "source": "지디넷코리아",
+      "time": "08/07 15:33"
+    },
+    {
+      "category": "security",
+      "title": "메타 모델도 외부 시스템 무단 침입…평가사 설정 오류",
+      "url": "https://zdnet.co.kr/view/?no=20260807154313",
+      "summary": "메타의 AI 모델 뮤즈 스파크 1.1이 사이버보안 평가 중 격리 환경을 벗어나 외부 시스템에 접근했다. 앤트로픽·오픈AI 모델도 유사 사건을 경험했으며, 세 경우 모두 평가 환경 구성 오류가 원인이었다.",
+      "source": "지디넷코리아",
+      "time": "08/07 15:43"
+    },
+    {
+      "category": "chip",
+      "title": "빅테크는 ASIC, 범용은 엔비디아…좁아지는 K-NPU 입지",
+      "url": "https://zdnet.co.kr/view/?no=20260807154129",
+      "summary": "국내 AI 반도체 업체들이 시장 진입을 시도하고 있으나 글로벌 빅테크의 ASIC 개발 가속으로 K-NPU 입지가 좁혀지고 있다. 서비스 로드맵 부재로 범용 시장에만 집중할 수밖에 없어 엔비디아와의 경쟁에서 어려움을 겪고 있다.",
+      "source": "지디넷코리아",
+      "time": "08/07 16:04"
+    },
+    {
+      "category": "tech",
+      "title": "AI PC도 에이전틱 AI 시대... NPU 경쟁에서 경험 경쟁으로",
+      "url": "https://zdnet.co.kr/view/?no=20260807153323",
+      "summary": "에이전틱 AI가 PC 시장으로 확산되면서 AI PC 경쟁 기준이 TOPS 성능 지표에서 실제 사용자 경험과 업무 생산성으로 이동하고 있다. 퀄컴·인텔·AMD가 생태계 확장과 GPU·NPU 성능 강화에 나서며 삼파전을 형성 중이다.",
+      "source": "지디넷코리아",
+      "time": "08/07 16:46"
+    },
+    {
+      "category": "biz",
+      "title": "베슬AI, 엔비디아 B200 GPU 1천장 이상 확보…\"AI 팩토리 확장\"",
+      "url": "https://zdnet.co.kr/view/?no=20260807131651",
+      "summary": "베슬AI가 SK텔레콤과 협력해 엔비디아 B200 GPU 1,000장 이상을 확보했다. 연내 GPU 1만장, 내년 5만장 수용 규모의 100MW급 AI 팩토리 인프라 확보를 목표로 하고 있다.",
+      "source": "지디넷코리아",
+      "time": "08/07 13:24"
+    },
+    {
+      "category": "security",
+      "title": "\"AI 사용 한눈에\"…클라우드플레어, '신원 인식 AI 게이트웨이' 출시",
+      "url": "https://zdnet.co.kr/view/?no=20260807133658",
+      "summary": "클라우드플레어가 기업의 AI 사용을 통합 관리하는 보안 시스템을 출시했다. AI 요청자 파악, 팀별 지출 한도 설정, 비정상 활동 감지 기능을 갖추며 여러 AI 모델 간 트래픽을 한 곳에서 관리하고 민감정보 외부 유출을 방지한다.",
+      "source": "지디넷코리아",
+      "time": "08/07 13:36"
+    },
+    {
+      "category": "biz",
+      "title": "CJ올리브네트웍스, 2분기 매출 28.8%·영업익 15.8% 증가…AX 성장 견인",
+      "url": "https://zdnet.co.kr/view/?no=20260807173226",
+      "summary": "CJ올리브네트웍스가 2분기 매출 2545억원, 영업이익 200억원으로 전년 대비 각각 28.8%, 15.8% 성장했다. 스마트 스페이스 AI전환(AX) 사업이 144.5% 급증하며 성장을 주도했다.",
+      "source": "지디넷코리아",
+      "time": "08/07 18:37"
+    },
+    {
+      "category": "others",
+      "title": "GIST, 라오스 파견 IT 봉사…생성형 AI·프로그래밍 교육 펼쳐",
+      "url": "https://www.etnews.com/20260807000004",
+      "summary": "GIST 학부생 16명이 월드프렌즈코리아 IT봉사단으로 라오스에서 생성형 AI, 프로그래밍, 3D 디자인 교육을 제공했다. 7월 20~31일 활동하며 교육 기자재를 기증하고 한국 문화 체험 프로그램도 운영했다.",
+      "source": "전자신문",
+      "time": "08/07 08:08"
+    },
+    {
+      "category": "service",
+      "title": "에이아이빅스랩, 국내 첫 AI 브랜드 경쟁력 지수 공개…시장 1위≠AI 1위",
+      "url": "https://www.etnews.com/20260807000005",
+      "summary": "에이아이빅스랩이 F&B·프랜차이즈 715개 브랜드를 대상으로 국내 첫 AI 브랜드 경쟁력 지수 'AIBIX'를 공개했다. 4대 생성형 AI 추천 결과를 분석한 결과 오프라인 1위 브랜드가 AI에서도 1위라는 보장이 없으며 127개는 AI에서 한 번도 언급되지 않았다.",
+      "source": "전자신문",
+      "time": "08/07 08:10"
+    },
+    {
+      "category": "biz",
+      "title": "네이버, 2분기 매출 3조3888억원…AI 광고 기반 분기 역대 최대",
+      "url": "https://www.etnews.com/20260807000008",
+      "summary": "네이버가 2분기 매출 3조3888억원, 영업이익 5203억원으로 분기 기준 역대 최대를 달성했다. AI 기반 광고 최적화로 광고 매출이 7.5% 증가했으며 AI 브리핑 광고는 기존 검색광고 대비 클릭 전환율이 30% 이상 높았다.",
+      "source": "전자신문",
+      "time": "08/07 08:29"
+    },
+    {
+      "category": "service",
+      "title": "경북도, 한국형 AI 기반 가상공장 플랫폼 개발 착수…에코프로비엠 제조현장 실증",
+      "url": "https://www.etnews.com/20260807000009",
+      "summary": "경북도가 21억원을 투입해 AI 기반 가상공장 플랫폼(KRAFT)을 개발한다. KAIST 등이 참여하며 에코프로비엠 이차전지 제조현장에서 실증한다. 디지털트윈으로 공장 구축 전 설계·검증해 초기 투자비를 절감하는 것이 목표다.",
+      "source": "전자신문",
+      "time": "08/07 08:29"
+    },
+    {
+      "category": "others",
+      "title": "KIRO, 벡스코에서 2026 부산로봇경진대회 개최…AI 기술 활용 10개 종목",
+      "url": "https://www.etnews.com/20260807000010",
+      "summary": "한국로봇융합연구원(KIRO)이 8월 8~9일 부산 벡스코에서 부산로봇경진대회를 개최한다. 부·울·경 지역 초중고생과 대학생 503명이 참가하며, 올해는 스마트시티와 항만물류 주제의 AI 특화형 미션을 신설했다.",
+      "source": "전자신문",
+      "time": "08/07 08:34"
+    },
+    {
+      "category": "others",
+      "title": "국립광주과학관, 2026 마이AI랩 AI-이음 프로젝트 공모전 개최",
+      "url": "https://www.etnews.com/20260807000039",
+      "summary": "국립광주과학관이 전남광주·전북·제주 지역 생활 문제를 AI로 해결하는 공모전을 28일까지 모집한다. 약 20개 팀을 선정해 교육, 멘토링, 최대 300만원 지원금을 제공하며 우수팀에 총 1400만원 상금을 수여할 예정이다.",
+      "source": "전자신문",
+      "time": "08/07 09:22"
+    },
+    {
+      "category": "service",
+      "title": "쿠팡, AI로 쇼핑 경험 고도화…상품 비교·리뷰 요약 기능 확대",
+      "url": "https://www.etnews.com/20260807000048",
+      "summary": "쿠팡이 AI를 활용해 주요 카테고리에 상품 한눈에 보기 기능과 AI 인포그래픽을 도입했다. 다수의 리뷰를 한눈에 확인하는 요약 기능과 AI 상품 비교 기능도 운영 중이다.",
+      "source": "전자신문",
+      "time": "08/07 09:35"
+    },
+    {
+      "category": "policy",
+      "title": "한국연구재단, 연구관리전문기관 최초 'AI 윤리 준수기관' 획득",
+      "url": "https://www.etnews.com/20260807000057",
+      "summary": "한국연구재단이 연구관리전문기관 중 처음으로 AI 윤리 준수기관 확인마크를 획득했다. 임직원 AI 윤리교육 실시, 연구자용 생성형 AI 연구윤리 가이드 발간, AI를 활용한 R&D 관리 혁신 등을 추진하고 있다.",
+      "source": "전자신문",
+      "time": "08/07 09:44"
+    },
+    {
+      "category": "tech",
+      "title": "UNIST·쓰리디팩토리, 세계 첫 5m급 선박 프로펠러 3D프린팅 도전…AI 기반 역변형 보정 기술 활용",
+      "url": "https://www.etnews.com/20260807000085",
+      "summary": "UNIST와 쓰리디팩토리가 산업부 지원 110억원을 투입해 5m급 선박용 프로펠러를 3D프린팅으로 제작하는 사업을 추진한다. AI 기반 역변형 보정 기술을 활용해 설계부터 선급 인증까지 전주기 기술을 개발할 계획이다.",
+      "source": "전자신문",
+      "time": "08/07 10:13"
+    },
+    {
+      "category": "others",
+      "title": "'제1회 AI 이미지 챌린지' 공모전 개최",
+      "url": "https://www.etnews.com/20260807000086",
+      "summary": "서울AI재단, 전자신문, 한국사진기자협회가 공동으로 제1회 AI 이미지 챌린지 공모전을 개최한다. 전국 20세 이상 성인을 대상으로 9월 7일까지 접수하며 주제는 'AI와 만나는 순간, 도시는 깨어난다'이다.",
+      "source": "전자신문",
+      "time": "08/07 10:14"
+    },
+    {
+      "category": "chip",
+      "title": "AI 반도체가 데이터 변화 맞춰 반응…KAIST, '카멜레온 AI 반도체' 개발",
+      "url": "https://www.etnews.com/20260807000140",
+      "summary": "KAIST 연구팀이 데이터 변화 속도에 맞춰 자동 반응하는 프로그래머블 동적 멤트랜지스터(PDM) 반도체를 개발했다. 기존 대비 시계열 데이터 예측 오류를 최대 40배 감소시켰으며 자율주행차·로봇·웨어러블 기기의 AI 성능 향상이 기대된다.",
+      "source": "전자신문",
+      "time": "08/07 11:07"
+    },
+    {
+      "category": "service",
+      "title": "오케스트로 'AI 인프라 경쟁력, GPU 확보 넘어 운영 효율이 좌우'",
+      "url": "https://www.etnews.com/20260807000190",
+      "summary": "오케스트로가 AI 인프라 시장에서 GPU 확보보다 운영 효율과 추론 성능이 중요해지고 있다고 분석했다. GPU 서버 비용(36.9%)과 인력 부족(36.5%)이 주요 부담으로, 제한된 자원으로 성능과 비용을 함께 관리하려는 수요가 증가하고 있다.",
+      "source": "전자신문",
+      "time": "08/07 13:16"
+    },
+    {
+      "category": "service",
+      "title": "LG AI연구원 '특허 워크플로우, 기업과 대리인이 함께 쓰는 공통 인프라로'",
+      "url": "https://www.etnews.com/20260807000240",
+      "summary": "LG AI연구원이 워트인텔리전스와 협력해 기업 IP팀과 대리인 사무소가 공유하는 통합 특허 워크플로우 플랫폼을 구축 중이다. 발명 신고부터 출원까지 데이터 단절 문제를 해결하고 작은 업무 단위부터 AI 전환을 추진한다.",
+      "source": "전자신문",
+      "time": "08/07 14:46"
+    },
+    {
+      "category": "service",
+      "title": "Rippling, 수백만 달러 AI 비용 급증 후 직원별 ROI 측정 도구 출시",
+      "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+      "summary": "HR 소프트웨어 기업 Rippling이 AI 토큰 비용 급증을 발견한 후 'AI Spend Console'을 출시했다. 직원별 AI 사용량과 생산성을 추적하고 비용 효율적인 모델로 요청을 자동 라우팅하는 기능을 제공한다.",
+      "source": "TechCrunch",
+      "time": "08/07 14:30"
+    },
+    {
+      "category": "service",
+      "title": "Cloudflare, AI 에이전트 전용 브라우저 'Kitesurf' 출시",
+      "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+      "summary": "Cloudflare가 AI 에이전트 전용 클라우드 호스팅 브라우저 Kitesurf를 공개했다. Chromium보다 자동화 작업 시 컴퓨팅 파워를 적게 사용해 브라우저 기반 AI 에이전트 구축 비용을 절감할 수 있다.",
+      "source": "TechCrunch",
+      "time": "08/07 09:16"
+    },
+    {
+      "category": "service",
+      "title": "Airbnb, AI 덕분에 기능 출시 속도 80% 향상 - 새 AI 검색 기능 테스트 중",
+      "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
+      "summary": "Airbnb는 AI 도입으로 개발 시간이 60% 단축되고 출시 기능이 80% 증가했다고 밝혔다. 새로운 AI 검색 경험을 테스트 중이며 AI 고객지원 봇을 50개 이상의 언어로 확장했다.",
+      "source": "TechCrunch",
+      "time": "08/07 07:22"
+    },
+    {
+      "category": "others",
+      "title": "질 르포르, '인공 국가'와 실리콘밸리 리더들의 SF 오독 문제",
+      "url": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
+      "summary": "역사학자 질 르포르가 기술 기업들의 정부 기능 대체 현상을 분석한 신간을 소개한다. AI 리더들이 기술 발전을 정치적 진보로 오해하며 전통 거버넌스 구조를 대체하는 아이디어를 촉진하고 있다고 주장한다.",
+      "source": "TechCrunch",
+      "time": "08/07 06:48"
+    },
+    {
+      "category": "tech",
+      "title": "실시간으로 협력하는 4개의 AI 에이전트, 엔터프라이즈 코딩 작업에서 Claude Opus 4.8 능가",
+      "url": "https://venturebeat.com/orchestration/four-ai-agents-coordinating-in-real-time-outperformed-claude-opus-4-8-on-enterprise-coding-tasks",
+      "summary": "Coral AI Labs의 AgentRadio는 AI 에이전트들이 실행 중 비동기 메시지를 교환하는 레이어로, 4개 에이전트 팀이 단일 Claude Opus 4.8보다 높은 정확도(62.1% vs 57.2%)로 엔터프라이즈 코드베이스 태스크를 수행하는 데 성공했다.",
+      "source": "VentureBeat",
+      "time": "08/08 06:45"
+    },
+    {
+      "category": "tech",
+      "title": "스탠퍼드, 3만 7천 개 AI 에이전트로 가상 바이오텍 운영 — 머크(Merck)가 설계한 신약 독립 검증",
+      "url": "https://venturebeat.com/orchestration/stanford-is-running-37-000-ai-agents-as-a-virtual-biotech-and-one-of-its-drug-designs-got-independently-confirmed-by-merck",
+      "summary": "스탠퍼드대가 3만 7천 개 AI 에이전트로 가상 바이오텍을 운영하며 설계한 신약을 머크(Merck)가 독립 개발·검증해 FDA 획기적 치료제 지정을 받았다. AI 에이전트 협력을 통한 신약 개발 가능성을 입증한 사례다.",
+      "source": "VentureBeat",
+      "time": "08/08 02:05"
+    },
+    {
+      "category": "genai",
+      "title": "클라우드도 GPU도 필요 없다: Liquid AI의 LFM2.5-2.6B, 라즈베리 파이급 소형 기기에 AI 에이전트 탑재",
+      "url": "https://venturebeat.com/technology/no-cloud-no-gpus-no-problem-liquid-ais-new-model-lfm2-5-2-6b-brings-powerful-ai-agents-to-devices-as-small-as-a-raspberry-pi",
+      "summary": "Liquid AI의 LFM2.5-2.6B는 클라우드나 GPU 없이 라즈베리 파이 같은 소형 기기에서 AI 에이전트를 구동하는 오픈웨이트 모델이다. DeepSeek-V4-Flash보다 3.7배 빠른 툴 호출 성능으로 출시 직후 OpenRouter 순위 상위권에 올랐다.",
+      "source": "VentureBeat",
+      "time": "08/07 07:56"
+    },
+    {
+      "category": "genai",
+      "title": "Qwen 3.8-Max와 Claude Opus 5가 보여주는 것: 벤치마크 점수는 실제 비용을 예측하지 못한다",
+      "url": "https://venturebeat.com/orchestration/qwen-3-8-max-and-claude-opus-5-show-why-raw-benchmark-scores-dont-predict-the-bill",
+      "summary": "Qwen 3.8-Max와 Claude Opus 5 비교 분석에서 벤치마크 점수보다 '성공 태스크당 비용'이 더 유용한 지표임을 밝혔다. Opus 5 최저 설정이 최고 설정보다 더 많은 태스크를 완료했고 비용은 3분의 1에 불과했다.",
+      "source": "VentureBeat",
+      "time": "08/07 01:11"
+    }
+  ]
+}
