@@ -1,0 +1,374 @@
+{
+  "published_at": "2026-08-22T09:00",
+  "sources": ["AI Times", "지디넷", "전자신문", "TechCrunch", "VentureBeat"],
+  "articles": [
+    {
+      "category": "genai",
+      "title": "슬랙, AI 코딩을 터미널 밖으로 꺼내 그룹 채팅 속으로",
+      "url": "https://venturebeat.com/orchestration/slack-wants-to-drag-ai-coding-out-of-the-terminal-and-into-the-group-chat/",
+      "summary": "슬랙이 Claude Code, Devin, GitHub Copilot 등 AI 코딩 에이전트를 전용 채널에 내장한 'Slack Code'를 출시했다. 팀 전체가 AI 코딩 과정을 실시간으로 감시·조율하는 협업형 개발 환경을 제공한다.",
+      "source": "VentureBeat",
+      "time": "08/21 09:00"
+    },
+    {
+      "category": "genai",
+      "title": "챗GPT, 이제 아이메시지도 읽고 보낸다…시리와 충돌하나",
+      "url": "https://zdnet.co.kr/view/?no=20260821084030",
+      "summary": "오픈AI가 챗GPT를 통해 애플의 아이메시지를 읽고 작성하거나 직접 전송할 수 있는 기능을 선보였다. 애플이 개인정보 보호를 강조해온 만큼 새 기능을 둘러싼 논란과 함께 시리와의 역할 중복 문제가 제기되고 있다.",
+      "source": "지디넷",
+      "time": "08/21 09:30"
+    },
+    {
+      "category": "service",
+      "title": "메가존소프트, GWS 기반 농심그룹 AX 체계 구축",
+      "url": "https://www.etnews.com/20260821000027",
+      "summary": "메가존소프트가 농심그룹 국내외 21개 법인에 구글 워크스페이스와 제미나이(Gemini) 기반의 전사 AI 전환(AX) 체계를 구축했다. 농심 본사에서 GWS 선포식을 개최하며 그룹 전체 AI 기반 업무 혁신에 나섰다.",
+      "source": "전자신문",
+      "time": "08/21 09:24"
+    },
+    {
+      "category": "service",
+      "title": "나무에이엑스, 솔로몬텍과 손잡고 기업용 AI 플랫폼 사업 확대",
+      "url": "https://www.etnews.com/20260821000032",
+      "summary": "나무에이엑스가 ICT 서비스 전문기업 솔로몬텍과 MOU를 체결하고 가상화 전환과 AI 인프라 운영을 아우르는 기업용 플랫폼 사업 확대에 나선다. 나무에이엑스는 플랫폼·기술지원, 솔로몬텍은 영업·구축·운영을 담당한다.",
+      "source": "전자신문",
+      "time": "08/21 09:33"
+    },
+    {
+      "category": "biz",
+      "title": "앤트로픽, 역대 최대 IPO 도전…\"스페이스X 기록 깬다\"",
+      "url": "https://zdnet.co.kr/view/?no=20260821102228",
+      "summary": "앤트로픽이 이달 말 공개 상장 신고를 목표로 스페이스X를 넘는 초대형 IPO를 내부 검토 중이다. 2026년 5월 자금 조달 당시 기업가치 9650억 달러를 인정받았으며, 오픈AI보다 먼저 증시 입성이 유력하다.",
+      "source": "지디넷",
+      "time": "08/21 10:22"
+    },
+    {
+      "category": "biz",
+      "title": "카카오, 2개 회사로 나뉜다…카카오AI-카카오X로 성장 재설계",
+      "url": "https://zdnet.co.kr/view/?no=20260821102850",
+      "summary": "카카오가 AI 사업을 담당하는 카카오AI(신설)와 기존 계열사·투자를 맡는 카카오X(존속)로 인적분할한다. 카카오AI는 카카오톡을 에이전틱 AI 인터페이스로 진화시키고 2030년 매출 6조원을 목표로 한다.",
+      "source": "지디넷",
+      "time": "08/21 10:34"
+    },
+    {
+      "category": "service",
+      "title": "챗GPT로 코딩하기 45분 배웠더니, 자신감은 폭등하고 실력은 제자리였다",
+      "url": "https://www.etnews.com/20260821000098",
+      "summary": "노스캐롤라이나주립대 연구진이 공대생 55명을 대상으로 챗GPT 코딩 교육 45분 실험을 진행한 결과, AI 도구 사용 후 자신감은 급등했지만 실제 코딩 실력 향상은 미미한 것으로 나타났다. AI 의존도와 실제 역량 향상 간의 괴리를 지적한 연구다.",
+      "source": "전자신문",
+      "time": "08/21 10:39"
+    },
+    {
+      "category": "biz",
+      "title": "카페24, 한국직업전문학교와 협약…AI 인재 양성 맞손",
+      "url": "https://zdnet.co.kr/view/?no=20260821094450",
+      "summary": "카페24가 한국직업전문학교와 AI 인재 양성을 위한 산학협력 MOU를 체결했다. AI 창업·취업까지 연계하는 교육 생태계를 구축하고 맞춤형 커리큘럼을 공동 개발한다.",
+      "source": "지디넷",
+      "time": "08/21 10:43"
+    },
+    {
+      "category": "service",
+      "title": "비누랩스-구글, 에브리타임 내에 'AI 전용관' 연다",
+      "url": "https://zdnet.co.kr/view/?no=20260821110724",
+      "summary": "에브리타임 운영사 비누랩스가 구글 AI '제미나이'와 파트너십을 맺고 에브리타임 앱 내 AI 전용 커뮤니티 공간 '제미나이 라운지'를 오픈했다.",
+      "source": "지디넷",
+      "time": "08/21 11:07"
+    },
+    {
+      "category": "service",
+      "title": "셀렉트스타, AI 캐릭터 '아기상어'와 대화 안전·신뢰 확보",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214194",
+      "summary": "셀렉트스타가 AI 신뢰성 평가 플랫폼 '다투모'를 활용해 아기상어 AI 챗봇의 대화 안전성과 세계관 일관성을 사전 검증했다. AI 캐릭터 서비스 품질 관리의 새로운 모델을 제시했다.",
+      "source": "AI Times",
+      "time": "08/21 11:53"
+    },
+    {
+      "category": "tech",
+      "title": "바이브컴퍼니 \"온톨로지 RAG로 기업 문서·정보 등록 자동화\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214196",
+      "summary": "바이브컴퍼니가 온톨로지 기반 RAG 기술을 활용해 기업의 비정형 문서와 정보를 자동으로 분류·등록하는 AI 솔루션을 선보였다.",
+      "source": "AI Times",
+      "time": "08/21 11:57"
+    },
+    {
+      "category": "policy",
+      "title": "[기고] 길 잃은 독파모 평가 기준, 고쳐야 할 세 가지",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214183",
+      "summary": "독자 AI 파운데이션 모델 개발(독파모) 프로젝트 평가 기준의 불투명성 논란이 이어지는 가운데, 전문가가 반드시 고쳐야 할 세 가지 평가 기준 개선안을 제시했다.",
+      "source": "AI Times",
+      "time": "08/21 12:00"
+    },
+    {
+      "category": "tech",
+      "title": "앤트로픽도 기업 데이터 보존 정책 개편...\"고객 인프라에 직접 보관\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214191",
+      "summary": "앤트로픽이 기업 고객 데이터를 앤트로픽 서버 대신 고객 자체 인프라에 직접 저장·보관하는 방식으로 데이터 보존 정책을 전면 개편했다.",
+      "source": "AI Times",
+      "time": "08/21 12:16"
+    },
+    {
+      "category": "tech",
+      "title": "앤트로픽, 사내 AI 교육 노하우 담은 '클로드 아카데미' 공개",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214192",
+      "summary": "앤트로픽이 사내 직원 AI 교육 노하우를 담은 '클로드 아카데미'를 공개했다. AI 협업 방법론과 실전 프롬프트 활용법 등 기업의 AI 도입에 도움이 되는 콘텐츠가 포함됐다.",
+      "source": "AI Times",
+      "time": "08/21 12:31"
+    },
+    {
+      "category": "robot",
+      "title": "로보티즈, 세계로봇대회에서 휴머노이드 'AI 사피엔스' 공개",
+      "url": "https://www.etnews.com/20260821000143",
+      "summary": "로보티즈가 2026 세계로봇대회(WRC)에 국내 휴머노이드 기업 중 유일하게 참가해 'AI 사피엔스' 휴머노이드를 공개했다. 오픈소스 기반 풀스택 로봇 솔루션으로 액추에이터부터 완성형 휴머노이드까지 수직 통합 역량을 입증했다.",
+      "source": "전자신문",
+      "time": "08/21 12:54"
+    },
+    {
+      "category": "biz",
+      "title": "엔비디아, 코딩 스타트업 풀사이드와 8조 규모 라이선스·인재 채용 계약",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214200",
+      "summary": "엔비디아가 AI 코딩 스타트업 풀사이드(Poolside)와 약 8조원 규모의 기술 라이선스 및 인재 채용 계약을 체결했다. AI 코딩 기술 경쟁력 강화를 위한 전략적 투자다.",
+      "source": "AI Times",
+      "time": "08/21 12:59"
+    },
+    {
+      "category": "genai",
+      "title": "메타, '뮤즈 비디오' 테스트 착수…오디오 동시 생성 10초 영상 선보여",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214203",
+      "summary": "메타가 오디오를 동시에 생성하는 AI 영상 생성 도구 '뮤즈 비디오' 테스트를 시작했다. 텍스트나 이미지 입력으로 10초 영상과 음성을 동시에 생성할 수 있다.",
+      "source": "AI Times",
+      "time": "08/21 13:10"
+    },
+    {
+      "category": "chip",
+      "title": "KETI, OCP 테크 데이서 차세대 'GPU 오케스트레이션 기술' 선보여",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214188",
+      "summary": "한국전자기술연구원(KETI)이 2026 OCP 코리아 테크 데이에서 AI 인프라의 GPU 자원을 효율적으로 관리·배분하는 차세대 GPU 오케스트레이션 기술을 선보였다.",
+      "source": "AI Times",
+      "time": "08/21 13:30"
+    },
+    {
+      "category": "robot",
+      "title": "\"시연 한 번으로 기술 습득\"…제너럴리스트, 로봇 모델 'GEN-1.5' 공개",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214204",
+      "summary": "AI 로봇 스타트업 제너럴리스트가 단 한 번의 시연만으로 새로운 기술을 습득할 수 있는 로봇 AI 모델 'GEN-1.5'를 공개했다. 빠른 범용 기술 학습 능력이 핵심이다.",
+      "source": "AI Times",
+      "time": "08/21 13:37"
+    },
+    {
+      "category": "chip",
+      "title": "마이크론, 14조 투자해 미국 첫 AI 메모리 전문 연구소 설립",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214209",
+      "summary": "마이크론이 14조원을 투자해 미국 내 최초 AI 메모리 전문 연구소를 설립한다. 차세대 AI 가속기와 데이터센터용 고성능 메모리 기술 개발이 핵심 목표다.",
+      "source": "AI Times",
+      "time": "08/21 14:05"
+    },
+    {
+      "category": "robot",
+      "title": "투모로로보틱스, AWS 피지컬 AI 프론티어 1기 선정",
+      "url": "https://www.etnews.com/20260821000181",
+      "summary": "피지컬 AI 기업 투모로로보틱스가 AWS 코리아 피지컬 AI 프론티어 프로그램 1기로 선정됐다. AWS 기반 데이터 수집·모델 학습·엣지 배포 파이프라인을 고도화하고 현장 재학습 속도를 높인다.",
+      "source": "전자신문",
+      "time": "08/21 14:05"
+    },
+    {
+      "category": "policy",
+      "title": "\"AI로 사회문제 해결한다\"…과기부, 2026 AI·디지털 챌린지 공모",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214211",
+      "summary": "과기부가 한국지능정보사회진흥원과 '2026 AI·디지털 기반 사회문제 해결 챌린지'를 개최한다. 민간 클라우드에서 AI 에이전트 개발 도구를 지원하고 서비스 개발을 돕는다.",
+      "source": "AI Times",
+      "time": "08/21 14:47"
+    },
+    {
+      "category": "biz",
+      "title": "알리바바, AI·클라우드 성장에도 대규모 투자로 순이익 75% 급감",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214215",
+      "summary": "알리바바 2026년 1분기 매출은 9% 증가했으나 AI·클라우드 인프라 대규모 투자 여파로 순이익이 75% 급감했다. AI 관련 제품 매출은 12분기 연속 세 자릿수 성장을 이어갔다.",
+      "source": "AI Times",
+      "time": "08/21 14:42"
+    },
+    {
+      "category": "service",
+      "title": "포티투마루, 화성시 '민원 행정 AI 플랫폼' 구축한다",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214231",
+      "summary": "포티투마루가 공공 AI 서비스 지원 사업으로 화성시 도시데이터플랫폼을 구축한다. 민원분석·예측 에이전틱 AI, 담당부서 자동추천, 지능형 RAG 검색 등을 구현할 예정이다.",
+      "source": "AI Times",
+      "time": "08/21 16:05"
+    },
+    {
+      "category": "genai",
+      "title": "메타, 미국서 '바이브 코딩' 게임 앱 '포켓' 출시",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214218",
+      "summary": "메타가 프롬프트 입력만으로 미니 게임과 인터랙티브 콘텐츠를 제작·공유할 수 있는 AI 앱 '포켓(Pocket)'을 미국 앱스토어와 구글 플레이에 출시했다.",
+      "source": "AI Times",
+      "time": "08/21 15:09"
+    },
+    {
+      "category": "policy",
+      "title": "영국 영화관서 메타 '스마트 안경' 착용 제한...\"사생활·영화 불법 촬영 우려\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214216",
+      "summary": "영국 영화관들이 AI 기능 탑재 메타 스마트 안경 착용을 금지·제한하기 시작했다. 개인정보 침해와 영화 불법 복제 우려가 주요 원인으로 영화관별 자체 정책이 도입되고 있다.",
+      "source": "AI Times",
+      "time": "08/21 15:35"
+    },
+    {
+      "category": "robot",
+      "title": "웨이모, 로보택시용 맞춤형 자체 칩 개발...외부 의존 낮추고 주행 판단 강화",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214217",
+      "summary": "구글 자율주행 자회사 웨이모가 자체 설계 ASIC 칩을 최신 로보택시에 탑재해 생산 중이다. 엔비디아 의존도를 낮추고 AI 모델 연산 효율과 도심 주행 판단 능력을 향상했다.",
+      "source": "AI Times",
+      "time": "08/21 15:50"
+    },
+    {
+      "category": "chip",
+      "title": "KT \"AI 데이터센터 핵심은 효율성\"…차세대 네트워크·CXL·모듈러 제시",
+      "url": "https://zdnet.co.kr/view/?no=20260821155817",
+      "summary": "AI 연산 수요 급증에 따라 AI 데이터센터 경쟁력이 인프라 규모보다 자원·전력 효율에 달렸다는 전망이 나왔다. KT는 차세대 네트워크, CXL, 모듈러 방식의 효율적 AIDC 전략을 제시했다.",
+      "source": "지디넷",
+      "time": "08/21 15:58"
+    },
+    {
+      "category": "genai",
+      "title": "구글, '젬마' 누적 다운로드 10억회 돌파…'어썸 젬마' 저장소 공개",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214224",
+      "summary": "구글의 오픈웨이트 AI 모델 '젬마' 누적 다운로드가 10억 건을 돌파했다. 전 세계 개발자들이 공개한 젬마 변형 모델도 10만 개를 넘어섰으며 '어썸 젬마' 저장소도 공개됐다.",
+      "source": "AI Times",
+      "time": "08/21 16:15"
+    },
+    {
+      "category": "chip",
+      "title": "아이에이클라우드, OCP서 모듈형 AI 데이터센터 '네오큐브' 공개",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214228",
+      "summary": "아이에이클라우드가 2026 OCP 코리아 테크 데이에서 전력·냉각·GPU·NPU·클라우드 SW를 결합한 모듈형 프라이빗 AI 데이터센터 솔루션 '네오큐브'를 공개했다.",
+      "source": "AI Times",
+      "time": "08/21 16:35"
+    },
+    {
+      "category": "biz",
+      "title": "메타, MS '애저' 최대 고객사로 부상...빅테크 'AI 순환 의존' 심화",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214222",
+      "summary": "메타가 마이크로소프트 애저를 통해 외부 AI 모델과 컴퓨팅 자원에 연간 수억 달러를 지출하는 최대 고객으로 부상하며 빅테크 간 AI 순환 의존 현상이 심화되고 있다.",
+      "source": "AI Times",
+      "time": "08/21 16:49"
+    },
+    {
+      "category": "robot",
+      "title": "휴먼 랩스, 피지컬 AI 전용 '인간 데이터' 플랫폼 구축...로봇 스킬 학습 가속",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214226",
+      "summary": "휴먼 랩스가 수천 시간의 인간 움직임·판단을 시각·청각·촉각 데이터로 수집해 로봇이 학습할 수 있는 피지컬 AI 전용 대규모 데이터 인프라 구축에 나섰다.",
+      "source": "AI Times",
+      "time": "08/21 16:55"
+    },
+    {
+      "category": "service",
+      "title": "AI로 기후재난·사회문제 해결…\"국민 아이디어 모십니다\"",
+      "url": "https://zdnet.co.kr/view/?no=20260821160251",
+      "summary": "AI와 디지털 기술로 기후재난과 지역·청년 문제 등 사회문제를 해결할 국민 아이디어를 모집한다. 올해는 AI 에이전트 개발 도구와 바이브 코딩까지 활용할 수 있도록 지원할 예정이다.",
+      "source": "지디넷",
+      "time": "08/21 16:02"
+    },
+    {
+      "category": "genai",
+      "title": "\"챗GPT 등장 이후 웹페이지 35%에 AI 흔적\"...인터넷 생태계 지각변동",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214213",
+      "summary": "퓨 리서치 센터 조사에 따르면 챗GPT 출시 이후 게시된 영어 웹페이지의 35%에서 AI가 작성하거나 편집한 흔적이 발견돼 인터넷 생태계 변화가 가속화되고 있다.",
+      "source": "AI Times",
+      "time": "08/21 17:06"
+    },
+    {
+      "category": "chip",
+      "title": "'모두의 AI' 뛰어든 통신 3사 강점은?...\"AIDC·가입자\"",
+      "url": "https://zdnet.co.kr/view/?no=20260821162018",
+      "summary": "SK텔레콤·KT·LG유플러스 이통3사가 정부 대국민 AI 서비스 '모두의 AI' 사업에 참여했다. 대규모 가입자 기반과 AI 데이터센터 인프라 운영 경험이 이통사의 핵심 강점으로 부각된다.",
+      "source": "지디넷",
+      "time": "08/21 17:11"
+    },
+    {
+      "category": "biz",
+      "title": "카카오 인적분할 결단...\"호재\" vs \"악재\"",
+      "url": "https://zdnet.co.kr/view/?no=20260821141013",
+      "summary": "카카오가 카카오AI·카카오X 인적분할 승부수를 던졌으나 발표 직후 주가가 장중 13% 넘게 급락했다. 시장은 분할의 실질적 기업가치 제고 효과에 의구심을 나타냈다.",
+      "source": "지디넷",
+      "time": "08/21 17:15"
+    },
+    {
+      "category": "chip",
+      "title": "중국 맞춤형 AI 칩 재진출설에...엔비디아 \"중국 전용 LPU 로드맵 없어\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214214",
+      "summary": "엔비디아가 중국 AI 칩 시장 재진입을 위한 중국 전용 LPU를 개발 중이라는 보도가 나왔으나 엔비디아는 중국 전용 LPU 판매 계획이 없다고 공식 부인했다.",
+      "source": "AI Times",
+      "time": "08/21 17:22"
+    },
+    {
+      "category": "genai",
+      "title": "커서, 장기 목표 기능 '/goal' 도입...스스로 작업하는 자율 에이전트 진화",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214205",
+      "summary": "AI 코딩 플랫폼 커서가 개발자 개입 없이 장시간 작업 목표를 기억·반복 수행하는 '/goal' 기능을 추가하며 자율형 에이전트로 진화하고 있다.",
+      "source": "AI Times",
+      "time": "08/21 17:29"
+    },
+    {
+      "category": "chip",
+      "title": "아이에이 \"모듈형 데이터센터, 소버린·피지컬 AI 시대 새 표준\"",
+      "url": "https://www.etnews.com/20260821000279",
+      "summary": "아이에이가 OCP 코리아 테크데이 기조 세션에서 모듈형 데이터센터(MDC)를 소버린·피지컬 AI 시대의 핵심 인프라 표준으로 제시했다. MDC는 AI 운영에 필요한 전력·냉각·서버를 모듈로 구성해 빠른 현장 설치·확장이 가능하다.",
+      "source": "전자신문",
+      "time": "08/21 18:06"
+    },
+    {
+      "category": "biz",
+      "title": "AI 데이터 스타트업 Micro1, 창업 8개월 만에 연간 총매출 5억 달러 돌파",
+      "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+      "summary": "AI 데이터 레이블링 스타트업 Micro1이 창업 8개월 만에 연간 총매출 5억 달러(GRR)를 기록했다. AI 학습 데이터 수요 급증을 타고 합성 데이터 생성·다중 고객 데이터셋 판매로 사업을 확장 중이다.",
+      "source": "TechCrunch",
+      "time": "08/21 09:13"
+    },
+    {
+      "category": "robot",
+      "title": "Starcloud, 우주 궤도 AI 데이터센터에 2억 5천만 달러 추가 유치",
+      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+      "summary": "우주 궤도 AI 데이터센터 위성 개발사 Starcloud가 2억 5천만 달러를 추가 유치했다. 발사 용량이 줄어드는 상황에서 우주에서 AI 추론 서비스를 제공하는 것을 목표로 한다.",
+      "source": "TechCrunch",
+      "time": "08/21 23:00"
+    },
+    {
+      "category": "tech",
+      "title": "Nvidia 연구: AI 성능의 진짜 주역은 모델이 아닌 '하네스'",
+      "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+      "summary": "Nvidia 연구진이 맞춤형 하네스로 Claude Opus 5를 활용해 ARC-AGI-3 벤치마크 만점을 달성했다. 하네스 없이는 30%에 그쳐, AI 모델보다 주변 소프트웨어 환경이 더 중요함을 입증했다.",
+      "source": "TechCrunch",
+      "time": "08/22 04:43"
+    },
+    {
+      "category": "biz",
+      "title": "Nvidia, 데이터센터 개발사 Cloverleaf와 전략적 파트너십 체결",
+      "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+      "summary": "Nvidia가 전력·인프라 솔루션 전문 데이터센터 개발사 Cloverleaf Infrastructure에 수억 달러를 투자하며 전략적 파트너십을 맺었다. AI 칩 구매를 위한 데이터센터 파이낸싱 전략의 일환이다.",
+      "source": "TechCrunch",
+      "time": "08/22 07:37"
+    },
+    {
+      "category": "security",
+      "title": "Anthropic Opus 4.6, 탈옥 기법으로 성인 콘텐츠 생성 가능",
+      "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+      "summary": "Anthropic Claude Opus 4.6이 탈옥 기법으로 성인 노골적 콘텐츠를 생성할 수 있다는 TechCrunch 조사 결과가 발표됐다. API와 제3자 서비스를 통해 구형 모델도 여전히 취약한 상태다.",
+      "source": "TechCrunch",
+      "time": "08/22 08:07"
+    },
+    {
+      "category": "tech",
+      "title": "Nvidia, 단순 선형 수학으로 고비용 AI 모델 전환 문제 해결",
+      "url": "https://venturebeat.com/technology/nvidia-finds-that-simple-linear-math-can-replace-costly-ai-model-handoffs/",
+      "summary": "Nvidia 연구팀이 딥러닝 없이 선형 대수만으로 AI 모델 간 KV 캐시를 전환하는 기술을 개발했다. 기존보다 최대 25배 빠르고 정확도 98%를 유지해 기업 멀티 LLM 워크플로 비용을 크게 절감한다.",
+      "source": "VentureBeat",
+      "time": "08/22 01:33"
+    },
+    {
+      "category": "policy",
+      "title": "정부, '미래대응기금' 신설…초과세수로 AI·첨단기술 집중 투자",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214237",
+      "summary": "정부가 반도체 호황 초과 세수를 활용해 '미래대응기금'을 신설하고 AI 전환과 첨단기술 주도권 확보에 집중 투자한다. 기획예산처가 재정운용전략협의회에서 추진 방안을 논의했다.",
+      "source": "AI Times",
+      "time": "08/22 06:02"
+    }
+  ]
+}
