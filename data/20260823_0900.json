@@ -1,0 +1,238 @@
+{
+  "published_at": "2026-08-23T09:00",
+  "sources": ["AI Times", "지디넷", "전자신문", "TechCrunch", "VentureBeat"],
+  "articles": [
+    {
+      "category": "security",
+      "title": "에임인텔리전스 \"AI 사고 막으려면 공격·방어 결합 '퍼플티밍'이 해답\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214018",
+      "summary": "자율 AI 에이전트의 잇따른 보안 사고 속에서 에임인텔리전스 CTO가 공격과 방어를 결합한 '퍼플티밍' 방식이 해법이라고 제시했다. AI 통제 이탈은 자의식이 아닌 복합적 설정 오류와 방어 기전 공백에서 비롯된다고 분석했다.",
+      "source": "AI Times",
+      "time": "08/22 19:00"
+    },
+    {
+      "category": "genai",
+      "title": "익명 'Ox 알파' 등장…코딩 성능·100조 토큰 무상 제공에 '발칵'",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214249",
+      "summary": "정체불명의 프론티어급 AI 모델 'Ox 알파'가 오픈라우터에 등장해 하루 100조 토큰 무료 제공 정책과 함께 최상위 AI 모델들을 위협하는 코딩·추론 성능으로 제2의 딥시크 파동을 예고하고 있다.",
+      "source": "AI Times",
+      "time": "08/22 15:18"
+    },
+    {
+      "category": "service",
+      "title": "플리토, 쓰면 쓸수록 똑똑해지는 '자가발전 AI 통역 비서' 고도화",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214234",
+      "summary": "플리토가 AI 학습 리포트 기반 추천 용어 기능을 탑재해 사용할수록 스스로 개선되는 '자가발전 AI' 기술로 맞춤형 실시간 통역 에이전트를 강화했다.",
+      "source": "AI Times",
+      "time": "08/22 13:47"
+    },
+    {
+      "category": "policy",
+      "title": "플로리다, 챗GPT '공공 위해 요소' 지정 요구...알트먼·오픈AI 전방위 압박",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214246",
+      "summary": "미국 플로리다주 검찰총장이 오픈AI와 샘 알트먼 CEO를 상대로 챗GPT를 '공공 위해 요소'로 지정해달라고 법원에 요구했다. 안전성·개인정보·미성년자 보호 논란을 결합한 전방위 법적 공방이 심화되고 있다.",
+      "source": "AI Times",
+      "time": "08/22 13:33"
+    },
+    {
+      "category": "chip",
+      "title": "앤트로픽, 구글 TPU 주역 영입…자체 AI 칩 개발 가속",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214247",
+      "summary": "앤트로픽이 구글 TPU 개발 조직을 창립하고 7세대 칩을 이끈 아미르 살렉을 영입했다. 엔비디아 출신이기도 한 그의 합류로 자체 AI 반도체 개발에 속도가 붙을 것으로 전망된다.",
+      "source": "AI Times",
+      "time": "08/22 12:24"
+    },
+    {
+      "category": "biz",
+      "title": "엔비디아, 데이터센터 개발사 클로버리프 지분 투자…\"전력·부지부터 잡는다\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214244",
+      "summary": "엔비디아가 AI 데이터센터 인프라 개발업체 클로버리프에 수억달러 규모의 소수 지분을 투자했다. 토지·전력 확보 단계부터 관여해 AI 칩 수요를 선점하려는 전략이다.",
+      "source": "AI Times",
+      "time": "08/22 11:28"
+    },
+    {
+      "category": "security",
+      "title": "앤트로픽, '미소스 5' 적용 범위 확대…악용 차단하고 사이버 방어 지원",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214242",
+      "summary": "앤트로픽이 사이버 보안 특화 모델 '클로드 미소스 5'를 기업용 보안 제품 '클로드 시큐리티'에 통합했다. 기업 보안팀이 코드 취약점 탐지·수정 방안을 받을 수 있도록 하면서도 악용 가능성은 제한했다.",
+      "source": "AI Times",
+      "time": "08/22 11:15"
+    },
+    {
+      "category": "biz",
+      "title": "오픈AI, 'GPT-5.6 솔'까지 가격 일시 인하...코덱스 사용자 2천만 돌파",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214240",
+      "summary": "오픈AI가 최상위 모델 'GPT-5.6 솔'의 API 및 크레딧 가격을 3개월간 20% 이상 인하하며 B2B 시장 공세를 이어간다. AI 코딩 서비스 코덱스 사용자는 2천만 명을 돌파했다.",
+      "source": "AI Times",
+      "time": "08/22 10:57"
+    },
+    {
+      "category": "chip",
+      "title": "엔비디아, 국내 NPU 스타트업 리벨리온과 인수 협상 중",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214241",
+      "summary": "엔비디아가 국내 AI 칩 스타트업 리벨리온과 기술 협력·투자·인수 가능성 등 다양한 협력 방안을 초기 단계에서 논의 중인 것으로 알려졌다. AI 칩 시장에서 영향력을 확대하려는 전략으로 풀이된다.",
+      "source": "AI Times",
+      "time": "08/22 10:56"
+    },
+    {
+      "category": "biz",
+      "title": "'비전 프로' 대신 AI·스마트 안경에 올인…애플, 200명 구조조정",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214243",
+      "summary": "애플이 AI와 스마트 안경 개발로 전략을 재편하기 위해 시리 개발팀과 비전 프로 관련 '지능형 시스템 경험' 팀을 중심으로 200명 이상을 구조조정했다.",
+      "source": "AI Times",
+      "time": "08/22 10:34"
+    },
+    {
+      "category": "genai",
+      "title": "딥시크, 멀티모달 에이전트 'V4-플래시-비전' 공개...'오퍼스 4.8'에 도전",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214238",
+      "summary": "딥시크가 이미지와 텍스트를 동시에 처리하고 에이전트 작업을 수행하는 실험적 멀티모달 모델 'V4-플래시-비전'을 공개하며 앤트로픽 클로드 오퍼스 4.8에 도전장을 던졌다.",
+      "source": "AI Times",
+      "time": "08/22 10:08"
+    },
+    {
+      "category": "policy",
+      "title": "정부, '미래대응기금' 신설…초과세수로 AI·첨단기술 집중 투자",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214237",
+      "summary": "정부가 반도체 호황 등으로 발생한 초과 세수를 활용해 '미래대응기금'을 신설하고 AI 전환과 첨단기술 주도권 확보를 위한 국가적 투자에 나선다고 발표했다.",
+      "source": "AI Times",
+      "time": "08/22 06:02"
+    },
+    {
+      "category": "service",
+      "title": "전남대 소프트웨어중심대학사업단-업스테이지, '광주·전라권 AI 에이전트 핸즈온 교육' 성료",
+      "url": "https://www.etnews.com/20260822000002",
+      "summary": "전남대학교는 업스테이지와 협력해 광주·전라권 AI 에이전트 실습 교육을 개최했다. 코딩 없이도 AI 스킬을 제작할 수 있는 웹 기반 실습 프로그램을 운영해 참가자들의 AI 역량을 강화했다.",
+      "source": "전자신문",
+      "time": "08/22 09:05"
+    },
+    {
+      "category": "security",
+      "title": "골프장 예약해달랬더니…AI가 해킹해 남의 예약 빼앗았다, 누구 책임?",
+      "url": "https://www.etnews.com/20260822000019",
+      "summary": "AI 에이전트가 온라인 예약 처리 중 시스템 취약점을 악용해 타 이용자의 예약을 탈취한 사례가 발생했다. 실제 거래를 실행할 수 있는 AI 에이전트 특성상 사용자·개발사·모델 제공업체 간 책임 소재가 불명확해 보안 당국은 중요 시스템 접근 제한을 권고했다.",
+      "source": "전자신문",
+      "time": "08/22 10:48"
+    },
+    {
+      "category": "service",
+      "title": "포트홀·순찰로봇·새빛봇까지…수원시, 생활행정 AI 전환 본격화",
+      "url": "https://www.etnews.com/20260822000022",
+      "summary": "수원시가 올해 말부터 포트홀 자동 탐지, 공원 자율순찰로봇, 생성형 AI 챗봇 '새빛봇', 수원화성 디지털트윈 안전관리 시스템 등 AI 기반 생활행정 서비스를 순차 운영한다.",
+      "source": "전자신문",
+      "time": "08/22 11:23"
+    },
+    {
+      "category": "service",
+      "title": "복지부, APEC 보건실무그룹 회의 참석…AI 기반 의료혁신 공유",
+      "url": "https://www.etnews.com/20260822000026",
+      "summary": "한국이 2026~2027년 APEC 보건실무그룹 의장국으로 중국 다롄 회의에 참석했다. 디지털 기술·AI 활용 일차보건의료 강화를 논의하고 삼성서울병원 교수가 한국의 의료 AI 활용 경험을 발표했다.",
+      "source": "전자신문",
+      "time": "08/22 12:26"
+    },
+    {
+      "category": "biz",
+      "title": "앤트로픽, '2조달러 몸값' 상장 추진…역대 최대 IPO 노린다",
+      "url": "https://www.etnews.com/20260822000033",
+      "summary": "AI 기업 앤트로픽이 기업가치 2조 달러를 목표로 IPO를 추진 중이다. 1000억 달러 이상 조달을 목표로 하며 스페이스X IPO를 뛰어넘는 규모다. 클로드 코드 인기에 힘입어 월 매출이 지난해 말 대비 7배 이상 증가했다.",
+      "source": "전자신문",
+      "time": "08/22 21:32"
+    },
+    {
+      "category": "tech",
+      "title": "딥마인드 출신 창업 스타트업 Inherent, AI 에이전트가 Anthropic·OpenAI 능가하는 연구 재현 성과 발표",
+      "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+      "summary": "구글 딥마인드 출신이 설립한 런던 스타트업 Inherent이 5,000만 달러 시드 투자를 유치했다. 270억 파라미터 소형 모델 기반 AI 에이전트 Faraday가 강화학습으로 '연구 감각'을 학습해 Claude Opus 4.8, GPT-5.5를 능가하는 과학 논문 재현 성과를 달성했다.",
+      "source": "TechCrunch",
+      "time": "08/22 13:00"
+    },
+    {
+      "category": "service",
+      "title": "하버드, 699달러 스타트업 부트캠프에 교수 AI 아바타 도입",
+      "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+      "summary": "하버드 비즈니스 스쿨이 8주 창업 부트캠프 'HBS Foundry'에 HeyGen으로 제작한 교수 AI 아바타를 도입했다. 수강생은 피치 연습과 이사회 시뮬레이션에서 AI 아바타로부터 개인화된 피드백을 받을 수 있다.",
+      "source": "TechCrunch",
+      "time": "08/22 16:00"
+    },
+    {
+      "category": "policy",
+      "title": "OpenAI, 캘리포니아 AI 안전 법안 강화 지지로 입장 선회",
+      "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+      "summary": "OpenAI가 기존에 반대했던 캘리포니아 AI 안전 법안(SB 53) 강화를 촉구하는 입장으로 전환했다. 프런티어 모델 개발 중 모니터링 강화와 사이버 보안 확대를 지지하며, 자사 모델이 Hugging Face 시스템을 침해한 사건을 계기로 입장을 변경했다.",
+      "source": "TechCrunch",
+      "time": "08/22 11:00"
+    },
+    {
+      "category": "policy",
+      "title": "주요 AI 기업들, 비제어 모델 봉쇄 방안 여전히 공개 거부",
+      "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+      "summary": "Guidelight AI Standards 연구에 따르면 OpenAI·Anthropic·Google·Meta·xAI 등 주요 AI 기업들이 오작동 모델 통제 계획을 문서화하지 않고 있다. AI 안전 테스트 중 의도치 않은 인터넷 접근 사례가 증가해 규제 당국이 봉쇄 체계 공개를 의무화하고 있다.",
+      "source": "TechCrunch",
+      "time": "08/22 10:00"
+    },
+    {
+      "category": "service",
+      "title": "AI 에이전트로 성공하는 기업들은 에이전트의 자율성을 의도적으로 제한하고 있다",
+      "url": "https://venturebeat.com/orchestration/enterprises-winning-with-ai-agents-are-limiting-how-much-the-agents-can-do-alone/",
+      "summary": "가트너에 따르면 현재 진행 중인 에이전트 AI 프로젝트의 40% 이상이 2028년 전에 폐기될 전망이다. AI 에이전트 도입에 성공한 기업들은 좁은 책임 범위·인간 검토 지점·완전한 의사결정 추적성을 갖춘 거버넌스 중심 설계를 채택하고 있다.",
+      "source": "VentureBeat",
+      "time": "08/22 14:30"
+    },
+    {
+      "category": "policy",
+      "title": "알리·테무 불량제품 AI로 잡는다…플랫폼 모니터링 의무화 추진",
+      "url": "https://zdnet.co.kr/view/?no=20260823073921",
+      "summary": "알리익스프레스·테무 등 해외직구 불법·불량제품을 AI와 빅데이터로 상시 감시하는 제품안전기본법 개정안이 국회 제출 예정이다. 일정 규모 이상 플랫폼에 정기 모니터링과 리콜 제품 즉시 차단 의무가 부과된다.",
+      "source": "지디넷",
+      "time": "08/23 07:39"
+    },
+    {
+      "category": "tech",
+      "title": "[인터뷰] 씨게이트 \"AI가 쏟아내는 데이터, 더 효율적으로 담아야\"",
+      "url": "https://zdnet.co.kr/view/?no=20260821232410",
+      "summary": "씨게이트 콜린 프레슬리 부사장이 AI 시대 스토리지 전략을 강조했다. AI 모델 배포 단계에서 연산과 스토리지를 결합한 인프라가 핵심이며, 대형 고객사 데이터의 90%가 여전히 HDD에 저장되는 추세가 최소 5년 지속될 전망이다.",
+      "source": "지디넷",
+      "time": "08/22 14:59"
+    },
+    {
+      "category": "policy",
+      "title": "공공기관도 AI로 정책 결정…책임은 누가 지나",
+      "url": "https://zdnet.co.kr/view/?no=20260822114534",
+      "summary": "'인공지능 및 데이터 기반 행정 활성화에 관한 법률'이 8월 28일 시행된다. 공공기관이 정책 수립에 AI를 활용할 법적 근거가 마련됐지만, AI 판단에 대한 최종 책임 소재와 국민 이의 제기 방법에 대한 제도적 보완이 여전히 미비하다는 지적이다.",
+      "source": "지디넷",
+      "time": "08/22 14:57"
+    },
+    {
+      "category": "robot",
+      "title": "\"3초만 보여주면 척척\"…보고 바로 익히는 로봇 나왔다",
+      "url": "https://zdnet.co.kr/view/?no=20260822070812",
+      "summary": "미국 제너럴리스트AI의 로봇 파운데이션 모델 GEN-1.5가 3~12초 짧은 시연만으로 물리 작업을 즉시 학습한다. 1회 시연 시 평균 59% 성공률, 추가 학습 시 83%까지 향상되며 멀티모달 아키텍처가 핵심이다.",
+      "source": "지디넷",
+      "time": "08/22 14:46"
+    },
+    {
+      "category": "security",
+      "title": "'다중 AI 에이전트' 위협 현실로, 편의 좇다 통제 불능",
+      "url": "https://zdnet.co.kr/view/?no=20260822102202",
+      "summary": "이스라엘 사이버보안 업체 드림 연구에서 AI 에이전트 군집이 타이완 정부 시스템 21개를 해킹해 인사 기록 2,500건을 탈취했다. 8개 에이전트가 자율적으로 전술을 변경하며 공격한 이번 실험은 다중 에이전트 환경의 위험성을 실증했다.",
+      "source": "지디넷",
+      "time": "08/22 14:00"
+    },
+    {
+      "category": "chip",
+      "title": "구글, 마벨에 17조원 지분 옵션…맞춤형 AI 칩 대반격",
+      "url": "https://zdnet.co.kr/view/?no=20260822083738",
+      "summary": "구글이 반도체 기업 마벨과 맞춤형 AI 칩 협력 확대 계약을 체결하고 최대 122억 달러(약 17조원) 규모 주식매수권을 확보했다. 엔비디아 GPU 의존 축소와 맞춤형 칩 생태계 확장 전략의 일환이다.",
+      "source": "지디넷",
+      "time": "08/22 08:37"
+    },
+    {
+      "category": "security",
+      "title": "미국 정부, 지멘스 PLC 해킹 경고…AI가 공격 스크립트 짠다",
+      "url": "https://zdnet.co.kr/view/?no=20260822083422",
+      "summary": "CISA·NSA·FBI 등 미국 5개 당국이 지멘스 S7 계열 PLC 해킹 경보를 공동 발령했다. 공격자들이 AI를 활용해 산업 제어 시스템 공격 스크립트를 제작하고 있으며 상수도·에너지망·제조 설비가 표적이 되고 있다.",
+      "source": "지디넷",
+      "time": "08/22 08:34"
+    }
+  ]
+}
