@@ -1,0 +1,214 @@
+{
+  "published_at": "2026-08-24T09:00",
+  "sources": ["AI Times", "지디넷", "전자신문", "TechCrunch", "VentureBeat"],
+  "articles": [
+    {
+      "category": "genai",
+      "title": "오픈AI, 최고급 'GPT-5.6 솔' 가격 3개월간 20% 인하",
+      "url": "https://www.etnews.com/20260823000066",
+      "summary": "오픈AI가 최상위 AI 모델 GPT-5.6 솔의 개발자용 API 가격을 향후 3개월간 20% 이상 인하. AI 모델 시장 경쟁이 치열해지는 가운데 고성능 모델 접근성을 확대하려는 행보.",
+      "source": "전자신문",
+      "time": "08/23 19:04"
+    },
+    {
+      "category": "genai",
+      "title": "한국딥러닝 \"문서 에이전트, 인식률 넘어 '오답 찾는 능력'이 더 중요해\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214266",
+      "summary": "김지현 한국딥러닝 대표가 단순 OCR 시대가 저물고 실질적으로 사람의 업무를 줄이는 문서 AI 에이전트로 전환해야 한다고 강조. AI가 오답을 스스로 찾는 능력이 핵심.",
+      "source": "AI Times",
+      "time": "08/23 20:57"
+    },
+    {
+      "category": "genai",
+      "title": "샤오미 '미모-V3-프로' 벤치마크 유출 논란…\"코딩·에이전트 최상위권\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214264",
+      "summary": "샤오미 차세대 모델 미모-V3-프로의 벤치마크 스크린샷이 온라인에서 급확산. 코딩 에이전트·일반 에이전트 성능에서 최상위권을 기록한다고 알려졌으나 진위는 미확인 상태.",
+      "source": "AI Times",
+      "time": "08/23 17:13"
+    },
+    {
+      "category": "genai",
+      "title": "메타, '뮤즈 스파크 1.2' 오픈라우터에 현존 최저가로 출시",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214263",
+      "summary": "메타가 플래그십 모델 뮤즈 스파크 1.2의 컨트리뷰터 요금제를 오픈라우터에 출시. 입력 100만 토큰당 0.10달러로 현존 최저가 수준이며 AI 모델 가격 경쟁이 더욱 심화.",
+      "source": "AI Times",
+      "time": "08/23 16:23"
+    },
+    {
+      "category": "genai",
+      "title": "미스트랄AI, \"AI가 문서 열고 근거까지 검증\"…'에이전틱 서치' 공개",
+      "url": "https://zdnet.co.kr/view/?no=20260823083254",
+      "summary": "미스트랄AI가 기업 내부 문서를 AI로 자동 탐색하고 답변 근거를 검증하는 에이전틱 서치 기술 공개. 여러 데이터 소스에서 정보를 찾고 조사한 뒤 근거를 함께 제시하는 방식.",
+      "source": "지디넷",
+      "time": "08/23 16:00"
+    },
+    {
+      "category": "genai",
+      "title": "새로운 '스텔스 모델' Ox Alpha의 배후는 누구인가?",
+      "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+      "summary": "비밀리에 개발 중인 새로운 AI 모델 Ox Alpha의 개발팀과 배경이 화제. 스텔스 모드로 운영 중인 이 모델의 정체와 목적을 분석한다.",
+      "source": "TechCrunch",
+      "time": "08/24 05:18"
+    },
+    {
+      "category": "tech",
+      "title": "앤트로픽서 유행하는 클로드 코드 '/eli5' 스킬…\"코드를 그림으로 설명\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214260",
+      "summary": "앤트로픽 직원들 사이에서 클로드 코드용 /eli5 스킬이 주목받고 있음. 복잡한 코드 구조를 시각적으로 이해할 수 있는 HTML 자료로 생성해 주는 기능으로 내부에서 널리 사용.",
+      "source": "AI Times",
+      "time": "08/23 12:19"
+    },
+    {
+      "category": "tech",
+      "title": "구글, '안티그래비티' 원격 제어 출시…\"이동 중에도 AI 개발 계속\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214259",
+      "summary": "구글이 AI 개발 환경 안티그래비티에 웹브라우저를 통한 에이전트 원격 제어 기능을 추가. 개발자가 자리를 비워도 이동 중에 AI 코딩 에이전트 작업 현황을 모니터링하고 제어 가능.",
+      "source": "AI Times",
+      "time": "08/23 12:06"
+    },
+    {
+      "category": "tech",
+      "title": "리퀴드AI '디스파크', 메모리 병목 뚫었다…소형 모델이 먼저 쓰고 대형 모델이 검증",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214258",
+      "summary": "리퀴드AI가 LLM 추론 속도를 개선하는 디스파크(DSpark) 기술 공개. 경량 모델이 생성한 토큰을 대형 모델이 한꺼번에 검증하는 방식으로 메모리 병목을 줄여 추론 효율 향상.",
+      "source": "AI Times",
+      "time": "08/23 11:48"
+    },
+    {
+      "category": "tech",
+      "title": "아이벡스, 오염 데이터 극복한 AI 이상탐지 기술 개발…'AI 자동화' 시동",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214083",
+      "summary": "산업 특화 AI 기업 아이벡스가 오염된 학습 데이터 환경에서도 작동하는 AI 이상탐지 기술 개발. AI 비전 검사·ML옵스·로보틱스를 통합한 피지컬 AI 생태계 구축에 속도.",
+      "source": "AI Times",
+      "time": "08/23 11:28"
+    },
+    {
+      "category": "tech",
+      "title": "\"LLM보다 하네스가 핵심\"…엔비디아 AVO, 장기 에이전트 가능성 입증",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214256",
+      "summary": "엔비디아가 범용 AI 에이전트 기술 AVO로 ARC-AGI-3 벤치마크에서 우수한 성능을 입증. 핵심은 모델 자체보다 AI를 지속 제어·관리하는 하네스(Harness) 시스템 구조.",
+      "source": "AI Times",
+      "time": "08/23 10:55"
+    },
+    {
+      "category": "tech",
+      "title": "\"중소형 모델로 빅테크 압도\"…인히어런트, '연구 감각' 갖춘 AI 과학자 선보여",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214255",
+      "summary": "영국 AI 스타트업 인히어런트가 270억 매개변수 AI 에이전트 패러데이 공개. 과학 논문 실험 결과 재현 평가에서 앤트로픽 클로드 오퍼스 4.8, 오픈AI GPT-5.5 등 거대 모델을 제침.",
+      "source": "AI Times",
+      "time": "08/23 10:41"
+    },
+    {
+      "category": "tech",
+      "title": "기업용 AI 에이전트의 신뢰성은 내부 문서 품질에 달려 있다",
+      "url": "https://venturebeat.com/orchestration/enterprise-ai-agents-are-only-as-reliable-as-the-messiest-documents-behind-them",
+      "summary": "기업 AI 에이전트는 연결된 내부 문서의 품질에 따라 신뢰도가 결정된다. 비정형 문서가 에이전트 성능의 핵심 병목으로 작용한다는 분석으로 문서 관리의 중요성을 재조명.",
+      "source": "VentureBeat",
+      "time": "08/24 09:00"
+    },
+    {
+      "category": "service",
+      "title": "\"솔라 프로 4로 코드 리뷰 가능\"…업스테이지, 'AI 코드 솔라' 공개",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214235",
+      "summary": "업스테이지가 솔라 프로 4 모델 기반의 AI 코드 리뷰어 코드 솔라를 출시. 깃허브 저장소 연결 후 버그·보안·성능 이슈를 자동 파악해 해당 코드 라인에 수정 제안을 남겨 주는 서비스.",
+      "source": "AI Times",
+      "time": "08/23 10:11"
+    },
+    {
+      "category": "service",
+      "title": "KT-서울시, 초등학생 대상 'AI 미래 캠프' 진행…\"윤리 소양 갖춘 인재 육성\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214262",
+      "summary": "KT가 서울시·서울로봇인공지능과학관·서울도봉경찰서와 함께 초등학생 100명 대상 AI 미래 캠프 개최. AICE 블록 코딩교육·AI 윤리 체험 등 5개 프로그램 운영.",
+      "source": "AI Times",
+      "time": "08/23 09:15"
+    },
+    {
+      "category": "service",
+      "title": "LGU+·유튜브 '유쓰 AI 쇼츠 페스티벌'에 작품 5009개 접수",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214252",
+      "summary": "LG유플러스와 유튜브가 공동 개최한 유쓰 AI 쇼츠 페스티벌에 총 5009건 작품 접수. 생성형 AI를 활용한 콘텐츠 제작 문화 확산 목적으로 6~7월 진행된 공모전 결과.",
+      "source": "AI Times",
+      "time": "08/23 09:00"
+    },
+    {
+      "category": "service",
+      "title": "\"AI가 1차 차단, 맥락은 사람이 판단\"…틱톡 TAC 방문 취재",
+      "url": "https://zdnet.co.kr/view/?no=20260823144022",
+      "summary": "틱톡이 AI 기반 자동 심사와 현지 전문 인력을 결합해 유해 콘텐츠를 차단하는 시스템을 운영. 올해 1분기 국내에서 삭제한 영상 25만4399개 중 AI가 1차 필터링 담당.",
+      "source": "지디넷",
+      "time": "08/24 06:00"
+    },
+    {
+      "category": "policy",
+      "title": "\"AI 모델 해킹 사고 때문?\"…오픈AI, 캘리포니아 AI 규제법 지지로 급선회",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214257",
+      "summary": "오픈AI가 과거 반대했던 캘리포니아 AI 안전 법안 SB 53 강화를 공식 촉구. 첨단 모델 모니터링 의무화와 사이버보안 보호 확대를 요구하며 기존 입장에서 정반대로 전환.",
+      "source": "AI Times",
+      "time": "08/23 09:45"
+    },
+    {
+      "category": "policy",
+      "title": "\"예쁜 보고서보다 AI가 읽는 보고서\"…행안부 'AI 친화 문서' 전면 도입",
+      "url": "https://zdnet.co.kr/view/?no=20260823161702",
+      "summary": "행정안전부가 복잡한 표와 과도한 꾸미기를 줄이고 AI가 쉽게 읽고 활용할 수 있는 AI 친화적 보고서를 전면 도입. 단순 형식 변경을 넘어 공공 행정의 AI 전환 촉진을 목적으로 함.",
+      "source": "지디넷",
+      "time": "08/23 16:17"
+    },
+    {
+      "category": "policy",
+      "title": "에이전트 AI 시대 국가안보…\"모델 성능보다 안정적 운용 중요\"",
+      "url": "https://zdnet.co.kr/view/?no=20260823112056",
+      "summary": "국산 AI 모델 확보만으로는 AI 주권을 지키기 어려우며 외부 서비스 단절 시에도 국가 핵심 기능을 유지할 운용 능력이 필요하다는 제언. 최종현학술원 보고서에서 발표.",
+      "source": "지디넷",
+      "time": "08/23 11:20"
+    },
+    {
+      "category": "policy",
+      "title": "AI 혜택, 美 부유층·대도시 집중…\"지역·자산·소득 격차 확대\"",
+      "url": "https://zdnet.co.kr/view/?no=20260823080449",
+      "summary": "앤트로픽·브루킹스연구소·옥스퍼드이코노믹스 보고서에 따르면 AI 확산이 미국 내 지역·자산·소득 격차를 심화할 수 있다고 경고. AI 혜택이 부유층·대도시에 집중될 우려.",
+      "source": "지디넷",
+      "time": "08/23 10:30"
+    },
+    {
+      "category": "policy",
+      "title": "저작권 있는 책으로 AI 모델 학습은 합법인가? 복잡한 법적 쟁점",
+      "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+      "summary": "AI 모델을 저작권 서적으로 훈련시키는 것의 법적 허용 여부를 분석. 현재 진행 중인 저작권 소송과 복잡한 법적 쟁점을 심층 검토하며 AI 산업 전반에 영향을 미치는 핵심 이슈.",
+      "source": "TechCrunch",
+      "time": "08/24 00:18"
+    },
+    {
+      "category": "chip",
+      "title": "\"엔비디아, AI 서버 가격 15% 이상 인상\"…메모리 반도체 급등 영향",
+      "url": "https://zdnet.co.kr/view/?no=20260823124959",
+      "summary": "엔비디아가 주요 고객사에 AI 칩 탑재 서버 가격을 내년에 15% 이상 인상한다고 통보. 메모리 반도체 가격 급등이 원인이며 베라 루빈·그레이스 블랙웰 탑재 시스템도 포함.",
+      "source": "지디넷",
+      "time": "08/23 13:13"
+    },
+    {
+      "category": "biz",
+      "title": "앤트로픽, IPO서 최대 138조 조달 목표…역대 최대 상장 기록 경신 전망",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214254",
+      "summary": "앤트로픽이 IPO를 통해 최대 1000억 달러(약 138조원) 조달을 추진. 성사 시 기업가치 2조 달러로 역사상 최대 공모 조달액 기록 경신 전망. 지난 5월 평가액의 두 배 이상 수준.",
+      "source": "AI Times",
+      "time": "08/23 09:17"
+    },
+    {
+      "category": "biz",
+      "title": "KT, 모두의AI에 국산 AI 풀스택 결집…리벨리온·업스테이지 등 참여",
+      "url": "https://zdnet.co.kr/view/?no=20260823091330",
+      "summary": "KT가 정부 대국민 AI 서비스 모두의AI 사업에 국산 AI 반도체·모델·플랫폼·클라우드를 아우르는 풀스택 전략 추진. 리벨리온·업스테이지 등 국내 AI 기업들이 한데 참여.",
+      "source": "지디넷",
+      "time": "08/23 09:13"
+    },
+    {
+      "category": "biz",
+      "title": "AI 에이전트 도입 성공 기업들, 에이전트 자율성에 한계 설정",
+      "url": "https://venturebeat.com/orchestration/enterprises-winning-with-ai-agents-are-limiting-how-much-the-agents-can-do-alone",
+      "summary": "AI 에이전트 도입에 성공한 기업들은 에이전트가 단독으로 수행하는 범위를 제한하고 있다. 무제한 자율성보다 명확한 규칙과 책임 범위 설정이 성과를 높인다는 사례 분석.",
+      "source": "VentureBeat",
+      "time": "08/23 12:00"
+    }
+  ]
+}
