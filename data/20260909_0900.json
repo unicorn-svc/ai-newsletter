@@ -1,0 +1,334 @@
+{
+  "published_at": "2026-09-09T09:00",
+  "sources": ["AI Times", "지디넷", "전자신문", "TechCrunch", "VentureBeat"],
+  "articles": [
+    {
+      "category": "genai",
+      "title": "48단계 캡차 최초 완파…GPT-6 아스트라, '컴퓨터 유즈' 성능 입증",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215003",
+      "summary": "GPT-6 아스트라가 48단계 캡차 게임을 최초로 완벽하게 통과했다. 브라우저 조작, 화면 인식, 마우스·키보드 입력 등 컴퓨터 유즈 능력을 활용해 자율적으로 완수했으며, 기존 보안 시스템 무력화 우려를 낳고 있다. 전문가들은 차세대 보안 기술 도입을 촉구한다.",
+      "source": "AI Times",
+      "time": "09/09"
+    },
+    {
+      "category": "genai",
+      "title": "아티피셜 애널리시스 평가 체제 개편…'아스트라' 공동 1위로 상승",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214973",
+      "summary": "아티피셜 애널리시스가 실제 업무 환경 반영으로 AI 평가 체제를 개편했다. 새 방식에서 GPT-6 아스트라가 5위에서 상승해 클로드 페이블 5.1과 공동 1위를 차지했으며, 장기 에이전트 작업과 대규모 문서 분석 능력 중심으로 평가 방식이 바뀌었다.",
+      "source": "AI Times",
+      "time": "09/09"
+    },
+    {
+      "category": "genai",
+      "title": "젠슨 황 \"AGI 시대 도래했다\"…오픈AI '아스트라'에 축하 메시지",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214974",
+      "summary": "젠슨 황 엔비디아 CEO가 오픈AI의 'GPT-6 아스트라' 출시를 축하하며 \"AGI가 도래했다\"고 선언했다. 아스트라는 엔비디아 GPU 인프라로 훈련되었으며 고도의 전문 업무를 높은 정확성으로 수행한다. 일부 전문가들은 AGI 달성 증거가 부족하다고 반박한다.",
+      "source": "AI Times",
+      "time": "09/09"
+    },
+    {
+      "category": "genai",
+      "title": "[9월8일] 오픈AI 내부에서 무슨 일이 벌어지고 있나…현실이 된 'AI 연구 인턴'",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214978",
+      "summary": "오픈AI가 약속한 'AI 연구 인턴'이 실제 현장에 배치됐다. 연구원들은 하루 600~7000달러의 추론 비용을 사용하며, 실험 속도는 1월 대비 8월에 최대 1.8배 향상됐다. 내년 3월까지 AI가 자율적으로 연구하는 '자율 연구원' 단계를 목표로 한다.",
+      "source": "AI Times",
+      "time": "09/08"
+    },
+    {
+      "category": "genai",
+      "title": "바이트댄스, '월드 모델' 출시 임박…장이밍 창업자 직접 진두지휘",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214982",
+      "summary": "바이트댄스가 사용자 음성·움직임에 실시간 반응하는 가상 세계 구현 '월드 모델' 개발을 진행 중이다. 창립자 장이밍이 직접 총지휘하며 다음 달 출시를 목표로 한다. 초당 20프레임 고화질에 0.05초 지연을 목표로 하며, 라이브 스트리밍·게임 분야에 활용될 예정이다.",
+      "source": "AI Times",
+      "time": "09/08"
+    },
+    {
+      "category": "genai",
+      "title": "'AGI' 논란…알트먼 \"조잡한 용어\", 아모데이는",
+      "url": "https://zdnet.co.kr/view/?no=20260908170344",
+      "summary": "주요 AI 기업 수장들의 AGI 정의 불일치 조명. 샘 알트만은 '초지능' 선호·2032년 도래 예측, 다리오 아모데이는 '강력한 AI' 표현 사용·2026~2027년 등장 예측. 두 회사 기준도 경제적 가치 vs 연구 능력으로 달라 공통 기준 부재.",
+      "source": "지디넷",
+      "time": "09/08 17:03"
+    },
+    {
+      "category": "genai",
+      "title": "메타, Muse AI 에이전트 공개 — 소비자 신뢰가 관건",
+      "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+      "summary": "메타가 새로운 AI 에이전트 'Muse'를 공개했으나 개인정보 활용과 데이터 수집에 대한 소비자 신뢰 확보가 핵심 과제로 대두. 기능보다 신뢰성이 성패를 좌우할 전망이며, 소셜미디어 거대 기업의 AI 에이전트 시장 본격 진입을 알리는 신호탄이다.",
+      "source": "TechCrunch",
+      "time": "09/08 12:00"
+    },
+    {
+      "category": "biz",
+      "title": "삼성전자, 미스트랄 AI와 맞손…'반도체 특화 AI' 개발 나선다",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215015",
+      "summary": "삼성전자가 미스트랄 AI와 손잡고 반도체 설계·제조 특화 AI 모델을 공동 개발한다. 데이터 분석·결함 예측·공정 최적화에 적용하며, 온프레미스 방식으로 핵심 기술 데이터를 보호한다. 삼성은 미스트랄의 시리즈 D 투자(약 4.4조원)를 주도했다.",
+      "source": "AI Times",
+      "time": "09/09"
+    },
+    {
+      "category": "biz",
+      "title": "구글 딥마인드 새로운 사령탑의 선언…\"목표는 오직 프론티어 복귀\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214995",
+      "summary": "구글 딥마인드의 새 수장 코레이 카부크추오글루가 \"현재 모델 품질이 최첨단에 비해 다소 밑돈다\"고 인정하며 프론티어 AI 주도권 탈환을 공언했다. 제미나이 4 개발과 에이전트 중심 체질 개편으로 기술 격차를 극복하겠다는 의지를 밝혔다.",
+      "source": "AI Times",
+      "time": "09/09"
+    },
+    {
+      "category": "biz",
+      "title": "앤트로픽, 'AI 인프라 최적화' 데카르트 인수 포기…8조 대형 거래 무산",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214998",
+      "summary": "앤트로픽이 약 60억 달러(8조원) 규모의 AI 스타트업 데카르트 인수를 포기했다. 데카르트는 AI 모델 학습·추론 시 반도체 활용 효율을 높이는 기술을 보유하며, 인수 협상은 결렬됐으나 다른 형태의 협력 가능성은 열려 있다.",
+      "source": "AI Times",
+      "time": "09/09"
+    },
+    {
+      "category": "biz",
+      "title": "아이렌 \"AI 컴퓨팅 수요 무한 확장…공급이 수요 못 따라가\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214985",
+      "summary": "AI 인프라 기업 아이렌의 CEO는 AI 컴퓨팅 수요가 무한 확장되며 새로운 공급이 추가 수요를 창출하는 구조라고 밝혔다. 전력·용수·토지 등 물리적 제약이 공급을 제한하며, 아이렌은 2027년까지 300억달러를 투자할 계획이다.",
+      "source": "AI Times",
+      "time": "09/09"
+    },
+    {
+      "category": "biz",
+      "title": "'알파고' 데이비드 실버의 이네퍼블, 딥마인드 출신 등 6인 영입",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215001",
+      "summary": "알파고 개발을 주도한 데이비드 실버의 AI 스타트업 이네퍼블 인텔리전스가 구글 딥마인드·인스타딥 출신 6명을 공동 창립자로 영입했다. 강화학습 기반 초지능 개발을 강화하며, 4월 11억 달러 시드 투자로 유럽 최대 규모 기업가치를 인정받았다.",
+      "source": "AI Times",
+      "time": "09/08"
+    },
+    {
+      "category": "biz",
+      "title": "미스트랄, 삼성 주도로 4.4조 투자 유치…\"소버린 AI 구축 가속\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215009",
+      "summary": "프랑스 AI 기업 미스트랄이 삼성전자 주도로 30억유로(약 4.4조원) 규모의 시리즈 D 투자를 유치했다. 기업 가치는 210억유로(31조원)로 유럽 테크 역사상 단일 최대 투자다. 소버린 AI 구축을 위한 자체 인프라 및 모델 학습 역량 강화에 투자금을 쓸 계획이다.",
+      "source": "AI Times",
+      "time": "09/08"
+    },
+    {
+      "category": "biz",
+      "title": "Cognition, 480억 달러 밸류에이션 달성 — AI 코딩 시장은 독점 없는 경쟁 구도",
+      "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+      "summary": "AI 코딩 스타트업 Cognition이 480억 달러 밸류에이션으로 신규 투자 유치. 투자자들은 AI 코딩 시장이 단일 기업 독식 구조가 아닌 다자 경쟁 체제로 발전할 것으로 전망한다. GitHub Copilot, Cursor 등과 치열한 경쟁이 예상된다.",
+      "source": "TechCrunch",
+      "time": "09/08 14:04"
+    },
+    {
+      "category": "biz",
+      "title": "구글 클라우드, Accenture 협약으로 AI 배포 경쟁 추격전",
+      "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
+      "summary": "구글 클라우드가 Accenture와 전략적 파트너십을 체결해 기업용 AI 배포 시장에서 AWS·Azure를 추격한다. 컨설팅 역량과 클라우드 인프라 결합으로 엔터프라이즈 시장 공략을 강화하며, 기업 AI 전환 수요를 겨냥한 공동 솔루션을 제공할 예정이다.",
+      "source": "TechCrunch",
+      "time": "09/08 09:20"
+    },
+    {
+      "category": "tech",
+      "title": "AI 파이프라인의 맹점 — 작업은 돌아가지만 숫자가 틀렸다",
+      "url": "https://venturebeat.com/orchestration/most-pipeline-monitoring-checks-if-the-job-ran-this-one-didnt-check-if-the-numbers-were-right",
+      "summary": "InMarket의 AI 데이터 파이프라인이 오류 없이 실행됐음에도 스키마 변경으로 인해 청중 수치의 40%가 잘못 집계된 사례. AI 파이프라인 운영에서 기술적 오류 감지를 넘어 시맨틱(의미론적) 검증이 필수임을 실제 사례로 보여주는 분석.",
+      "source": "VentureBeat",
+      "time": "09/08 15:21"
+    },
+    {
+      "category": "tech",
+      "title": "OpenAI, 1만 개 에이전트 군집으로 수학 난제 해결 — 연구자 Codex 데이터 무단 활용 의혹",
+      "url": "https://venturebeat.com/technology/openai-solves-longstanding-math-problem-with-10-000-agent-swarm-but-cant-rule-out-benefitting-from-a-researchers-private-codex-data",
+      "summary": "OpenAI가 1만 개 AI 에이전트 군집을 동원해 오랜 수학 난제를 해결했으나, NYU 수학자의 비공개 Codex 데이터를 학습에 활용했을 가능성을 배제하지 못해 지적재산권 논란이 제기됐다. AI 연구 과정에서 데이터 출처 투명성 문제가 재부상하고 있다.",
+      "source": "VentureBeat",
+      "time": "09/08 14:38"
+    },
+    {
+      "category": "service",
+      "title": "베스핀글로벌, K-푸드 수출 돕는 AI 만든다…공공 AX 영역 확대",
+      "url": "https://zdnet.co.kr/view/?no=20260908171305",
+      "summary": "베스핀글로벌이 한국농수산식품유통공사 AI 대화형 정보검색 서비스 '채티' 고도화 사업 수주. 자체 플랫폼 '헬프나우 AI' 활용, 검역·라벨링 등 K-푸드 수출 정보를 에이전틱 AI 기반으로 제공. 농식품까지 공공 AI 영역을 확대한다.",
+      "source": "지디넷",
+      "time": "09/08 17:28"
+    },
+    {
+      "category": "service",
+      "title": "설비 교체 없이 'AI 자율공장'으로…산단공-삼성SDS, 춘천 산단 AX 모델 제시",
+      "url": "https://zdnet.co.kr/view/?no=20260908162617",
+      "summary": "한국산업단지공단과 삼성SDS가 춘천 산단을 대상으로 기존 설비 교체 없이 AI 자율공장으로 전환하는 모델을 제시했다. IoT 센서·프라이빗 5G·AI 분석 플랫폼 활용해 실시간 생산 데이터 수집·분석으로 설비 효율 제고 및 생산 중단을 예방한다.",
+      "source": "지디넷",
+      "time": "09/08 16:27"
+    },
+    {
+      "category": "service",
+      "title": "삼성SDS, AX·로봇까지…오픈AI·앤트로픽 손잡는다",
+      "url": "https://www.etnews.com/20260908000113",
+      "summary": "삼성SDS가 '리얼 서밋 2026'에서 AI 전환(AX) 넘어 비즈니스 구조 재편 전략 공개. 오픈AI·앤트로픽과 협력 강화, 로봇 기반 제조혁신(RX) 사업 진출 선언. 내년 이기종 로봇 통합 제어 플랫폼 출시 예정이다.",
+      "source": "전자신문",
+      "time": "09/08 09:00"
+    },
+    {
+      "category": "service",
+      "title": "AI 금융서비스 10월 가동…수협, 은행·상호금융 공동 통제체계 구축",
+      "url": "https://www.etnews.com/20260908000299",
+      "summary": "수협은행·수협중앙회가 10월부터 생성형 AI 기반 업무지원 서비스 3종 가동. 광고 규정 점검·내부 지식 검색·데이터 분석 지원. 은행·상호금융 공동 AI 통제체계로 보안·규제 위험 관리 및 중복 투자를 절감한다.",
+      "source": "전자신문",
+      "time": "09/08 09:00"
+    },
+    {
+      "category": "service",
+      "title": "[게시판] 카카오, '카나나 인 카카오톡' 가입자에게 이모티콘 선물",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215011",
+      "summary": "카카오가 '카나나 인 카카오톡' 가입자에게 이모티콘을 선물하는 프로모션 진행. 인스웨이브는 일본 IT 기업 방문단을 접견했고, 이모션웨이브는 널리와 MOU를 체결했다. 루닛은 폐암학회에서 AI 바이오마커 연구를 발표한다.",
+      "source": "AI Times",
+      "time": "09/08"
+    },
+    {
+      "category": "policy",
+      "title": "국가AI전략위, 독파모 평가 참여하나…\"과기부와 공식 협의 없어\"",
+      "url": "https://zdnet.co.kr/view/?no=20260908174051",
+      "summary": "국가AI전략위원회가 '독자 AI 파운데이션 모델(독파모)' 3차 평가부터 참여 방안을 추진 중이다. 하정우 부위원장은 평가 기준 설계 단계부터 전략위가 참여하고 별도 검증을 진행하겠다고 밝혔으나, 과기부와 공식 협의는 아직 없는 상황이다.",
+      "source": "지디넷",
+      "time": "09/08 17:44"
+    },
+    {
+      "category": "policy",
+      "title": "\"정부 지원 없이 돌아가야\"…하정우 부위원장이 밝힌 'K-AI 자립' 구상",
+      "url": "https://zdnet.co.kr/view/?no=20260908173658",
+      "summary": "하정우 국가AI전략위 부위원장이 정부 지원에 의존하지 않는 K-AI 자립 모델 제시. '모두의 AI'로 초기 사용자 확보 후 월 2,000~3,000원 유료 전환, 해외 시장 확대로 시장이 자체 작동하는 구조를 설계하는 전략이다.",
+      "source": "지디넷",
+      "time": "09/08 17:39"
+    },
+    {
+      "category": "policy",
+      "title": "기획예산처 \"20년 전 성공에 머문 전자정부, AI 시대엔 바꿔야\"",
+      "url": "https://zdnet.co.kr/view/?no=20260908171720",
+      "summary": "기획예산처가 2000년대 성공 모델인 전자정부 패러다임이 AI 시대에는 개선이 필요하다고 주장. 현장 중심 개인화 공공서비스로 전환해야 한다며, 삼성SDS 협업솔루션 도입으로 모바일 기반 업무 효율화를 추진 중이다.",
+      "source": "지디넷",
+      "time": "09/08 17:18"
+    },
+    {
+      "category": "policy",
+      "title": "행안부, 조지아와 AI·디지털정부 협력 본격화…코카서스 진출 교두보 마련",
+      "url": "https://zdnet.co.kr/view/?no=20260908201306",
+      "summary": "행정안전부가 조지아 법무부와 디지털정부 협력 MOU 체결. 2026~2028년 트빌리시에 디지털정부 협력센터 운영, 한국의 AI·디지털정부 모델을 코카서스 지역으로 확산한다. 협력센터를 기존 6개국에서 8개국으로 확대 예정이다.",
+      "source": "지디넷",
+      "time": "09/08 20:34"
+    },
+    {
+      "category": "policy",
+      "title": "\"AI산업 기반인데 내년 SW사업 예산은 뒷걸음질\"…SW 홀대론 커져",
+      "url": "https://www.etnews.com/20260908000358",
+      "summary": "정부가 AI 예산은 늘리면서 SW 사업 예산은 약 400억 원 삭감. SW산업기반확충·XaaS선도프로젝트 등 15~28% 감소. 전문가들은 'DB·미들웨어 없인 AI 구현 불가'라며 AI와 병행하는 SW 투자 필요성을 강조한다.",
+      "source": "전자신문",
+      "time": "09/08 09:00"
+    },
+    {
+      "category": "policy",
+      "title": "[뉴스줌인] AI 개발만으론 산업 못 만든다…SW시장 함께 키워야",
+      "url": "https://www.etnews.com/20260908000368",
+      "summary": "AI 산업 지속성을 위해 개발 이후 운영·유지관리까지 통합 설계가 필요하다는 지적. KAIST 김숙경 교수는 AI 기술기업과 SW·SI 기업 간 협력 강화, SW를 단순 코딩이 아닌 공학적 기반으로 재정의해야 한다고 주장한다.",
+      "source": "전자신문",
+      "time": "09/08 09:00"
+    },
+    {
+      "category": "policy",
+      "title": "국가AI전략위 2기, 기술·의제 등 글로벌 AI 핵심 공급망 박차",
+      "url": "https://www.etnews.com/20260908000373",
+      "summary": "국가AI전략위 출범 1주년, AI 3대 강국 및 글로벌 핵심 공급망 국가 도약 추진. 하정우 부위원장은 '토큰팩토리 중심의 지능 수출국'으로 도약 강조. AI 보안 전면화·공공 데이터 표준화·AI 입법 프레임워크 정비 추진 계획이다.",
+      "source": "전자신문",
+      "time": "09/08 09:00"
+    },
+    {
+      "category": "policy",
+      "title": "유럽 기업, AI 데이터 주권 규제 준수하면서 글로벌 경쟁력 유지하는 법",
+      "url": "https://venturebeat.com/technology/how-european-enterprises-can-meet-sovereignty-demands-without-giving-up-global-reach",
+      "summary": "유럽 기업들이 GDPR 등 데이터 주권 규제를 준수하면서도 글로벌 AI 인프라와 연동해 경쟁력을 유지할 수 있는 하이브리드 전략을 분석. 규제와 혁신의 균형점을 모색하는 전략 프레임워크를 제시한다.",
+      "source": "VentureBeat",
+      "time": "09/08 07:00"
+    },
+    {
+      "category": "chip",
+      "title": "삼성전자·ASML, 차세대 반도체 마스크 12인치로 확대…생산성·원가 개선",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215007",
+      "summary": "삼성전자와 ASML이 포토마스크를 6인치에서 12인치로 확대하는 공동 개발에 착수했다. 반도체 제조 공정 횟수를 줄여 생산성을 높이고 원가를 절감할 수 있으며, 2028년 차세대 D램 생산에 High NA EUV 장비도 도입할 계획이다.",
+      "source": "AI Times",
+      "time": "09/08"
+    },
+    {
+      "category": "chip",
+      "title": "파네시아, 美 메타와 함께 CXL 기반 'AI 데이터센터' 구조 공동 제시",
+      "url": "https://www.etnews.com/20260908000124",
+      "summary": "국내 팹리스 파네시아와 메타가 CXL 기반 혁신 AI 데이터센터 구조 발표. CPU 관리 가속기를 최대 960개로 통합, 통신 지연을 마이크로초에서 수백 나노초로 1/10 수준 단축한다. Nature Reviews에 리뷰 논문이 게재됐다.",
+      "source": "전자신문",
+      "time": "09/08 09:00"
+    },
+    {
+      "category": "security",
+      "title": "마크애니, 'K-보안 AI' 컨소시엄에 핵심 기술 공급",
+      "url": "https://zdnet.co.kr/view/?no=20260908175059",
+      "summary": "마크애니가 네이버클라우드 연합체와 함께 정부 지원 '사이버보안 특화 AI 파운데이션 모델 개발' 사업 최종 사업자로 선정됐다. 10개월간 해외 기술 의존을 줄이고 국내 자체 보안 AI 생태계 구축을 목표로 모델 개발·검증 역할을 수행한다.",
+      "source": "지디넷",
+      "time": "09/08 17:50"
+    },
+    {
+      "category": "security",
+      "title": "트렐릭스 \"내달 차세대 AI 기반 SOC 선보여\"",
+      "url": "https://zdnet.co.kr/view/?no=20260908172631",
+      "summary": "글로벌 사이버보안 기업 트렐릭스가 10월 AI 기반 보안운영센터(SOC) 솔루션 출시 예정이다. 보안 알림 자동 분석·우선순위 대응 지원, 높은 비용 효율성이 차별점이다. 보안 분석가 업무 부담 감소와 생산성 향상에 초점을 맞춘다.",
+      "source": "지디넷",
+      "time": "09/08 17:32"
+    },
+    {
+      "category": "security",
+      "title": "국가AI전략위, AI 보안 전면화·국방 특화 AI 등 성과 낸다",
+      "url": "https://www.etnews.com/20260908000210",
+      "summary": "국가AI전략위가 1주년 성과로 AI 보안 전면화, 국방 특화 AI 모델 개발, 글로벌 AI 거버넌스 협의체 출범을 제시했다. 2년차에는 AI 데이터센터 심의체계 구축, 5개 국방 AI 거점 개소, 공공 API 표준화 등을 추진 예정이다.",
+      "source": "전자신문",
+      "time": "09/08 09:00"
+    },
+    {
+      "category": "security",
+      "title": "AI와 디지털전환: AI 공격 시대, 에이전틱 지휘체계로",
+      "url": "https://www.etnews.com/20260908000234",
+      "summary": "AI 에이전트 '아스트라'가 보안 취약점을 연결해 자동 공격 경로 완성 수준에 도달했다. 방어도 자동화가 필수이며, 기존 개별 제품 단위 방어로는 한계다. 엔드포인트·아이덴티티·클라우드·네트워크를 통합하는 '시큐리티 컨트롤 플레인' 구조가 필요하다.",
+      "source": "전자신문",
+      "time": "09/08 09:00"
+    },
+    {
+      "category": "security",
+      "title": "해커들, Claude 구독자 토큰 탈취 중",
+      "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+      "summary": "Anthropic Claude AI 서비스 구독자들의 API 토큰이 해커들에게 탈취되는 사건이 발생했다. 구독자 계정 보안 위협이 고조되고 있으며 Anthropic의 대응이 주목된다. AI 서비스 보안 취약성 문제가 부각되는 사례다.",
+      "source": "TechCrunch",
+      "time": "09/08 14:10"
+    },
+    {
+      "category": "security",
+      "title": "구글 크롬, AI 보안 환경 변화 대응해 격주 업데이트 도입",
+      "url": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
+      "summary": "AI 기술 발전으로 보안 취약점 발생 속도가 빨라지면서 구글 크롬이 2주 간격 업데이트 주기를 채택했다. AI가 사이버 보안 대응 방식 자체를 바꾸고 있음을 보여주는 사례로, 브라우저 보안 패러다임 전환을 시사한다.",
+      "source": "TechCrunch",
+      "time": "09/08 08:04"
+    },
+    {
+      "category": "robot",
+      "title": "삼성SDS, '로봇 오케스트레이션'으로 생산라인 1000곳 RX 추진",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215002",
+      "summary": "삼성SDS가 삼성 제조 생산라인 1000곳을 로봇 자동화로 전환하는 '로봇 오케스트레이션' 사업을 전개한다. 핵심은 여러 로봇을 통합 제어하는 플랫폼이며, 외부 고객사 430곳도 공략할 계획이다. 오픈AI 파트너십을 통한 AI 업무전환(AX) 사업도 강화한다.",
+      "source": "AI Times",
+      "time": "09/09"
+    },
+    {
+      "category": "robot",
+      "title": "중국 인민해방군, '휴머노이드 로봇 병사' 실전 투입 속도",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214981",
+      "summary": "중국 인민해방군이 휴머노이드 로봇의 군사적 활용을 실전 배치 단계로 가속화하고 있다. 2025~2026년 관련 활동이 급증했으며, \"전투 지원에서 주력 전투로 확대될 수 있다\"는 전망이 나온다. 에너지 소비·환경 적응성 등 기술·윤리적 과제가 여전히 존재한다.",
+      "source": "AI Times",
+      "time": "09/08"
+    },
+    {
+      "category": "others",
+      "title": "AI가 바꾸는 미래 전장…탐지부터 타격까지 하나로 잇는다",
+      "url": "https://zdnet.co.kr/view/?no=20260908164350",
+      "summary": "LIG D&A가 AI 기반 지능형 지휘통제(C2) 체계를 제안했다. 삼성SDS와 협력해 AI 기반 표적 처리 사업 수주, 데이터 융합·표적 탐지·상황 인식·결심 지원 4개 핵심 기술 개발 중이다. 판교·대전·구미 연결 '전투 클라우드'도 구축한다.",
+      "source": "지디넷",
+      "time": "09/08 17:12"
+    }
+  ]
+}
