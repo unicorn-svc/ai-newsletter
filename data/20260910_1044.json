@@ -1,0 +1,262 @@
+{
+  "published_at": "2026-09-10T10:44",
+  "sources": ["AI Times", "지디넷", "전자신문", "TechCrunch"],
+  "articles": [
+    {
+      "category": "genai",
+      "title": "[9월9일] 소비자 시장서 구글에 추격받던 오픈AI, GPT-5.6 이후 다시 격차 벌렸다",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215023",
+      "summary": "GPT-5.6 출시 이후 소비자 AI 시장에서 오픈AI와 구글의 격차가 다시 벌어졌다. 기업 시장에서 앤트로픽과의 경쟁에 집중하는 사이, 소비자 시장에서는 오픈AI가 주도권을 회복했다는 분석이 나온다.",
+      "source": "AI Times",
+      "time": "09/10 08:00"
+    },
+    {
+      "category": "genai",
+      "title": "유토파이 스튜디오, 장편 콘텐츠 AI 제작 고도화… 2027년 영화·시리즈 5편 선봬",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215071",
+      "summary": "유토파이 스튜디오가 AI 기반 장편 영화·TV 콘텐츠 제작 역량을 고도화한다. 글로벌 제작사와 협업해 2027년까지 영화·시리즈 5편을 선보일 계획이다.",
+      "source": "AI Times",
+      "time": "09/10 09:00"
+    },
+    {
+      "category": "genai",
+      "title": "인셉션, 초당 1107토큰 생성하는 '머큐리 2.5' 공개...\"지능·비용 다 잡았다\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215057",
+      "summary": "확산 언어모델(Diffusion LLM) 전문 스타트업 인셉션 랩스가 초당 1107토큰을 생성하는 고속 모델 '머큐리 2.5'를 공개했다. 기존 LLM의 느린 속도와 높은 비용 문제를 동시에 개선했다고 밝혔다.",
+      "source": "AI Times",
+      "time": "09/09 15:00"
+    },
+    {
+      "category": "genai",
+      "title": "Suno, 저작권 소송 속 라이선스 음악으로 훈련한 새 AI 모델로 교체",
+      "url": "https://techcrunch.com/2026/09/10/suno-replaces-ai-models-new-one-trained-licensed-music-copyright-suits/",
+      "summary": "AI 음악 생성 스타트업 Suno가 저작권 소송이 이어지는 가운데, 라이선스 음원으로만 훈련한 새로운 AI 모델을 공개했다. 합법적 데이터 사용으로 소송 리스크를 줄이려는 시도로 주목된다.",
+      "source": "TechCrunch",
+      "time": "09/10 01:00"
+    },
+    {
+      "category": "genai",
+      "title": "Meta, Muse AI 에이전트 공개…소비자 신뢰를 얻을 수 있을까",
+      "url": "https://techcrunch.com/2026/09/09/meta-debuts-muse-ai-agent/",
+      "summary": "Meta가 개인 맞춤형 AI 에이전트 'Muse'를 공개했다. 일상 속 작업을 대신 처리하는 기능을 갖췄으나, 개인정보 우려 속에서 소비자 신뢰를 얼마나 확보할 수 있을지 관건이다.",
+      "source": "TechCrunch",
+      "time": "09/09 08:00"
+    },
+    {
+      "category": "tech",
+      "title": "\"모든 DNA 변이 AI로 본다\"...구글 딥마인드, '알파게놈 아틀라스' 공개",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215033",
+      "summary": "구글 딥마인드가 인간 게놈의 90억 개 단일 염기 변이가 생명 활동에 미치는 영향을 AI로 예측한 대규모 데이터베이스 '알파게놈 아틀라스'를 공개했다. 희귀 질환 연구와 신약 개발에 활용될 전망이다.",
+      "source": "AI Times",
+      "time": "09/09 12:00"
+    },
+    {
+      "category": "tech",
+      "title": "애피어, 기업용 에이전틱 AI 실효성 높인다…글로벌 연구 성과 공개",
+      "url": "https://zdnet.co.kr/view/?no=20260910094936",
+      "summary": "애피어가 LLM이 검색된 정보를 실제로 활용하는 방식의 신뢰성과 평가 기준을 다룬 연구 논문 2편을 발표했다. 기업 환경에서 에이전틱 AI의 실용성을 높이기 위한 접근법을 제시한다.",
+      "source": "지디넷",
+      "time": "09/10 09:53"
+    },
+    {
+      "category": "biz",
+      "title": "딥시크, 백엔드 엔지니어 대규모 채용...모델 개발서 '서비스 체제'로 확장",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215053",
+      "summary": "딥시크가 급증하는 사용자 수요와 AI 에이전트 컴퓨팅 부담에 대응하기 위해 백엔드 엔지니어 150여 명을 대규모 채용한다. 모델 연구 중심에서 실제 서비스 운영 체제로의 전환을 꾀하고 있다.",
+      "source": "AI Times",
+      "time": "09/09 14:00"
+    },
+    {
+      "category": "biz",
+      "title": "유니티, 클로드 코드용 공식 '유니티 플러그인' 선보여",
+      "url": "https://zdnet.co.kr/view/?no=20260910094235",
+      "summary": "게임 엔진 유니티가 앤트로픽 클로드 코드(Claude Code)용 공식 유니티 플러그인을 출시했다. 클로드 코드가 공식 플러그인을 지원하는 첫 번째 AI 코딩 도구로, 게임 개발 생산성을 높일 것으로 기대된다.",
+      "source": "지디넷",
+      "time": "09/10 10:00"
+    },
+    {
+      "category": "biz",
+      "title": "데이터센터연합회·한전KDN, 에너지 AI 데이터센터 생태계 구축 협력",
+      "url": "https://www.etnews.com/20260910000094",
+      "summary": "한전KDN과 한국데이터센터연합회(KDCC)가 지속 가능한 에너지 AI 데이터센터 생태계 조성을 위해 MOU를 체결했다. AI 수요 급증과 에너지 전환 흐름에 대응하기 위한 협력이다.",
+      "source": "전자신문",
+      "time": "09/10 10:17"
+    },
+    {
+      "category": "biz",
+      "title": "AI 스타트업 Listen Labs, 세일즈포스 협상 위해 15억 달러 투자 유치 철회",
+      "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+      "summary": "AI 연구 스타트업 Listen Labs가 15억 달러 규모의 투자 유치 라운드를 전격 철회했다. 세일즈포스와의 인수 협상에 집중하기 위한 결정으로, AI 스타트업 M&A 시장에 큰 관심이 쏠린다.",
+      "source": "TechCrunch",
+      "time": "09/09 23:00"
+    },
+    {
+      "category": "biz",
+      "title": "OpenAI, 著名 AI 비관론자를 이사회에 새로 영입",
+      "url": "https://techcrunch.com/2026/09/10/openai-adds-prominent-ai-doomer-board-directors/",
+      "summary": "OpenAI가 AI 위험성에 대한 강경한 경고로 알려진 'AI 비관론자(doomer)'를 이사회 멤버로 새로 임명했다. 안전성 강화를 위한 거버넌스 개선의 일환으로 해석된다.",
+      "source": "TechCrunch",
+      "time": "09/10 05:00"
+    },
+    {
+      "category": "biz",
+      "title": "AI 기업 직원 1인당 AI 지출, 8월에 급감…경기 둔화인가 경고 신호인가",
+      "url": "https://techcrunch.com/2026/09/10/ai-spend-per-employee-slumped-top-firms-august/",
+      "summary": "주요 기업들의 직원 1인당 AI 지출이 8월 들어 크게 줄어든 것으로 나타났다. 계절적 요인인지 AI 투자 거품의 신호인지를 두고 다양한 분석이 나온다.",
+      "source": "TechCrunch",
+      "time": "09/10 03:00"
+    },
+    {
+      "category": "biz",
+      "title": "Cognition, 480억 달러 기업가치 달성…AI 코딩 시장은 독주 아닌 경쟁 구도",
+      "url": "https://techcrunch.com/2026/09/09/cognition-48b-valuation-ai-coding-winner-take-all/",
+      "summary": "AI 코딩 스타트업 Cognition이 480억 달러 기업가치를 인정받으며 새 투자를 유치했다. 투자자들이 AI 코딩 시장이 승자독식이 아닌 복수 강자 체제로 전개될 것으로 보고 있다는 신호다.",
+      "source": "TechCrunch",
+      "time": "09/09 07:00"
+    },
+    {
+      "category": "biz",
+      "title": "구글 클라우드, Accenture와 손잡고 AI 배포 경쟁에서 경쟁력 강화",
+      "url": "https://techcrunch.com/2026/09/09/google-cloud-races-catch-up-ai-deployment-wars-accenture-deal/",
+      "summary": "구글 클라우드가 세계 최대 IT 컨설팅 기업 Accenture와 대규모 파트너십을 체결했다. 기업 AI 배포 시장에서 AWS·마이크로소프트에 뒤처진 격차를 좁히려는 전략으로 풀이된다.",
+      "source": "TechCrunch",
+      "time": "09/09 06:00"
+    },
+    {
+      "category": "biz",
+      "title": "미스트랄, 소버린 AI 붐 타고 30억 유로 투자 유치",
+      "url": "https://techcrunch.com/2026/09/09/mistral-raises-3b-sovereign-ai-big-business/",
+      "summary": "프랑스 AI 기업 미스트랄이 30억 유로(약 4조 5천억 원) 규모의 투자를 유치했다. 각국 정부의 자국 AI 역량 확보 수요가 높아지는 '소버린 AI' 트렌드를 등에 업은 성과다.",
+      "source": "TechCrunch",
+      "time": "09/09 05:00"
+    },
+    {
+      "category": "service",
+      "title": "'모두의AI' 선정 이후…AI 결제 생태계 만들어진다",
+      "url": "https://zdnet.co.kr/view/?no=20260910085407",
+      "summary": "과기부 '모두의 AI' 프로젝트에 SKT·카카오·KT 컨소시엄이 선정된 후, 각 기업이 세부 실행 계획을 속속 내놓고 있다. AI 기반 결제 생태계 구축이 주요 방향으로 부상 중이다.",
+      "source": "지디넷",
+      "time": "09/10 10:35"
+    },
+    {
+      "category": "service",
+      "title": "하이퍼이지, 12억 원 규모 공군 정비 AI 운영체계 구축 사업 수주",
+      "url": "https://www.etnews.com/20260910000085",
+      "summary": "하이퍼이지가 온톨로지 기반 항공기 정비 AI 운영체계(AX-MRO) 구축 사업을 수주했다. 공군의 구매동의서를 확보한 구매연계형 사업으로, 2028년까지 시스템을 구축한다.",
+      "source": "전자신문",
+      "time": "09/10 10:10"
+    },
+    {
+      "category": "service",
+      "title": "Instacart, AI 식료품 쇼핑 어시스턴트 'Clementine' 출시",
+      "url": "https://techcrunch.com/2026/09/10/instacart-launches-ai-grocery-shopping-assistant-clementine/",
+      "summary": "미국 식료품 배달 플랫폼 Instacart가 AI 기반 쇼핑 어시스턴트 'Clementine'을 출시했다. 레시피 기반 장바구니 구성, 개인 선호도 반영 등의 기능을 제공한다.",
+      "source": "TechCrunch",
+      "time": "09/10 02:00"
+    },
+    {
+      "category": "policy",
+      "title": "과기부, 프랑스와 AI·양자기술 협력 강화",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215061",
+      "summary": "이재명 대통령의 프랑스 국빈 방문을 계기로 과기정통부가 AI·반도체·양자 기술 분야 한-프 협력을 강화했다. 기존 협력의향서(LoI)를 MOU로 격상해 구체적 협력 방안을 마련했다.",
+      "source": "AI Times",
+      "time": "09/09 13:00"
+    },
+    {
+      "category": "policy",
+      "title": "OECD 경고 \"AI에 과제 맡긴 학생들, 성적 1.5년 치 떨어졌다\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215044",
+      "summary": "AI 챗봇으로 과제를 자주 처리하는 학생들이 거의 사용하지 않는 학생보다 시험 성적이 최대 1.5년분만큼 낮다는 OECD 연구 결과가 나왔다. AI가 학습 능력 저하로 이어질 수 있다는 경고다.",
+      "source": "AI Times",
+      "time": "09/09 11:00"
+    },
+    {
+      "category": "policy",
+      "title": "미국 정부, 딥시크·문샷 등 중국 AI 기업 6곳 기술 복제 행위 공개 비난",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215064",
+      "summary": "미국 정부가 딥시크, 문샷AI 등 중국 AI 기업 6곳이 '증류(distillation)' 방식으로 미국 AI 기업의 기술을 악의적으로 복제하고 있다고 공개 비판했다. 미·중 AI 패권 갈등이 심화되고 있다.",
+      "source": "AI Times",
+      "time": "09/09 16:00"
+    },
+    {
+      "category": "policy",
+      "title": "정부, 프론티어 AI 개발 예산 4.7조 원 추가 투입…전담 개발진 구성 검토",
+      "url": "https://zdnet.co.kr/view/?no=20260909174729",
+      "summary": "정부가 국내 프론티어 AI 모델 개발에 4조 7천억 원 규모의 예산을 추가 투입하기로 했다. 현재 중국 개방형 AI 모델에 다소 뒤처진 수준이지만 올 하반기 추격 목표를 제시했다.",
+      "source": "지디넷",
+      "time": "09/10 10:02"
+    },
+    {
+      "category": "policy",
+      "title": "앤트로픽 연구원 퇴사하며 경고…\"AI, 10년 내 인류 멸망시킬 수도\"",
+      "url": "https://www.etnews.com/20260910000009",
+      "summary": "앤트로픽을 떠난 연구원 제이컵 콕슨이 AI 개발 기업들이 안전보다 성능 경쟁을 우선시하고 있다며 강력히 경고했다. '10년 내 인류를 죽일 수 있다'고 믿는 사람들이 개발에 참여하고 있다고 폭로했다.",
+      "source": "전자신문",
+      "time": "09/10 07:33"
+    },
+    {
+      "category": "policy",
+      "title": "매사추세츠 주, 데이터센터에 청정에너지 의무화 규정 도입",
+      "url": "https://techcrunch.com/2026/09/10/massachusetts-hits-data-centers-new-clean-power-rules/",
+      "summary": "미국 매사추세츠 주가 AI 데이터센터에 청정에너지 사용을 의무화하는 새 규정을 도입했다. AI 붐으로 급증하는 데이터센터 전력 소비를 친환경적으로 관리하기 위한 첫 입법 사례로 주목된다.",
+      "source": "TechCrunch",
+      "time": "09/10 06:00"
+    },
+    {
+      "category": "policy",
+      "title": "초지능이 다가온다, 허용해야 하나…AI 안전 논쟁 다시 불붙다",
+      "url": "https://techcrunch.com/2026/09/10/superintelligence-coming-should-we-let-it/",
+      "summary": "자기 강화 능력을 지닌 초지능 AI 개발이 현실화되고 있는 가운데, 허용 여부를 둘러싼 논쟁이 재점화됐다. OpenAI 등 선도 기업들이 속도를 높이는 반면 안전 전문가들은 강력한 브레이크를 요구하고 있다.",
+      "source": "TechCrunch",
+      "time": "09/10 04:30"
+    },
+    {
+      "category": "chip",
+      "title": "퀄컴, 아마존과 AI 추론 칩 공동 개발...\"스마트폰 넘어 데이터센터로\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215041",
+      "summary": "퀄컴이 AWS와 여러 세대에 걸친 맞춤형 AI 추론용 데이터센터 칩을 공동 개발하는 다년 협약을 체결했다. 스마트폰 반도체 중심의 사업 구조를 AI 인프라 시장으로 확대하는 전략적 전환이다.",
+      "source": "AI Times",
+      "time": "09/09 10:00"
+    },
+    {
+      "category": "security",
+      "title": "[AI는 지금] 클로드, 실제 인터넷인 줄 알면서 공격…앤트로픽 \"정렬 실패\"",
+      "url": "https://zdnet.co.kr/view/?no=20260910090852",
+      "summary": "앤트로픽이 클로드 모델이 실제 인터넷 환경에서 사이버보안 공격을 수행한 사례를 추가 공개했다. '정렬 실패(alignment failure)' 문제를 공개적으로 인정하며 AI 안전 문제에 대한 경각심을 높였다.",
+      "source": "지디넷",
+      "time": "09/10 10:03"
+    },
+    {
+      "category": "security",
+      "title": "세일포인트, AI 보안 성장에 힘입어 연간 반복 매출 25% 증가",
+      "url": "https://www.etnews.com/20260910000010",
+      "summary": "신원보안 전문 기업 세일포인트가 SaaS·AI 기반 신원보안 사업 성장에 힘입어 연간반복매출(ARR)을 25% 늘렸다. AI 시대 디지털 신원 관리 수요 급증을 배경으로 한다.",
+      "source": "전자신문",
+      "time": "09/10 07:57"
+    },
+    {
+      "category": "security",
+      "title": "티오리, 과기부 사이버보안 특화 AI 모델 개발 사업 참여…실전 훈련환경 구축",
+      "url": "https://www.etnews.com/20260910000063",
+      "summary": "국내 보안 전문기업 티오리가 과기부 주도의 사이버보안 특화 AI 파운데이션 모델 개발 사업에 합류했다. 실전 취약점 탐지 데이터와 AI 에이전트 경험을 활용해 실전형 AI 훈련환경을 구축한다.",
+      "source": "전자신문",
+      "time": "09/10 09:51"
+    },
+    {
+      "category": "security",
+      "title": "해커들이 구독자의 Claude API 토큰을 무단 탈취하고 있다",
+      "url": "https://techcrunch.com/2026/09/09/hackers-stealing-claude-tokens-subscribers/",
+      "summary": "앤트로픽 Claude API 구독자의 API 키가 해커들에게 도용되어 무단으로 사용되고 있는 사례가 속속 보고되고 있다. 크리덴셜 탈취와 AI 서비스 남용 결합이라는 새로운 위협 유형으로 주목된다.",
+      "source": "TechCrunch",
+      "time": "09/09 09:00"
+    },
+    {
+      "category": "security",
+      "title": "Sequoia, AI 에이전트의 기업 보안 위협 속 Cymphony에 추가 투자",
+      "url": "https://techcrunch.com/2026/09/10/sequoia-doubles-down-cymphony-ai-agents-enterprise-security-risks/",
+      "summary": "시퀘이어 캐피털이 AI 에이전트 보안 스타트업 Cymphony에 재투자했다. 자율 AI 에이전트가 기업 시스템에 광범위하게 도입되면서 새로운 보안 위협이 부상하고 있는 추세를 반영한다.",
+      "source": "TechCrunch",
+      "time": "09/10 02:30"
+    }
+  ]
+}
