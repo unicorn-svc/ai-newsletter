@@ -1,0 +1,142 @@
+{
+  "published_at": "2026-09-13T09:00",
+  "sources": ["AI Times", "지디넷", "전자신문", "TechCrunch"],
+  "articles": [
+    {
+      "category": "policy",
+      "title": "아모데이 \"첨단 모델 개발 속도 줄이자\"...알트먼·머스크도 \"동의\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215195",
+      "summary": "앤트로픽 다리오 아모데이 CEO가 AI 개발 속도 조절을 촉구하는 에세이 발표. AI 자기개선 단계 진입 위험 경고하며 외부 평가단 상주, 민주주의 국가 협력, 글로벌 통제 체계 구축 등 3단계 방안 제시. 샘 알트먼과 일론 머스크가 즉시 동의 표명.",
+      "source": "AI Times",
+      "time": "09/13 08:07"
+    },
+    {
+      "category": "security",
+      "title": "\"미사일부터 스파이 활동까지\"...앤트로픽 '클로드', 군사 악용에 비상",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215180",
+      "summary": "앤트로픽 보고서에 따르면 클로드가 이란·러시아·중국·후티 반군에 의해 미사일 제어, 사이버 공격, 민간인 감시에 악용됨. 후티 반군은 탄도미사일 개발, 이란은 미 해군 함정 추적, 러시아 해킹 그룹은 자살 드론 소프트웨어 개발에 활용. 앤트로픽은 관련 계정 차단.",
+      "source": "AI Times",
+      "time": "09/13 00:00"
+    },
+    {
+      "category": "genai",
+      "title": "오픈AI, 캘텍 AI 수학 해커톤 후원 철회...수학계 '슬롭 수학' 비판 여파",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215193",
+      "summary": "오픈AI가 칼텍 '매스어톤' 해커톤 후원을 중단. 필즈상 수상자 테렌스 타오 등 수학자 100여 명이 AI 생성 저품질 결과물 '슬롭 수학'을 비판하는 공개 서한 발표 직후 결정. AI 크레딧 200만 달러 지원 논란도 불거짐.",
+      "source": "AI Times",
+      "time": "09/13 00:00"
+    },
+    {
+      "category": "genai",
+      "title": "오픈AI, '에이전트 API' 공개 베타 출시...\"에이전트 구축 쉬워진다\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215181",
+      "summary": "오픈AI가 에이전트 API를 공개 베타로 출시. 코딩 에이전트 코덱스의 핵심 인프라를 개발자에게 제공해 장시간 AI 에이전트 구축을 간소화. 자동 컨텍스트 관리, 도구 검색, 멀티 에이전트 기능 지원하며, E2B·버셀·모달 등 파트너 샌드박스와 무료 베타 서비스 제공.",
+      "source": "AI Times",
+      "time": "09/13 00:00"
+    },
+    {
+      "category": "tech",
+      "title": "앤트로픽, 클로드 코드 '플러그인 평가' 공개...플러그인 성능·기여도 검증",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215184",
+      "summary": "앤트로픽이 클로드 코드에 플러그인 평가 기능 추가. 'claude plugin eval' 명령으로 플러그인 적용·미적용 결과를 비교해 실제 기여도 측정 가능. 정규식, 도구 사용 여부 등 6가지 평가 유형 구성. CI/CD 파이프라인 통제 게이트로도 활용 가능.",
+      "source": "AI Times",
+      "time": "09/12 00:00"
+    },
+    {
+      "category": "tech",
+      "title": "구글, AI 도구 학습 '툴그래드' 공개...\"답부터 만들고 질문 붙여 성공률 99.8%\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215188",
+      "summary": "구글이 AI 모델의 도구 사용 능력 학습 프레임워크 '툴그래드' 공개. 기존 '질의 우선' 방식 대신 검증된 도구 사용 체인을 먼저 만드는 '답변 우선' 구조로 데이터 생성 성공률 63.8%→99.8% 향상. 500개 고품질 데이터만으로 소형 모델도 높은 성능 확보.",
+      "source": "AI Times",
+      "time": "09/12 00:00"
+    },
+    {
+      "category": "tech",
+      "title": "사카나, 에이전트 오케스트레이션 '푸구' 새 버전 출시...비용·성능 동시 잡았다",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215186",
+      "summary": "사카나 AI가 에이전트 오케스트레이션 시스템 '푸구 맥스'와 '푸구 울트라 v2' 출시. 경량 모델 활용으로 출력 가격 40~60% 절감. 특정 빅테크 종속 탈피를 목표로 설계되어 같은 성능 대비 낮은 비용으로 복잡한 에이전트 작업 수행 가능.",
+      "source": "AI Times",
+      "time": "09/12 00:00"
+    },
+    {
+      "category": "tech",
+      "title": "AI가 하네스를 만들 수 있을까...바이트댄스, 평가 프레임워크 '하네스데브' 공개",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215182",
+      "summary": "바이트댄스가 AI의 에이전트 실행 시스템 자동 구축 능력 측정 평가 프레임워크 '하네스데브' 발표. 생성·진화 2단계 평가 체계 구성. 클로드 오퍼스 4.8이 평균 67.8점으로 최고 성능, 인간 설계 기준점 86.2점에는 미달. AI가 범용 시스템 개발 능력 미확보 결론.",
+      "source": "AI Times",
+      "time": "09/12 00:00"
+    },
+    {
+      "category": "policy",
+      "title": "트럼프, AI 종말론 위험 일축...\"중국 우위가 최우선\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215185",
+      "summary": "도널드 트럼프 대통령이 AI 인류 멸종 우려를 일축하며 중국과의 기술 패권 경쟁을 강조. \"AI 분야에서 승리 못하면 매우 어려운 상황\"이라고 발언. 연방 차원의 AI 규제 논의 차단 의도로 해석. 오픈AI는 캘리포니아 AI 안전 규제법 지지하며 행정부와 입장 대립.",
+      "source": "AI Times",
+      "time": "09/12 00:00"
+    },
+    {
+      "category": "biz",
+      "title": "세일즈포스, '에이전트 난립' 잡는다...통합 관리 '트러스트 엔터프라이즈 AI 하네스' 공개",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215190",
+      "summary": "세일즈포스가 기업 내 AI 에이전트의 무분별한 확산을 관리하기 위한 통합 프레임워크 공개. 데이터 맥락, 에이전트 행동, 보안, 거버넌스를 하나의 체계로 통제. 2028 회계연도 초부터 단계적 출시 예정.",
+      "source": "AI Times",
+      "time": "09/12 00:00"
+    },
+    {
+      "category": "biz",
+      "title": "오픈AI의 피지 시모, IPO 앞둔 엔스케일 이사회 합류",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215189",
+      "summary": "오픈AI 전 임원 피지 시모가 IPO를 준비 중인 클라우드 서비스 업체 엔스케일의 이사회에 합류. 오픈AI 시간제 자문역을 계속 맡으며 이해 상충 시 회피 절차 따름. 엔스케일은 AI 컴퓨팅 인프라 시장에서 빠르게 성장 중.",
+      "source": "AI Times",
+      "time": "09/12 00:00"
+    },
+    {
+      "category": "security",
+      "title": "챗GPT로 교내 총격 계획한 아르헨티나 10대, FBI 경보 후 경찰 급습",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215187",
+      "summary": "아르헨티나 15세 소년이 ChatGPT를 이용해 학교 총격 사건을 계획했다가 적발. FBI 글로벌 모니터링 시스템이 테러 관련 단어를 감지하고 IP 추적으로 위치 특정 후 경찰이 급습. OpenAI와 사법당국 정보 공조 체계가 범행을 사전에 차단.",
+      "source": "AI Times",
+      "time": "09/12 00:00"
+    },
+    {
+      "category": "service",
+      "title": "\"인류를 위한 AI 컴패니언\"...딥그로브의 캐릭터챗이 남다른 이유",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214911",
+      "summary": "딥그로브가 AI 컴패니언 서비스 '프론티아' 출시. 크라우드와 이루다 개발진이 설립한 회사로 동적 스토리 엔진 활용 AI 시네마틱 게임 제공. 사용자 선택에 따라 1만 개 이상의 스토리 경로 생성. 창작자 1,000여 명 활동 중 일부는 월 600만원 수익 창출.",
+      "source": "AI Times",
+      "time": "09/12 00:00"
+    },
+    {
+      "category": "biz",
+      "title": "데이터 쫓아 지방 간다...제조 AI 거점 확산",
+      "url": "https://zdnet.co.kr/view/?no=20260912092518",
+      "summary": "AI 기업들이 주요 산업단지로 거점을 확대. 크라우드웍스·마키나락스가 창원에 첫 지역 거점 마련, 제조 데이터와 고객 수요 확보 목표. 정부는 2030년까지 AX 실증산단을 25개로 확대 계획, 내년 제조 AI 예산을 3조 7261억원으로 128.5% 증액.",
+      "source": "지디넷",
+      "time": "09/12 16:13"
+    },
+    {
+      "category": "security",
+      "title": "샌프란시스코 시, 메타에 AI 생성 아동 성착취 광고 중단 요구",
+      "url": "https://zdnet.co.kr/view/?no=20260912094534",
+      "summary": "샌프란시스코 시 검사장이 메타에 AI로 생성된 아동 성착취물 광고 350개 이상 게재 중단 요구. 와이어드 조사에 따르면 페이스북·인스타그램·스레드에 광고 노출. 메타는 신고 이후에도 광고가 증가했다고 밝히며 정책 위반 광고를 삭제했다고 설명.",
+      "source": "지디넷",
+      "time": "09/12 09:45"
+    },
+    {
+      "category": "biz",
+      "title": "무분별한 피지컬 AI 도입, 피해·소송 직면...시뮬레이션옵스(SimOps) 활용해야",
+      "url": "https://www.etnews.com/20260911000245",
+      "summary": "가트너가 기업의 무분별한 피지컬 AI 도입이 연말까지 2000건 이상의 소송을 불러일으킬 수 있다고 경고. 실제 하드웨어 도입 전 시뮬레이션 환경에서 위험을 사전 검증하는 SimOps 도입이 필수적이라고 강조.",
+      "source": "전자신문",
+      "time": "09/12 16:00"
+    },
+    {
+      "category": "biz",
+      "title": "오픈AI 샘 알트만, 2026년 IPO는 '현명하지 못한' 선택이라고 밝혀",
+      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+      "summary": "오픈AI 샘 알트만 CEO가 2026년 공개상장(IPO)은 좋지 않은 시점이라고 밝혔다. 원래 2026년 3~4분기 IPO를 목표로 했으나 AI 안전 문제와 기술주 변동성, 재정 불안으로 2027년으로 연기될 전망이다.",
+      "source": "TechCrunch",
+      "time": "09/12 13:19"
+    }
+  ]
+}
