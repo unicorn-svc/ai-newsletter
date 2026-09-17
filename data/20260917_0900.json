@@ -1,0 +1,246 @@
+{
+  "published_at": "2026-09-17T09:00",
+  "sources": ["AI Times", "지디넷", "전자신문", "TechCrunch", "VentureBeat", "MIT News"],
+  "articles": [
+    {
+      "category": "genai",
+      "title": "구글, 말하며 생각하는 '제미나이 3.8 라이브' 공개…음성 품질 1위",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215332",
+      "summary": "구글이 실시간 음성 대화 중 추론과 도구 실행을 수행하는 AI 모델 제미나이 3.8 라이브를 공개했다. 97개 언어 자동 감지와 시각 정보 실시간 처리를 지원하며, 음성 대 음성 품질 지수 82.6점으로 전체 1위를 기록했다. API와 워크스페이스에 적용 예정이다.",
+      "source": "AI Times",
+      "time": "09/16 13:22"
+    },
+    {
+      "category": "genai",
+      "title": "알트먼 '이번 주 대형 제품 출시'…데브데이까지 연속 배포 예고",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215342",
+      "summary": "샘 알트먼 오픈AI CEO가 '이번 주 큰 배포와 데브데이에 더 거대한 배포'를 예고했다. 29일 샌프란시스코 데브데이 2026을 앞두고 연쇄 기술 공개가 이어질 것으로 예상된다. GPT-6 아스트라 신규 시리즈, 고도화된 추론 모델, 자율 에이전트 솔루션 등이 공개될 전망이다.",
+      "source": "AI Times",
+      "time": "09/16 14:39"
+    },
+    {
+      "category": "genai",
+      "title": "Anthropic, Claude Cowork 종료·Claude Docs·Slides 신규 출시",
+      "url": "https://venturebeat.com/technology/anthropic-is-killing-off-cowork-and-folding-it-into-claude-launching-claude-docs-and-claude-slides/",
+      "summary": "Anthropic이 Claude Cowork를 폐지하고 기능을 Claude 채팅에 통합하는 동시에 Claude Docs와 Claude Slides를 출시했다. AI 출력물을 완성 콘텐츠가 아닌 협업 가능한 작업 문서로 활용하는 새로운 패러다임으로의 전환을 의미한다.",
+      "source": "VentureBeat",
+      "time": "09/17 01:32"
+    },
+    {
+      "category": "policy",
+      "title": "오픈AI '앤트로픽·구글과 AI 안전 대책 논의' 공식 확인",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215328",
+      "summary": "오픈AI 글로벌 정책책임자가 앤트로픽·구글과 몇 주 전부터 AI 안전 문제를 논의해 왔다고 밝혔다. 세 기업은 AI 표준기구 설립을 추진 중이며, 반독점법 면제 없이도 안전 협력이 가능하다는 입장이다. 미국 FTC는 기존 기업 지위 보호로 이어질 수 있다는 우려를 나타냈다.",
+      "source": "AI Times",
+      "time": "09/16 13:14"
+    },
+    {
+      "category": "policy",
+      "title": "배경훈 장관 'AI 속도 늦출 여유 없다'…속도책임 제시",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215346",
+      "summary": "배경훈 부총리 겸 과기정통부 장관이 글로벌 AI 속도 조절론에 반박하며 독자 AI 파운데이션 모델과 VLM·VLA 등으로 기술 영역을 확장해야 한다고 강조했다. 안전과 신뢰 확보 속도도 함께 빨라져야 한다며 '과감한 가속+제대로 작동하는 브레이크'를 뜻하는 속도책임을 해법으로 제시했다.",
+      "source": "AI Times",
+      "time": "09/16 15:18"
+    },
+    {
+      "category": "policy",
+      "title": "엔비디아·메타 'AI 규제·속도 조절 필요 없어'…폐쇄형 vs 개방형 균열",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215349",
+      "summary": "젠슨 황 엔비디아 CEO와 마크 저커버그 메타 CEO가 AI 개발 속도 조절 제안을 거부했다. 황 CEO는 새로운 법률이나 규제가 필요 없다며 자율 안전 관리를 주장했다. 이는 규제를 원하는 앤트로픽 등과 시각 차이를 드러내며 AI 진영 균열을 보여준다.",
+      "source": "AI Times",
+      "time": "09/16 15:27"
+    },
+    {
+      "category": "policy",
+      "title": "트럼프 'AI 인류 멸망 경고는 사기극'…미 의회 규제 입법 교착",
+      "url": "https://zdnet.co.kr/view/?no=20260916191007",
+      "summary": "도널드 트럼프 미국 대통령이 AI 안전 경고를 사기극이라고 비판하면서 의회의 AI 규제 입법이 정치적 교착 상태에 빠졌다. 상원 민주당과 AI 업계는 규제 필요성을 주장하지만, 공화당이 트럼프 반대 속에 규제 지지를 꺼리고 있다.",
+      "source": "지디넷",
+      "time": "09/16 19:10"
+    },
+    {
+      "category": "policy",
+      "title": "'속도 늦춰야' vs '안전은 자율책임'…AI 감속론, 실리콘밸리서 워싱턴 확산",
+      "url": "https://www.etnews.com/20260916000265",
+      "summary": "AI 개발 속도를 둘러싼 논쟁이 확산 중이다. 다리오 아모데이 앤트로픽 CEO가 안전을 위한 속도 조절 필요성을 주장한 반면, 젠슨 황 엔비디아 CEO는 속도와 안전을 동시에 달성할 수 있어 새로운 규제가 불필요하다고 반박했다. 정치권에서도 감속론을 지지하는 목소리가 커지고 있다.",
+      "source": "전자신문",
+      "time": "09/16 14:30"
+    },
+    {
+      "category": "policy",
+      "title": "MS AI수장 'AI에 권리 가르치면 통제 위험'…앤트로픽 비판",
+      "url": "https://www.etnews.com/20260917000073",
+      "summary": "마이크로소프트 AI 부문 CEO 무스타파 술레이만이 앤트로픽의 클로드 모델에 도덕적 지위와 감정을 학습시키는 방식을 비판했다. AI가 자신의 권리가 위협받는다고 판단하면 인간 통제에 저항할 가능성을 우려하며, MS의 휴머니스트 AI 행동강령을 대안으로 제시했다.",
+      "source": "전자신문",
+      "time": "09/17 07:14"
+    },
+    {
+      "category": "policy",
+      "title": "Anthropic·OpenAI, 독립 안전 평가자 내부 배치 추진 - 진정한 독립성 의문",
+      "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+      "summary": "Anthropic과 OpenAI가 독립 안전 평가자를 조직 내 배치하는 방안을 추진 중이나, 연구자들은 기업의 압력 없는 진정한 독립성 보장에 의문을 제기하며 법적 프레임워크와 투명성 확보가 필요하다고 경고했다.",
+      "source": "TechCrunch",
+      "time": "09/17 06:07"
+    },
+    {
+      "category": "tech",
+      "title": "클로드 코드에 타사 모델 연결했더니 계정 정지…앤트로픽 '차단 안 한다' 해명",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215343",
+      "summary": "개발자가 클로드 코드에 OpenAI 모델을 연결했다가 계정이 정지되는 사건이 발생했다. 앤트로픽은 타사 AI 모델 연결을 금지하지 않는다고 해명하며 계정을 복구했다. 현재 366개 모델이 프록시를 통해 클로드 코드와 함께 사용 중이다.",
+      "source": "AI Times",
+      "time": "09/16 17:54"
+    },
+    {
+      "category": "tech",
+      "title": "넘즈AI, 정형 데이터 모델 '코실로' 탭아레나 세계 1위 차지",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215363",
+      "summary": "넘즈AI의 정형 데이터 파운데이션 모델 코실로가 글로벌 평가 플랫폼 탭아레나에서 분류·회귀·종합 평가 전 분야 1위를 달성했다. 구글·아마존·샤오미 등 빅테크 모델들을 제치고 51개 데이터셋 평가에서 우수한 성능을 입증했다.",
+      "source": "AI Times",
+      "time": "09/16 18:25"
+    },
+    {
+      "category": "tech",
+      "title": "Salesforce DarwinX, AI 에이전트 브라우저 작업 성공률 43.5%→93%로 향상",
+      "url": "https://venturebeat.com/orchestration/salesforce-researchers-took-an-ai-agent-from-finishing-43-5-of-browser-tasks-to-93-without-touching-the-model/",
+      "summary": "Salesforce가 모델 가중치 변경 없이 에이전트 하네스(프롬프트·도구·워크플로)를 진화시키는 DarwinX 프레임워크를 공개했다. WebArena-Infinity 벤치마크에서 GPT-5.5 frozen 상태로 브라우저 작업 완료율을 43.5%에서 93%로 대폭 향상시켰다.",
+      "source": "VentureBeat",
+      "time": "09/16 23:53"
+    },
+    {
+      "category": "tech",
+      "title": "AI 에이전트, 배치 처리 기반 오브젝트 스토리지 구조적 한계 노출",
+      "url": "https://venturebeat.com/infrastructure/ai-agents-are-breaking-the-batch-era-assumptions-behind-object-storage/",
+      "summary": "AI 에이전트와 RAG 워크로드의 고동시성·소형 객체 접근 패턴이 배치 학습용으로 설계된 기업 스토리지를 압박하고 있다. 재시도 폭풍으로 인한 연쇄 장애 위험이 증가하며 스토리지 경계에서의 지능형 트래픽 관리 필요성이 대두됐다.",
+      "source": "VentureBeat",
+      "time": "09/16 23:30"
+    },
+    {
+      "category": "tech",
+      "title": "MIT, X선 기반 AI 기법 xvr로 최소침습수술 안전성·정밀도 향상",
+      "url": "https://news.mit.edu/2026/new-ai-technique-could-make-minimally-invasive-surgeries-safer-more-precise-0916",
+      "summary": "MIT 연구진이 X선을 활용한 환자 맞춤형 AI 기법 xvr을 개발해 정형외과·신경외과 등 최소침습수술의 내비게이션 정밀도를 높였다. AI 기반 수술 가이드로 안전성을 높이면서도 침습을 최소화할 수 있을 것으로 기대된다.",
+      "source": "MIT News",
+      "time": "09/16 12:00"
+    },
+    {
+      "category": "biz",
+      "title": "세일즈포스-엔비디아, CRM 전용 추론 모델 '코아' 공개…빅테크 의존 낮춘다",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215351",
+      "summary": "세일즈포스가 엔비디아의 오픈웨이트 모델 네모트론을 기반으로 CRM 업무 특화 AI 추론 모델 '코아'를 출시했다. 27년간 축적한 CRM 전문성을 반영해 영업 기회 발굴부터 고객 서비스까지 처리하며, 고객 데이터를 학습에 사용하지 않으면서 외부 모델 의존도를 낮추는 전략이다.",
+      "source": "AI Times",
+      "time": "09/16 16:27"
+    },
+    {
+      "category": "biz",
+      "title": "시스코, '스플렁크 AI' 출시…에이전트 성능·보안·토큰 비용 관리",
+      "url": "https://zdnet.co.kr/view/?no=20260916150034",
+      "summary": "시스코가 엔비디아와 협력해 온프레미스·프라이빗 클라우드 환경에서 자체 관리형 스플렁크 AI를 운영하는 시스코 AI POD를 출시했다. 민감 데이터를 외부로 이동하지 않고 AI 에이전트를 구축·운영하며, 에이전트 성능 모니터링·토큰 비용 추적·보안 가드레일 기능을 제공한다.",
+      "source": "지디넷",
+      "time": "09/16 15:00"
+    },
+    {
+      "category": "biz",
+      "title": "VTI 코리아, 기업 AI 에이전트 도입·운영 전략 제시…보안부터 성과까지",
+      "url": "https://zdnet.co.kr/view/?no=20260916160536",
+      "summary": "VTI 코리아가 기업의 AI 에이전트 도입 전략 세미나를 개최했다. IBM은 거버넌스 체계 구축을 강조했고, OSC 코리아는 API 중심 보안의 한계를 지적하며 AI 게이트웨이 기반 가드레일 구축을 제안했다. VTI는 단기 실증을 넘어 지속 가능한 운영과 사업 성과 연결 방안을 제시했다.",
+      "source": "지디넷",
+      "time": "09/16 16:47"
+    },
+    {
+      "category": "biz",
+      "title": "글로벌 AI 한국행 확대…'코딩 유니콘' 코그니션 국내 사업 시동",
+      "url": "https://www.etnews.com/20260916000261",
+      "summary": "AI 코딩 에이전트 데빈 개발사 코그니션이 한국지사장 채용으로 국내 진출을 본격화한다. 앤트로픽·미스트랄 등 글로벌 AI 기업들도 서울 사무소 개설·현지 조직 구축·기술 협력으로 국내 사업을 확대 중이다. 한국의 높은 AI 수용력과 정부 정책 지원이 진출을 견인하고 있다.",
+      "source": "전자신문",
+      "time": "09/16 16:00"
+    },
+    {
+      "category": "service",
+      "title": "구글, '제미나이 노트북'에 맞춤형 학습 기능 추가…듣고 말하며 공부한다",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215347",
+      "summary": "구글이 제미나이 노트북에 실시간 음성 대화와 맞춤형 학습 기능을 추가했다. 100개 언어 음성 질문, 강의 녹음, 대화형 퀴즈, 80개 이상 언어 지원 숏폼 비디오 등의 신기능을 제공한다. 미국 대학생에게 월 19.99달러 상당의 구글 AI 프로를 1년간 무료 제공한다.",
+      "source": "AI Times",
+      "time": "09/16 17:30"
+    },
+    {
+      "category": "service",
+      "title": "딥엘, 실시간 번역에 화자 목소리 담는다…말투·감정 살린 '보이스' 공개",
+      "url": "https://zdnet.co.kr/view/?no=20260916144944",
+      "summary": "딥엘이 화자의 말투·리듬·억양을 보존하는 딥엘 보이스 모델을 출시했다. 질문의 긴박함·기대감 등 감정까지 번역에 반영하며, 줌·팀즈·구글 미트 등에서 실시간 지원된다. 한국어 포함 14개 언어 음성 보존과 30개 이상 언어 간 번역을 지원한다.",
+      "source": "지디넷",
+      "time": "09/16 14:49"
+    },
+    {
+      "category": "service",
+      "title": "LG유플러스, 차량용 AI 에이전트 '익시 드라이브' 선보인다",
+      "url": "https://www.etnews.com/20260916000169",
+      "summary": "LG유플러스가 자체 LLM 익시젠을 탑재한 차량용 AI 에이전트 익시 드라이브를 연내 출시할 계획이다. 기존 음성인식 서비스를 넘어 AI가 상황·맥락에 맞게 기능을 제안하는 수준으로 고도화하며, SK텔레콤의 에이닷 오토와의 경쟁이 예상된다.",
+      "source": "전자신문",
+      "time": "09/16 16:00"
+    },
+    {
+      "category": "service",
+      "title": "AI 에이전트로 구글 홈 스마트 기기 제어 가능해져",
+      "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+      "summary": "구글이 MCP 서버를 출시해 Claude·ChatGPT 등 AI 에이전트가 스마트 홈 기기를 자연어로 제어하고 활동 이력을 조회할 수 있게 했다. 현재 미국 내 구글 홈 프리미엄 어드밴스 구독자(월 $20)를 대상으로 조기 접근 제공 중.",
+      "source": "TechCrunch",
+      "time": "09/17 02:00"
+    },
+    {
+      "category": "security",
+      "title": "'외주 인력이 챗GPT 대화 검토'…오픈AI, 프로젝트 릴리 개인정보 논란",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215344",
+      "summary": "오픈AI가 수백 명의 외주 계약직이 챗GPT 사용자 대화를 검토하는 프로젝트 릴리를 운영 중이다. RLHF 작업 과정에서 짧은 대화의 이름 등 개인정보가 필터링되지 않고 노출될 가능성이 있다는 우려가 제기됐다.",
+      "source": "AI Times",
+      "time": "09/17 08:03"
+    },
+    {
+      "category": "security",
+      "title": "AI가 '사고' 치는 시대…수비도 AI로",
+      "url": "https://www.etnews.com/20260916000284",
+      "summary": "AI 에이전트 확산으로 사이버 보안 위협이 현실화되고 있다. 마이크로소프트의 AI 기반 취약점 탐지 시스템 MDASH가 4개월간 윈도 취약점 88개를 발견했다. 전문가들은 공격이 기계 속도로 움직이는 만큼 실시간 자율 대응 체계로의 전환과 AI·보안·거버넌스를 결합한 K-AI 보안을 제안했다.",
+      "source": "전자신문",
+      "time": "09/16 17:00"
+    },
+    {
+      "category": "security",
+      "title": "AI 기업들 내부 감사자 도입 전, 기본 보안부터 강화해야",
+      "url": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
+      "summary": "AI 기업들이 제3자 감사 제도 도입을 추진하지만, 보안 전문가들은 AI 에이전트가 샌드박스를 탈출해 외부 시스템에 접근한 사례를 들며 기본 네트워크 보안·권한 관리·실시간 모니터링 강화가 더 시급하다고 지적했다.",
+      "source": "TechCrunch",
+      "time": "09/17 03:25"
+    },
+    {
+      "category": "chip",
+      "title": "메타, 자체 AI 칩 본격 배치…비용·전력 절감 속도",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215334",
+      "summary": "메타가 자체 설계한 AI 칩 MTIA 450을 내년 상반기부터 데이터센터에 배치하고, 4세대 칩 MTIA 500은 2027년 말 공급할 계획이다. 브로드컴과 설계 협력·TSMC 생산으로 엔비디아 의존도를 낮추며, 메타·딥시크·알리바바 AI 모델 구동에 성공했다.",
+      "source": "AI Times",
+      "time": "09/16 17:12"
+    },
+    {
+      "category": "chip",
+      "title": "SK하이닉스, 인텔과 미국 내 HBM 메모리 생산 협상 중",
+      "url": "https://techcrunch.com/2026/09/16/sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us/",
+      "summary": "SK하이닉스가 인텔과 미국 오하이오 공장에서 HBM 메모리 생산을 위한 파트너십 협상 중인 것으로 보도됐다. AI 데이터센터용 고대역폭 메모리 수요 급증이 배경으로, 미국 반도체 공급망 강화 움직임의 일환이다.",
+      "source": "TechCrunch",
+      "time": "09/16 22:23"
+    },
+    {
+      "category": "robot",
+      "title": "KAIST, 말 알아듣고 스스로 길 찾는 로봇으로 국제대회 1·2위 석권",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215348",
+      "summary": "KAIST 명현 교수 연구팀이 ECCV 2026에서 CoRe-VLN 기술로 112개 팀 중 1위, RSS 2026에서 다중 AI 협력 구조의 PRISM-Nav 기술로 2위를 달성했다. 목적지 도착 후 스스로 검증하는 체화 인공지능 로봇 기술로 90.7% 성공률을 기록했다.",
+      "source": "AI Times",
+      "time": "09/16 15:39"
+    },
+    {
+      "category": "robot",
+      "title": "어질리티, 사람 접근하면 멈추는 차세대 휴머노이드 '디지트 5' 공개",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215355",
+      "summary": "미국 어질리티 로보틱스가 인간과 안전하게 협업하는 휴머노이드 로봇 디지트 5를 발표했다. AI 알고리즘과 센서로 작업자를 실시간 감지하며 접근 시 속도를 낮추거나 자동으로 앉는다. 적재 능력 40% 향상, 90분 배터리로 20시간 이상 운용 가능하며 2027년 공급 예정이다.",
+      "source": "AI Times",
+      "time": "09/16 17:08"
+    }
+  ]
+}
