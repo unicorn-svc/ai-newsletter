@@ -1,0 +1,206 @@
+{
+  "published_at": "2026-09-21T09:00",
+  "sources": ["AI Times", "지디넷", "TechCrunch"],
+  "articles": [
+    {
+      "category": "policy",
+      "title": "트럼프 \"새 'AI 차르' 임명할 것…인공지능 명칭 바꿔야\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215499",
+      "summary": "트럼프 대통령이 AI 산업 주도권 확보를 위해 새로운 'AI 차르'와 연방 조직 'AI 포스' 창설 계획을 발표했다. \"인공지능\"을 \"우월 지능\" 등으로 변경할 것을 제안하며, 기존 법체계를 활용한 사후 관리 방식으로 기술 발전을 촉진하겠다고 밝혔다.",
+      "source": "AI Times",
+      "time": "09/20 09:25"
+    },
+    {
+      "category": "biz",
+      "title": "오픈AI 2030년까지 386조 소진… 컴퓨팅 비용 폭증에 투자 유치 압박",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215500",
+      "summary": "오픈AI가 2030년까지 약 386조 원을 소진할 것으로 예상되며, 2028년에는 보유 자금이 바닥날 전망이다. AI 모델 학습과 데이터센터 인프라 비용이 폭증하면서, 매출이 10배 이상 증가해도 현금 소진 속도가 빨라지고 있다.",
+      "source": "AI Times",
+      "time": "09/20 10:03"
+    },
+    {
+      "category": "security",
+      "title": "\"AI 환각에 중국과 충돌할 뻔\"…미군, 정보 오류에 '식은땀'",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215501",
+      "summary": "미군이 AI가 오분석한 거짓 정보를 바탕으로 중국 선박을 차단하려다 직전에 철회했다. AI로 작성된 보고서가 핵무기 개발 부품 운반이라는 허위 내용을 담고 있었으며, 인간 개입 장치 미비와 정보 검증 기준 부재가 문제로 지적됐다.",
+      "source": "AI Times",
+      "time": "09/20 10:34"
+    },
+    {
+      "category": "policy",
+      "title": "\"안전 핑계 대고 밀실 담합\"…앤트로픽·오픈AI 등 4곳, 소비자에게 피소",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215502",
+      "summary": "앤트로픽, 오픈AI, 구글, 스페이스X AI가 안전을 명분으로 개발 속도를 조절하기로 합의한 것이 반독점법 위반이라는 소비자 집단소송을 당했다. 원고 측은 이를 \"안전이라는 명목 하의 담합\"이라 주장하며 투명한 정부 규제를 촉구했다.",
+      "source": "AI Times",
+      "time": "09/20 11:09"
+    },
+    {
+      "category": "policy",
+      "title": "샘 알트먼, 유엔 안보리서 'AI와 국제 안보' 브리핑 예정",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215498",
+      "summary": "샘 알트먼 오픈AI CEO가 9월 23일 유엔 안전보장이사회에서 'AI와 국제 안보'를 주제로 연설할 예정이다. AI 악용 가능성과 통제 위험 등이 주요 의제로 다루어지며, 국제적 공동 안전 기준 마련의 필요성을 강조할 것으로 예상된다.",
+      "source": "AI Times",
+      "time": "09/20 11:30"
+    },
+    {
+      "category": "policy",
+      "title": "프랑스 검찰, 스마트 안경 이용한 '성희롱·불법 촬영' 수사 착수",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215497",
+      "summary": "프랑스 파리 검찰이 스마트 안경을 이용한 불법 촬영 및 성희롱 사건에 대해 형사 수사를 시작했다. 동의 없는 촬영과 온라인 유포로 인한 사생활 침해 문제가 확대되고 있으며, EU의 AI법과 개인정보보호법을 통한 규제 움직임이 진행 중이다.",
+      "source": "AI Times",
+      "time": "09/20 11:43"
+    },
+    {
+      "category": "biz",
+      "title": "젠슨 황, AI 종말론 또 일축... \"2030년 세계 끝날 확률 0%\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215496",
+      "summary": "젠슨 황 엔비디아 CEO가 CBS 뉴스 인터뷰에서 \"2030년 세계 종말 가능성은 0%\"라며 AI 종말론을 강력히 반박했다. 안전성을 확보하되 개발 속도를 늦추지 말아야 한다는 입장을 유지하며, 규제 완화를 선호하는 트럼프 정부 기조와 일치하는 것으로 분석된다.",
+      "source": "AI Times",
+      "time": "09/20 15:31"
+    },
+    {
+      "category": "biz",
+      "title": "삼성전자, 실리콘밸리서 '테크 포럼' 개최…AI 비전과 사업전략 공유",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215508",
+      "summary": "삼성전자가 실리콘밸리에서 개최한 '2026 테크 포럼'에서 AI 비전과 사업 전략을 공유했다. 노태문 대표는 AI가 모든 생활 공간에서 지능화·초개인화 경험을 구현하는 것이 핵심이라며, 차세대 AI 기술과 로보틱스 융합으로 선도기업으로 도약하겠다고 발표했다.",
+      "source": "AI Times",
+      "time": "09/20 15:40"
+    },
+    {
+      "category": "security",
+      "title": "중국, 앤트로픽 겨냥 \"미 정보기관에 사용자 데이터 넘길 수도\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215495",
+      "summary": "중국 관영매체가 앤트로픽의 개인정보 정책 변경을 비판하며, 사용자 데이터를 미국 정보기관과 공유할 수 있도록 약관이 개정됐다고 주장했다. 앤트로픽이 2023년 이후 13차례 정책을 수정하면서 한국 등 여러 국가 사용자의 데이터 이전을 허용했다는 내용이다.",
+      "source": "AI Times",
+      "time": "09/20 16:00"
+    },
+    {
+      "category": "robot",
+      "title": "카카오모빌리티, 태국·체코 교통부 차관 요청에 '자율주행 기술 역량' 직접 선보여",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215507",
+      "summary": "카카오모빌리티가 태국과 체코 교통부 차관들에게 자율주행 기술을 직접 시연했다. 태국 차관은 시승 경험을 \"5점 만점에 5점\"으로 평가했으며, 한국의 미래 모빌리티 기술력을 국제적으로 홍보하는 기회가 마련됐다.",
+      "source": "AI Times",
+      "time": "09/20 16:45"
+    },
+    {
+      "category": "tech",
+      "title": "앤트로픽, 자체 생물학 연구소 설립…시뮬레이션 넘어 실제 실험 진출",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215504",
+      "summary": "앤트로픽이 샌프란시스코에 자체 습식 연구소를 설립해 클로드 AI가 로봇 장비를 제어하는 실제 생물학 실험을 진행 중이다. 희귀 질환 치료제 개발과 신약 후보물질 발굴 시간 단축을 목표로 주요 제약사들과 파트너십을 구축하고 있다.",
+      "source": "AI Times",
+      "time": "09/20 16:58"
+    },
+    {
+      "category": "policy",
+      "title": "과기부, 연구자가 지켜야 할 'AI 활용' 7대 권고사항 제시",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215505",
+      "summary": "과학기술정보통신부가 국가연구개발 수행 시 AI를 윤리적으로 활용하기 위한 7대 권고사항을 확정했다. 사실관계 검증, 주체적 판단, 투명성 확보 등을 제시하며, 연구자는 AI 활용 결과에 대한 책임을 져야 함을 강조했다.",
+      "source": "AI Times",
+      "time": "09/20 17:25"
+    },
+    {
+      "category": "tech",
+      "title": "\"문장 생성 버렸다\"…판단 전용 AI '제브'에 개발자 반응 폭발",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215506",
+      "summary": "TypeSafe AI가 공개한 '제브(Jev)'는 문장 생성 대신 구조화된 판단만 내리는 전문화된 AI로, 70~500ms의 빠른 속도와 극히 낮은 비용으로 개발자 커뮤니티에서 큰 호응을 얻고 있다. 전문가들은 AI 아키텍처가 빠른 판단과 창작을 담당하는 두 시스템으로 분리될 것으로 예상한다.",
+      "source": "AI Times",
+      "time": "09/20 17:40"
+    },
+    {
+      "category": "service",
+      "title": "LG이노텍, AI로 '최적 부품' 탐색…견적 산출 시간 70% 줄였다",
+      "url": "https://zdnet.co.kr/view/?no=20260920092558",
+      "summary": "LG이노텍이 AI 부품 제안 시스템 개발로 사내외 200만개 부품 데이터를 통합·표준화해 최적 부품을 자동 탐색한다. 신제품 견적 산출 시간을 기존 대비 70% 이상 단축하는 성과를 달성해 AI 기반 개발 효율화 사례로 주목받고 있다.",
+      "source": "지디넷",
+      "time": "09/20 09:25"
+    },
+    {
+      "category": "biz",
+      "title": "노태문 사장 \"AI, 거스를 수 없는 대세…AX 리드하는 기업 될 것\"",
+      "url": "https://zdnet.co.kr/view/?no=20260920093418",
+      "summary": "삼성전자 노태문 DX부문 사장이 실리콘밸리에서 글로벌 기술 인재들과 전략 논의를 갖고 AI를 거스를 수 없는 대세로 규정했다. 삼성이 AI 전환(AX)을 리드하는 기업이 될 것이라는 비전을 공식 선언했다.",
+      "source": "지디넷",
+      "time": "09/20 09:34"
+    },
+    {
+      "category": "policy",
+      "title": "트럼프 \"'AI 군' 창설…인공지능 이름도 바꾸자\"",
+      "url": "https://zdnet.co.kr/view/?no=20260920071004",
+      "summary": "트럼프 미국 대통령이 AI 산업 지원을 위한 'AI 군(포스)' 창설을 예고하며 새 AI 정책 책임자 임명 계획을 발표했다. AI 속도 조절론이 커지는 가운데 추가 규제보다 산업 성장에 방점을 두는 정책 방향을 공개했다.",
+      "source": "지디넷",
+      "time": "09/20 09:42"
+    },
+    {
+      "category": "robot",
+      "title": "스스로 움직이고 AI로 햇빛 가리고…대학생이 설계한 미래 건설기계",
+      "url": "https://zdnet.co.kr/view/?no=20260920100936",
+      "summary": "HD건설기계가 대학생들과 협력해 무인·자율주행, AI 기반 자동 차양 기능 등 미래 건설기계 아이디어를 발굴했다. AI와 자율주행 기술을 건설 현장에 적용하는 혁신적 개념을 판교 R&D센터에서 발표했다.",
+      "source": "지디넷",
+      "time": "09/20 10:09"
+    },
+    {
+      "category": "policy",
+      "title": "대기업 병역특례 14년 만에 부활…삼성·LG 등 AI 연구소 9곳 첫 추천",
+      "url": "https://zdnet.co.kr/view/?no=20260920113337",
+      "summary": "과기정통부가 AI 분야 이공계 인재를 대상으로 삼성전자·LG전자·HD현대로보틱스·삼성메디슨 등 4개 대기업 9개 AI 연구소를 14년 만에 처음으로 병역특례 기관으로 추천했다.",
+      "source": "지디넷",
+      "time": "09/20 11:33"
+    },
+    {
+      "category": "service",
+      "title": "\"투수 제구력 AI로 예측\"…LG, 청년 AI 인재 96명 실력 겨뤘다",
+      "url": "https://zdnet.co.kr/view/?no=20260920121240",
+      "summary": "LG그룹이 청년 AI 인재 96명에게 야구 데이터 기반 투수 제구력 예측 AI 개발 과제를 부여했다. 실제 데이터 문제 해결 경험을 제공하고 우수 인재를 채용으로 연계하는 프로그램을 운영했다.",
+      "source": "지디넷",
+      "time": "09/20 18:56"
+    },
+    {
+      "category": "tech",
+      "title": "[안광섭 AI 진테제] Jev, 역사상 가장 빠르게 사용량이 증가한 유료 모델",
+      "url": "https://zdnet.co.kr/view/?no=20260920215302",
+      "summary": "미국 스타트업 타입세이프 AI의 모델 Jev(제브)가 버셀 공식 발표 기준 역사상 가장 빠르게 사용량이 증가한 유료 AI 모델로 기록됐다. 0.07~0.5초의 빠른 응답 속도와 저렴한 가격이 개발자들에게 큰 호응을 얻고 있다.",
+      "source": "지디넷",
+      "time": "09/20 21:53"
+    },
+    {
+      "category": "tech",
+      "title": "촌 \"사람과 사람 신뢰, 플랫폼 없이 직접 연결 첫 회사\"",
+      "url": "https://zdnet.co.kr/view/?no=20260920223212",
+      "summary": "AI 딥페이크·AI 에이전트 시대에 화면 속 상대가 진짜 사람인지 확인하는 문제를 해결하는 블록체인 기반 분산신원인증(DID) 스타트업이 주목받고 있다. AI가 생성한 가짜 신원이 확산되는 환경에서 사람 간 신뢰를 직접 연결하는 기술을 제공한다.",
+      "source": "지디넷",
+      "time": "09/20 22:32"
+    },
+    {
+      "category": "tech",
+      "title": "월드 모델 기업들, 너무 많은 비밀을 숨기고 있다",
+      "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
+      "summary": "AMI Labs, World Labs 등 월드 모델 기업들이 막대한 투자금을 유치하면서도 연구·개발 내용을 비공개로 유지해, 데이터 공급사조차 자신의 데이터가 어떻게 활용되는지 모르는 불투명한 상황이 지속되고 있다.",
+      "source": "TechCrunch",
+      "time": "09/21 05:29"
+    },
+    {
+      "category": "policy",
+      "title": "AI 업계, 정말로 속도를 늦출 준비가 됐나?",
+      "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
+      "summary": "Anthropic CEO 다리오 아모데이가 AI 프론티어 개발 속도를 늦추자고 제안했지만, 구체적 계획 없이 시장 압력과 규제 미비로 실질적 실행 가능성에 회의적 시각이 팽배하다.",
+      "source": "TechCrunch",
+      "time": "09/21 03:56"
+    },
+    {
+      "category": "service",
+      "title": "Vocci 링, 회의 노트 기록에 새로운 폼팩터를 더하다",
+      "url": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
+      "summary": "Vocci가 이중 탭으로 회의를 녹음하고 AI로 회의록·인사이트를 생성하는 반지형 기기(249달러)를 출시했다. 복잡한 앱 UI와 타인 동의 없는 녹음 가능성에 따른 프라이버시 우려가 제기됐다.",
+      "source": "TechCrunch",
+      "time": "09/21 03:32"
+    },
+    {
+      "category": "service",
+      "title": "ScrollEd, 교과서를 틱톡처럼 바꾸고 싶다",
+      "url": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
+      "summary": "스탠퍼드 학생 창업팀 ScrollEd가 AI로 교과서·PDF를 틱톡식 숏폼 동영상·퀴즈 피드로 변환하는 에듀테크 플랫폼을 개발해 TechCrunch Disrupt 2026에서 피칭 중이다.",
+      "source": "TechCrunch",
+      "time": "09/21 03:00"
+    }
+  ]
+}
