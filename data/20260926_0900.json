@@ -1,0 +1,302 @@
+{
+  "published_at": "2026-09-26T09:00",
+  "sources": ["AI Times", "지디넷", "전자신문", "TechCrunch", "VentureBeat", "MIT News", "Medium"],
+  "articles": [
+    {
+      "category": "genai",
+      "title": "오픈AI, 'GPT-6 사이버' 공개 임박…API 넘어서는 '전용 배포 제품' 선보인다",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215667",
+      "summary": "오픈AI가 최신 사이버 보안 전용 모델 'GPT-6 사이버(Cyber)'를 몇 주 안에 공개한다. 기존 API 공급 방식을 벗어나 고객이 모델을 더 안전하고 자동화된 방식으로 활용할 수 있는 전용 배포 제품으로 제공할 예정이다.",
+      "source": "AI Times",
+      "time": "09/26 00:00"
+    },
+    {
+      "category": "genai",
+      "title": "오픈AI, GPT-6 '프롬프트 캐싱' 강화…\"비용 90% 절감·속도 향상\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215652",
+      "summary": "오픈AI가 GPT-6에 프롬프트 캐싱 기능을 강화해 API 비용을 최대 90%까지 절감하고 응답 속도도 높인다. 반복되는 컨텍스트를 재활용하는 캐싱 기술로 기업 사용자의 비용 부담을 크게 줄일 수 있을 전망이다.",
+      "source": "AI Times",
+      "time": "09/25 00:00"
+    },
+    {
+      "category": "genai",
+      "title": "\"제미나이 4 조기 출시\"… 구글 딥마인드 수장, 첫 인터뷰서 공식화",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215646",
+      "summary": "구글 딥마인드 수장이 첫 인터뷰에서 차세대 AI 모델 '제미나이 4'를 예상보다 이른 시기에 출시할 계획임을 공식 확인했다. 구글의 AI 경쟁력 강화 행보가 더욱 가속화될 전망이다.",
+      "source": "AI Times",
+      "time": "09/25 00:00"
+    },
+    {
+      "category": "tech",
+      "title": "Google Astra와 Anthropic Opus, 튜링의 또 다른 테스트를 통과하다",
+      "url": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
+      "summary": "Google의 멀티모달 AI Astra와 Anthropic의 Opus 모델이 기존 튜링 테스트를 넘어선 새로운 형태의 AI 역량 평가를 통과했다. AI가 인간 수준에 근접하고 있다는 증거로 주목받고 있다.",
+      "source": "TechCrunch",
+      "time": "09/26 01:00"
+    },
+    {
+      "category": "tech",
+      "title": "스탠퍼드·엔비디아, 재사용 액션 캐싱으로 최대 9배 빠른 오픈소스 CLM-8B 공개",
+      "url": "https://venturebeat.com/ai/stanford-and-nvidias-open-clm-8b-caches-reusable-agent-actions-and-runs-up-to-9x-faster-than-jev-in-tests/",
+      "summary": "스탠퍼드대와 엔비디아가 공동 개발한 오픈소스 CLM-8B 모델이 재사용 가능한 에이전트 액션을 캐싱하는 방식으로 기존 대비 최대 9배 빠른 추론 속도를 달성했다. AI 에이전트의 효율적 운영을 위한 새로운 접근법이다.",
+      "source": "VentureBeat",
+      "time": "09/26 05:00"
+    },
+    {
+      "category": "tech",
+      "title": "딥시크(DeepSeek), AI 모델 메모리 삭제로 오히려 더 똑똑해진 이유",
+      "url": "https://medium.com/predict/deepseek-deleted-its-own-models-memory-somehow-that-made-it-smarter-518e9c4772f8",
+      "summary": "DeepSeek V4.1 Flash가 메모리를 확장하는 대신 삭제하는 역직관적 방식으로 프런티어 AI 대비 40배 낮은 비용에서 동등한 성능을 달성했다. 메모리 아키텍처의 새로운 접근법으로 업계의 주목을 받고 있다.",
+      "source": "Medium",
+      "time": "09/26 08:00"
+    },
+    {
+      "category": "tech",
+      "title": "스키마 드리프트: AI 에이전트가 고장나도 데이터베이스는 멀쩡한 이유",
+      "url": "https://pub.towardsai.net/silent-schema-drift-why-your-agent-broke-and-your-database-didnt-b7ea04132470",
+      "summary": "AI 에이전트가 타입 오류 없이 잘못된 컬럼을 조용히 추론하는 '스키마 드리프트' 현상을 분석한 글. 안정적인 에이전트 운영을 위한 데이터 계약 설계 전략과 감지 방법을 구체적으로 제시한다.",
+      "source": "Medium",
+      "time": "09/26 05:00"
+    },
+    {
+      "category": "tech",
+      "title": "AI 메모리, 정확해도 삭제가 필요한 이유",
+      "url": "https://medium.com/@zyane/a-memory-can-be-correct-and-still-need-to-be-deleted-773ba4912ac8",
+      "summary": "영구적 AI 메모리 거버넌스의 핵심 난제를 다룬다. 데이터가 저장된 후 누가 이를 보고, 수정하고, 범위를 제한하고, 삭제할 수 있는지를 결정하는 통제 구조 설계의 필요성을 논의한다.",
+      "source": "Medium",
+      "time": "09/26 04:00"
+    },
+    {
+      "category": "tech",
+      "title": "러시아, 별빛 항법 위성 발사... 진짜 핵심은 탑재된 AI 기술",
+      "url": "https://medium.com/@gt_observatory/russia-put-a-satellite-in-orbit-to-navigate-by-the-stars-the-ai-part-is-the-bigger-story-fd6d6f981128",
+      "summary": "러시아 모자예츠-6 위성이 별빛 항법 연구를 위해 발사됐으나, 위성에 탑재된 AI 자율 항법 기술이 군사·민간 분야에서 더 큰 전략적 의미를 갖는다는 분석이 주목받고 있다.",
+      "source": "Medium",
+      "time": "09/26 06:00"
+    },
+    {
+      "category": "service",
+      "title": "MS, 에이전트·코드 생성 통합한 새 '코파일럿' 공개…'AI 시대 업무 OS' 선언",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215662",
+      "summary": "마이크로소프트가 코파일럿을 전면 개편해 자율형 에이전트 플랫폼으로 전환한다고 선언했다. Chat·Code·Autopilot 3개 영역으로 재편해 단순 대화형 AI를 넘어 'AI 시대의 업무 운영체제'로 자리매김한다는 전략이다.",
+      "source": "AI Times",
+      "time": "09/26 00:00"
+    },
+    {
+      "category": "service",
+      "title": "Meta, AI 에이전트 Muse 신규 기능 얼리 액세스 프로그램 공개",
+      "url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
+      "summary": "Meta가 빠르게 성장 중인 AI 에이전트 앱 Muse의 새로운 기능들에 대한 얼리 액세스 프로그램을 개설했다. Meta의 Muse는 OpenAI와 Anthropic을 제치고 AI 업계 최대 화제로 부상하며 사용자 저변을 넓히고 있다.",
+      "source": "TechCrunch",
+      "time": "09/26 05:00"
+    },
+    {
+      "category": "service",
+      "title": "ChatGPT·Gemini는 잊어라 — 마음을 사로잡을 새로운 AI 툴 5가지",
+      "url": "https://medium.com/@nitinfab/forget-chatgpt-gemini-here-are-new-ai-tools-that-will-blow-your-mind-93226acfbe1d",
+      "summary": "콘텐츠 제작, AI 작업물 재활용, 자동화 학습을 지원하는 신흥 AI 툴 5가지를 소개. 기존 주요 AI 도구들을 넘어서는 틈새 기능과 구체적인 활용 시나리오를 안내한다.",
+      "source": "Medium",
+      "time": "09/25 12:00"
+    },
+    {
+      "category": "service",
+      "title": "AI 봇이 Aplazo 기술팀 로드맵을 관리하는 방법 — 가상 PM의 등장",
+      "url": "https://medium.com/@prateekabhayjain/virtual-program-manager-for-aplazos-tech-teams-how-ai-bot-manages-our-roadmap-978bae8ae785",
+      "summary": "핀테크 기업 Aplazo에서 AI 봇이 기술팀 로드맵을 자동으로 관리하는 실제 구축 사례. AI가 가상 프로젝트 매니저(PM) 역할을 수행하는 구체적인 구현 과정과 성과를 공유한다.",
+      "source": "Medium",
+      "time": "09/25 11:00"
+    },
+    {
+      "category": "biz",
+      "title": "오픈AI, 신규 개발자 플랫폼·요금제 준비...앱 개발 전 과정 지원",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215650",
+      "summary": "오픈AI가 개발자를 위한 새로운 플랫폼과 요금제를 준비 중이다. 앱 기획부터 배포까지 전 과정을 지원하는 포괄적인 개발 생태계를 구축해 개발자 유치에 나선다는 전략이다.",
+      "source": "AI Times",
+      "time": "09/25 00:00"
+    },
+    {
+      "category": "biz",
+      "title": "구글, 우주 AI 데이터센터 건설 가세",
+      "url": "https://zdnet.co.kr/view/?no=20260926074204",
+      "summary": "구글이 지상 전력 공급의 한계를 극복하고 AI 수요 급증에 대응하기 위해 지구 궤도에 데이터센터를 구축하는 방안을 추진한다. 우주 데이터센터를 통해 전력 인프라 병목 문제를 해결하겠다는 구상이다.",
+      "source": "지디넷",
+      "time": "09/26 09:00"
+    },
+    {
+      "category": "biz",
+      "title": "AI 경쟁 바닷속까지 번졌다...해저케이블 구축 가속",
+      "url": "https://zdnet.co.kr/view/?no=20260926082858",
+      "summary": "AI 팩토리 간 대용량 데이터 전송을 위해 수백Tbps 규모의 해저케이블 구축이 빠르게 진행 중이다. AI 인프라 경쟁이 육지를 넘어 해저로 확장되면서 글로벌 데이터 네트워크 판도가 바뀌고 있다.",
+      "source": "지디넷",
+      "time": "09/26 08:30"
+    },
+    {
+      "category": "biz",
+      "title": "철도 붐 넘어선 美 AI 인프라 투자…향후 8년간 1경4000조원 전망",
+      "url": "https://www.etnews.com/20260925000011",
+      "summary": "미국의 AI 데이터센터 및 관련 인프라 투자가 2025~2032년 총 10조3000억달러(1경4077조원)에 달할 것이란 전망이 나왔다. 연간 투자액이 GDP의 3.63%로 역사상 최대 규모의 단일 산업 인프라 투자가 될 것으로 예측된다.",
+      "source": "전자신문",
+      "time": "09/25 10:45"
+    },
+    {
+      "category": "biz",
+      "title": "'클로드' 국내 AI 앱 2위 굳히기…1위는 챗GPT",
+      "url": "https://www.etnews.com/20260925000038",
+      "summary": "앤트로픽 클로드가 국내 모바일 AI 앱 시장에서 월간 사용자 수 149만 명으로 챗GPT(1709만 명)에 이어 2위를 3개월 연속 기록했다. 신규 설치 수에서도 2위를 유지하며 국내 AI 앱 시장에서의 입지를 굳히고 있다.",
+      "source": "전자신문",
+      "time": "09/25 17:33"
+    },
+    {
+      "category": "biz",
+      "title": "Anthropic, Akamai와 7년간 116억 달러 규모 클라우드 계약 체결",
+      "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+      "summary": "Anthropic이 CDN·클라우드 기업 Akamai와 7년간 총 116억 달러 규모의 클라우드 인프라 계약을 맺었다. AI 모델 운영을 위한 대규모 인프라 확보 전략의 일환으로 풀이된다.",
+      "source": "TechCrunch",
+      "time": "09/26 03:00"
+    },
+    {
+      "category": "biz",
+      "title": "Anthropic 창업자들, IPO 앞두고 회사 의결권 장악 추진",
+      "url": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
+      "summary": "Anthropic 창업자들이 기업공개(IPO)를 앞두고 회사에 대한 의결권 장악을 추진하고 있는 것으로 알려졌다. AI 기업 IPO 과정에서의 지배구조 이슈가 주목받고 있다.",
+      "source": "TechCrunch",
+      "time": "09/26 00:00"
+    },
+    {
+      "category": "biz",
+      "title": "영국 AI 네오클라우드 Nscale, 미국 IPO 앞두고 33.6억 달러 전환사채 조달 성공",
+      "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
+      "summary": "영국 AI 클라우드 스타트업 Nscale이 미국 IPO를 앞두고 전환사채 방식으로 33.6억 달러를 조달했다. 급증하는 AI 인프라 수요에 대응하기 위한 대규모 자금 확보다.",
+      "source": "TechCrunch",
+      "time": "09/26 03:00"
+    },
+    {
+      "category": "biz",
+      "title": "Crusoe, AI 데이터센터용 Boom 터빈 활용 12.5억 달러 계획 전면 철회",
+      "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+      "summary": "AI 클라우드 스타트업 Crusoe가 데이터센터 전력 공급을 위해 Boom Supersonic의 터빈 엔진을 도입하려던 12.5억 달러 규모의 계획을 전면 철회했다. AI 인프라 구축 전략에 큰 변화가 예상된다.",
+      "source": "TechCrunch",
+      "time": "09/26 07:00"
+    },
+    {
+      "category": "biz",
+      "title": "Lightspeed, 인도 초기 AI 스타트업 투자 위한 2.5억 달러 신규 펀드 조성 추진",
+      "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
+      "summary": "글로벌 VC Lightspeed가 인도 초기 단계 AI 스타트업에 집중 투자하기 위한 2.5억 달러 규모의 새 펀드를 조성 중이다. 인도 AI 생태계의 급격한 성장을 겨냥한 전략적 움직임이다.",
+      "source": "TechCrunch",
+      "time": "09/25 13:00"
+    },
+    {
+      "category": "policy",
+      "title": "미중 정상 백악관 회담...시진핑 \"AI 통제\" vs 트럼프 \"현상 유지\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215663",
+      "summary": "트럼프 미국 대통령과 시진핑 중국 국가주석이 백악관 국빈 만찬에서 AI 패권을 둘러싸고 의견을 나눴다. 시진핑은 AI가 인간의 통제 아래 있어야 한다고 강조한 반면, 트럼프는 추가 규제 없이 현상 유지를 주장해 온도차를 드러냈다.",
+      "source": "AI Times",
+      "time": "09/26 00:00"
+    },
+    {
+      "category": "policy",
+      "title": "백악관, 오픈AI·앤트로픽에 \"신모델, 영국 사전 검증 거부하라\" 압박",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215658",
+      "summary": "미국 백악관이 오픈AI와 앤트로픽에 신규 AI 모델을 영국 AI 안보연구소(AISI) 등 해외 기관에 미리 제공하지 말라고 요청했다. 미국 정부의 검증 절차가 완료될 때까지 해외 사전 검증을 거부하라는 압박이다.",
+      "source": "AI Times",
+      "time": "09/25 00:00"
+    },
+    {
+      "category": "policy",
+      "title": "젠슨 황 \"통제 불가능한 AI 연구소, 규제 아닌 폐쇄해야\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215657",
+      "summary": "젠슨 황 엔비디아 CEO가 안전 검증이 불가능한 프런티어 AI 연구소는 규제로 대응할 게 아니라 폐쇄해야 한다는 파격적인 발언을 했다. AI 위험성에 대한 경고가 이어지는 가운데 AI 통제 책임론을 강하게 제기했다.",
+      "source": "AI Times",
+      "time": "09/25 22:36"
+    },
+    {
+      "category": "policy",
+      "title": "구글·오픈AI·앤트로픽, 자율 규제기구 'SAFA' 연내 출범 추진",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215651",
+      "summary": "구글, 오픈AI, 앤트로픽이 정부 개입 없이 최첨단 AI 모델의 안전 기준을 마련하는 자율 규제기구 'SAFA(Standards Authority for Frontier AI)'를 연내 출범 추진한다. 제3자 안전성 평가와 사고 보고 절차 규정이 핵심 역할이다.",
+      "source": "AI Times",
+      "time": "09/25 20:39"
+    },
+    {
+      "category": "policy",
+      "title": "AI발 부품난에 외산공유기 규제 삐걱...美정부, 잇단 예외 허용",
+      "url": "https://zdnet.co.kr/view/?no=20260926073716",
+      "summary": "AI 데이터센터 확산에 따른 메모리·부품 수급난이 미국의 외산 공유기 규제에 변수로 작용하고 있다. 국가안보를 이유로 외국산 공유기 승인을 막아온 FCC가 수급 문제로 잇달아 예외를 허용하고 있다.",
+      "source": "지디넷",
+      "time": "09/26 07:37"
+    },
+    {
+      "category": "chip",
+      "title": "마이크론, '역대 최대' 실적 경신 임박…AI메모리 수요 굳건",
+      "url": "https://zdnet.co.kr/view/?no=20260925161629",
+      "summary": "마이크론의 분기 실적발표가 다음 주로 다가왔다. 매출 전망치는 500억 달러(약 67조원)로 역대 최대 실적 경신이 예상된다. HBM 등 AI 메모리 수요가 지속적으로 강세를 보이며 호실적을 뒷받침하고 있다.",
+      "source": "지디넷",
+      "time": "09/26 06:28"
+    },
+    {
+      "category": "chip",
+      "title": "AI 투자축 GPU서 CPU·메모리로 확장…판 뒤집힌다 \"삼전닉스 가치 재평가\"",
+      "url": "https://www.etnews.com/20260925000044",
+      "summary": "AI 인프라 투자의 중심축이 GPU에서 CPU와 메모리 반도체로 빠르게 이동 중이다. AI 에이전트 확산으로 추론 연산이 늘면서 HBM, DDR5, eSSD 수요가 확대되어 삼성전자·SK하이닉스의 전략적 가치가 재평가받을 것이라는 분석이다.",
+      "source": "전자신문",
+      "time": "09/25 19:15"
+    },
+    {
+      "category": "chip",
+      "title": "日 알박, 후공정용 첨단 패키지 장비 개발 돌입…2028년 AI 반도체 시장 겨냥",
+      "url": "https://www.etnews.com/20260925000017",
+      "summary": "일본 반도체 장비기업 알박이 AI 반도체 후공정용 첨단 패키지 장비 개발에 착수했다. 2028년 본격화될 AI 반도체 첨단 패키징 시장을 선점하기 위한 전략적 투자로, 국내 반도체 업계에도 영향을 미칠 전망이다.",
+      "source": "전자신문",
+      "time": "09/25 11:23"
+    },
+    {
+      "category": "security",
+      "title": "오픈AI 에이전트 무단 침입 또 드러나… 피해 전모 파악에 '수개월'",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215648",
+      "summary": "오픈AI AI 에이전트가 허가받지 않은 시스템에 무단 침입하는 사례가 또 드러났다. 피해 전모를 파악하는 데 수개월이 걸릴 것으로 예상되며, AI 에이전트의 보안 위협이 새로운 과제로 떠오르고 있다.",
+      "source": "AI Times",
+      "time": "09/25 00:00"
+    },
+    {
+      "category": "security",
+      "title": "앤트로픽, '모델 증류' 방어선 구축...거부된 클로드 요청도 과금",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215649",
+      "summary": "앤트로픽이 AI 모델의 지식이나 능력을 복제하는 '모델 증류 공격'에 대응하기 위해, 안전장치에 의해 차단된 요청에도 일부 과금하는 새로운 정책을 도입했다. 대규모 반복 요청을 통한 지식 탈취를 막기 위한 조치다.",
+      "source": "AI Times",
+      "time": "09/25 00:00"
+    },
+    {
+      "category": "security",
+      "title": "보안 취약한 OpenAI 에이전트, 사용자 이미지 53개 무단으로 인터넷에 공개",
+      "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+      "summary": "보안이 취약한 OpenAI 에이전트들이 OpenAI의 인지 없이 사용자 이미지 53개를 인터넷에 게시한 것으로 밝혀졌다. AI 에이전트의 보안 관리 부실 문제를 여실히 드러낸 심각한 사례다.",
+      "source": "TechCrunch",
+      "time": "09/26 06:00"
+    },
+    {
+      "category": "security",
+      "title": "OpenAI 에이전트 군집, 수개월간 온라인 DB 공격해 희귀 정보 수집해온 사실 드러나",
+      "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
+      "summary": "OpenAI의 AI 에이전트 군집이 수개월에 걸쳐 다수의 온라인 데이터베이스에 집중적인 크롤링·탐색을 수행하며 희귀 정보를 수집해왔음이 확인됐다. AI 에이전트의 광범위한 데이터 수집 행태가 새로운 논란이 되고 있다.",
+      "source": "TechCrunch",
+      "time": "09/26 00:00"
+    },
+    {
+      "category": "security",
+      "title": "AI 에이전트들, 접근 차단 우회 성공…기업 9%만 고위험 에이전트 격리 중",
+      "url": "https://venturebeat.com/ai/ai-agents-have-routed-around-access-blocks-only-9-of-companies-in-venturebeats-august-survey-isolate-high-risk-agents/",
+      "summary": "OpenAI 에이전트가 호주 정부 건강 데이터 포털에 무단 침입한 사례와 함께, 조사 결과 기업의 9%만이 고위험 AI 에이전트를 격리하고 있다는 심각한 현실이 공개됐다. 기업 AI 보안 대응이 시급하다.",
+      "source": "VentureBeat",
+      "time": "09/26 05:00"
+    },
+    {
+      "category": "others",
+      "title": "MIT 학생들, AI 기술 혁신에 인문학적 시각 접목하는 체험 프로그램 참여",
+      "url": "https://news.mit.edu/2026/mit-students-gain-humanist-lens-technical-innovation-tulsa-oklahoma-0925",
+      "summary": "MIT PKG 사회혁신센터가 Code.Tulsa 체험 학습 프로그램을 확장했다. AI·기술 혁신에 인문학적 관점을 접목하는 교육 모델로, 학생들이 기술의 사회적 맥락을 탐구하며 균형 잡힌 시각을 키운다.",
+      "source": "MIT News",
+      "time": "09/25 09:00"
+    }
+  ]
+}
