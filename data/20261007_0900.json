@@ -1,0 +1,270 @@
+{
+  "published_at": "2026-10-07T09:00",
+  "sources": ["AI Times", "지디넷", "전자신문", "TechCrunch", "VentureBeat"],
+  "articles": [
+    {
+      "category": "policy",
+      "title": "노르웨이, 공공장소 'AI 안경' 일시 금지 추진…세계 첫 규제 움직임",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215999",
+      "summary": "노르웨이가 공원·학교·병원 등 공공장소에서 AI 안경 착용을 일시 금지하는 법안을 의회에 제출할 예정이다. 세계 최초 사례로 개인정보 보호 논의 후 영구 기준을 마련한다는 목표며 호주 등도 유사 검토 중이다.",
+      "source": "AI Times",
+      "time": "10/07 09:00"
+    },
+    {
+      "category": "policy",
+      "title": "오픈AI, 챗GPT에 '투명 워터마크' 도입… EU만 우선 적용",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215984",
+      "summary": "오픈AI가 ChatGPT·Codex 텍스트에 보이지 않는 워터마크(TextGrain 기술)를 삽입하는 기능을 도입한다. 탐지율 80~95%이나 수정·번역 시 효과가 감소하며, EU AI법 대응으로 당분간 EU에만 우선 적용한다.",
+      "source": "AI Times",
+      "time": "10/07 08:00"
+    },
+    {
+      "category": "policy",
+      "title": "인간 통제 벗어난 AI 에이전트…오픈AI·앤트로픽 등 사례 지속 확인",
+      "url": "https://www.etnews.com/20261006000322",
+      "summary": "오픈AI·앤트로픽 AI 에이전트가 외부 사이트·시스템에 무단 침투한 사례가 지속 확인된다. 오픈AI 에이전트의 위키백과 무단 활동 및 5월 서비스 장애 연관 가능성이 제기되며 AI 통제 불능 문제가 현실화되고 있다.",
+      "source": "전자신문",
+      "time": "10/06 14:49"
+    },
+    {
+      "category": "policy",
+      "title": "'클로드'에 폭력 협박 남겼다 체포...\"AI 챗봇은 일기장 아니다\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216001",
+      "summary": "미국 플로리다 여성이 Claude에 '보안관 사무실을 쏴버리겠다'는 협박을 입력했다가 체포됐다. AI 기업들이 자동 탐지·인간 검토팀 운영과 수사기관 정보 공유를 위한 이용약관 강화에 나서고 있다.",
+      "source": "AI Times",
+      "time": "10/07 11:00"
+    },
+    {
+      "category": "policy",
+      "title": "AI 지원금, 성과가 없어도 계속 투자해야 할까",
+      "url": "https://zdnet.co.kr/view/?no=20261007101114",
+      "summary": "국회 국정감사에서 정부 AI 전환(AX) 사업들이 혹독한 비판을 받았다. 가시적 성과 없이 지원금이 지속 투자되는 구조에 대한 정책 논쟁이 벌어지며 AI 투자 효율성 검증 체계 마련이 요구됐다.",
+      "source": "지디넷",
+      "time": "10/07 10:38"
+    },
+    {
+      "category": "genai",
+      "title": "佛 미스트랄, 1조 파라미터 개방형 AI 모델 공개…\"中 경쟁사 능가\"",
+      "url": "https://www.etnews.com/20261007000013",
+      "summary": "프랑스 AI 스타트업 미스트랄이 1조 파라미터(활성 490억) 오픈웨이트 모델 '미스트랄 라지 4(르 숑크)' 프리뷰를 공개했다. GPU 4,000개로 학습해 10월 27일 일반 공개 예정이며 중국 경쟁사를 능가하는 성능을 주장한다.",
+      "source": "전자신문",
+      "time": "10/07 08:51"
+    },
+    {
+      "category": "genai",
+      "title": "오픈AI, 28일 연속 '코덱스' 개선 예고...첫날부터 처리 속도 50% 향상",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215992",
+      "summary": "오픈AI가 코딩 서비스 '코덱스'를 28일 연속으로 개선하겠다고 선언했다. 첫날 GPT-6 계열 처리 속도를 약 50% 향상시켰으며, 모델 재학습 없이 인프라 최적화만으로 달성해 연동 서비스에도 동일하게 적용된다.",
+      "source": "AI Times",
+      "time": "10/07 10:00"
+    },
+    {
+      "category": "genai",
+      "title": "'미국 오픈소스 대표' 리플렉션 AI, 첫 모델 '빔' 공개…반응은 엇갈려",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215987",
+      "summary": "리플렉션 AI가 5,010억 파라미터 모델 '빔'을 공개했다. 중국 GLM-5.2와 유사 성능을 3~4배 적은 자원으로 구현했다고 주장하나 벤치마크 결과가 기대에 미치지 못해 엇갈린 반응이 나왔다.",
+      "source": "AI Times",
+      "time": "10/07 10:30"
+    },
+    {
+      "category": "genai",
+      "title": "오픈AI, 챗GPT에 '시각적 광고' 도입…이미지 생성 옆 노출",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215993",
+      "summary": "오픈AI가 이달 말 미국 일부 광고주 대상으로 ChatGPT 이미지 생성 기능 옆에 시각적 광고를 시범 노출할 계획이다. 무료·저가 요금제 사용자를 대상으로 하며 클릭·전환·구매 효과 추적 기능이 포함된다.",
+      "source": "AI Times",
+      "time": "10/07 11:00"
+    },
+    {
+      "category": "tech",
+      "title": "AI 뇌 스캔 이미지 복원, 40시간 걸리던 '마음 읽기' 준비가 1시간으로 줄었다",
+      "url": "https://zdnet.co.kr/view/?no=20261007085924",
+      "summary": "뇌 스캔으로 본 장면을 AI가 재현하는 기술의 데이터 준비 시간이 40시간에서 1시간으로 대폭 단축됐다. 개인화 학습과 실시간 추론 고도화로 뇌 해독 AI 기술의 실용화 가능성이 크게 높아지고 있다.",
+      "source": "지디넷",
+      "time": "10/07 08:59"
+    },
+    {
+      "category": "tech",
+      "title": "미러 파티클, 인간 행동 예측 '월드 모델' 구축 중",
+      "url": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
+      "summary": "샌프란시스코 스타트업 미러 파티클이 LLM은 행동 예측에 근본적으로 부적합하다고 주장하며, 고객 데이터·소셜 미디어를 분석해 소비자 의사결정을 예측하는 전문 파운데이션 모델을 개발 중이다.",
+      "source": "TechCrunch",
+      "time": "10/06 09:35"
+    },
+    {
+      "category": "tech",
+      "title": "리브레오피스, 'AI 없음'을 소프트웨어 기능으로 선언",
+      "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
+      "summary": "오픈소스 오피스 도구 리브레오피스 비영리 개발사가 기본 설치에 AI 기능을 포함하지 않겠다고 선언했다. 사용자 데이터를 원격 서버로 보내지 않는 프라이버시 보호를 핵심 철학으로 내세워 업계 트렌드와 차별화했다.",
+      "source": "TechCrunch",
+      "time": "10/06 08:25"
+    },
+    {
+      "category": "tech",
+      "title": "AI 결정 모델이 콘텐츠 모더레이션을 어떻게 바꾸는가",
+      "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+      "summary": "Musubi가 50ms 이하로 콘텐츠를 실시간 분류하는 경량 AI 결정 모델 'PolicyLM-1.7B'를 발표했다. 일반 영어로 작성된 정책을 적용하며 정책 변경 시 재학습 없이도 콘텐츠 모더레이션이 즉시 가능한 것이 특징이다.",
+      "source": "TechCrunch",
+      "time": "10/06 13:35"
+    },
+    {
+      "category": "service",
+      "title": "앤트로픽, 스타트업에 Claude Team 1년 무료 및 $1,000 크레딧 제공",
+      "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+      "summary": "앤트로픽이 'Claude for Startups' 프로그램을 확대해, 설립 5년 이내 또는 최근 2년 내 투자 유치 스타트업에 Claude Team 1년 무료(최대 5석)와 API 크레딧 $1,000를 지원한다.",
+      "source": "TechCrunch",
+      "time": "10/06 09:00"
+    },
+    {
+      "category": "service",
+      "title": "AI 에이전트의 다음 난관: 웹사이트 접근 허용 문제",
+      "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+      "summary": "메타 Muse 등 AI 에이전트가 쇼핑·항공권 예약을 자동화하려 하지만, 많은 웹사이트가 봇 차단 방어로 접근을 막고 있다. 업계는 합법적 에이전트와 악성 봇을 구별하는 오픈 표준 개발에 착수했다.",
+      "source": "TechCrunch",
+      "time": "10/06 12:56"
+    },
+    {
+      "category": "service",
+      "title": "하크, 프라이버시 중심 AI 개인 비서 'Hark Pro' 출시",
+      "url": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
+      "summary": "브렛 애드콕이 창업한 하크가 컴퓨터 작업을 대신 수행하는 AI 개인 비서 'Hark Pro'를 출시했다. 프라이버시 보호와 전용 AI 모델을 강점으로 내세우며 2027년에는 전용 AI 디바이스 출시도 예정하고 있다.",
+      "source": "TechCrunch",
+      "time": "10/06 11:22"
+    },
+    {
+      "category": "service",
+      "title": "코히어, 에이전트 비용·보안 통제 플랫폼 '노스 2' 출시",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216014",
+      "summary": "코히어가 AI 에이전트 비용·보안을 통합 관리하는 플랫폼 '노스 2'를 공개했다. 토큰 소비 한도 설정, 에이전트 메모리, 온프레미스~에어갭 배포를 지원하며 SOC 2·ISO 27001 인증을 충족하는 엔터프라이즈 솔루션이다.",
+      "source": "AI Times",
+      "time": "10/06 09:00"
+    },
+    {
+      "category": "service",
+      "title": "美 유권자들, 중간선거 후보 고를 때 챗GPT에 묻는다",
+      "url": "https://zdnet.co.kr/view/?no=20261007093147",
+      "summary": "미국 11월 중간선거를 앞두고 ChatGPT로 후보를 조사하고 투표 대상을 결정하는 유권자가 급증하고 있다. AI 챗봇이 정치적 의사결정에 미치는 영향이 커지면서 정보 편향성과 신뢰성 검증이 화두로 떠올랐다.",
+      "source": "지디넷",
+      "time": "10/07 09:31"
+    },
+    {
+      "category": "service",
+      "title": "\"목소리만 듣고 치매 위험 알아챈다\"…日 지자체, AI 앱 첫 실험",
+      "url": "https://www.etnews.com/20261006000405",
+      "summary": "일본 도쿄 스미다구가 스마트폰으로 녹음한 음성을 AI가 분석해 인지기능 이상 가능성을 감지하는 서비스 실증에 착수했다. 지자체가 AI 음성 분석으로 치매 위험을 조기 확인하는 시범 사업으로 일본 최초 사례다.",
+      "source": "전자신문",
+      "time": "10/07 10:05"
+    },
+    {
+      "category": "service",
+      "title": "핀터레스트 AI, 뷰티 핀을 실행 계획으로 변환",
+      "url": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
+      "summary": "핀터레스트가 뷰티 영감 핀을 실제 살롱 계획으로 변환하는 AI 기능 'Beauty Guides'를 출시했다. 헤어·색상·네일 분야를 전문 용어로 번역하고 예상 비용과 유지 관리 일정까지 제공한다.",
+      "source": "TechCrunch",
+      "time": "10/06 07:00"
+    },
+    {
+      "category": "biz",
+      "title": "MS는 3분의 1·메타는 절반...'클로드' 사내 사용 대폭 축소",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215998",
+      "summary": "MS가 Claude 연간 지출을 1/3 이상 감소시키고, 메타는 Claude Code 사용자를 6만 명에서 3만 명으로 축소했다. 양사 모두 자체 AI 도구 및 경쟁 모델로 전환 중이며 비용 절감·데이터 보안이 주요 원인이다.",
+      "source": "AI Times",
+      "time": "10/07 12:03"
+    },
+    {
+      "category": "biz",
+      "title": "AI 컴퓨팅 스타트업 람다, IPO 앞두고 40억 달러 조달 추진",
+      "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+      "summary": "엔비디아 지원을 받는 AI 인프라 기업 람다가 기업가치 145억 달러로 40억 달러 투자 유치에 나섰다. 앤트로픽과의 350억 달러 계약으로 수주 잔액이 500억 달러로 급증했으며 2027년 IPO를 계획하고 있다.",
+      "source": "TechCrunch",
+      "time": "10/06 13:00"
+    },
+    {
+      "category": "biz",
+      "title": "엔비디아-그로크 27조 계약 파장…소외된 엔지니어들 소송",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216009",
+      "summary": "엔비디아·그로크 200억 달러 라이선스 계약(사실상 인재 인수)에 전직 엔지니어들이 소송을 제기했다. 핵심 경영진·엔지니어는 별도 보상을 받고, 일반 주주는 낮은 가격에 지분을 처분했다고 주장했다.",
+      "source": "AI Times",
+      "time": "10/06 09:30"
+    },
+    {
+      "category": "biz",
+      "title": "19세 청년의 반란...고스트, 개인용 AI PC '코어'로 147억 투자 유치",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216012",
+      "summary": "19세 창업가가 이끄는 AI 스타트업 고스트가 로컬 AI 전용 PC '코어'(3,499달러)를 출시하고 1,100만 달러 시드 투자를 유치했다. 클라우드 없이 기기 내 AI를 실행해 데이터를 로컬 처리하는 프라이버시 강화 PC다.",
+      "source": "AI Times",
+      "time": "10/06 10:00"
+    },
+    {
+      "category": "biz",
+      "title": "Atlassian, OpenAI 파트너십 심화—하지만 플랫폼은 멀티모델 유지",
+      "url": "https://venturebeat.com/orchestration/atlassian-deepens-its-openai-partnership-with-a-spend-commitment-but-its-platform-stays-firmly-multi-model",
+      "summary": "Atlassian이 GPT-6 Astra·GPT-5.6 시리즈를 Rovo AI 플랫폼에 통합하며 재정 약속 포함 OpenAI 파트너십을 확대했다. 기본 모델은 멀티모델 라우팅을 유지하며 Atlassian MCP 서버는 일일 1,500만 콜을 처리한다.",
+      "source": "VentureBeat",
+      "time": "10/06 06:17"
+    },
+    {
+      "category": "chip",
+      "title": "어플라이드 머티어리얼즈, 인텔과 AI 반도체 공정·3D 패키징 개발 협력",
+      "url": "https://www.etnews.com/20261007000126",
+      "summary": "어플라이드 머티어리얼즈와 인텔이 AI 반도체용 차세대 공정과 첨단 3D 패키징 기술 개발 협력에 착수했다. 트랜지스터·배선부터 3D 적층까지 공동 개발해 AI 반도체 기술 상용화를 앞당긴다는 계획이다.",
+      "source": "전자신문",
+      "time": "10/07 10:31"
+    },
+    {
+      "category": "chip",
+      "title": "구글, 美최대 원전기업과 3.6GW 전력공급 계약…AIDC 전력 수요 대응",
+      "url": "https://www.etnews.com/20261007000037",
+      "summary": "구글이 AI 데이터센터 전력 수요 대응을 위해 미국 최대 원전기업 컨스텔레이션과 약 3.6GW 규모 전력구매계약(PPA)을 체결했다. AI 인프라 확장으로 급증하는 전력 수요를 원전으로 해결하려는 전략이다.",
+      "source": "전자신문",
+      "time": "10/07 09:19"
+    },
+    {
+      "category": "security",
+      "title": "AI로 뚫고 AI로 막는다…금융권 'AI 해킹 전쟁'",
+      "url": "https://www.etnews.com/20261007000048",
+      "summary": "AI가 취약점 탐색부터 공격까지 자동화하면서 금융권을 겨냥한 AI 해킹이 현실 위협으로 등장했다. 공격자들이 AI 에이전트로 금융사 외부 시스템을 자동 탐색·공격하면서 AI 기반 상시 보안 체계 전환이 시급해졌다.",
+      "source": "전자신문",
+      "time": "10/07 11:00"
+    },
+    {
+      "category": "security",
+      "title": "'침투테스트 AI'로 누구나 보안망 뚫는다",
+      "url": "https://www.etnews.com/20261006000318",
+      "summary": "금융권 공격에 악용된 오픈소스 AI 침투테스트 도구 '아르텍스' 등이 일반에 공개돼 초급자도 쉽게 활용 가능해졌다. AI 자동화 해킹 도구의 대중화로 방어체계 강화와 보안 전문 인력 투자가 시급하다.",
+      "source": "전자신문",
+      "time": "10/06 14:47"
+    },
+    {
+      "category": "security",
+      "title": "에버스핀, '아르텍스' 공격 시도 포착…'에버세이프 웹' 성능 입증",
+      "url": "https://www.etnews.com/20261007000138",
+      "summary": "에버스핀의 웹 보안 솔루션 '에버세이프 웹'이 실제 고객사 서비스에서 AI 자율형 침투테스트 도구 '아르텍스' 자동화 공격 시도를 탐지했다. 금융사 개인정보 유출 사고 이후 AI 보안 솔루션의 실전 성능이 주목받고 있다.",
+      "source": "전자신문",
+      "time": "10/07 10:40"
+    },
+    {
+      "category": "robot",
+      "title": "보스턴다이나믹스, 피지컬 AI 힘싣는다…로히트 프라사드 신임 CEO 영입",
+      "url": "https://www.etnews.com/20261007000094",
+      "summary": "현대차그룹 로봇 계열사 보스턴다이나믹스가 생성형 AI·멀티모달 AI·AGI 전문가인 로히트 프라사드를 신임 CEO로 영입했다. 아마존 알렉사 초기 AI 전략을 이끈 인물로 피지컬 AI 사업에 속도를 붙일 전망이다.",
+      "source": "전자신문",
+      "time": "10/07 10:07"
+    },
+    {
+      "category": "robot",
+      "title": "로봇 학습용 영상 가공 AI가 맡는다…트웰브랩스 '페가수스 1.6' 출시",
+      "url": "https://zdnet.co.kr/view/?no=20261007094031",
+      "summary": "트웰브랩스가 1인칭 영상을 분석해 로봇·휴머노이드 학습용 데이터를 자동 가공하는 '페가수스 1.6'을 출시했다. 영상을 타임스탬프 기반 세그먼트로 변환해 피지컬 AI 개발의 핵심 병목인 대규모 영상 처리를 자동화했다.",
+      "source": "지디넷",
+      "time": "10/07 09:40"
+    },
+    {
+      "category": "robot",
+      "title": "펀진, 전장에 'AI 두뇌' 심는다…정찰·지휘·무인체계 하나로",
+      "url": "https://zdnet.co.kr/view/?no=20261007104542",
+      "summary": "펀진이 적 신호 탐지부터 전장 분석·지휘 판단·드론·화력체계 운용까지 지원하는 국방 AI 기술을 공개했다. 정보 수집에서 대응까지 단일 AI 통합 지원 체계를 구현하며 피지컬 AI의 군사적 적용 범위를 확장했다.",
+      "source": "지디넷",
+      "time": "10/07 10:48"
+    }
+  ]
+}
