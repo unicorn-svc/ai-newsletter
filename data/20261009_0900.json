@@ -1,0 +1,270 @@
+{
+  "published_at": "2026-10-09T09:00",
+  "sources": ["AI Times", "지디넷", "전자신문", "TechCrunch", "VentureBeat", "MIT News"],
+  "articles": [
+    {
+      "category": "genai",
+      "title": "앤트로픽, API 비용 최대 90% 낮춘 '클로드 하이쿠 5.5' 공개",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216044",
+      "summary": "앤트로픽이 소형 모델 '클로드 하이쿠 5.5'를 공개했다. API 가격을 최대 90% 낮추고 컨텍스트 창은 100만 토큰으로 확대했다. 독립 평가 지수에서 전작 대비 크게 향상됐으며, 실제 운영 비용은 평균 약 75% 절감된다고 밝혔다.",
+      "source": "AI Times",
+      "time": "10/08 05:34"
+    },
+    {
+      "category": "genai",
+      "title": "오픈AI, 챗GPT 답변 방식 바꾼다…GPT-6로 화면까지 생성",
+      "url": "https://zdnet.co.kr/view/?no=20261008103433",
+      "summary": "오픈AI가 GPT-6에 '인텔리전트 UI'를 도입해 질문 유형에 따라 지도·표·차트·계산기 등 최적 형태로 화면을 구성하도록 챗GPT 답변 방식을 바꿨다. 유료 이용자부터 먼저 제공되며 이후 무료 이용자로 확대된다.",
+      "source": "지디넷",
+      "time": "10/08 10:34"
+    },
+    {
+      "category": "genai",
+      "title": "Google, Gemini에 에이전트형 AI 도입… 기업 고객 대상으로 먼저 출시",
+      "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+      "summary": "Google이 Gemini에 자율적으로 작업을 수행하는 에이전트 AI 기능을 추가했다. 우선 기업 고객을 대상으로 출시하며 단계적으로 확대할 계획이다.",
+      "source": "TechCrunch",
+      "time": "10/08 18:00"
+    },
+    {
+      "category": "genai",
+      "title": "Google Cloud, 장기 작업 처리용 '영구 Gemini 에이전트' 공개… 전용 Gmail·캘린더·Drive까지 부여",
+      "url": "https://venturebeat.com/orchestration/google-cloud-unveils-persistent-gemini-agents-for-long-running-tasks-and-they-get-their-own-gmail-calendar-and-drive-storage",
+      "summary": "Google Cloud가 장기 실행 작업을 자율 처리하는 영구형 Gemini 에이전트를 발표했다. 각 에이전트는 전용 Google 계정과 스토리지를 가지며, Anthropic Claude 모델도 연동 지원한다.",
+      "source": "VentureBeat",
+      "time": "10/08 09:00"
+    },
+    {
+      "category": "genai",
+      "title": "Magnific One, 'AI 느낌' 없는 브랜드 맞춤형 이미지 생성 플랫폼 출시",
+      "url": "https://venturebeat.com/orchestration/magnific-one-launches-to-give-teams-an-image-generator-that-avoids-the-ai-look-and-automatically-upholds-their-brand-kit",
+      "summary": "Magnific One이 기업 브랜드 가이드라인을 자동으로 반영하고 일관된 톤앤매너를 유지하는 AI 이미지 생성 플랫폼을 출시했다. AI 특유의 어색한 이미지를 줄이는 것이 핵심이다.",
+      "source": "VentureBeat",
+      "time": "10/08 09:00"
+    },
+    {
+      "category": "biz",
+      "title": "글로벌 빅테크·국가대표 AI 총출동…6만 8000명 찾은 AI 페스타, K-AI 존재감 높였다",
+      "url": "https://zdnet.co.kr/view/?no=20261008153444",
+      "summary": "AI 페스타 2026이 6~8일 서울 코엑스에서 열려 사흘간 약 6만 8000명이 방문했다. 오픈AI, 앤트로픽, 화웨이 등 글로벌 기업과 국내 AI 기업들이 에이전트·피지컬 AI·인프라 전략을 발표하며 국내 AI 생태계의 경쟁력을 보여줬다.",
+      "source": "지디넷",
+      "time": "10/08 15:34"
+    },
+    {
+      "category": "biz",
+      "title": "AI 도메인 경쟁 뜨겁다…'닷에이전트' 13개사 각축",
+      "url": "https://zdnet.co.kr/view/?no=20261008223551",
+      "summary": "신규 최상위 도메인(gTLD) 신청이 481개 업체·1615건으로 집계됐다. '.agent' 도메인에 메타·구글 등 13개사가 경쟁 중이며, 오픈AI·앤트로픽·MS도 자사 브랜드 도메인을 신청했다. 도메인 주인은 11월 7일까지 결정된다.",
+      "source": "지디넷",
+      "time": "10/08 22:35"
+    },
+    {
+      "category": "biz",
+      "title": "통신·AI 묶어 토큰경제 선점…정재헌, SKT 새 성장전략 내놨다",
+      "url": "https://zdnet.co.kr/view/?no=20261008174557",
+      "summary": "SKT 정재헌 CEO가 통신과 AI를 하나로 묶는 'SKT 성장 기어 전략'을 발표했다. 2300만 고객 기반의 '토큰 게이트웨이'로 AI 모델과 인프라를 연결하고, 데이터센터·AI 팩토리를 확대하며 조직 전반을 AX 중심으로 재설계하겠다고 밝혔다.",
+      "source": "지디넷",
+      "time": "10/08 17:45"
+    },
+    {
+      "category": "biz",
+      "title": "한컴, AWS 손잡고 美 AI 시장 공략…'노마디안' 사업화 속도",
+      "url": "https://zdnet.co.kr/view/?no=20261008104052",
+      "summary": "한컴이 AWS와 협력해 AI 워크포스 플랫폼 '노마디안'의 미국 진출을 추진한다. AWS 'CoLab' 프로그램으로 제품·시장 전략을 공동 준비하고, 12월 말 베타 공개 후 내년 구독형으로 상용화하며 AWS 마켓플레이스 판로도 확보할 계획이다.",
+      "source": "지디넷",
+      "time": "10/08 10:40"
+    },
+    {
+      "category": "biz",
+      "title": "'헤르메스 에이전트' 누스 리서치, 대규모 투자 유치로 기업용 시장 진출",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216082",
+      "summary": "오픈소스 AI 에이전트 '헤르메스'로 알려진 누스 리서치가 시리즈 B로 9000만 달러를 유치하고 기업가치 15억 달러를 인정받았다. 기업 데이터 보안을 강조한 기업용 에이전트 서비스와 성능·비용 통합 평가 지표도 공개했다.",
+      "source": "AI Times",
+      "time": "10/08 16:25"
+    },
+    {
+      "category": "biz",
+      "title": "AI 모델 평가 플랫폼 Arena, 10개월 만에 기업 가치 31억 달러로 2배 상승",
+      "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+      "summary": "AI 모델 성능을 순위로 매기는 플랫폼 Arena가 불과 10개월 만에 기업 가치를 약 2배로 늘려 31억 달러에 도달했다. AI 평가 시장의 급격한 성장을 보여주는 사례다.",
+      "source": "TechCrunch",
+      "time": "10/08 18:00"
+    },
+    {
+      "category": "biz",
+      "title": "OpenAI 매출, 당초 전망치보다 200억 달러 부족한 것으로 보고",
+      "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+      "summary": "OpenAI의 실제 매출이 이전 전망치에 비해 200억 달러가량 적다는 보도가 나왔다. 기업 성장성에 대한 시장의 우려를 키울 수 있는 소식이다.",
+      "source": "TechCrunch",
+      "time": "10/08 18:00"
+    },
+    {
+      "category": "biz",
+      "title": "중국 AI 에이전트 기업 Manus, Meta 분리 후 첫 투자 라운드에서 5억 달러 이상 조달",
+      "url": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
+      "summary": "중국의 AI 에이전트 스타트업 Manus가 Meta와 결별한 이후 첫 번째 투자 라운드에서 5억 달러 이상을 유치했다. 글로벌 AI 에이전트 경쟁이 더욱 치열해지고 있다.",
+      "source": "TechCrunch",
+      "time": "10/08 13:00"
+    },
+    {
+      "category": "biz",
+      "title": "Cal AI 19세 창업자, 새 AI 스타트업으로 1,000만 달러 투자 유치",
+      "url": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
+      "summary": "칼로리 추적 앱 Cal AI를 창업했던 19세 창업자가 새로운 AI 스타트업을 설립하고 1,000만 달러의 투자를 받았다. 젊은 AI 창업자들의 약진이 이어지고 있다.",
+      "source": "TechCrunch",
+      "time": "10/08 14:00"
+    },
+    {
+      "category": "biz",
+      "title": "기업의 AI 에이전트 자율 신뢰도 75%→56%로 급감… VB 인텔리전스 조사",
+      "url": "https://venturebeat.com/orchestration/the-share-of-enterprises-trusting-ai-agents-to-make-production-changes-on-their-own-has-fallen-from-75-to-56-vb-intelligence-finds",
+      "summary": "VentureBeat 조사에 따르면 AI 에이전트가 독립적으로 운영 변경을 실행하도록 신뢰하는 기업 비율이 75%에서 56%로 크게 줄었다. 에이전트 신뢰성 평가 체계 부재가 원인으로 지목됐다.",
+      "source": "VentureBeat",
+      "time": "10/08 09:00"
+    },
+    {
+      "category": "tech",
+      "title": "수학 문제 4000개에 AI 투입해 성과…오픈AI가 보여준 과학연구의 변화",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216072",
+      "summary": "오픈AI가 미공개 프론티어 모델에 약 4000개의 수학 연구 문제를 투입해 722편의 연구 원고와 372개 결과 군을 정리·공개했다. 일부 증명은 린(Lean)으로 형식화했으며, AI를 대규모 탐색 도구로 활용해 과학 연구를 가속하는 새로운 사례로 주목받는다.",
+      "source": "AI Times",
+      "time": "10/09 07:00"
+    },
+    {
+      "category": "tech",
+      "title": "카카오, 국제 AI 학회서 MoE 학습 최적화·모델 경량화 성과 공개",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216073",
+      "summary": "카카오가 COLM 2026 학회에서 MoE 모델의 최적 학습률을 전체 학습 비용의 1% 수준으로 예측하는 방법을 발표했다. 바이트 기반 경량화 기술 BBT도 공개해 파라미터를 20~40% 줄이면서 성능을 개선했다고 밝혔다.",
+      "source": "AI Times",
+      "time": "10/08 16:52"
+    },
+    {
+      "category": "tech",
+      "title": "OpenAI의 수학 문제 풀이, 수학계 표준에 아직 못 미쳐",
+      "url": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
+      "summary": "수학자들이 OpenAI의 수학 문제 해결 성과를 학계 기준으로 평가한 결과, 아직 엄격한 수학적 검증 기준을 충족하지 못하는 것으로 나타났다.",
+      "source": "TechCrunch",
+      "time": "10/08 18:00"
+    },
+    {
+      "category": "tech",
+      "title": "학계에서 AI를 활용하는 최선의 방향은 무엇인가?",
+      "url": "https://news.mit.edu/2026/3-questions-what-best-path-forward-ai-academia-0925",
+      "summary": "MIT 통계·데이터과학센터 소장 Alexander Rakhlin이 대학과 학과가 AI 도입 시 고려해야 할 핵심 요소들을 논하며, 학술 생태계에서의 AI 활용 방향을 제시했다.",
+      "source": "MIT News",
+      "time": "10/08 09:00"
+    },
+    {
+      "category": "tech",
+      "title": "AI로 데이터센터의 환경 위협 줄이는 방법",
+      "url": "https://news.mit.edu/2026/mitigating-environmental-threat-of-data-centers-christina-delimitrou-1008",
+      "summary": "MIT 조교수 Christina Delimitrou의 연구팀이 대규모 클라우드 시스템 운영 방식을 재설계해 데이터센터의 에너지 효율을 높이는 방안을 연구하고 있다.",
+      "source": "MIT News",
+      "time": "10/08 09:00"
+    },
+    {
+      "category": "service",
+      "title": "MS, 온디바이스 AI '서피스 랩톱 울트라' 공개…1200억 매개변수 모델 직접 구동",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216065",
+      "summary": "마이크로소프트가 엔비디아 RTX 스파크 기반의 '서피스 랩톱 울트라'를 공개했다. 최대 128GB 메모리로 1200억 개 이상의 매개변수를 가진 AI 모델을 클라우드 없이 구동하며, AI 에이전트를 격리하는 보안 기술 MXC도 윈도우11에 제공된다. 가격은 2599달러부터다.",
+      "source": "AI Times",
+      "time": "10/08 15:50"
+    },
+    {
+      "category": "service",
+      "title": "AI 비서 '언더독' 베타 공개…데이터 외부 전송 없이 PC에서 실행",
+      "url": "https://zdnet.co.kr/view/?no=20261008210045",
+      "summary": "콘웨이 리서치가 AI 비서 '언더독'의 초대제 베타를 공개했다. 270억 개 매개변수 모델을 맥·윈도우 PC에서 직접 처리해 데이터 외부 전송이 없으며 광고 없이 무료로 제공된다. 스트라이프 결제 수수료를 수익 모델로 삼으며, 리눅스·모바일 버전도 준비 중이다.",
+      "source": "지디넷",
+      "time": "10/08 21:00"
+    },
+    {
+      "category": "service",
+      "title": "Natura의 99달러 스마트링, 손가락 위에서 AI 에이전트 실행",
+      "url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
+      "summary": "스타트업 Natura가 99달러짜리 스마트링을 출시했다. 착용 상태에서 AI 에이전트를 직접 실행할 수 있는 웨어러블 기기로, 핸즈프리 AI 인터랙션을 목표로 한다.",
+      "source": "TechCrunch",
+      "time": "10/08 16:00"
+    },
+    {
+      "category": "service",
+      "title": "Google, 로컬 우선 AI 노트 앱 출시… Granola에 정면 도전",
+      "url": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/",
+      "summary": "Google이 클라우드 없이 로컬에서 동작하는 AI 기반 노트 앱을 출시했다. AI 노트 앱 Granola의 강력한 경쟁자로 주목받고 있다.",
+      "source": "TechCrunch",
+      "time": "10/08 13:00"
+    },
+    {
+      "category": "policy",
+      "title": "오픈AI '10대 챗GPT 평균 15분 사용' 주장에 안전성 논란 불붙어",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216074",
+      "summary": "오픈AI는 10대의 챗GPT 하루 평균 사용 시간이 15분 미만이라고 밝혔지만, 커먼 센스 미디어는 청소년용 챗GPT가 자해·섭식장애 고위험 대화에서 부모 알림과 위기 안내를 제대로 제공하지 못했다며 '수용 불가능한 위험' 등급을 매겼다.",
+      "source": "AI Times",
+      "time": "10/08 16:03"
+    },
+    {
+      "category": "policy",
+      "title": "해고된 OpenAI 안전 연구원들, 비위 주장에 반박하며 '위축 효과' 경고",
+      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "summary": "해고된 OpenAI 안전 팀 연구원들이 회사가 제시한 해고 사유에 반박하며, 이번 사태가 내부 문제 제기를 꺼리게 만드는 위축 효과를 초래할 수 있다고 경고했다.",
+      "source": "TechCrunch",
+      "time": "10/08 20:00"
+    },
+    {
+      "category": "policy",
+      "title": "Anthropic, 이용 정책 개정… 모델 악용 및 선거 개입 명시적 금지",
+      "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+      "summary": "Anthropic이 이용 약관을 업데이트해 AI 모델 악용과 선거 관련 허위 정보 유포 등을 명시적으로 금지했다. AI 안전성 강화를 위한 정책 강화 조치다.",
+      "source": "TechCrunch",
+      "time": "10/08 18:00"
+    },
+    {
+      "category": "chip",
+      "title": "누리호 올라탄 토종 AI 반도체, 우주 궤도서 성능 실증 나선다",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216085",
+      "summary": "모빌린트의 AI 반도체 '레귤러스' 기반 NPU 보드 2종이 누리호 5차 부탑재위성 BEE-1012에 탑재됐다. 위성 상태 분석과 단백질 결정 이미지 분석을 위성 내부에서 직접 처리해 지상 전송 데이터량과 판단 시간을 줄이는 것이 목표다.",
+      "source": "AI Times",
+      "time": "10/08 16:27"
+    },
+    {
+      "category": "chip",
+      "title": "'GPU와 경쟁 아닌 공존'…딥엑스, '피지컬 AI' K-NPU로 글로벌 정조준",
+      "url": "https://zdnet.co.kr/view/?no=20261008153014",
+      "summary": "딥엑스가 AI 페스타에서 GPU와 공존하는 전략을 발표했다. 대규모 학습은 GPU가, 기기 내 AI 연산은 저전력 NPU 'DX-M1'이 담당하는 구조다. DX-M1은 5W 미만으로 작동해 구축비용을 크게 낮추며, 상반기에만 1300만 개 이상을 수출하고 AMD 등과 협력을 넓히고 있다.",
+      "source": "지디넷",
+      "time": "10/08 15:30"
+    },
+    {
+      "category": "security",
+      "title": "SKT, 업스테이지와 AI 보안 동맹 결성…독파모·모두의 AI 안전성 강화",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216069",
+      "summary": "SKT가 업스테이지, 보안기업 6곳, 대학 3곳과 AI 사이버보안 협의체를 출범했다. A.X K3·솔라 모델을 악성코드·취약점 분석 데이터로 학습시키고, 두 모델이 서로를 공격·평가하는 상호 레드티밍으로 독파모와 모두의 AI의 방어 역량을 높일 계획이다.",
+      "source": "AI Times",
+      "time": "10/08 15:29"
+    },
+    {
+      "category": "security",
+      "title": "AI 해킹, 악성 IP 차단만으론 역부족…공격 행위 탐지 중요",
+      "url": "https://www.etnews.com/20261008000316",
+      "summary": "금융권 연쇄 해킹에 쓰인 IP 대부분이 위협 평판 DB에 미등록된 것으로 확인됐다. 공격자가 IP를 교체하며 접속하므로 차단보다 대량 조회·오류 급증 같은 비정상 행위 탐지와, 정상 로그인 후에도 정보 접근 권한을 검증하는 체계 구축이 중요하다고 전문가들이 제언했다.",
+      "source": "전자신문",
+      "time": "10/08 16:33"
+    },
+    {
+      "category": "security",
+      "title": "Goodfire, '내부→외부' 방식으로 불량 AI 에이전트를 저비용에 탐지하는 모니터링 출시",
+      "url": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
+      "summary": "AI 안전 스타트업 Goodfire가 오작동하는 AI 에이전트를 기존 방법 대비 훨씬 낮은 비용으로 감지하는 '내부→외부' 모니터링 기술을 공개했다.",
+      "source": "TechCrunch",
+      "time": "10/08 16:00"
+    },
+    {
+      "category": "others",
+      "title": "벤 애플렉, AI 덕후로 밝혀져… 인터넷 뜨거운 반응",
+      "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+      "summary": "배우 벤 애플렉의 AI에 대한 깊은 관심이 알려지며 온라인에서 긍정적인 화제를 모으고 있다. 그의 AI 지식과 열정에 대한 인터넷 반응이 쏟아지고 있다.",
+      "source": "TechCrunch",
+      "time": "10/08 18:00"
+    }
+  ]
+}
