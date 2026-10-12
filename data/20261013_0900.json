@@ -1,0 +1,198 @@
+{
+  "published_at": "2026-10-13T09:00",
+  "sources": ["AI Times", "지디넷", "전자신문", "TechCrunch"],
+  "articles": [
+    {
+      "category": "genai",
+      "title": "메타, 자체 최고 모델 '뮤즈 원더' 출시로 프런티어 경쟁 합류",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216176",
+      "summary": "메타가 장기 작업 수행과 메모리 유지에 특화된 AI 모델 '뮤즈 원더'와 '뮤즈 원더 풀'을 공개하며 오픈AI·앤트로픽과의 프런티어 경쟁에 진입했다. 딥SWE 1.1 벤치마크에서 클로드 오퍼스 5.5를 앞섰으나 풀 모델은 월 50달러 구독자에게만 제공된다.",
+      "source": "AI Times",
+      "time": "10/13 05:53"
+    },
+    {
+      "category": "genai",
+      "title": "오픈AI, 생명과학 모델 'GPT-로잘린드 디스커버리' 요금표에 등재",
+      "url": "https://zdnet.co.kr/view/?no=20261012203335",
+      "summary": "오픈AI가 API 요금표에 생명과학 모델 'gpt-rosalind-discovery'를 발표 없이 추가했다. 입력 100만 토큰당 5달러, 출력 25달러이며 신약 후보 발굴용으로 보이나 용도와 제공 범위는 공개되지 않았다. 승인된 기관에만 제공된다.",
+      "source": "지디넷",
+      "time": "10/12 20:33"
+    },
+    {
+      "category": "tech",
+      "title": "AI가 암을 치료해도 원리를 알아야 할까…수학자 타오의 질문에 쏟아진 반론",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216150",
+      "summary": "세계적 수학자 테런스 타오가 AI 개발 암 치료제의 원리를 인간이 이해해야 하는지 질문해 논쟁이 일었다. 임상시험 통과가 중요하다는 반론이 주를 이뤘고, AI 지식의 인간 이해 필요성에 대해 수학과 의학의 관점 차이를 조명했다.",
+      "source": "AI Times",
+      "time": "10/13 07:00"
+    },
+    {
+      "category": "tech",
+      "title": "\"말 한마디로 작동하는 3D 기계 그려\"...클로드 코드용 '아나토미' 공개",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216170",
+      "summary": "개발자 라이언이 클로드 코드용 오픈소스 스킬 '아나토미'를 공개했다. 한 줄의 아이디어 입력만으로 AI가 기술 개념을 SVG·WebGL 기반 인터랙티브 3D 기계 장치로 시각화하는 코드를 생성한다. MIT 라이선스로 배포되며 코덱스·오픈코드도 지원한다.",
+      "source": "AI Times",
+      "time": "10/12 18:00"
+    },
+    {
+      "category": "tech",
+      "title": "Ai2, MoE 학습 효율 2.7배 높인 오픈소스 프레임워크 '올모 코어 3' 공개",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216173",
+      "summary": "앨런 AI 연구소가 MoE 모델 학습 처리량을 기존 대비 2.7배 높인 오픈소스 프레임워크 '올모 코어 3'를 공개했다. FSDP 방식을 DDP 기반으로 전환해 GPU 통신 비용을 줄이고, 수조 개 매개변수 규모까지 안정적인 확장이 가능하도록 설계됐다.",
+      "source": "AI Times",
+      "time": "10/12 17:54"
+    },
+    {
+      "category": "tech",
+      "title": "사카나 AI, LLM 기반 동료 검토 시스템으로 논문 핵심 주장 오류 73% 적발",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216163",
+      "summary": "사카나 AI가 논문에 삽입된 논리적 오류의 73.43%를 탐지하는 LLM 기반 다층 검토 시스템 'MLR'을 공개했다. 기존 최고 탐지율 시스템보다 약 5배 높은 성능으로, 주요 학술대회 논문 257편에 1164개 오류를 삽입해 검증했다.",
+      "source": "AI Times",
+      "time": "10/12 17:50"
+    },
+    {
+      "category": "tech",
+      "title": "얀 르쿤 \"차세대 AI는 실세계 이해해야…韓 연구 협력 확장\"",
+      "url": "https://zdnet.co.kr/view/?no=20261012115216",
+      "summary": "얀 르쿤 AMI랩스 회장이 서울 간담회에서 현재 AI는 물리적 환경 이해·제어 능력이 부족하다고 진단했다. 행동의 결과를 예측하는 '월드 모델'이 차세대 AI 방향이라고 제시했으며, 한국 산업 데이터와 글로벌 AI 기술 결합의 중요성도 강조했다.",
+      "source": "지디넷",
+      "time": "10/12 12:24"
+    },
+    {
+      "category": "biz",
+      "title": "'데이터센터=수익'…IPO 앞둔 앤트로픽이 인프라에 사활 건 이유",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216168",
+      "summary": "IPO를 앞둔 앤트로픽이 데이터센터에 공격적으로 투자하는 이유는 추론 서비스의 높은 수익성 때문이다. 루이지애나 데이터센터를 한 달 일찍 가동하면 13억 달러 이상의 추가 매출이 가능하며, 추론 서비스의 매출총이익률은 최대 85%에 달한다.",
+      "source": "AI Times",
+      "time": "10/12 17:44"
+    },
+    {
+      "category": "biz",
+      "title": "WindBorne, 미 공군과 최대 4,900만 달러 AI 기상 데이터 계약 체결",
+      "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+      "summary": "AI 기상 예측 스타트업 WindBorne이 미 공군과 최대 4,900만 달러 규모의 기상 데이터 공급 계약을 체결했다. 전 세계 700여 개 자율 기상 풍선이 수집한 대기 데이터를 딥러닝 예측 모델 'WeatherMesh 6'에 활용하며, 독점 계약으로 진행됐다.",
+      "source": "TechCrunch",
+      "time": "10/13 02:19"
+    },
+    {
+      "category": "biz",
+      "title": "전 Plaud 임원, 상시 청취 AI 앱 'Ambi'로 2,600만 달러 조달",
+      "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+      "summary": "전 Plaud 임원 피터 모가 설립한 AI 스타트업 Ambi가 Luminous Ventures 주도로 2,600만 달러를 조달했다. Ambi는 iPhone·Mac·Apple Watch에서 상시 청취하며 회의 중 실시간 인사이트를 제공하는 AI 에이전트 앱이다.",
+      "source": "TechCrunch",
+      "time": "10/12 21:47"
+    },
+    {
+      "category": "service",
+      "title": "네이버지도, AI 안경 연동 길안내 서비스 개시",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216157",
+      "summary": "네이버지도가 국내 최초로 AI 글래스 연동 음성 길안내 서비스를 출시했다. 메타 레이밴·오클리 메타에 탑재되고, 연내 출시 예정인 구글·삼성 AI 안경에도 적용될 예정이다. 스마트폰 화면 없이 이동 방향과 경로 정보를 음성으로 안내받을 수 있다.",
+      "source": "AI Times",
+      "time": "10/12 15:00"
+    },
+    {
+      "category": "service",
+      "title": "AI가 인간 상담사를 대체하기 어려운 이유...\"말로 하는 위로에는 한계\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216165",
+      "summary": "AI 챗봇이 정신 건강 상담에 활용되지만, 언어만으로는 인간관계에서 얻는 치유를 대체하기 어렵다는 지적이 나왔다. 챗봇을 '초콜릿으로 덮인 판지'에 비유하며, 살아있는 관계 속 상호작용이 상담의 핵심이라고 강조했다.",
+      "source": "AI Times",
+      "time": "10/12 15:30"
+    },
+    {
+      "category": "service",
+      "title": "\"신제품 반응, 사람 대신 AI에 묻는다\"…'AI 합성소비자' 시대 개막",
+      "url": "https://www.etnews.com/20261012000258",
+      "summary": "유통기업들이 실제 소비자 데이터를 학습한 AI 합성소비자로 신제품 콘셉트와 가격 반응을 미리 예측하고 있다. BGF리테일, 롯데웰푸드, CJ제일제당, 아모레퍼시픽 등이 도입했으며, 조사 시간·비용 절감과 반복 검증 가능성이 장점이다.",
+      "source": "전자신문",
+      "time": "10/12 15:30"
+    },
+    {
+      "category": "service",
+      "title": "AI 폐기물 처리 도우미 앱 '가져가' 서울 은평구에서 실증",
+      "url": "https://zdnet.co.kr/view/?no=20261012224725",
+      "summary": "AI 폐기물 처리 앱 '가져가'가 서울 은평구에서 실증을 시작했다. 스마트폰으로 폐기물을 촬영하면 AI가 품목을 분류하고 지역별 배출 요일·수수료·분리배출 방법을 안내한다. 대형 폐기물 배출 신고와 수수료 결제도 앱에서 가능하다.",
+      "source": "지디넷",
+      "time": "10/12 22:47"
+    },
+    {
+      "category": "service",
+      "title": "비즈크러시, '오프라인 음성 AI'로 실시간 통번역 시장 공략",
+      "url": "https://www.etnews.com/20261012000266",
+      "summary": "비즈크러시는 전시장·카페 등 음성인식이 어려운 오프라인 환경에 맞춘 자체 전처리 기술로 실시간 다국어 통역·자막 시장을 공략한다. 현재 60개 언어를 지원하며, 중남미 등으로 고객 접점을 넓힐 계획이다.",
+      "source": "전자신문",
+      "time": "10/12 17:00"
+    },
+    {
+      "category": "service",
+      "title": "Honeyjar, AI 기반 PR·커뮤니케이션 자동화 플랫폼 출시",
+      "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+      "summary": "Honeyjar가 AI를 활용해 시니어 PR 전문가 수준의 커뮤니케이션 역량을 모든 기업에 제공하는 서비스를 선보였다. 보도자료 작성, 기자 섭외, 언론 모니터링, 발언 기회 발굴 등 PR 전 과정을 자동화하며 TechCrunch Disrupt 2026에 참가했다.",
+      "source": "TechCrunch",
+      "time": "10/13 00:45"
+    },
+    {
+      "category": "service",
+      "title": "AI 스타트업 Blueprints AI, 건축 허가 도면을 수 분 내 자동 생성",
+      "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+      "summary": "스타트업 Blueprints AI가 2D 스케치나 PDF 입력만으로 건축 법규에 부합한 허가용 도면을 수 분 내 자동 생성하는 AI 서비스를 공개했다. 건축학 박사 출신 창업자가 설립했으며, TechCrunch Disrupt 2026 Startup Battlefield 200에 선정됐다.",
+      "source": "TechCrunch",
+      "time": "10/13 00:27"
+    },
+    {
+      "category": "policy",
+      "title": "국감서 \"AI 캐릭터 챗봇, 청소년 보호 구멍\" 지적...규제 급물살 타나",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216164",
+      "summary": "국회 과방위 국감에서 AI 캐릭터 챗봇의 청소년 유해 콘텐츠 노출 문제가 제기됐다. 스캐터랩 '제타'가 세이프 모드에서도 성폭력 묘사를 생성해 규제 법제화 논의가 가속화됐다. 업체들은 하루 3시간 이용 제한 및 맥락 기반 필터링 강화 대책을 마련했다.",
+      "source": "AI Times",
+      "time": "10/12 17:23"
+    },
+    {
+      "category": "policy",
+      "title": "\"AI 대신 SI 써라\"...트럼프 압박에 실리콘밸리 굴복",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216161",
+      "summary": "트럼프 대통령이 AI를 '초지능(SI)'으로 교체하는 행정명령을 내린 후, 세일즈포스·마이크로소프트·엔비디아 등 빅테크 경영진이 잇달아 새 용어를 채택하고 있다. 트럼프는 기존 AI 용어를 고집하는 기업을 '적'으로 간주하겠다고 경고했다.",
+      "source": "AI Times",
+      "time": "10/12 17:19"
+    },
+    {
+      "category": "policy",
+      "title": "마이크로소프트 사장 \"AI 안전 규제, 영국이 글로벌 선도국 돼야\"",
+      "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+      "summary": "마이크로소프트 브래드 스미스 사장이 AI를 '무기이자 도구'로 규정하며 글로벌 안전 규제 시급성을 강조했다. 자발적 자율 규제의 한계를 지적하고, 영국 AI 안전 연구소(AISI)를 중심으로 법적 구속력 있는 AI 안전 기준 수립을 촉구했다.",
+      "source": "TechCrunch",
+      "time": "10/13 00:31"
+    },
+    {
+      "category": "chip",
+      "title": "삼성전자, 차세대 'z낸드' 개발영역 넓힌다…맞춤형 AI 메모리 전략",
+      "url": "https://zdnet.co.kr/view/?no=20261012103405",
+      "summary": "삼성전자가 차세대 낸드 'z낸드'를 온디바이스 AI용 z낸드-O, 대역폭 확대형 z낸드-T, IOPS 극대화형 z낸드-I 3종으로 세분화해 개발 중이다. 다양화되는 AI 수요에 맞춘 맞춤형 메모리 전략이다.",
+      "source": "지디넷",
+      "time": "10/12 10:45"
+    },
+    {
+      "category": "chip",
+      "title": "MiTAC 컴퓨팅, OCP 글로벌 서밋 2026에서 개방형 AI 인프라 확장 위한 풀스택 혁신 선보여",
+      "url": "https://zdnet.co.kr/view/?no=20261012231013",
+      "summary": "MiTAC 컴퓨팅이 2026 OCP 글로벌 서밋에서 수랭식 AI 서버 G4826Z5, 2상 냉각 기술(pPUE 최저 1.03), 모듈형 데이터센터 TonoForge, 신규 OCP 서버 C2611Z6 등 AI 인프라 풀스택 기술을 공개했다.",
+      "source": "지디넷",
+      "time": "10/12 23:10"
+    },
+    {
+      "category": "robot",
+      "title": "[人사이트] 장한기 TYM 중앙기술연구소장 \"2030년 완전 무인 농기계 개발…AI 농업기업 도약\"",
+      "url": "https://www.etnews.com/20261012000128",
+      "summary": "TYM은 2030년까지 장애물 인지·회피 및 관제 연동이 가능한 완전 무인 농기계 개발에 집중할 계획이다. 상용화는 2030년대 초중반으로 예상되며, 11월 디지털 농업 플랫폼 'MYTYM 2.0'을 시범 출시할 예정이다.",
+      "source": "전자신문",
+      "time": "10/12 14:00"
+    },
+    {
+      "category": "others",
+      "title": "[카드뉴스] AI를 잘 쓰는 사람만 앞서가는 걸까요",
+      "url": "https://zdnet.co.kr/view/?no=20261012093921",
+      "summary": "고소득 직군의 AI 리터러시 점수는 5점 만점에 4.2점, 저소득 직군은 1.8점으로 격차가 크다. 전문가 약 70%는 AI가 새로운 계급을 만들기보다 기존 격차를 확대한다고 봤다. AI 답의 정확성을 가려내는 힘은 기존 지식에서 나와 학력·소득이 높은 쪽이 유리하다.",
+      "source": "지디넷",
+      "time": "10/12 20:29"
+    }
+  ]
+}
