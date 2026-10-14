@@ -1,0 +1,366 @@
+{
+  "published_at": "2026-10-14T09:00",
+  "sources": ["AI Times", "지디넷", "전자신문", "TechCrunch", "VentureBeat", "MIT News"],
+  "articles": [
+    {
+      "category": "genai",
+      "title": "'오퍼스 5.5 넘었다'...앤트로픽, 차세대 모델 실전 라우팅 테스트 중",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216200",
+      "summary": "앤트로픽이 현재 최고 사양 모델인 오퍼스 5.5를 능가하는 차세대 AI 모델을 실전 라우팅 테스트하고 있는 것으로 알려졌다. 성능 벤치마크에서 기존 최고 사양을 초과한 것으로 평가되며 조만간 공개될 전망이다.",
+      "source": "AI Times",
+      "time": "10/13 10:00"
+    },
+    {
+      "category": "genai",
+      "title": "오픈AI, 'GPT-6.1 솔' 컨텍스트 길이 50만 토큰으로 대폭 상향",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216196",
+      "summary": "오픈AI가 GPT-6.1 시리즈의 새 버전 'GPT-6.1 솔'을 공개하며 컨텍스트 길이를 50만 토큰으로 대폭 확대했다. 장문 문서 처리 및 장기 분석 능력이 획기적으로 향상되어 기업용 AI 활용 가능성이 더욱 넓어졌다.",
+      "source": "AI Times",
+      "time": "10/13 11:00"
+    },
+    {
+      "category": "genai",
+      "title": "메타, 자체 최고 모델 '뮤즈 원더' 출시로 프런티어 경쟁 합류",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216176",
+      "summary": "메타가 자체 개발한 최고 성능 AI 모델 '뮤즈 원더'를 출시해 오픈AI·앤트로픽 등과의 프런티어 모델 경쟁에 본격 참전했다. 메타 최초의 자체 최상위 모델 출시로 LLM 시장 경쟁이 더욱 치열해질 전망이다.",
+      "source": "AI Times",
+      "time": "10/13 09:30"
+    },
+    {
+      "category": "genai",
+      "title": "구글, '제미나이 4 아르곤' 정식 출시",
+      "url": "https://zdnet.co.kr/view/?no=20261014085513",
+      "summary": "구글이 최신 멀티모달 AI 모델 '제미나이 4 아르곤'을 정식 출시했다. 이전 버전 대비 추론 능력과 코딩 성능이 크게 향상됐으며, 다양한 구글 서비스에 순차 적용될 예정이다.",
+      "source": "지디넷",
+      "time": "10/14 08:55"
+    },
+    {
+      "category": "genai",
+      "title": "구글, Gemini 4 Argon 100만 토큰당 2달러 한시 저가 API 제공",
+      "url": "https://venturebeat.com/technology/google-makes-gemini-4-argon-broadly-available-with-limited-time-low-api-pricing-of-2-10-per-1m-token",
+      "summary": "Google이 Gemini 4 Argon 모델을 일반에 공개하며 입력 100만 토큰당 2달러, 출력 10달러의 한시 저가 API를 제공한다. 40개 이상 외부 앱 연동 및 사용자 부재 시에도 지속 실행되는 에이전트 기능도 지원한다.",
+      "source": "VentureBeat",
+      "time": "10/13 12:00"
+    },
+    {
+      "category": "genai",
+      "title": "OpenAI 에이전트 플랫폼, Anthropic보다 2배 많은 기업이 사용",
+      "url": "https://venturebeat.com/orchestration/openais-ai-agent-platform-is-used-by-twice-as-many-companies-as-anthropics-new-venturebeat-survey-finds",
+      "summary": "VentureBeat 설문에 따르면 OpenAI의 에이전트 오케스트레이션 플랫폼을 사용하는 기업 수가 Anthropic의 2배에 달한다. 다만 결제 고객 수 등 일부 지표에서는 Anthropic이 여전히 우위를 보이고 있다.",
+      "source": "VentureBeat",
+      "time": "10/13 14:00"
+    },
+    {
+      "category": "genai",
+      "title": "Cerebras CEO: 가정용 개인 AI 어시스턴트 시대 곧 도래",
+      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+      "summary": "Cerebras CEO가 AI 처리 능력 발전으로 조만간 누구나 집에서 개인 AI 어시스턴트를 이용하는 시대가 가까워지고 있다고 전망했다. AI 인프라 비용 하락이 가정용 AI 보급을 앞당길 것이라고 강조했다.",
+      "source": "TechCrunch",
+      "time": "10/14 08:00"
+    },
+    {
+      "category": "biz",
+      "title": "'돈보다 GPU 우선'... 미 VC 업계, 스타트업 인프라 확보 경쟁 재점화",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216210",
+      "summary": "미국 벤처캐피털 업계가 스타트업 투자 시 현금보다 GPU 인프라를 우선 제공하는 방식으로 경쟁하고 있다. AI 컴퓨팅 자원 확보가 스타트업 성패를 좌우하는 핵심 요소로 부상했다.",
+      "source": "AI Times",
+      "time": "10/13 14:30"
+    },
+    {
+      "category": "biz",
+      "title": "크래프톤, 사상 최대 규모 'AI 네이티브' 신입 채용 나서",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216202",
+      "summary": "게임사 크래프톤이 AI를 핵심 역량으로 갖춘 'AI 네이티브' 인재를 사상 최대 규모로 신규 채용한다. AI 기술이 게임 개발 전반에 통합됨에 따라 AI 역량 보유자에 대한 수요가 급증하고 있다.",
+      "source": "AI Times",
+      "time": "10/13 13:30"
+    },
+    {
+      "category": "biz",
+      "title": "오픈AI, 비용 문제로 접었던 '소라' 외부 스타트업에 라이선스 추진",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216197",
+      "summary": "오픈AI가 높은 운영 비용으로 서비스 축소를 검토했던 영상 생성 AI '소라'를 외부 스타트업에 라이선스 방식으로 제공하는 방안을 추진 중이다. 수익화와 기술 확산을 동시에 노리는 전략이다.",
+      "source": "AI Times",
+      "time": "10/13 12:00"
+    },
+    {
+      "category": "biz",
+      "title": "플라우드 출신 AI 비서 '앰비', 347억 원 투자 유치",
+      "url": "https://zdnet.co.kr/view/?no=20261013220236",
+      "summary": "플라우드 출신 창업자들이 설립한 AI 비서 스타트업 앰비가 347억 원 규모의 투자를 유치했다. 개인화된 AI 비서 서비스로 국내 AI 비서 시장 선점을 목표로 하고 있다.",
+      "source": "지디넷",
+      "time": "10/13 22:02"
+    },
+    {
+      "category": "biz",
+      "title": "AI 기업 간 협력 협의체 'K Connect AI' 출범",
+      "url": "https://zdnet.co.kr/view/?no=20261013112348",
+      "summary": "국내 AI 기업 간 협력을 위한 'K Connect AI' 협의체가 공식 출범했다. AI 산업 생태계 강화와 글로벌 경쟁력 제고를 위한 민간 주도 연합으로, 주요 AI 기업들이 참여한다.",
+      "source": "지디넷",
+      "time": "10/13 11:23"
+    },
+    {
+      "category": "biz",
+      "title": "AI 챗봇 플랫폼 Character.AI, 창업 5년 만에 파산 신청",
+      "url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
+      "summary": "개인화 AI 챗봇 플랫폼 Character.AI가 창업 5년 만에 파산을 신청했다. 경쟁 심화와 수익화의 어려움이 주요 원인으로 분석되며 AI 챗봇 시장의 구조적 문제를 드러낸 사례로 평가된다.",
+      "source": "TechCrunch",
+      "time": "10/13 21:00"
+    },
+    {
+      "category": "tech",
+      "title": "MS, 코드로 영상 속 물리법칙 정밀 제어하는 '코드 비디오 모델' 공개",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216205",
+      "summary": "마이크로소프트가 코드를 통해 영상 내 물리법칙을 정밀 제어할 수 있는 '코드 비디오 모델'을 공개했다. 물체 움직임, 충돌, 유체 시뮬레이션 등을 코드 명령으로 제어하는 혁신적 영상 생성 기술이다.",
+      "source": "AI Times",
+      "time": "10/13 15:00"
+    },
+    {
+      "category": "tech",
+      "title": "멜론 수확량 높이는 핵심 유전자, AI가 4분 만에 찾아냈다",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216217",
+      "summary": "AI 기술을 활용해 멜론 수확량을 높이는 핵심 유전자를 단 4분 만에 규명하는 데 성공했다. 기존 연구 방식으로는 수년이 걸리던 유전자 탐색 과정을 AI가 혁신적으로 단축한 사례다.",
+      "source": "AI Times",
+      "time": "10/13 17:00"
+    },
+    {
+      "category": "tech",
+      "title": "의사결정 모델도 멀티모달로 진화… vLLM·클라우드플레어 모델 공개",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216213",
+      "summary": "AI 의사결정 모델이 이미지·영상을 처리하는 멀티모달 방식으로 진화하고 있다. vLLM과 클라우드플레어가 각각 멀티모달 의사결정 모델을 공개해 산업 적용 가능성을 확장했다.",
+      "source": "AI Times",
+      "time": "10/13 16:00"
+    },
+    {
+      "category": "tech",
+      "title": "피지컬 AI 세상은 통신망부터...산업 현장서 AI 기지국 실증",
+      "url": "https://zdnet.co.kr/view/?no=20261013155215",
+      "summary": "피지컬 AI 구현을 위한 통신망 인프라 확보가 핵심 과제로 부각되고 있다. 산업 현장에서 AI 기지국 실증이 이루어지며 실시간 처리와 초저지연 통신 기반의 AI 활용 가능성이 검증되고 있다.",
+      "source": "지디넷",
+      "time": "10/13 15:52"
+    },
+    {
+      "category": "tech",
+      "title": "SpaceX·구글 거절 딛고 위성에서 AI 직접 실행하는 Satlyt, 800만 달러 유치",
+      "url": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+      "summary": "Google·SpaceX 출신 PM이 설립한 Satlyt가 위성에서 직접 AI를 실행하는 기술로 800만 달러를 유치했다. 두 회사의 협력 거절에도 불구하고 SpaceX 로켓에 자사 위성을 실어 우주 진출에 성공했다.",
+      "source": "TechCrunch",
+      "time": "10/14 01:00"
+    },
+    {
+      "category": "tech",
+      "title": "인공 신경망이 스스로 학습 메커니즘을 구축하는 방법 발견",
+      "url": "https://news.mit.edu/2026/how-artificial-neural-networks-build-their-own-learning-machinery-1013",
+      "summary": "MIT 연구팀이 머신러닝 신경망이 설계자의 세부 지침 없이 스스로 학습 메커니즘을 구축할 수 있음을 발견했다. 뇌가 학습 중 스스로 재구성되는 방식을 이해하는 데도 중요한 시사점을 제공한다.",
+      "source": "MIT News",
+      "time": "10/13 10:00"
+    },
+    {
+      "category": "policy",
+      "title": "MS 사장 '세탁기·우유보다 못한 AI 규제…이제 법적 의무화 나설 때'",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216185",
+      "summary": "마이크로소프트 사장이 현행 AI 규제가 세탁기·식품보다 허술하다고 비판하며 AI 안전 기준의 법적 의무화 필요성을 역설했다. AI 산업의 자율 규제 한계를 인정하고 정부 규제 강화를 촉구한 발언이다.",
+      "source": "AI Times",
+      "time": "10/13 10:30"
+    },
+    {
+      "category": "policy",
+      "title": "트럼프 행정부, AI 테스트 전담 기관 백악관 직속 편입...의사결정 통합 가속화",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216193",
+      "summary": "트럼프 행정부가 AI 테스트 전담 기관을 백악관 직속으로 편입해 AI 정책 의사결정을 일원화했다. 미국의 AI 기술 평가와 규제 방향 설정 권한이 백악관으로 집중된다.",
+      "source": "AI Times",
+      "time": "10/13 13:00"
+    },
+    {
+      "category": "policy",
+      "title": "글로벌 AI 3대 강국 향한 'K-문샷 반도체 미션' 본격 시동",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216204",
+      "summary": "한국이 글로벌 AI 3대 강국 진입을 목표로 'K-문샷 반도체 미션'을 본격 추진한다. 정부 주도의 대형 반도체·AI 기술 개발 프로젝트로 국가 AI 경쟁력 강화를 위한 장기 전략의 일환이다.",
+      "source": "AI Times",
+      "time": "10/14 09:00"
+    },
+    {
+      "category": "policy",
+      "title": "배경훈 부총리 '피지컬 AI, 세계 시장 제패할 만큼 준비해야'",
+      "url": "https://zdnet.co.kr/view/?no=20261013171103",
+      "summary": "배경훈 부총리가 피지컬 AI 분야에서 한국이 세계 시장을 선도할 수준의 준비를 갖춰야 한다고 강조했다. 정부 차원의 피지컬 AI 전략 및 투자 확대 의지를 재확인한 발언이다.",
+      "source": "지디넷",
+      "time": "10/13 17:11"
+    },
+    {
+      "category": "policy",
+      "title": "정부 정보시스템 2030년까지 클라우드 전환 추진",
+      "url": "https://zdnet.co.kr/view/?no=20261013092218",
+      "summary": "정부가 공공 정보시스템을 2030년까지 전면 클라우드로 전환하는 계획을 추진한다. AI 기반 행정 서비스 고도화를 위한 인프라 현대화 전략의 일환으로 단계적 전환이 이루어질 예정이다.",
+      "source": "지디넷",
+      "time": "10/13 09:22"
+    },
+    {
+      "category": "policy",
+      "title": "정부 지원 끊기자 의료 AI도 멈췄다",
+      "url": "https://www.etnews.com/20261013000214",
+      "summary": "정부의 의료 AI 지원 사업이 종료되자 다수의 의료기관에서 AI 서비스 운영이 중단되는 사태가 발생했다. 지속 가능한 의료 AI 생태계 구축을 위한 민간 투자 모델과 제도적 뒷받침이 시급하다는 지적이다.",
+      "source": "전자신문",
+      "time": "10/13 11:00"
+    },
+    {
+      "category": "policy",
+      "title": "판사, 애플 영업비밀 소송에서 OpenAI에 채용 기록 제출 명령",
+      "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+      "summary": "미국 법원이 애플 영업비밀 침해 소송과 관련해 OpenAI에 채용 기록 제출을 명령했다. AI 기업 간 인재 유치 경쟁이 법적 분쟁으로 번진 사례로 업계의 주목을 받고 있다.",
+      "source": "TechCrunch",
+      "time": "10/14 05:00"
+    },
+    {
+      "category": "chip",
+      "title": "MS, 자체 AI 칩 대규모 배치 선언...차세대 '마이아 300' 공개",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216182",
+      "summary": "마이크로소프트가 자체 개발 AI 칩 '마이아 300'을 공개하고 대규모 데이터센터 배치를 선언했다. 엔비디아 GPU 의존도를 낮추고 자체 AI 인프라 자립도를 높이기 위한 전략의 일환이다.",
+      "source": "AI Times",
+      "time": "10/13 09:00"
+    },
+    {
+      "category": "chip",
+      "title": "비드래프트, NPU 가속 소프트웨어 'VKORE' 개발… 추론·학습 동시 구현",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216203",
+      "summary": "국내 스타트업 비드래프트가 NPU 가속 소프트웨어 'VKORE'를 개발해 AI 추론과 학습을 동시에 처리하는 기술을 구현했다. 고가 GPU 없이도 효율적인 AI 연산이 가능해 인프라 비용 절감에 기여할 전망이다.",
+      "source": "AI Times",
+      "time": "10/13 13:00"
+    },
+    {
+      "category": "chip",
+      "title": "인텔·브로드컴 CEO 'AI 최대 걸림돌은 전력·칩 아닌 자본'",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216207",
+      "summary": "인텔과 브로드컴 CEO가 AI 산업의 가장 큰 장벽으로 전력이나 칩 부족이 아닌 '자본 조달'을 꼽았다. AI 데이터센터 구축에 필요한 막대한 투자 비용 조달이 AI 확산의 실질적 병목이라는 진단이다.",
+      "source": "AI Times",
+      "time": "10/13 14:00"
+    },
+    {
+      "category": "chip",
+      "title": "인텔, 추론 특화 GPU 'GPU D시리즈' 공개",
+      "url": "https://zdnet.co.kr/view/?no=20261013092929",
+      "summary": "인텔이 AI 추론에 특화된 새 GPU 라인업 'D시리즈'를 공개했다. 엔비디아와의 AI 가속기 시장 경쟁에서 추론 효율성과 비용 경쟁력을 앞세운 제품으로, 데이터센터 시장 공략을 목표로 한다.",
+      "source": "지디넷",
+      "time": "10/13 09:29"
+    },
+    {
+      "category": "service",
+      "title": "AI 업무 플랫폼 '팔레트 에이전트' 글로벌 출시…'기획부터 앱 제작까지 통합 지원'",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216199",
+      "summary": "AI 업무 자동화 플랫폼 '팔레트 에이전트'가 글로벌 시장에 출시됐다. 기획 단계부터 앱 제작까지 전 과정을 AI가 통합 지원하며, 비개발자도 쉽게 비즈니스 앱을 구축할 수 있는 노코드·AI 복합 플랫폼이다.",
+      "source": "AI Times",
+      "time": "10/13 12:30"
+    },
+    {
+      "category": "service",
+      "title": "'요금 왜 올랐어?'...통신사 앱 속 AI가 답변에서 납부까지 원스톱 지원",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216195",
+      "summary": "국내 통신사 앱에 AI 에이전트가 도입되어 고객의 요금 문의부터 납부까지 원스톱으로 처리하는 서비스가 확산되고 있다. 고객 상담 비용 절감과 서비스 만족도 향상 효과가 기대된다.",
+      "source": "AI Times",
+      "time": "10/13 13:30"
+    },
+    {
+      "category": "service",
+      "title": "삼성·LG, KES 2026서 AI 가전·데이터센터·로봇 출격...생활·산업 속 AI 기술 과시",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216192",
+      "summary": "삼성전자와 LG전자가 KES 2026에서 AI 가전, 데이터센터 솔루션, AI 로봇 등을 선보였다. 생활 속 AI 가전과 산업용 AI 솔루션이 망라된 이번 전시에서 두 기업의 AI 기술력이 집약됐다.",
+      "source": "AI Times",
+      "time": "10/13 13:00"
+    },
+    {
+      "category": "service",
+      "title": "5000만 사용자 국민 메신저 카카오톡, AI 에이전트 허브로 진화 조준",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216206",
+      "summary": "국내 5000만 사용자를 보유한 카카오톡이 AI 에이전트 허브 플랫폼으로의 전환을 목표로 하고 있다. 다양한 AI 에이전트를 카카오톡 안에서 통합 연동해 금융·쇼핑·이동·의료 등 생활 전반을 지원하는 슈퍼앱 전략이다.",
+      "source": "AI Times",
+      "time": "10/13 15:00"
+    },
+    {
+      "category": "service",
+      "title": "카카오, 개인 맞춤형 AI 비서 '카나나 스페이스' 공개",
+      "url": "https://zdnet.co.kr/view/?no=20261013111445",
+      "summary": "카카오가 개인 맞춤형 AI 비서 서비스 '카나나 스페이스'를 공개했다. 사용자의 일정, 대화, 업무 흐름을 학습해 개인화된 지원을 제공하는 서비스로 카카오 AI 생태계 강화 전략의 핵심이다.",
+      "source": "지디넷",
+      "time": "10/13 11:14"
+    },
+    {
+      "category": "service",
+      "title": "AI가 양극재 소성로 고장 예측…포스코퓨처엠, 'AI 페스티벌' 개최",
+      "url": "https://zdnet.co.kr/view/?no=20261014085548",
+      "summary": "포스코퓨처엠이 AI를 활용해 배터리 양극재 소성로의 고장을 사전 예측하는 기술을 선보이며 'AI페스티벌'을 개최했다. 제조 현장 AI 적용으로 설비 고장 생산 손실을 크게 줄인 대표 사례로 주목받는다.",
+      "source": "지디넷",
+      "time": "10/14 08:55"
+    },
+    {
+      "category": "service",
+      "title": "LG전자, 애플과 AI홈 생태계 확장...차세대 IoT 기기 7종 공개",
+      "url": "https://zdnet.co.kr/view/?no=20261014075542",
+      "summary": "LG전자가 애플과 협력해 AI 홈 생태계를 확장하고 차세대 IoT 기기 7종을 공개했다. 두 회사의 협업으로 스마트홈 기기 간 AI 연동이 강화되어 생활 편의성이 크게 향상될 전망이다.",
+      "source": "지디넷",
+      "time": "10/14 07:55"
+    },
+    {
+      "category": "service",
+      "title": "아메리칸 익스프레스, AI 에이전트의 무단 결제 방지 프레임워크 도입",
+      "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
+      "summary": "Amex가 AI 에이전트가 사용자 허가 없이 결제를 진행하지 못하도록 방지하는 보안 프레임워크를 발표했다. AI 에이전트 기반 자율 구매가 확산됨에 따라 금융 안전장치 마련이 시급해지고 있다.",
+      "source": "TechCrunch",
+      "time": "10/13 22:00"
+    },
+    {
+      "category": "service",
+      "title": "구글 플레이, 누구나 AI로 비공개 Android 앱 개발 가능",
+      "url": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
+      "summary": "Google Play가 코딩 지식 없이 AI를 활용해 개인 맞춤형 비공개 Android 앱을 만드는 기능을 지원한다. 누구나 자신만의 앱을 간단히 개발해 기기에서 바로 실행할 수 있게 됐다.",
+      "source": "TechCrunch",
+      "time": "10/14 02:00"
+    },
+    {
+      "category": "robot",
+      "title": "로봇이 우편물 분류하고 농사짓고…범부처 피지컬 AI 개발·실증 확대",
+      "url": "https://www.etnews.com/20261013000255",
+      "summary": "정부 범부처 협력으로 피지컬 AI 기반 로봇이 우편물 분류, 농업 작업 등 다양한 실생활 영역에서 실증 사업을 확대하고 있다. AI와 로봇의 결합으로 노동력 부족 해결과 산업 생산성 향상이 기대된다.",
+      "source": "전자신문",
+      "time": "10/13 14:00"
+    },
+    {
+      "category": "robot",
+      "title": "Industrial Next, 공장 로봇 작업 전환을 수 주에서 단 몇 분으로 단축",
+      "url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
+      "summary": "Industrial Next가 AI 기반 로봇 솔루션으로 공장 로봇의 작업 전환 시간을 수 주에서 단 몇 분으로 줄이는 기술을 개발했다. 제조업 유연성을 높여 맞춤형 소량 생산에도 즉각 대응 가능하게 한다.",
+      "source": "TechCrunch",
+      "time": "10/14 08:00"
+    },
+    {
+      "category": "robot",
+      "title": "Laplace Intelligence, 로봇·자율주행차 실전 배포 전 AI 레드팀 테스트 제공",
+      "url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+      "summary": "Laplace Intelligence가 로봇과 자율주행차가 실제 환경에 배포되기 전 레드팀 방식으로 취약점을 발굴하는 AI 안전 테스트 서비스를 제공한다. 기업들이 사전에 위험 요소를 식별·제거할 수 있도록 지원한다.",
+      "source": "TechCrunch",
+      "time": "10/14 02:00"
+    },
+    {
+      "category": "security",
+      "title": "Pluto Security, AI 기업 보안 위협 대응으로 4,200만 달러 투자 유치",
+      "url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
+      "summary": "기업 보안팀을 위한 AI 보안 플랫폼 Pluto Security가 시리즈 A로 4,200만 달러를 유치했다. AI 기술 확산으로 기업 보안 공격 면적이 넓어지면서 AI 기반 보안 솔루션 수요가 급증하고 있다.",
+      "source": "TechCrunch",
+      "time": "10/14 02:00"
+    },
+    {
+      "category": "others",
+      "title": "IMF 'AI는 고용 시장의 느린 쓰나미'…아시아 고령화 해법 될 수 있어",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216184",
+      "summary": "IMF가 AI가 고용 시장에 '느린 쓰나미'처럼 영향을 미칠 것이라고 경고하면서도, 아시아의 고령화 문제 해결에 AI가 기여할 수 있다고 전망했다. AI의 노동 시장 충격과 사회적 기회를 균형 있게 관리해야 한다는 진단이다.",
+      "source": "AI Times",
+      "time": "10/13 10:30"
+    },
+    {
+      "category": "others",
+      "title": "카르파시가 진단한 AI 활용 격차...'날카로운 깔때기 형태로 벌어져'",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216191",
+      "summary": "AI 전문가 안드레이 카르파시가 AI 활용 능력 격차가 '날카로운 깔때기'처럼 빠르게 양극화되고 있다고 진단했다. AI를 잘 활용하는 소수와 그렇지 못한 다수 간 생산성 격차가 급속히 확대되고 있다는 분석이다.",
+      "source": "AI Times",
+      "time": "10/13 12:30"
+    }
+  ]
+}
