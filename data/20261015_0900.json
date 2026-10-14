@@ -1,0 +1,350 @@
+{
+  "published_at": "2026-10-15T09:00",
+  "sources": ["AI Times", "지디넷", "전자신문", "TechCrunch", "VentureBeat", "MIT News", "Medium"],
+  "articles": [
+    {
+      "category": "genai",
+      "title": "구글, '제미나이 4 아르곤' 본격 상용화…실무 성과·제품 생태계로 승부",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216220",
+      "summary": "구글이 플래그십 모델 '제미나이 4 아르곤'을 개발자·기업·유료 이용자에게 전면 확대 출시했다. AI 코딩 에이전트 도입 후 내부 코드 제출량이 35% 이상 증가했다고 밝혔으며, 11월 30일까지 API 할인 요금도 적용된다. 외부 성능 평가는 엇갈렸다.",
+      "source": "AI Times",
+      "time": "10/14 05:01"
+    },
+    {
+      "category": "genai",
+      "title": "앤트로픽 차기 모델 '페이블 5.5' 흔적 포착…\"이번 주 출시 예상\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216251",
+      "summary": "앤트로픽의 차세대 모델 '클로드 페이블 5.5'가 마이크로소프트 애저 카탈로그와 LiteLLM 깃허브 설정 파일에서 발견됐다. 이번 주 출시가 예상된다는 정보가 나왔으나 앤트로픽 공식 목록에는 아직 없으며 회사도 공식 발표하지 않은 상태다.",
+      "source": "AI Times",
+      "time": "10/14 14:31"
+    },
+    {
+      "category": "genai",
+      "title": "Z.ai, 법률 특화 모델 'GLM-리걸' 출시…벤치마크서 '페이블 5' 제치고 1위",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216260",
+      "summary": "Z.ai가 법률 실무 특화 모델 'GLM-리걸'을 출시했다. 법률 에이전트 벤치마크 '하비 LAB'에서 통과율 19.17%로 클로드 페이블 5(11.25%)와 키미 K3(12.92%)를 앞섰다. 현재는 신청자에 한해 API 접근이 제한적으로 허용되며 일반 공개 일정은 미정이다.",
+      "source": "AI Times",
+      "time": "10/14 17:12"
+    },
+    {
+      "category": "genai",
+      "title": "팔란티어 CTO \"AI가 암 고칠 테니 담배 피운다?\"…주장에 술렁",
+      "url": "https://www.etnews.com/20261014000322",
+      "summary": "팔란티어 샴 샹카르 CTO가 일부 AI 연구자들이 AI가 암을 치료할 것이라 확신해 흡연을 시작했다고 주장했다. 구체적 통계나 근거는 제시하지 않았지만 AI 의료 기대수준 논쟁에 불을 지폈다.",
+      "source": "전자신문",
+      "time": "10/15 06:00"
+    },
+    {
+      "category": "genai",
+      "title": "라이터, 프롬프트 없이 자율 행동하는 AI 에이전트 출시 — Amazon·MS·Salesforce에 도전",
+      "url": "https://venturebeat.com/technology/writer-launches-ai-agents-that-can-act-without-prompts-taking-on-amazon-microsoft-and-salesforce",
+      "summary": "엔터프라이즈 AI 플랫폼 Writer가 별도 프롬프트 없이 자율적으로 동작하는 AI 에이전트를 출시했다. Amazon, Microsoft, Salesforce 등 빅테크의 AI 에이전트 시장에 직접 도전하는 행보로, 기업 자동화 시장 경쟁이 한층 가열됐다.",
+      "source": "VentureBeat",
+      "time": "10/14"
+    },
+    {
+      "category": "biz",
+      "title": "캐릭터닷AI, 파산 신청…디즈니에 270억 자산 매각 추진",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216237",
+      "summary": "캐릭터닷AI가 막대한 운영비와 청소년 안전 소송 부담으로 챕터 11 파산보호를 신청했다. 디즈니가 일부 지식재산권을 2000만 달러에 인수하는 우선협상자가 됐으며, 자산 매각은 11~12월 마무리 예정이다. 서비스는 매각 중 유지된다.",
+      "source": "AI Times",
+      "time": "10/14 11:58"
+    },
+    {
+      "category": "biz",
+      "title": "LG CNS, 일본 통신사 KDDI와 동남아 에이전틱·피지컬 AI 시장 공조",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216238",
+      "summary": "LG CNS와 KDDI가 아태 지역 AI·디지털 전환 사업 협력을 위한 업무협약을 체결했다. 에이전틱 AI, 피지컬 AI, 스마트시티 분야 공동 사업을 발굴하며, 베트남·태국·필리핀·인도네시아·중국을 우선 진출 지역으로 설정했다.",
+      "source": "AI Times",
+      "time": "10/14 14:35"
+    },
+    {
+      "category": "biz",
+      "title": "MS, 애저 사업부 경영진에 '20% 비용 절감' 지시…\"호황에도 투자비 부담\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216257",
+      "summary": "MS가 애저 조직에 최소 20% 비용 절감안 마련을 지시했다. AI 데이터센터 투자 급증으로 잉여현금흐름이 전년 대비 약 20% 감소한 데 따른 조치다. 계약직 감축이 거론되나 정규직 감원 여부는 미확인이며, MS는 보도가 부정확하다고 반박했다.",
+      "source": "AI Times",
+      "time": "10/14 16:25"
+    },
+    {
+      "category": "biz",
+      "title": "중국 저가 AI 공세·토큰값 급락…빅테크 인프라 투자 '부메랑' 우려",
+      "url": "https://zdnet.co.kr/view/?no=20261014103147",
+      "summary": "Moonshot AI의 Kimi K3가 Claude 수준 95% 성능을 저가로 제공하며 토큰 단가를 급락시키고, 중국산 모델 사용량이 5개월 만에 17배 급증해 빅테크 투자 회수에 적신호가 켜졌다.",
+      "source": "지디넷",
+      "time": "10/14 10:31"
+    },
+    {
+      "category": "biz",
+      "title": "'이미지 공룡' 게티의 몰락…언론에 던진 AI 시대 경고장",
+      "url": "https://zdnet.co.kr/view/?no=20261014124103",
+      "summary": "게티이미지가 파산보호 신청으로 시장에서 퇴장하면서, AI가 무한 생성하는 저비용 이미지가 저작권 시장 자체를 대체할 수 있다는 경고를 미디어 업계에 던졌다.",
+      "source": "지디넷",
+      "time": "10/14 12:41"
+    },
+    {
+      "category": "biz",
+      "title": "카카오, 인적분할 후 성장전략 공개…스테이블코인·AI 콘텐츠 확대",
+      "url": "https://www.etnews.com/20261014000063",
+      "summary": "카카오는 if(kakao)26 행사에서 AI 사업 전략을 공개했다. 카카오톡을 '통합 에이전틱 AI 인터페이스'로 진화시키고, 카카오피카소를 통해 AI 애니메이션 80편 제작 및 스테이블코인 결제 연동을 추진한다.",
+      "source": "전자신문",
+      "time": "10/14 07:00"
+    },
+    {
+      "category": "biz",
+      "title": "하모닉 시큐리티, 5천만 달러 시리즈 B 투자 유치 — 직원 AI 안전 사용 확대",
+      "url": "https://venturebeat.com/business/harmonic-security-raises-50-million-series-b-enabling-safe-ai-adoption-for-millions-more-employees",
+      "summary": "AI 보안 플랫폼 Harmonic Security가 Crosspoint Capital Partners 주도로 5천만 달러 시리즈 B 투자를 유치해 누적 7,600만 달러를 달성했다. 100개 이상 기업 직원의 안전한 AI 활용 지원을 확대할 계획이다.",
+      "source": "VentureBeat",
+      "time": "10/14"
+    },
+    {
+      "category": "biz",
+      "title": "스칸 AI, 6,300만 달러 투자 유치 — 직원 업무 관찰이 엔터프라이즈 AI의 빠진 레이어",
+      "url": "https://venturebeat.com/data/skan-ai-raises-63-million-betting-that-watching-how-employees-actually-work-is-the-missing-layer-of-enterprise-ai",
+      "summary": "직원 실제 업무 흐름 분석 AI 스타트업 Skan AI가 6,300만 달러 투자를 유치했다. 직원들의 업무 행동 데이터가 엔터프라이즈 AI에서 놓친 컨텍스트 레이어라는 가정 아래 AI 에이전트 최적화 위한 프로세스 인텔리전스 플랫폼을 제공한다.",
+      "source": "VentureBeat",
+      "time": "10/14"
+    },
+    {
+      "category": "biz",
+      "title": "마이크로소프트, Agent 365 정식 출시 — '섀도 AI'가 기업 위협으로 급부상",
+      "url": "https://venturebeat.com/technology/microsoft-takes-agent-365-out-of-preview-as-shadow-ai-becomes-an-enterprise-threat",
+      "summary": "Microsoft가 AI 에이전트 플랫폼 Agent 365를 프리뷰에서 정식 출시했다. 직원들이 승인받지 않은 AI 도구를 무단 사용하는 '섀도 AI' 현상이 기업 보안·통제 위협으로 급부상하는 시점에 맞춘 대응이다.",
+      "source": "VentureBeat",
+      "time": "10/14"
+    },
+    {
+      "category": "tech",
+      "title": "KT, 최대 800Gbps 대역폭 지원 초고속·초저지연 'AI 전용회선' 선봬",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216231",
+      "summary": "KT가 AI 학습·추론용 'AI 전용회선'을 출시했다. 기존 100Gbps 수준에서 400Gbps·800Gbps로 확대했으며, 전국 84만 km 광케이블 기반 다원화 경로와 광 중심 구조(APN)로 초저지연을 실현했다.",
+      "source": "AI Times",
+      "time": "10/14 14:41"
+    },
+    {
+      "category": "tech",
+      "title": "커서, GitHub 장애 틈타 'Origin' 코드 호스팅 플랫폼 출시 — AI 코딩 경쟁 판도 변화",
+      "url": "https://venturebeat.com/infrastructure/cursor-launches-origin-code-hosting-platform-as-github-outage-exposes-opening-in-ai-coding-race",
+      "summary": "AI 코딩 도구 Cursor가 자체 코드 호스팅 플랫폼 'Origin'을 유료 사용자 대상으로 출시했다. 6시간 이상 지속된 GitHub 장애 시점에 맞춰 발표돼 주목받으며, 기존 GitHub 연동을 유지하면서 독자 플랫폼으로 확장하는 전략이다.",
+      "source": "VentureBeat",
+      "time": "10/14"
+    },
+    {
+      "category": "tech",
+      "title": "머신러닝으로 2~6주 중기 기상 예측 정확도 두 배 향상",
+      "url": "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014",
+      "summary": "MIT 연구팀이 기존 기상예측 시스템의 오류를 보정하는 ML 모델을 개발해 2~6주 중기 예보 정확도를 두 배 향상시켰다. Nature에 게재됐으며 국제 기상예측 대회에서 1위를 차지했다. 재난 대비에 핵심적인 중기 예보 정밀도를 획기적으로 높인 성과다.",
+      "source": "MIT News",
+      "time": "10/14 09:00"
+    },
+    {
+      "category": "service",
+      "title": "카카오, '모두의 AI' 연내 출시…MAU 500만명 목표",
+      "url": "https://www.etnews.com/20261014000242",
+      "summary": "카카오가 전 국민 대상 AI 서비스 '모두의 AI'를 연내 정식 출시하고 MAU 500만명을 목표로 제시했다. 카카오톡 기반으로 검색·예약·일정 관리 등 일상 업무를 수행하는 에이전틱 AI로 발전시킨다는 계획이다.",
+      "source": "전자신문",
+      "time": "10/14 11:00"
+    },
+    {
+      "category": "service",
+      "title": "카카오, AI 앱 '카나나' 내달 종료…카카오톡 AI에 집중",
+      "url": "https://www.etnews.com/20260915000317",
+      "summary": "카카오가 베타 운영하던 독립 AI 앱 '카나나'를 10월 15일 종료한다. 이후 카카오톡 통합 AI 전략에 집중하며 이용자는 이달 14일까지 대화 데이터 백업이 가능하다.",
+      "source": "전자신문",
+      "time": "10/14 14:00"
+    },
+    {
+      "category": "service",
+      "title": "구글, 저가·무료 가입자 '제미나이' 고급기능 사용 제한",
+      "url": "https://www.etnews.com/20261014000012",
+      "summary": "구글이 이달부터 무료 및 저가 요금제 제미나이 이용자의 고급 모델(Pro 등) 접근을 제한한다. AI 서비스 수익화 강화 전략으로 프리미엄 요금제 전환을 유도하는 조치로 해석된다.",
+      "source": "전자신문",
+      "time": "10/14 08:00"
+    },
+    {
+      "category": "service",
+      "title": "구글, AI '바이브 코딩' 앱 비공개 실행 기능 도입…\"개발자 등록 필요 없어\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216259",
+      "summary": "구글이 AI 스튜디오에서 바이브 코딩으로 만든 안드로이드 앱을 개발자 등록 없이 비공개로 실행할 수 있게 했다. 제작자 본인만 사용 가능하며, 향후 소규모 그룹 공유와 인기 앱의 정식 출시 전환 절차도 준비 중이다.",
+      "source": "AI Times",
+      "time": "10/14 16:29"
+    },
+    {
+      "category": "service",
+      "title": "스페이스XSI, X·그록·커서 통합한 월 구독 패키지 출시",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216258",
+      "summary": "스페이스XSI가 소셜 플랫폼 X, AI 챗봇 그록, AI 코딩 도구 커서를 묶은 통합 구독 'X 구독'을 출시했다. 무료부터 월 200달러 울트라까지 5단계이며, 상위 요금제일수록 AI 사용 한도가 확대된다.",
+      "source": "AI Times",
+      "time": "10/14 17:07"
+    },
+    {
+      "category": "service",
+      "title": "오픈AI, 기업 AI 데이터 프라이버시 우려 겨냥한 'Private Intelligence' 서비스 출시",
+      "url": "https://venturebeat.com/security/openais-new-private-intelligence-targets-a-growing-enterprise-concern-who-can-see-your-ai-data",
+      "summary": "OpenAI가 기업 데이터의 AI 훈련 사용 및 외부 노출을 방지하는 격리형 AI 환경 'Private Intelligence'를 출시했다. 기업 AI 데이터 열람 권한에 대한 증가하는 우려에 대응하기 위한 서비스다.",
+      "source": "VentureBeat",
+      "time": "10/14"
+    },
+    {
+      "category": "service",
+      "title": "2026년 10월 기준 AI 모델 선택 가이드",
+      "url": "https://medium.com/@shtse8/how-to-choose-an-ai-model-in-october-2026-4980a37bc677",
+      "summary": "GPT-5.5 등 주요 모델 변경 사항을 반영한 2026년 10월 AI 모델 선택 가이드. 용도별·비용별 최적 모델을 비교 분석하며, ChatGPT에서 GPT-5.5가 빠지는 10월 14일 이후의 변화도 다룬다.",
+      "source": "Medium",
+      "time": "10/14 07:00"
+    },
+    {
+      "category": "service",
+      "title": "'모두의 AI' 16일 정부 첫 점검…SKT·KT·카카오가 꺼낸 승부수는",
+      "url": "https://zdnet.co.kr/view/?no=20261014143531",
+      "summary": "정부가 16일 SKT·KT·카카오의 '모두의 AI' 개발 현황을 첫 점검한다. SKT는 챗봇+검색 베타, KT는 이음 인사이드 전략, 카카오는 에이전트 마켓플레이스로 12월 정식 출시를 준비 중이다.",
+      "source": "지디넷",
+      "time": "10/14 14:35"
+    },
+    {
+      "category": "service",
+      "title": "군대에서도 내 AI 비서 쓴다…'모두의 AI' 3사, 장병 AI 제안",
+      "url": "https://zdnet.co.kr/view/?no=20261014150631",
+      "summary": "SKT·KT·카카오가 '국방 AX 세미나'에서 장병 맞춤형 AI 서비스 방안을 제안했다. 카카오는 군 신분 확인 후 권한별 데이터 연결 구조를 강조했다.",
+      "source": "지디넷",
+      "time": "10/14 15:06"
+    },
+    {
+      "category": "policy",
+      "title": "\"나랏돈으로 만든 AI 데이터, 공개 의무화된다\"…AI 기본법 개정안 통과",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216219",
+      "summary": "정부 예산으로 구축한 AI 학습용 데이터를 AI허브에 연계·제공하도록 의무화하는 AI 기본법 개정안이 국무회의를 통과했다. 영업비밀·개인정보·국가안보 등 예외 사유가 있으면 제외 가능하며, 공공·민간 데이터 통합 검색 '원-윈도우'도 도입된다. 내년 4월부터 시행 예정이다.",
+      "source": "AI Times",
+      "time": "10/14 14:32"
+    },
+    {
+      "category": "policy",
+      "title": "힌튼·벤지오 등 석학 400명, AI 사이버 위협 감독할 국제기구 설립 촉구",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216252",
+      "summary": "제프리 힌튼·요슈아 벤지오 등 34개국 연구자 400여 명이 사이버 공격 능력을 가진 AI를 감독할 국제기구 설립을 촉구했다. 업계 공통 격리 기준 수립, 주요 보안 사고 등록·관리, 최첨단 모델의 외부망 분리와 독립 감독이 핵심 요구 사항이다.",
+      "source": "AI Times",
+      "time": "10/14 14:58"
+    },
+    {
+      "category": "policy",
+      "title": "앤트로픽, 국방부 '공급망 위험' 지정 불복…항소법원에 재심 청구",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216255",
+      "summary": "앤트로픽이 미 국방부의 '공급망 위험' 기업 지정에 불복해 워싱턴 D.C. 연방항소법원에 재심을 청구했다. 클로드의 군사 활용 제한 협상 결렬이 발단이며, 앤트로픽은 AI 안전 원칙 공표에 대한 보복이라고 주장한다.",
+      "source": "AI Times",
+      "time": "10/14 15:58"
+    },
+    {
+      "category": "policy",
+      "title": "최형두 의원 \"정부 GPU 26만장 중 81%는 기업 계획…실제 가동 따져야\"",
+      "url": "https://zdnet.co.kr/view/?no=20261014164011",
+      "summary": "최형두 국민의힘 의원이 AI 3강 목표 정부 GPU 26만장 중 81%가 기업의 자체 계획에 불과하며, 실제 국가 관리·가동 현황을 별도로 파악해야 한다고 지적했다.",
+      "source": "지디넷",
+      "time": "10/14 16:40"
+    },
+    {
+      "category": "policy",
+      "title": "트럼프 행정부, AI를 'Super Intelligence(SI)'로 공식 개명한 배경",
+      "url": "https://medium.com/@chandanharthi/is-ai-now-called-si-why-trump-renamed-ai-super-intelligence-the-rename-explained-2026-3bcd80144673",
+      "summary": "트럼프 행정부가 'AI' 대신 'Super Intelligence(SI)'라는 용어를 공식 채택한 맥락과 정치적 의도를 분석한다. AI 기술의 명칭이 어떤 정책적·사회적 의미를 갖는지를 살펴본다.",
+      "source": "Medium",
+      "time": "10/14 10:00"
+    },
+    {
+      "category": "chip",
+      "title": "삼성전자, AI 반도체 '풀 라인업' 공개…360조 용인 산단 청사진도 제시",
+      "url": "https://zdnet.co.kr/view/?no=20261014084125",
+      "summary": "삼성전자가 SEDEX 2026에서 HBM4E·LPDDR-PIM 등 AI 반도체 전 제품군과 2.3D/3D 패키징 기술을 공개하고, 용인 반도체 클러스터 조성 계획을 처음 제시했다.",
+      "source": "지디넷",
+      "time": "10/14 08:41"
+    },
+    {
+      "category": "chip",
+      "title": "엔비디아, 유럽 AI 생태계 공략 본격화…프랑스 스타트업 4곳 지분 인수",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216261",
+      "summary": "엔비디아가 유럽 AI 생태계 투자 확대 차원에서 프랑스 스타트업 닥토리브·제네시스 AI·엔탈픽·피그먼트 지분을 인수했다. 젠슨 황 CEO는 유럽 M&A에 20억 달러 투자 계획을 밝혔다.",
+      "source": "AI Times",
+      "time": "10/14 15:20"
+    },
+    {
+      "category": "chip",
+      "title": "에이직랜드, SEDEX서 맞춤형 AI 반도체 솔루션 공개",
+      "url": "https://zdnet.co.kr/view/?no=20261014153146",
+      "summary": "에이직랜드가 SEDEX 2026에서 자체 EDA 플랫폼 'AxHub'와 TSMC 2나노 공정 기반 맞춤형 AI 반도체 설계부터 양산까지 아우르는 턴키 솔루션을 공개했다.",
+      "source": "지디넷",
+      "time": "10/14 15:31"
+    },
+    {
+      "category": "chip",
+      "title": "한미반도체, SEDEX서 차세대 AI 패키징 장비 공개",
+      "url": "https://zdnet.co.kr/view/?no=20261014153804",
+      "summary": "한미반도체가 SEDEX 2026에서 HBM4 양산용 TC 본더 4와 2027년 출시 목표의 와이드 TC 본더 등 차세대 AI 반도체 패키징 장비 라인업을 선보였다.",
+      "source": "지디넷",
+      "time": "10/14 15:38"
+    },
+    {
+      "category": "security",
+      "title": "앤트로픽, 가전기기에 바이러스처럼 자가 복제되는 'AI 웜' 경고",
+      "url": "https://www.etnews.com/20261014000313",
+      "summary": "앤트로픽이 소형 AI 모델이 스마트TV·냉장고 등 가전기기를 통해 스스로 복제·확산하는 'AI 웜' 출현 가능성을 경고했다. 중앙 차단점이 없어 제어가 어렵고 수개월 내 현실화될 수 있다고 분석했다.",
+      "source": "전자신문",
+      "time": "10/14 10:00"
+    },
+    {
+      "category": "security",
+      "title": "오픈AI 회의실에 꽂힌 '수상한 USB'…챗봇에 도청기 질문한 사우디 직원 체포",
+      "url": "https://www.etnews.com/20261014000140",
+      "summary": "오픈AI 사내 회의실에 녹음장치를 설치한 혐의로 사우디 출신 직원이 FBI에 체포됐다. 해당 직원은 챗봇으로 도청장치 은닉·원격 청취 방법을 검색했으며 오픈AI는 자체 AI로 용의자를 특정했다.",
+      "source": "전자신문",
+      "time": "10/14 09:00"
+    },
+    {
+      "category": "security",
+      "title": "오픈AI, 사이버보안 강화 위해 전문 스타트업 인수 추진",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216256",
+      "summary": "오픈AI가 오픈소스 보안 점검 전문 기업 '트레일 오브 비츠' 인수를 위한 초기 협상에 나섰다. 오픈AI는 지난 6월 해당 기업과 오픈소스 보안 프로젝트를 시작했고 위즈 출신 임원 영입 등 사이버보안 사업을 적극 확장 중이다.",
+      "source": "AI Times",
+      "time": "10/14 16:10"
+    },
+    {
+      "category": "security",
+      "title": "Flock Safety CEO \"경찰 고객과 계약 해지한 사실 없다\"… AI 감시 논란 정면 반박",
+      "url": "https://techcrunch.com/2026/10/14/flock-ceo-we-havent-fired-any-police-departments-as-customers",
+      "summary": "Disrupt 2026 무대에서 Flock Safety CEO 개럿 랭글리는 자사 AI 감시 제품 남용을 이유로 경찰과의 계약을 해지한 사례가 없다고 밝혔다. 행사장 외부에 시위대가 집결해 AI 감시 기술의 윤리 논란이 재부각됐다.",
+      "source": "TechCrunch",
+      "time": "10/14 11:30"
+    },
+    {
+      "category": "security",
+      "title": "90개 이상 기업서 AI 보안 도구 탈취 — 차세대 공격은 방화벽 쓰기 권한까지 노려",
+      "url": "https://venturebeat.com/security/adversaries-hijacked-ai-security-tools-at-90-organizations-the-next-wave-has-write-access-to-the-firewall",
+      "summary": "공격자들이 90개 이상 기업에서 AI 보안 도구 자체를 장악한 사례가 보고됐다. 차세대 공격은 방화벽 쓰기 권한 확보 단계로 진화하고 있어, AI 보안 솔루션 자체의 취약성 문제가 심각하게 부각됐다.",
+      "source": "VentureBeat",
+      "time": "10/14"
+    },
+    {
+      "category": "security",
+      "title": "인텔리빅스, 범죄·재난 감지 AI 앞세워 코스닥 도전…국방 사업도 확대",
+      "url": "https://zdnet.co.kr/view/?no=20261015075146",
+      "summary": "CCTV 영상에서 흉기·인파 밀집·화재 등을 AI로 감지하는 인텔리빅스가 10월 30일 코스닥 상장을 추진한다. 성균관대와 4족 보행 로봇 연계 국방 AX 사업도 병행 확대한다.",
+      "source": "지디넷",
+      "time": "10/15 07:51"
+    },
+    {
+      "category": "robot",
+      "title": "마음AI, 4족보행 로봇 보행자도로 순찰 규제특례 심의",
+      "url": "https://zdnet.co.kr/view/?no=20261014180322",
+      "summary": "마음AI의 4족 보행 로봇 'HAECHI'가 천안 하천 변·공원에서 순찰 규제특례 심의를 받았다. 승인 시 실제 보행자 도로에서 AI 감시 로봇 운영이 처음으로 허용될 예정이다.",
+      "source": "지디넷",
+      "time": "10/14 18:03"
+    },
+    {
+      "category": "robot",
+      "title": "TechCrunch Disrupt 2026 2일차: 인간형 로봇 실물 시연과 AI 감시 논쟁이 무대를 장악",
+      "url": "https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/",
+      "summary": "샌프란시스코 모스콘 웨스트에서 열린 Disrupt 2026 2일차. Agility Robotics의 Digit 인간형 로봇이 무대에서 실물 시연을 펼쳤고, OpenAI 연사가 '챗봇 이후의 세계'를 발표했다. Ricursive Intelligence의 AI 자체 하드웨어 설계 세션도 주목받았다.",
+      "source": "TechCrunch",
+      "time": "10/14 09:00"
+    }
+  ]
+}
