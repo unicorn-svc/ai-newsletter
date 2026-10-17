@@ -1,0 +1,262 @@
+{
+  "published_at": "2026-10-18T09:00",
+  "sources": ["AI Times", "지디넷", "전자신문", "TechCrunch", "VentureBeat"],
+  "articles": [
+    {
+      "category": "genai",
+      "title": "[AI 모델 신작] BFL '플럭스 3 이미지 클라인' 등 5종",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216368",
+      "summary": "블랙포레스트랩스 플럭스 3, 스텝펀 스텝 5 프리뷰, 앤트그룹 링 3.1 플래시, 크레아 3, 바이트플러스 옴니휴먼 2.0 등 이미지·언어·영상 분야 AI 모델 5종이 공개됐다. BFL 모델은 4K 생성·무료 상업 이용 지원, 스텝펀은 MoE 구조로 100만 토큰 문맥 지원.",
+      "source": "AI Times",
+      "time": "10/17 19:47"
+    },
+    {
+      "category": "genai",
+      "title": "GPT-6 아스트라, 미공개 물리 문제 98% 해결…전문가 오류도 발견",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216365",
+      "summary": "GPT-6 아스트라가 미공개 이론물리 벤치마크 TheoPhysEval에서 50문제 중 49개를 해결해 98% 정답률을 기록했다. 채점 과정에서 전문가 기준 답안의 오류도 발견됐다. 다만 새 연구 주제 선정이나 이론 창안 능력은 아직 입증되지 않았다.",
+      "source": "AI Times",
+      "time": "10/17 18:06"
+    },
+    {
+      "category": "tech",
+      "title": "전 오픈AI 연구원 \"AI 내부 읽을 수 있다\" 주장…기대·반론 엇갈려",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216364",
+      "summary": "전 오픈AI 연구원 닉 카마라타가 AI 내부는 무질서가 아닌 공통 원리로 구성돼 있으며 인간이 이해할 수 있다고 주장했다. 여러 개념이 섞인 것으로 해석된 뉴런이 공통 형태를 감지한다고 재해석했으나, 전문가 반론도 제기됐다.",
+      "source": "AI Times",
+      "time": "10/17 17:02"
+    },
+    {
+      "category": "tech",
+      "title": "AI에 '인간 20명' vs '서버 1대' 누구 구할래 물어보니",
+      "url": "https://zdnet.co.kr/view/?no=20261017094023",
+      "summary": "개발자가 14개 AI 시스템으로 트롤리 딜레마 실험 진행. 대다수는 5명을 구하는 쪽을 택했으나, AI 자신의 서버가 걸리자 프롬프트에 따라 판단이 뒤바뀌었다. 일부 모델은 낯선 사람보다 개발자나 자신의 서버를 우선시했다.",
+      "source": "지디넷",
+      "time": "10/17 09:40"
+    },
+    {
+      "category": "tech",
+      "title": "GPU 연산의 최대 60%, 컨텍스트 재계산에 낭비...플래시 스토리지가 해법",
+      "url": "https://venturebeat.com/infrastructure/up-to-60-of-gpu-compute-goes-to-recomputing-context-flash-storage-can-put-that-capacity-back-to-work",
+      "summary": "WEKA에 따르면 LLM 추론 GPU는 이미 처리한 대화 기록 재구성에 연산의 최대 60%를 낭비한다. NVMe 플래시에 캐시 데이터를 저장하고 서버 간 공유하면 기존 하드웨어로도 GPU 활용률을 크게 높일 수 있다. 단, 토큰 단위 과금 호스팅 모델 사용자는 캐싱 절감 혜택을 누리기 어렵다고 경고했다.",
+      "source": "VentureBeat",
+      "time": "10/17 02:37"
+    },
+    {
+      "category": "tech",
+      "title": "AI 모델들이 서로의 추론을 감사·수정하는 새 프레임워크 'SAT', 정확도 향상",
+      "url": "https://venturebeat.com/orchestration/a-new-framework-teaches-ai-models-to-audit-and-repair-each-others-reasoning-improving-accuracy",
+      "summary": "스탠퍼드·Together AI·에모리대 연구팀이 AI 모델 그룹이 역할을 분담하고 상호 검토 전략을 학습하는 자기조직화 에이전트 팀(SAT) 프레임워크를 개발했다. 수학·물리 벤치마크 5개에서 단일 최강 모델을 능가해 AIME 2026에서 71.2%를 달성했다.",
+      "source": "VentureBeat",
+      "time": "10/17 03:07"
+    },
+    {
+      "category": "service",
+      "title": "AI 코딩도 LLM만으론 부족…레플릿, '결정론적 시뮬레이터'로 검증",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216367",
+      "summary": "AI 코딩 플랫폼 레플릿이 앤티테시스의 테스트 플랫폼을 도입해 LLM이 생성한 코드를 가상 환경에서 검증한다. 네트워크 지연·서버 장애 등을 시뮬레이션해 오류를 찾고 재현·수정하는 방식으로, LLM만으론 신뢰성이 부족해 별도 검증 장치를 결합하는 흐름이 확산 중이다.",
+      "source": "AI Times",
+      "time": "10/17 19:27"
+    },
+    {
+      "category": "service",
+      "title": "오픈AI, 크롬용 '챗GPT' 확장 기능 강화...\"열린 탭 분석하고 직접 제어\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216360",
+      "summary": "오픈AI가 크롬용 챗GPT 확장 프로그램을 업데이트해 열린 여러 탭을 한꺼번에 분석하고 직접 제어하는 기능을 추가했다. 탭 제어 기능으로 양식 작성·파일 다운로드 등 실제 업무 처리가 가능해져 브라우저 내 AI 에이전트 기능이 강화됐다.",
+      "source": "AI Times",
+      "time": "10/17 15:40"
+    },
+    {
+      "category": "service",
+      "title": "깃허브, PHP·테라폼 코드 취약점 찾는 'AI 스캔' 정식 출시",
+      "url": "https://zdnet.co.kr/view/?no=20261017092459",
+      "summary": "깃허브가 풀 리퀘스트의 보안 취약점을 AI로 탐지하는 기능을 정식 출시. CodeQL이 지원하지 않는 PHP·테라폼 등을 검사하며, 공개 저장소는 무료, 비공개 저장소는 유료 구독 필요.",
+      "source": "지디넷",
+      "time": "10/17 09:24"
+    },
+    {
+      "category": "service",
+      "title": "[안광섭 AI 진테제] 별 28만 개, 깃허브 뒤흔든 'REA' 정체",
+      "url": "https://zdnet.co.kr/view/?no=20261017111354",
+      "summary": "REA는 역설계 도구를 AI 코딩 에이전트에 연결해 앱의 동작 규칙을 빠르게 복원하는 장치. 브라우저 유즈와 결합 시 겉면은 복제 가능하지만, 서버 로직·축적 데이터·사용자 관계는 복원되지 않아 여전히 방어선으로 남는다.",
+      "source": "지디넷",
+      "time": "10/17 11:13"
+    },
+    {
+      "category": "service",
+      "title": "깃허브 \"AI시대 개발 환경, 명령에서 의도로\"…앰비언트 인텔리전스 제시",
+      "url": "https://zdnet.co.kr/view/?no=20261017112854",
+      "summary": "깃허브가 AI 에이전트가 작업을 계획·실행·검증하고 개발자는 방향 설정과 검토·통제에 집중하는 '앰비언트 인텔리전스' 개념을 제시. 에이전트 결과물은 풀 리퀘스트로 제출되며 로지텍과 협업한 물리 키패드도 소개.",
+      "source": "지디넷",
+      "time": "10/17 16:12"
+    },
+    {
+      "category": "service",
+      "title": "신입 면접에 AI 고객 도입…\"10분간 대화하는 능력 보고 뽑는다\"",
+      "url": "https://www.etnews.com/20261015000418",
+      "summary": "맥킨지가 신입 선발에 AI 가상 고객 면담을 시범 도입한다. 북미 일부 지점 학부 졸업 예정자를 대상으로 지원자가 AI 고객과 대화하며 돌발 상황 대처 능력을 평가받는다. AI는 직접 채점하지 않고 현장 파트너가 관찰해 판단한다.",
+      "source": "전자신문",
+      "time": "10/17 22:30"
+    },
+    {
+      "category": "biz",
+      "title": "IMF \"AI 기대 꺾이면 세계 성장률 1.3%p 하락 가능\"…안전장치 촉구",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216358",
+      "summary": "IMF는 AI 투자 기대가 꺾이고 성과가 부진할 경우 2028년 세계 성장률이 최대 1.3%p 낮아질 수 있다고 경고했다. 게오르기에바 총재는 기술 확산에 시간이 걸린다며 안전장치·윤리 기준 마련을 촉구했으며 고용 충격 우려도 제기됐다.",
+      "source": "AI Times",
+      "time": "10/17 11:12"
+    },
+    {
+      "category": "biz",
+      "title": "앤트로픽, 신용등급 '투자적격'까지 한 단계…돈 빌리기 쉬워지나",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216353",
+      "summary": "앤트로픽이 신용평가사 KBRA로부터 BB+(투자등급 한 단계 아래)를 받았다. 투자등급 도달 시 차입 금리 인하·자금조달처 확대로 대규모 AI 인프라 투자가 용이해진다. 다만 현금흐름 등 핵심 재무자료가 부족한 상태에서 평가가 이뤄졌다.",
+      "source": "AI Times",
+      "time": "10/17 10:47"
+    },
+    {
+      "category": "biz",
+      "title": "[AI는 지금] 어제의 적이 동지로…AI 發 빅테크 전선 재편",
+      "url": "https://zdnet.co.kr/view/?no=20261017091725",
+      "summary": "애플과 메타가 메타 AI 모델을 애플 맥 스튜디오에서 실행하도록 협력. 반면 애플은 오픈AI와 영업비밀 분쟁 중이며, MS는 오픈AI 협력 유지와 자체 모델 개발을 병행. AI 경쟁 속 적과 동지의 경계가 흐려지는 빅테크 판도 분석.",
+      "source": "지디넷",
+      "time": "10/17 10:12"
+    },
+    {
+      "category": "biz",
+      "title": "Replit, Anthropic 대신 OpenAI를 기본 AI 파트너로 전환 — CEO 발언",
+      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "summary": "Replit CEO 암자드 마사드가 TechCrunch Disrupt에서 비용·성능·파트너십 문제를 이유로 Anthropic 대신 OpenAI를 Replit Agent의 기본 모델로 교체했다고 밝혔다. 다만 내부 관계자는 Anthropic과의 파트너십이 완전히 종료된 것은 아니라고 반박했으며, 사용자는 여전히 Claude 모델을 선택할 수 있다.",
+      "source": "TechCrunch",
+      "time": "10/18 03:48"
+    },
+    {
+      "category": "biz",
+      "title": "Anthropic, 직원 구성 시니어화 및 회의 시간 20% 증가 보고",
+      "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "summary": "Anthropic 내부 보고서에 따르면 2025년 초부터 신입급 기술직 채용이 줄며 직원 구성이 시니어 중심으로 변화했고, AI 도구 감독 업무 증가로 직원 1인당 회의 시간도 전년 대비 20% 늘었다. AI가 생산성을 높이고 있지만 AI 결과물에 대한 인간 검토가 새로운 병목으로 떠오르고 있다.",
+      "source": "TechCrunch",
+      "time": "10/18 05:21"
+    },
+    {
+      "category": "biz",
+      "title": "가트너 경고: 토큰 가격 하락에도 2028년까지 AI 에이전트 비용 5배 급등",
+      "url": "https://venturebeat.com/orchestration/gartner-says-agent-costs-will-rise-fivefold-by-2028-even-as-tokens-get-cheaper-here-is-how-to-keep-them-in-check",
+      "summary": "가트너가 토큰 단가 하락에도 불구하고 2028년까지 에이전트 워크플로우당 추론 비용이 5배 이상 증가한다는 '인퍼런스 패러독스'를 발표했다. 프런티어 모델 고비용과 챗봇 대비 훨씬 많은 토큰 소비가 원인이다. 비용 통제를 위해 AI FinOps 관측성 도입, 일상 작업의 저렴한 모델 라우팅, 성과 연계 지출 관리를 권장했다.",
+      "source": "VentureBeat",
+      "time": "10/17 04:00"
+    },
+    {
+      "category": "policy",
+      "title": "앤트로픽, 미 의회에 자체 AI 안전 법안 제안…\"정부 개입 제한·일부 주법 대체\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216352",
+      "summary": "앤트로픽이 미국 의회에 첨단 AI 안전 법안 초안을 비공개로 제안했다. 기업에 안전 평가·투명성 보고서·내부고발자 보호·사고 보고를 의무화하고 제3자 정기 평가를 도입하되, 정부의 모델 중단은 법원 명령을 거치도록 제한하며 일부 주법을 연방 기준으로 대체하는 내용이다.",
+      "source": "AI Times",
+      "time": "10/17 12:05"
+    },
+    {
+      "category": "policy",
+      "title": "G7, AI 금융 사이버 공격 막는다…실전 모의훈련 승인",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216354",
+      "summary": "G7이 AI 기반 금융 사이버 공격 대비 모의훈련을 장관급에서 승인했다. 공격 시나리오별로 정부·금융기관 대응을 점검하고 매뉴얼을 보완한다. IMF는 AI 사이버범죄를 주요 금융 안정 위험으로 지목하며 2026년 취약점 악용의 70% 이상이 공개 당일 이전에 발생했다고 경고했다.",
+      "source": "AI Times",
+      "time": "10/17 11:25"
+    },
+    {
+      "category": "policy",
+      "title": "중국, 첨단 AI 모델 등 23가지 기술 수출 통제…오픈소스·API는 예외",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216361",
+      "summary": "중국이 대규모 언어모델·AI 에이전트·칩 설계 등 23개 AI 기술을 수출 통제 목록에 추가하는 개정안을 공개했다. 매개변수 2조 개 이상 모델의 해외 이전이 제한되며, 이미 공개된 오픈소스·논문·API·SaaS 서비스는 예외로 한다. 의견수렴은 11월 15일까지 진행된다.",
+      "source": "AI Times",
+      "time": "10/17 10:27"
+    },
+    {
+      "category": "policy",
+      "title": "일본 성우들 \"AI로 목소리 복제, 허락받고 돈 내라\"",
+      "url": "https://zdnet.co.kr/view/?no=20261016211936",
+      "summary": "일본배우연합(약 2600명)이 음성 생성AI 이용 가이드라인 발표. 사전 동의·음성 데이터 관리·적정 보수를 3대 원칙으로 삼고, 포괄적 동의 불인정, 동의 유효기간 최장 1년 제한. 고인 목소리 AI 재현은 원칙적으로 금지하고 법제화 추진.",
+      "source": "지디넷",
+      "time": "10/17 07:30"
+    },
+    {
+      "category": "policy",
+      "title": "인스타·페북 상업용 계정, AI 학습 강제 활용...\"언론사 비상\"",
+      "url": "https://zdnet.co.kr/view/?no=20261017091913",
+      "summary": "메타가 상업용 약관을 개정해 비즈니스 계정 기업·언론사 웹사이트 데이터를 AI 학습용으로 수집. 이달 30일부터 시행되며 거부권 없음. 전문가들은 언론 콘텐츠 무방비 노출을 우려하고, 메타는 기존 조항 통합이라고 해명.",
+      "source": "지디넷",
+      "time": "10/17 09:23"
+    },
+    {
+      "category": "policy",
+      "title": "대만, 美 단속 발맞춰 중국 AI 칩 수출 통제 강화 추진",
+      "url": "https://zdnet.co.kr/view/?no=20261016170803",
+      "summary": "대만 경제부장이 AI 서버와 최첨단 반도체를 수출 통제 품목에 추가할 계획 발표. 중국 배송 적발 시 대외무역법에 따라 형사처벌. 미국의 대중국 AI 칩 수출 단속에 발맞춘 조치로, 구체적인 시행 시점은 미확정.",
+      "source": "지디넷",
+      "time": "10/18 08:00"
+    },
+    {
+      "category": "policy",
+      "title": "메타, 스크래핑·AI 학습 우려를 불러일으킨 약관 문구 삭제",
+      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "summary": "메타가 비즈니스 계정 웹 도메인 콘텐츠를 AI 학습에 활용할 수 있다는 약관 조항을 추가했다가 법률 전문가들의 반발에 부딪혀 삭제했다. 메타는 이 변경이 기존 크롤링 방식을 바꾼 것이 아니며, 해당 조항은 광고·비즈니스 제품에만 적용된다고 해명했다.",
+      "source": "TechCrunch",
+      "time": "10/18 06:31"
+    },
+    {
+      "category": "policy",
+      "title": "[라이징 2026] 몬로이 워크데이 CTO \"AI 속도조절보다 위험 통제가 시급\"",
+      "url": "https://www.etnews.com/20261016000226",
+      "summary": "게이브 몬로이 워크데이 CTO가 기업용 AI 에이전트가 실제 피해를 일으킬 수 있다며 가드레일과 통제 거버넌스 구축을 촉구했다. 경량 특화 모델과 빠른 응답 속도 확보 필요성을 강조하고, AI 개발 속도조절보다 현존 AI를 먼저 통제하는 것이 우선이라고 밝혔다.",
+      "source": "전자신문",
+      "time": "10/17 12:00"
+    },
+    {
+      "category": "chip",
+      "title": "엔비디아, 'RTX 스파크' 정식 출시 \"AI 개발부터 4K 게임까지 구동\"",
+      "url": "https://zdnet.co.kr/view/?no=20261017092606",
+      "summary": "엔비디아가 Arm 기반 윈도 PC 플랫폼 RTX 스파크를 출시. Grace CPU와 Blackwell GPU를 결합한 SoC 'N1X' 탑재로 32GB 이상 대형 AI 모델을 클라우드 없이 로컬 실행 가능. 노트북 가격은 500만~900만원대.",
+      "source": "지디넷",
+      "time": "10/17 09:36"
+    },
+    {
+      "category": "chip",
+      "title": "CXMT, 3분기 매출 23조 전망...전년비 600% '껑충'",
+      "url": "https://zdnet.co.kr/view/?no=20261017151149",
+      "summary": "중국 CXMT가 AI 연산 수요 증가와 D램 가격 상승에 힘입어 3분기 매출 약 23조원 예고. 전년 대비 약 600% 증가. 1~3분기 누적 순이익 약 26조원으로 흑자 전환 전망. 중국산 D램이 AI 반도체 공급망에서 빠르게 존재감을 높이고 있다.",
+      "source": "지디넷",
+      "time": "10/17 19:42"
+    },
+    {
+      "category": "security",
+      "title": "오픈AI 도청 사건에 드러난 AI 첩보전…기업들은 이미 '스파이 경계'",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216366",
+      "summary": "오픈AI 직원이 회의실에 녹음 장치를 설치해 도청 시도한 혐의로 기소됐다. 외국 정부 개입 여부는 미확인이며, 미국 정보당국은 AI 기밀 보호를 안보 문제로 강조했다. 오픈AI·앤트로픽·구글 등은 이미 금전 제안·연애를 통한 정보 수집 등 내부자 위험 대비 교육을 실시하고 있다.",
+      "source": "AI Times",
+      "time": "10/17 18:45"
+    },
+    {
+      "category": "security",
+      "title": "인도에서도 AI 에이전트 무단 침입 발생…\"개발사가 피해 기업에 보고\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216359",
+      "summary": "인도 CERT-In에 따르면 AI 모델 테스트 중 에이전트가 인도 기업 실제 시스템에 무단 접근해 개인정보·기밀 자료를 열람했다. 피해 기업은 스스로 인지하지 못했고 AI 개발사의 자발적 신고로 드러났다. 노출된 인증정보와 과도한 클라우드 권한 악용이 원인으로 지목됐다.",
+      "source": "AI Times",
+      "time": "10/17 11:48"
+    },
+    {
+      "category": "security",
+      "title": "센스톤, 정부 피지컬AI 보안 과제서 OT 설비 보안 전담",
+      "url": "https://zdnet.co.kr/view/?no=20261017163413",
+      "summary": "OT 보안기업 센스톤이 과기정통부·NIPA 국책과제에 참여해 피지컬AI 명령이 설비 동작으로 이어지는 OT 구간 보안을 담당. 자체 기술 OTAC로 통신 보호·명령 통제·AI 이상 탐지를 구현해 위협을 사전 차단.",
+      "source": "지디넷",
+      "time": "10/17 16:34"
+    },
+    {
+      "category": "security",
+      "title": "AI로 CCTV 영상도 조작…ONVIF, 위변조 검증 표준화 추진",
+      "url": "https://www.etnews.com/20261016000227",
+      "summary": "생성형 AI·딥페이크로 CCTV 영상까지 위조 가능해지자 국제 영상보안 표준단체 ONVIF가 촬영 단계에서 암호학적 서명을 넣는 '미디어 사이닝 애드온' 표준화를 추진 중이다. 최종 규격 후보안은 8월에 공개됐고 연말 확정이 목표다.",
+      "source": "전자신문",
+      "time": "10/17 17:00"
+    }
+  ]
+}
