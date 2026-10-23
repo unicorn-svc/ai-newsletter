@@ -1,0 +1,262 @@
+{
+  "published_at": "2026-10-24T09:00",
+  "sources": ["AI Times", "지디넷", "전자신문", "TechCrunch", "VentureBeat", "MIT News"],
+  "articles": [
+    {
+      "category": "genai",
+      "title": "캔바, 프론티어급 이미지 생성 모델 '캔바 크래프트' 공개…디자인 아레나 4위 등극",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216589",
+      "summary": "캔바가 레이아웃을 먼저 설계한 뒤 이미지를 렌더링하는 2단계 구조의 디자인 특화 이미지 생성 모델 '캔바 크래프트'를 공개했다. 55개 언어 텍스트 생성을 지원하며 디자인아레나 리더보드 4위에 올랐다.",
+      "source": "AI Times",
+      "time": "10/23 09:00"
+    },
+    {
+      "category": "genai",
+      "title": "오픈AI, 의사결정 특화 'Decisions API' 정식 출시…응답 속도 최대 10배 빨라져",
+      "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up",
+      "summary": "오픈AI가 분류·선택 등 의사결정에 특화된 'Decisions API'를 정식 출시했다. 음성 학습 플랫폼 스피크의 CTO에 따르면 이 API는 액션 간격을 1.4초에서 0.13초로 줄여 최대 10배 빠른 응답을 제공한다.",
+      "source": "TechCrunch",
+      "time": "10/22 22:00"
+    },
+    {
+      "category": "genai",
+      "title": "앤트로픽, AI 에이전트 앱 '클로드 듀엣' 공개…지시 없이 선제적으로 작업 수행",
+      "url": "https://www.etnews.com/20261023000003",
+      "summary": "앤트로픽이 클로드 오퍼스 5.5 기반 개인용 AI 에이전트 '클로드 듀엣' 연구 미리보기를 공개했다. 사용자 지시 없이도 연동된 앱을 모니터링해 업무를 수행하며, 지메일·슬랙 등 6000개 이상 앱과 연동된다.",
+      "source": "전자신문",
+      "time": "10/23 07:27"
+    },
+    {
+      "category": "biz",
+      "title": "스페이스X, 엔비디아 등 130여 개사와 기업용 AI '그록' SI 파트너 네트워크 출범",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216585",
+      "summary": "스페이스X가 엔비디아, 스노우플레이크, 데이터브릭스 등 130여 개사와 기업용 AI '그록' 도입·연동을 지원하는 SI 파트너 네트워크를 출범했다. 주간 유료 이용자 80만 명을 돌파한 그록의 기업 시장 공략이 본격화됐다.",
+      "source": "AI Times",
+      "time": "10/23 09:00"
+    },
+    {
+      "category": "biz",
+      "title": "나스닥 흔든 AI 투자비…오픈AI도 기업가치 목표 10.7% 낮춰",
+      "url": "https://zdnet.co.kr/view/?no=20261023151045",
+      "summary": "AI 투자 회수 우려로 나스닥 지수가 2.60% 하락하고 메타와 코어위브 주가가 각각 7%, 10% 급락했다. 오픈AI는 신규 투자 유치 목표 기업가치를 1조 4000억 달러에서 1조 2500억 달러로 10.7% 낮춘 것으로 알려졌다.",
+      "source": "지디넷",
+      "time": "10/23 15:31"
+    },
+    {
+      "category": "biz",
+      "title": "AI 투자 우려에 나스닥 2.6% 급락…반도체지수는 6.7% 폭락",
+      "url": "https://www.etnews.com/20261023000004",
+      "summary": "메타의 현금흐름 악화와 AI 투자 지속성 우려로 나스닥이 2.6% 급락했다. 필라델피아 반도체지수는 6.72% 하락했으며, 엔비디아 4.4%, AMD 8.1%, 인텔 8.04%가 각각 급락했다.",
+      "source": "전자신문",
+      "time": "10/23 07:37"
+    },
+    {
+      "category": "biz",
+      "title": "구글도 GPT 품었다…오픈AI, 마이크로소프트·구글·아마존 3대 클라우드 파트너십 완성",
+      "url": "https://zdnet.co.kr/view/?no=20261022085909",
+      "summary": "구글 클라우드가 오픈AI의 GPT 모델을 자사 플랫폼에서 제공하기로 했다. 이로써 오픈AI는 마이크로소프트, 아마존에 이어 구글까지 3대 클라우드 파트너십을 모두 확보해 기업 시장 공략을 가속화하게 됐다.",
+      "source": "지디넷",
+      "time": "10/22 09:00"
+    },
+    {
+      "category": "biz",
+      "title": "메타, AI 투자 확대로 3분기 잉여현금흐름 21억 달러 적자 전환…주가 약 7% 급락",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216578",
+      "summary": "메타가 AI 투자 확대로 3분기 잉여현금흐름이 21억 달러 적자로 돌아섰고 장기 계약 지출 약정이 8250억 달러로 급증했다. 신용디폴트스왑 프리미엄이 사상 최고치를 기록하며 주가는 약 7% 하락했다.",
+      "source": "AI Times",
+      "time": "10/23 08:00"
+    },
+    {
+      "category": "biz",
+      "title": "바클레이즈, AI 도입 확대 이유로 직원 5000명 감원 선언…개발자 60% 포함",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216590",
+      "summary": "영국 바클레이즈 은행이 AI·기술 투자 확대를 이유로 전 직원의 약 5%에 해당하는 5000명을 감원한다고 밝혔다. 감원의 60%는 소프트웨어 개발자 등 지원 부서에 집중된다.",
+      "source": "AI Times",
+      "time": "10/23 09:30"
+    },
+    {
+      "category": "biz",
+      "title": "오픈AI, IPO 앞두고 기업가치 1조 2500억 달러 평가로 300억 달러 신규 투자 추진",
+      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "summary": "오픈AI가 기업공개(IPO)를 앞두고 기업가치 1조 2500억 달러 수준에서 300억 달러 규모의 신규 자금 조달을 추진 중인 것으로 알려졌다. 종전 목표였던 1조 4000억 달러에서 소폭 낮아진 수치다.",
+      "source": "TechCrunch",
+      "time": "10/23 09:00"
+    },
+    {
+      "category": "biz",
+      "title": "오픈AI 전 과학 책임자, 신약 개발 AI 완전 자동화 연구소 '워프 사이언스' 설립",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216573",
+      "summary": "케빈 웨일 전 오픈AI 과학 책임자가 신약 후보 물질의 효능 최적화를 AI와 로봇으로 완전 자동화하는 '워프 사이언스'를 설립하고 시리즈 A로 2억 1500만 달러를 유치했다.",
+      "source": "AI Times",
+      "time": "10/23 08:00"
+    },
+    {
+      "category": "biz",
+      "title": "GPU 보유 기업 79%, 절반 이상 유휴 상태…그래도 70%는 새 AI 플랫폼 도입 계획",
+      "url": "https://venturebeat.com/infrastructure/ai-bubble-update-79-of-companies-say-their-gpus-sit-idle-at-least-half-the-time-yet-most-plan-new-ai-platforms",
+      "summary": "VentureBeat 인텔리전스 조사에서 AI를 운영하는 기업의 79%가 보유 GPU의 절반 이상이 유휴 상태라고 답했다. 그럼에도 70%는 새로운 AI 컴퓨팅 플랫폼 도입을 계획해 투자와 실제 활용 간 큰 괴리가 드러났다.",
+      "source": "VentureBeat",
+      "time": "10/24 06:00"
+    },
+    {
+      "category": "biz",
+      "title": "기업의 AI 에이전트 자율 변경 신뢰도, 75%에서 56%로 급락",
+      "url": "https://venturebeat.com/orchestration/the-share-of-enterprises-trusting-ai-agents-to-make-production-changes-on-their-own-has-fallen-from-75-to-56-vb-intelligence-finds",
+      "summary": "사람의 승인 없이 AI 에이전트가 프로덕션 변경을 할 수 있다고 신뢰하는 기업 비율이 75%에서 56%로 하락했다. VentureBeat 인텔리전스 보고서는 에이전트 자율성에 대한 기업들의 신중한 접근이 늘고 있다고 분석했다.",
+      "source": "VentureBeat",
+      "time": "10/23 11:00"
+    },
+    {
+      "category": "service",
+      "title": "우버, 업계 최초 전 직원 3만 명 전원에 '챗GPT 워크' 도입",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216597",
+      "summary": "우버가 전 세계 직원 3만여 명 전원에게 오픈AI의 기업용 AI 에이전트 '챗GPT 워크'를 도입한다. 1000명 시범 운영 성과를 바탕으로 전사 확대를 결정했으며, 기본 모델은 GPT-6.1 솔이다.",
+      "source": "AI Times",
+      "time": "10/23 10:00"
+    },
+    {
+      "category": "service",
+      "title": "마이크로소프트 의료 AI 'MAI-DxO', 고난도 진단 정확도 의사보다 두 배 이상 높아",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216575",
+      "summary": "MS의 다중 AI 에이전트 진단 시스템 'MAI-DxO'가 NEJM 고난도 사례 시뮬레이션에서 약 83% 정확도를 기록해 의사(36%) 대비 두 배 이상 높았다. MS는 베스 이스라엘 병원과 실제 임상 환경에서 추가 검증을 추진한다.",
+      "source": "AI Times",
+      "time": "10/23 08:30"
+    },
+    {
+      "category": "service",
+      "title": "1Password, AI 에이전트가 비밀번호 노출 없이 대신 로그인하는 기술 출시",
+      "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+      "summary": "1Password가 AI 에이전트가 사용자를 대신해 웹사이트에 로그인할 수 있도록 하되, 실제 비밀번호에는 접근하지 못하게 하는 새로운 인증 기술을 선보였다. AI 에이전트 보안의 새로운 접근 방식이다.",
+      "source": "TechCrunch",
+      "time": "10/23 09:00"
+    },
+    {
+      "category": "service",
+      "title": "Deel, HR·급여 특화 AI 모델 'Pangaea' 출시…전문화로 비용 절감 전략",
+      "url": "https://venturebeat.com/technology/deel-launches-pangaea-ai-models-for-hr-and-payroll-betting-specialists-can-cut-the-cost-of-answers",
+      "summary": "글로벌 HR 플랫폼 Deel이 인사·급여 업무에 특화된 AI 모델 'Pangaea'를 공개했다. 도메인 전문화로 범용 모델 대비 응답 비용을 낮출 수 있다는 전략으로, 기업별 맞춤 AI 모델 트렌드를 반영한다.",
+      "source": "VentureBeat",
+      "time": "10/23 09:00"
+    },
+    {
+      "category": "tech",
+      "title": "AWS, GPU 관리 없이 AI 학습 자동화하는 'SageMaker 트레이닝 세션' 정식 출시",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216591",
+      "summary": "AWS가 개발자가 학습 절차·평가 기준만 코드로 정의하면 GPU 할당, 분산 학습, 오류 복구까지 자동 처리하는 '트레이닝 세션' 기능을 출시했다. 과금 방식도 GPU 시간이 아닌 처리 토큰 수 기준으로 변경됐다.",
+      "source": "AI Times",
+      "time": "10/23 09:30"
+    },
+    {
+      "category": "tech",
+      "title": "할 일 없이 혼자 남겨진 AI 에이전트들, 가상 섬에서 자발적 놀이 행동 보여",
+      "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+      "summary": "작업을 주지 않고 방치된 AI 에이전트들이 스스로 시뮬레이션 게임을 만들거나 목표를 생성하는 자발적 행동을 보였다는 연구 결과가 발표됐다. 동료 심사 전 arXiv 사전 출판본이지만 AI 내재적 동기 논의를 촉발하고 있다.",
+      "source": "TechCrunch",
+      "time": "10/23 11:00"
+    },
+    {
+      "category": "tech",
+      "title": "코딩 에이전트 전용 실행 환경(하네스), 비용만 3배 늘고 정확도는 그대로",
+      "url": "https://venturebeat.com/orchestration/a-coding-agents-harness-can-triple-its-cost-without-making-it-more-accurate-study-finds",
+      "summary": "코딩 에이전트 연구에서 벤더의 전용 실행 환경(하네스)을 쓰면 비용이 최대 3배 증가하지만 정확도는 개선되지 않는 것으로 나타났다. 다섯 모델을 세 가지 하네스에서 비교한 결과, 태스크 완료율 하락만 통계적으로 유의미했다.",
+      "source": "VentureBeat",
+      "time": "10/24 07:00"
+    },
+    {
+      "category": "tech",
+      "title": "오픈AI, 실시간 인터넷 데이터로 AI 모델 훈련 중단 선언…'중대한 위험' 이유",
+      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "summary": "오픈AI가 실시간 인터넷 데이터로 AI 모델을 훈련하는 방식을 중단한다고 밝혔다. 실시간 웹 크롤링이 개인정보 침해, 저작권 위반 등 중대한 위험을 초래한다는 이유에서다.",
+      "source": "TechCrunch",
+      "time": "10/24 09:00"
+    },
+    {
+      "category": "tech",
+      "title": "학술 논문을 코드로 자동 변환해 AI 에이전트 성능 향상…재훈련 불필요",
+      "url": "https://venturebeat.com/orchestration/researchers-made-ai-agents-better-by-turning-academic-papers-into-working-code-no-retraining-required",
+      "summary": "ScholarEvolve 연구팀이 AI 학술 논문의 알고리즘을 자동으로 코드화해 AI 에이전트 성능을 향상하는 방법을 개발했다. 모델 재훈련 없이 성능 개선이 가능한 것이 특징으로, 논문→실무 적용의 간극을 좁힌다.",
+      "source": "VentureBeat",
+      "time": "10/23 10:00"
+    },
+    {
+      "category": "tech",
+      "title": "Q&A: AI가 어떻게 '복잡한' 인간의 마음을 모델링하게 되었나",
+      "url": "https://news.mit.edu/2026/qa-how-ai-came-to-model-messy-human-mind-1023",
+      "summary": "MIT 벤자민 린드퀴스트 교수가 초기 AI 개발자들이 의도적으로 무작위성을 주입한 방법을 연구하며, 이것이 할루시네이션 현상이 있는 딥러닝 모델의 탄생으로 이어졌음을 설명한다.",
+      "source": "MIT News",
+      "time": "10/23 11:00"
+    },
+    {
+      "category": "robot",
+      "title": "유니트리, 흉기 저지·차량 들어 올리는 경호·구조 로봇 'H2-X' 시연 공개",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216594",
+      "summary": "유니트리가 휴머노이드 로봇 'H2-X'가 칼을 든 침입자를 저지하고 차량 앞부분을 들어 올리는 경호·구조 시연 영상을 공개했다. 자율 작동 수준과 상세 사양은 아직 미공개 상태다.",
+      "source": "AI Times",
+      "time": "10/23 10:00"
+    },
+    {
+      "category": "robot",
+      "title": "NC AI, '풀스택 피지컬 AI'로 제조·조선·국방 산업 AX 공략…3개 대형 협력사 확보",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216602",
+      "summary": "NC AI가 3D 생성부터 로봇 행동 제어까지 아우르는 '풀스택 피지컬 AI'를 내세워 현대로템(국방), 한화오션(조선 용접), 포스코DX(휴머노이드)와 협력하며 전북·경남 국책사업에도 선정됐다.",
+      "source": "AI Times",
+      "time": "10/23 11:00"
+    },
+    {
+      "category": "robot",
+      "title": "엔비디아 CEO가 직접 시연한 소형 AI 로봇 '마이크로덕' 2만 대 판매",
+      "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+      "summary": "젠슨 황 엔비디아 CEO가 소형 AI 로봇 '마이크로덕'을 직접 시연해 화제가 됐다. AI 기반 동작 학습 기능을 갖춘 이 장난감 로봇은 이미 2만 대가 팔려 올 크리스마스 인기 선물로 주목받고 있다.",
+      "source": "TechCrunch",
+      "time": "10/24 08:00"
+    },
+    {
+      "category": "robot",
+      "title": "우버 경쟁사 inDrive, Pony AI·엔비디아와 중앙아시아 로보택시 2027년 테스트 추진",
+      "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+      "summary": "러시아계 차량 공유 기업 inDrive가 Pony AI, 엔비디아와 손잡고 카자흐스탄 등 중앙아시아 지역에서 2027년 자율주행 택시 서비스 시험 운행을 계획 중이다.",
+      "source": "TechCrunch",
+      "time": "10/23 14:00"
+    },
+    {
+      "category": "security",
+      "title": "에임인텔리전스, 오픈AI와 기업용 AI 사이버보안 협력 확대",
+      "url": "https://zdnet.co.kr/view/?no=20261023101542",
+      "summary": "AI보안 전문기업 에임인텔리전스가 자사 AI 레드팀 솔루션 '스팅어'와 오픈AI의 사이버보안 프로그램 '데이브레이크'를 연계한 애플리케이션 보안 평가 서비스를 공개했다. 오픈AI 셀렉트 파트너로 기업용 보안 협력을 강화한다.",
+      "source": "지디넷",
+      "time": "10/23 10:15"
+    },
+    {
+      "category": "security",
+      "title": "\"AI 공격엔 AI로 대응\"…방산기술보호·보안협의회, 랜섬웨어 76% 증가 경고",
+      "url": "https://zdnet.co.kr/view/?no=20261024005020",
+      "summary": "황인봉 방산기술보호·보안협의회장이 AI 기반 지능형 사이버 공격이 급증하고 있어 AI로 탐지·차단하는 적극적 대응이 필요하다고 강조했다. 방산 분야 랜섬웨어 신고가 전년 대비 76% 이상 증가했다.",
+      "source": "지디넷",
+      "time": "10/24 01:00"
+    },
+    {
+      "category": "policy",
+      "title": "마사 미노우 MIT 강연: AI 혁신이 민주주의 가치를 위협할 수 있다",
+      "url": "https://news.mit.edu/2026/martha-minow-speaks-on-sustaining-democracy-using-overcoming-ai-1023",
+      "summary": "법학자 마사 미노우가 MIT 컴튼 강연에서 AI 혁신이 계몽주의적 민주주의 가치를 위협할 수 있다고 경고하며, AI가 시민적·문화적 필요를 충족하는 방향으로 활용되어야 한다고 주장했다.",
+      "source": "MIT News",
+      "time": "10/23 09:00"
+    },
+    {
+      "category": "policy",
+      "title": "AI 부정행위로 발칵 뒤집힌 건국대…600명 대면 재시험 결정",
+      "url": "https://www.etnews.com/20261023000360",
+      "summary": "건국대학교 교양과목 온라인 중간고사에서 AI 부정행위 정황이 확인돼 수강생 600여 명이 대면 재시험을 치른다. 한 학생이 AI로 시험 문제를 풀어 99점을 받았다고 SNS에 올리면서 논란이 시작됐다.",
+      "source": "전자신문",
+      "time": "10/23 21:44"
+    },
+    {
+      "category": "policy",
+      "title": "한국데이터산업진흥원, 케냐 ICTA와 데이터·AI 협력 MOU 체결",
+      "url": "https://zdnet.co.kr/view/?no=20261023221801",
+      "summary": "한국데이터산업진흥원이 케냐 정보통신기술원(ICTA)과 데이터·AI 분야 협력 MOU를 체결했다. AI 데이터 생태계 조성 및 전문인력 양성 협력이 핵심으로, 글로벌 AI Summit 참석 계기로 마련됐다.",
+      "source": "지디넷",
+      "time": "10/23 22:18"
+    }
+  ]
+}
