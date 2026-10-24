@@ -1,0 +1,158 @@
+{
+  "published_at": "2026-10-25T09:00",
+  "sources": ["AI타임스", "지디넷", "TechCrunch", "VentureBeat", "MIT News"],
+  "articles": [
+    {
+      "category": "genai",
+      "title": "드림랩스·앤트그룹·일레븐랩스, 로봇·음성 AI 공개 등 8종",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216580",
+      "summary": "드림랩스의 로봇 제어 모델, 앤트그룹의 AI 모델, 일레븐랩스의 바크 3.0 음성 인식 모델 등 최신 AI 모델 8종이 한꺼번에 공개됐다. 로봇·음성·멀티모달 등 다양한 분야에서 AI 기술 공개가 속도를 내고 있다.",
+      "source": "AI타임스",
+      "time": "10/24 10:00"
+    },
+    {
+      "category": "biz",
+      "title": "딥시크·미니맥스, 중국 정부 AI 모델 해외 수출 승인 획득",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216606",
+      "summary": "딥시크와 미니맥스가 중국 정부의 AI 모델 해외 수출 등록 절차를 마쳤다. 중국 정부는 대부분의 AI 기술 수출을 자유화하고 오픈소스 모델 수출에는 간소화된 허가 절차를 적용하겠다고 밝혔다.",
+      "source": "AI타임스",
+      "time": "10/24 11:00"
+    },
+    {
+      "category": "biz",
+      "title": "피차이 '클라우드 매출 포기하더라도 첨단 AI 개발에 컴퓨팅 우선 투입'",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216618",
+      "summary": "구글 CEO 순다르 피차이가 단기 클라우드 수익을 일부 포기하더라도 AI 개발에 컴퓨팅 자원을 최우선 배분하겠다고 선언했다. 최신 모델 '제미나이 4 아르곤'은 출시 72시간 만에 25조 토큰을 처리했다.",
+      "source": "AI타임스",
+      "time": "10/24 14:00"
+    },
+    {
+      "category": "biz",
+      "title": "테슬라, AI·로봇 투자 축소에 주가 하락…'미래 가치' 의구심",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216574",
+      "summary": "테슬라가 AI 및 로봇 분야 자본 지출 전망치를 낮추자 주가가 하락했다. 투자자들 사이에서 일론 머스크가 약속한 AI·로봇 중심의 미래 성장 가치에 대한 의구심이 커지고 있다는 분석이 나온다.",
+      "source": "AI타임스",
+      "time": "10/24 09:00"
+    },
+    {
+      "category": "biz",
+      "title": "AI 토큰 가격에 베팅하는 금융상품까지…컴퓨팅, 석유처럼 거래되나",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216572",
+      "summary": "AI 서비스 이용료를 기반으로 한 파생금융상품이 등장했다. CME 그룹은 11월 9일 첫 거래 개시를 목표로 하며, AI 컴퓨팅 자원이 원유처럼 상품으로 거래되는 시대가 열릴 수 있다는 전망이 나온다.",
+      "source": "AI타임스",
+      "time": "10/24 08:00"
+    },
+    {
+      "category": "chip",
+      "title": "마이크로칩 '헤일로 AI 가속기와 결합한 턴키 솔루션으로 승부'",
+      "url": "https://zdnet.co.kr/view/?no=20261024184335",
+      "summary": "마이크로칩이 에지 AI 반도체 스타트업 헤일로 인수 후 양사 기술을 결합한 턴키 솔루션으로 시장을 공략한다. 이번 인수로 AI 가속기 로드맵을 수년 앞당겨 에지 AI 경쟁력을 강화할 것으로 기대된다.",
+      "source": "지디넷",
+      "time": "10/24 18:43"
+    },
+    {
+      "category": "security",
+      "title": "AI 보안 패러다임, 이스라엘 7개사가 답한다",
+      "url": "https://zdnet.co.kr/view/?no=20261024111106",
+      "summary": "AI 시대의 새 보안 위협에 대응하는 이스라엘 AI 보안 스타트업 7개사가 주목받고 있다. LLM 보안, 자율 에이전트 방어, AI 기반 사이버 탐지 등 분야에서 혁신적인 접근법을 선보이고 있다.",
+      "source": "지디넷",
+      "time": "10/24 11:11"
+    },
+    {
+      "category": "tech",
+      "title": "EU, 370억원 투입 6G 연구사업 5개 선정",
+      "url": "https://zdnet.co.kr/view/?no=20261025075905",
+      "summary": "유럽연합 6G 지원기구 SNS JU가 2200만 유로(약 370억원)를 투자해 5개 6G 연구사업을 선정했다. 이 중 'AI 6G-AID' 사업은 AI로 통신망을 운영·최적화하는 데 필요한 데이터 기반 구축을 목표로 한다.",
+      "source": "지디넷",
+      "time": "10/25 07:59"
+    },
+    {
+      "category": "genai",
+      "title": "블록(Block)의 새 음성 AI 모델 '데사(Dessa)', 사람 목소리와 구분 어려울 정도",
+      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human",
+      "summary": "블록(Block)이 인간 음성 데이터만으로 학습한 음성 AI 모델 '데사(Dessa)'를 공개했다. 단일 NVIDIA GPU 랙으로 구동되며 현재는 공개 접근이 없고, 안전성 검토를 위해 연구자들을 모집 중이다.",
+      "source": "TechCrunch",
+      "time": "10/24 09:00"
+    },
+    {
+      "category": "biz",
+      "title": "AI 프로젝트 42%가 폐기…Character.ai 파산 포함 실패 목록 공개",
+      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it",
+      "summary": "S&P 글로벌에 따르면 기업 AI 이니셔티브의 42%가 결국 중단된다. Character.ai의 파산 신청, Relay의 8월 폐업 등 AI 스타트업 실패 사례를 정리한 'AI 묘지' 목록이 빠르게 늘어나고 있다.",
+      "source": "TechCrunch",
+      "time": "10/24 10:00"
+    },
+    {
+      "category": "genai",
+      "title": "DeepSeek V4.1 Flash-1017 출시됐지만 미국 정부 기관 사용은 금지",
+      "url": "https://venturebeat.com/security/deepseek-v4-1-flash-1017-arrives-with-improved-benchmarks-just-as-the-u-s-government-bans-it-from-agencies-what-enterprises-should-do",
+      "summary": "딥시크가 개선된 벤치마크를 갖춘 V4.1 Flash-1017을 공개했지만, 미국 2026 국방수권법은 딥시크와 모기업 High-Flyer AI를 미국 정부 기관 사용에서 금지시켰다. 기업의 대응 방안이 주목된다.",
+      "source": "VentureBeat",
+      "time": "10/24 08:00"
+    },
+    {
+      "category": "genai",
+      "title": "MiniMax M3.1 Flash, DeepSeek·클로드 Opus 5 비즈니스 벤치마크서 능가…단, 환각률 93%",
+      "url": "https://venturebeat.com/technology/minimaxs-new-m3-1-flash-beats-deepseek-and-opus-5-on-a-key-business-benchmark-at-lower-cost-but-with-a-high-hallucination-rate",
+      "summary": "미니맥스 M3.1 Flash가 비즈니스 벤치마크에서 DeepSeek와 클로드 Opus 5를 낮은 비용으로 앞섰지만, 환각 테스트에서 93%의 높은 환각률을 기록해 실용성에 의문이 제기되고 있다.",
+      "source": "VentureBeat",
+      "time": "10/24 07:00"
+    },
+    {
+      "category": "genai",
+      "title": "NVIDIA, 오픈 모델 Nemotron 3.5 Super VL 공개…클로드 Opus 5·GPT 능가",
+      "url": "https://venturebeat.com/technology/nvidias-new-open-nemotron-3-5-super-vl-with-post-training-beats-claude-opus-5-gpt-6-1-sol-on-specialized-task-benchmarks",
+      "summary": "NVIDIA가 1200억 파라미터 오픈 멀티모달 모델 Nemotron 3.5 Super VL을 공개했다. 특화 벤치마크에서 클로드 Opus 5와 GPT-6.1 Sol을 앞서며, PDF·이미지·표·웹페이지 등을 다양하게 처리한다.",
+      "source": "VentureBeat",
+      "time": "10/24 06:00"
+    },
+    {
+      "category": "genai",
+      "title": "메타, 816억 파라미터 Muse Spark Open 공개…미국 최강 오픈가중치 모델 표방",
+      "url": "https://venturebeat.com/technology/meta-unveils-muse-spark-open-the-new-top-u-s-open-weights-model-and-it-runs-on-two-paired-mac-desktops",
+      "summary": "메타가 816억 파라미터 오픈가중치 모델 Muse Spark Open을 출시했다. '미국 최고의 오픈가중치 모델'을 표방하며 두 대의 연결된 맥 데스크탑에서도 구동 가능한 점이 주목된다.",
+      "source": "VentureBeat",
+      "time": "10/23 20:00"
+    },
+    {
+      "category": "genai",
+      "title": "메타 Muse Wonder·Muse Wonder Full 공개…프런티어 성능 달성, API는 약한 버전만",
+      "url": "https://venturebeat.com/technology/metas-new-muse-wonder-and-muse-wonder-full-models-achieve-frontier-performance-but-only-the-weaker-one-is-available-via-api",
+      "summary": "메타의 Muse Wonder와 Muse Wonder Full이 프런티어 수준 성능을 달성했다. API를 통해서는 성능이 낮은 Muse Wonder만 이용 가능하고 강력한 Muse Wonder Full은 아직 공개되지 않아 아쉬움을 남겼다.",
+      "source": "VentureBeat",
+      "time": "10/23 18:00"
+    },
+    {
+      "category": "biz",
+      "title": "마이크로소프트 AI 수석 '오픈AI에서 해방돼 초지능 개발에 전념'",
+      "url": "https://venturebeat.com/technology/microsoft-ai-chief-says-company-was-set-free-from-openai-to-pursue-superintelligence",
+      "summary": "마이크로소프트 AI 수석이 오픈AI와의 관계 정리 이후 MS가 '해방'돼 독자적인 초지능 연구에 집중하고 있다고 밝혔다. MS가 자체 AI 개발 역량 강화에 본격적으로 나서고 있다는 신호로 분석된다.",
+      "source": "VentureBeat",
+      "time": "10/24 05:00"
+    },
+    {
+      "category": "service",
+      "title": "기업의 AI 에이전트 자율 결정 신뢰도, 75%에서 56%로 급감",
+      "url": "https://venturebeat.com/orchestration/the-share-of-enterprises-trusting-ai-agents-to-make-production-changes-on-their-own-has-fallen-from-75-to-56-vb-intelligence-finds",
+      "summary": "VentureBeat 인텔리전스 조사에 따르면 AI 에이전트가 프로덕션 변경을 자율 결정하도록 신뢰하는 기업 비율이 75%에서 56%로 감소했다. 자율 AI에 대한 기업의 신중론이 확산되고 있음을 보여준다.",
+      "source": "VentureBeat",
+      "time": "10/24 06:30"
+    },
+    {
+      "category": "service",
+      "title": "기업 GPU 79%가 절반 이상 유휴 상태…그래도 70%는 새 AI 플랫폼 도입 계획",
+      "url": "https://venturebeat.com/infrastructure/ai-bubble-update-79-of-companies-say-their-gpus-sit-idle-at-least-half-the-time-yet-most-plan-new-ai-platforms",
+      "summary": "조사 기업의 79%가 자사 GPU가 절반 이상 유휴 상태라고 응답했지만, 그중 70%는 여전히 새 AI 컴퓨팅 플랫폼 도입을 계획 중이어서 과잉 투자와 'AI 버블' 논란이 재점화되고 있다.",
+      "source": "VentureBeat",
+      "time": "10/24 07:30"
+    },
+    {
+      "category": "tech",
+      "title": "MIT Q&A: AI는 어떻게 '혼란스러운' 인간의 마음을 모델링하게 됐나",
+      "url": "https://news.mit.edu/2026/qa-how-ai-came-to-model-messy-human-mind-1023",
+      "summary": "MIT 연구팀이 초기 AI 연구자들이 시스템에 의도적으로 '불규칙성'을 도입한 이유를 분석했다. 인간 인지의 비선형적 특성을 AI에 반영하는 과정과 그 의미를 심층 분석한 인터뷰로 교육적 시사점이 크다.",
+      "source": "MIT News",
+      "time": "10/23 14:00"
+    }
+  ]
+}
