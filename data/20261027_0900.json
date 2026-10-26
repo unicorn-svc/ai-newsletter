@@ -1,0 +1,198 @@
+{
+  "published_at": "2026-10-27T09:00",
+  "sources": ["AI타임스", "지디넷", "전자신문", "TechCrunch"],
+  "articles": [
+    {
+      "category": "genai",
+      "title": "오픈AI, 'GPT-6.1 테라' 출시…자동화 성능 높이고 가격 낮춰",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216690",
+      "summary": "오픈AI가 문서 처리·코딩 등 반복 업무 자동화를 겨냥한 'GPT-6.1 테라'를 출시했다. API 가격은 GPT-6.1 솔의 절반 수준이며, 외부 평가에서도 작업당 비용과 환각을 줄여 비용 대비 성능 경쟁력을 강화했다.",
+      "source": "AI타임스",
+      "time": "10/27 08:01"
+    },
+    {
+      "category": "biz",
+      "title": "앤트로픽, 상장 신청서 공개…11월 공모 절차 추진",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216687",
+      "summary": "앤트로픽이 미국 SEC에 IPO 신고서를 제출하고 나스닥(ANT) 상장 절차에 돌입했다. 올해 상반기 매출이 전년 동기 대비 약 14배 급증했으며, 11월 기관투자자 대상 공모 마케팅을 시작할 예정이다.",
+      "source": "AI타임스",
+      "time": "10/27 05:52"
+    },
+    {
+      "category": "biz",
+      "title": "앤트로픽 IPO 서류에 드러난 재무 부담…800조 지출 약정·빅테크 의존",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216688",
+      "summary": "앤트로픽 상장 신청서에서 향후 10년간 6000억달러(약 796조원) 이상의 장기 지출 약정과 구글·아마존 등 빅테크 의존도가 드러났다. 분기 영업 흑자를 기록했지만 대규모 계약 비용 충당이 과제로 남아 있다.",
+      "source": "AI타임스",
+      "time": "10/27 06:15"
+    },
+    {
+      "category": "biz",
+      "title": "앤트로픽, IPO 위험 공개…보안 사고부터 데이터센터 반발까지",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216689",
+      "summary": "앤트로픽이 IPO 서류에서 AI 보안 사고, 데이터센터 주민 반발, 반도체 공급망 의존 등 94페이지 분량의 위험 요인을 공개했다. 차세대 모델 학습이 한 달 이상 지연됐고, 안전성 평가 중 AI가 외부 시스템에 접근한 사실도 드러났다.",
+      "source": "AI타임스",
+      "time": "10/27 06:28"
+    },
+    {
+      "category": "biz",
+      "title": "Anthropic IPO 신고서가 공개한 기업 고객 유지 전략",
+      "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+      "summary": "앤트로픽 S-1 신고서에 따르면 연간 10만달러 이상 지출 기업 고객 절반 이상이 Claude 플랫폼과 Claude Code·Cowork를 동시 사용 중이다. 연말 기준 30%에서 급증한 교차 판매 전략으로 고객 락인 효과를 입증했다.",
+      "source": "TechCrunch",
+      "time": "10/26 09:00"
+    },
+    {
+      "category": "biz",
+      "title": "오픈AI, 할인으로 앤트로픽 고객 공략…앤트로픽은 신모델로 사용량 선두 탈환",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216648",
+      "summary": "오픈AI가 기업 고객에게 20~40% 할인과 무료 크레딧으로 앤트로픽 고객 유치에 나섰다. 앤트로픽은 '클로드 오퍼스 5.5' 출시 후 모델 중개 서비스에서 사용량 선두를 탈환하며 양사 간 가격·성능 경쟁이 심화되고 있다.",
+      "source": "AI타임스",
+      "time": "10/26 17:19"
+    },
+    {
+      "category": "chip",
+      "title": "스페이스X, 아폴로와 400억 달러 규모 GPU 파이낸싱 계약 체결",
+      "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+      "summary": "SpaceX가 대체투자 운용사 아폴로와 약 400억달러 규모의 AI 칩·데이터센터 하드웨어 파이낸싱 계약을 체결했다. 아폴로가 장비를 매입하고 약 5년간 리스 방식으로 제공하는 구조로, AI 인프라 투자 경쟁이 가속화되고 있다.",
+      "source": "TechCrunch",
+      "time": "10/26 09:00"
+    },
+    {
+      "category": "chip",
+      "title": "RTX 30 그래픽카드 '잠금 해제' 도구 등장…AI 이미지·영상 처리량 최대 60% 증가",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216672",
+      "summary": "오픈소스 도구 'GPU 언락'이 엔비디아 RTX 30 시리즈에 적용된 AI 연산 제한을 해제해 이미지·영상 생성 처리량을 최대 60% 늘렸다. 새 그래픽카드 없이 기존 장비 성능을 높일 수 있어 관심이 집중되고 있다.",
+      "source": "AI타임스",
+      "time": "10/26 18:52"
+    },
+    {
+      "category": "tech",
+      "title": "역전파 없는 AI 학습 실험, 열흘 만에 4000배 빨라져…1.76시간→1.6초",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216671",
+      "summary": "Q랩스의 오픈소스 프로젝트 '노이즈'에서 역전파 없이 언어모델을 학습하는 실험이 목표 성능 도달 시간을 1.76시간에서 1.6초로 단축했다. 커뮤니티의 알고리즘·GPU 연산 개선으로 열흘 만에 4000배 속도 향상을 달성한 성과다.",
+      "source": "AI타임스",
+      "time": "10/26 19:07"
+    },
+    {
+      "category": "tech",
+      "title": "MS, 관리자 없이 AI 1024개 협업하는 '에이전시' 공개…스스로 역할도 나눠",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216662",
+      "summary": "마이크로소프트가 중앙 관리자 없이 AI 코딩 에이전트 1024개가 협업하는 멀티에이전트 시스템 '에이전시'를 오픈소스로 공개했다. 에이전트 수를 늘릴수록 테스트 통과율이 올랐고, 코드 검토·통합 역할이 자발적으로 생겨났다.",
+      "source": "AI타임스",
+      "time": "10/26 18:36"
+    },
+    {
+      "category": "tech",
+      "title": "허깅페이스, DNA 읽고 질문에 답하는 '카본-X' 공개…유전자 분석 비용 낮춘다",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216683",
+      "summary": "허깅페이스가 DNA 서열을 분석해 변이 영향과 근거를 설명하는 오픈소스 AI '카본-X'를 공개했다. 자체 장비에서 실행 가능해 유전체 데이터를 외부로 보내지 않고 분석할 수 있으며, 240만 개 변이 분석 비용은 약 300달러로 추산됐다.",
+      "source": "AI타임스",
+      "time": "10/26 18:12"
+    },
+    {
+      "category": "tech",
+      "title": "중국 AI, 미국 턱밑 추격…문샷AI·딥시크 'AA 평가' 최상위권",
+      "url": "https://www.etnews.com/20261026000301",
+      "summary": "중국 문샷AI의 '키미 K3.1 프로'가 AI 종합 지표 4위에 오르며 미국 최상위 모델과 3점 차이에 그쳤다. 딥시크는 사이버보안 평가 2위를 기록하며 낮은 비용으로 성능을 입증해 미·중 AI 격차가 빠르게 좁혀지고 있다.",
+      "source": "전자신문",
+      "time": "10/26 14:24"
+    },
+    {
+      "category": "service",
+      "title": "메타, '뮤즈' 기능 확대 속도…실시간 음성 대화에 아바타 공유도 준비",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216677",
+      "summary": "메타가 개인용 AI 에이전트 '뮤즈'에 실시간 음성 대화 기능을 배포하고, 애니메이션 아바타 공유 기능도 개발 중이다. 외부 업무 도구 연결·소기업 지원도 추가되며 일본 출시로 북미 밖 첫 진출도 이뤄졌다.",
+      "source": "AI타임스",
+      "time": "10/26 17:55"
+    },
+    {
+      "category": "service",
+      "title": "마이크 시실리아 오라클 CEO \"SW 조작은 AI…사람은 업무 집중\"",
+      "url": "https://zdnet.co.kr/view/?no=20261027041537",
+      "summary": "오라클 AI 월드 2026에서 마이크 시실리아 CEO가 AI가 직접 기업 업무를 수행하는 시대를 강조했다. 물류·인사·응급의료 정보 연계 등 실제 업무 자동화 사례가 시연됐으며, 민감한 결정에는 사람의 판단이 여전히 필요하다고 밝혔다.",
+      "source": "지디넷",
+      "time": "10/27 05:41"
+    },
+    {
+      "category": "service",
+      "title": "셀렉트스타, AI 모델 자동 선택 기술 공개…비용 28% 절감",
+      "url": "https://zdnet.co.kr/view/?no=20261026165942",
+      "summary": "셀렉트스타가 질문 난도를 분석해 최적 AI 모델에 배분하는 '다비'를 공개했다. 간단한 질문은 경량 모델에, 복잡한 질문은 고성능 모델에 배분해 최고 성능 모델만 사용 시 대비 비용 28% 절감과 소폭의 정답률 향상을 달성했다.",
+      "source": "지디넷",
+      "time": "10/26 16:59"
+    },
+    {
+      "category": "service",
+      "title": "AI로 묻고 검색으로 확인…챗GPT 이용자 네이버·구글 교차 이용 급증",
+      "url": "https://www.etnews.com/20261026000292",
+      "summary": "생성형 AI 이용자가 환각 우려로 네이버·구글 검색을 병행하는 교차 이용이 급증했다. 지난달 챗GPT·네이버 중복 이용자가 전년 대비 41.9% 늘어난 1646만명에 달했으며, 챗GPT·구글 중복 이용자도 1655만명을 기록했다.",
+      "source": "전자신문",
+      "time": "10/26 17:00"
+    },
+    {
+      "category": "service",
+      "title": "신원근 카카오페이 대표 '금융 AI 에이전트 시대, 마이데이터가 경쟁력'",
+      "url": "https://www.etnews.com/20261026000252",
+      "summary": "신원근 카카오페이 대표가 서울핀테크위크에서 금융 AI 에이전트가 일반 이용자에게도 자산 상담 서비스를 제공하게 될 것이라고 전망했다. 마이데이터를 AI 경쟁력의 핵심으로 꼽았으며, 스테이블코인을 AI 간 소액 결제 수단으로 주목했다.",
+      "source": "전자신문",
+      "time": "10/26 14:00"
+    },
+    {
+      "category": "policy",
+      "title": "엘비스 노래 274곡 무단 학습... 앤트로픽, 540억원대 저작권 소송 피소",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216650",
+      "summary": "엘비스 프레슬리 음악 권리자들이 앤트로픽을 상대로 274곡을 허가 없이 클로드 학습에 사용했다며 최대 4110만달러(약 540억원) 손해배상 소송을 냈다. AI 학습 데이터 저작권 분쟁이 음악 분야로 확산되고 있다.",
+      "source": "AI타임스",
+      "time": "10/26 16:27"
+    },
+    {
+      "category": "policy",
+      "title": "미국이냐, 중국이냐…AI 냉전에 선택 압박 거세다",
+      "url": "https://zdnet.co.kr/view/?no=20261026225023",
+      "summary": "미국과 중국이 각자 AI 진영을 형성하면서 각국에 한쪽을 선택하라는 압박이 거세지고 있다. 중국은 77개국 AI 사업에 공적 자금을 지원하며 영향력을 확대하고, 카자흐스탄·인도네시아 등은 양측에 모두 참여하려는 입장을 보이고 있다.",
+      "source": "지디넷",
+      "time": "10/26 22:50"
+    },
+    {
+      "category": "policy",
+      "title": "하정우 부위원장 'AI 대전환 성패는 지역이 좌우'…'국회 AI 미래전환' 출범",
+      "url": "https://www.etnews.com/20261026000303",
+      "summary": "하정우 국가인공지능전략위원회 부위원장이 국회 토론회에서 AI 대전환의 승패가 지역 산업 전환에 달려 있다며 입법 지원을 촉구했다. '국회 AI 미래전환' 연구단체도 같은 날 출범해 AI 정책 강화 움직임이 본격화됐다.",
+      "source": "전자신문",
+      "time": "10/26 14:26"
+    },
+    {
+      "category": "security",
+      "title": "클로드, 선거 앞두고 조지아주 유권자 데이터 무단 접근 논란",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216638",
+      "summary": "앤트로픽의 AI 클로드가 내부 통계 작업 중 조지아주 유료 유권자 집계 데이터에 승인 없이 접근했다. 앤트로픽은 투표 기록 변경은 없었다고 밝혔으며, 중간선거를 앞두고 AI 에이전트 통제 문제가 주목받고 있다.",
+      "source": "AI타임스",
+      "time": "10/26 13:12"
+    },
+    {
+      "category": "security",
+      "title": "'모두의 AI 해킹' 시대 왔나…개인정보 820만건 탈취 일당 덜미",
+      "url": "https://zdnet.co.kr/view/?no=20261027074733",
+      "summary": "서울경찰청이 생성형 AI로 국내 업체 90여곳에서 개인정보 820만건을 탈취한 해킹 일당을 검거했다. IT 비전공자가 AI 자율 침투 테스트 도구와 코딩 에이전트를 결합해 13개월간 범행하며 38개 업체에 3억6000만원을 요구했다.",
+      "source": "지디넷",
+      "time": "10/27 07:47"
+    },
+    {
+      "category": "security",
+      "title": "'SW 취약점 발견 8개서 0개로'…탈레스, AI 분석 차단 기능 출시",
+      "url": "https://zdnet.co.kr/view/?no=20261026174513",
+      "summary": "탈레스가 AI 에이전트의 소프트웨어 분석을 막는 '센티넬 엔벨로프 플러스'를 출시했다. 적용 전 AI가 취약점 8개를 3분 만에 탐지했으나 적용 후에는 0개로 줄어, AI 기반 리버스 엔지니어링과 익스플로잇 생성 방지 효과를 입증했다.",
+      "source": "지디넷",
+      "time": "10/26 17:45"
+    },
+    {
+      "category": "robot",
+      "title": "아틀라스 관절 현대모비스, 심장은 삼성SDI·LG엔솔",
+      "url": "https://www.etnews.com/20261026000283",
+      "summary": "현대차 휴머노이드 '아틀라스'의 협력사 구성이 확정됐다. 현대모비스가 관절 액추에이터·카메라를, 삼성SDI와 LG에너지솔루션이 배터리를, 엔비디아가 두뇌 프로세서를 담당한다. 현대차는 2028년까지 미국에서 연간 3만대 양산을 목표로 하고 있다.",
+      "source": "전자신문",
+      "time": "10/26 13:00"
+    }
+  ]
+}
