@@ -33,13 +33,6 @@ document.querySelectorAll('[data-filter]').forEach(button => {
   });
 });
 
-// The exported page also works when opened directly, without an HTTP server.
-if (location.protocol === 'file:') {
-  document.querySelectorAll('[data-newsletter]').forEach(link => {
-    link.href = `../../newsletters/${link.dataset.newsletter}`;
-  });
-}
-
 const sections = [...document.querySelectorAll('.detail-section')];
 const tocLinks = [...document.querySelectorAll('[data-section]')];
 const backTop = document.querySelector('.back-top');

@@ -7,6 +7,7 @@ from pathlib import Path
 from extract_newsletters import extract
 
 HERE = Path(__file__).resolve().parent
+PREVIEW = "https://htmlpreview.github.io/?https://github.com/unicorn-svc/ai-newsletter/blob/main/newsletters/"
 
 
 def svg_art(kind, color):
@@ -59,40 +60,40 @@ def main():
             article = articles[item["id"]]
             assert article["newsletter"].startswith("202610")
             date = article["date"][5:].replace("-", ".")
-            refs.append(f'''<li><div class="evidence-meta"><span>{escape(article['source'])}</span><span>수록 {date}</span></div>
+            refs.append(f'''<li><div class="evidence-meta"><span>{escape(article['source'])}</span><span>{date} 뉴스레터</span></div>
               <a class="article-link" href="{escape(article['url'], quote=True)}" target="_blank" rel="noopener noreferrer">{escape(article['title'])} {arrow}<span class="sr-only"> (새 탭)</span></a>
-              <p>{escape(item['note'])}</p><a class="newsletter-link" data-newsletter="{article['newsletter']}" href="source/{article['newsletter']}" target="_blank" rel="noopener noreferrer">수록 뉴스레터 보기 <span aria-hidden="true">↗</span><span class="sr-only"> (새 탭)</span></a></li>''')
+              <p>{escape(item['note'])}</p><a class="newsletter-link" href="{PREVIEW}{article['newsletter']}" target="_blank" rel="noopener noreferrer">이 기사가 실린 뉴스레터 보기 <span aria-hidden="true">↗</span><span class="sr-only"> (새 탭)</span></a></li>''')
         paragraphs = ''.join(f'<p>{escape(p)}</p>' for p in trend['paragraphs'])
         details.append(f'''<article id="trend-{tid}" class="detail-section" data-trend="{tid}">
           <div class="detail-kicker"><span class="detail-number {trend['color']}">{num}</span><span>{escape(trend['label'])}</span></div>
           <h3>{title.replace(chr(10), ' ')}</h3><p class="takeaway">{escape(trend['takeaway'])}</p>
           <div class="detail-copy">{paragraphs}</div>
-          <div class="watch"><span class="watch-label">살펴볼 지점</span><p>{escape(trend['watch'])}</p></div>
-          <details class="evidence"><summary>이 흐름의 근거 <span>뉴스레터 속 4개 기사</span><span class="plus" aria-hidden="true">+</span></summary><ol>{''.join(refs)}</ol></details>
+          <div class="watch"><span class="watch-label">이건 꼭 체크해</span><p>{escape(trend['watch'])}</p></div>
+          <details class="evidence"><summary>근거 기사 보기 <span>뉴스레터 속 기사 4개</span><span class="plus" aria-hidden="true">+</span></summary><ol>{''.join(refs)}</ol></details>
         </article>''')
-    source_files = ''.join(f'<a data-newsletter="{f}" href="source/{f}" target="_blank" rel="noopener noreferrer">10.{f[6:8]}<span class="sr-only"> 뉴스레터 (새 탭)</span><span aria-hidden="true"> ↗</span></a>' for f in corpus['files'])
+    source_files = ''.join(f'<a href="{PREVIEW}{f}" target="_blank" rel="noopener noreferrer">10.{f[6:8]}<span class="sr-only"> 뉴스레터 (새 탭)</span><span aria-hidden="true"> ↗</span></a>' for f in corpus['files'])
     nletters, nunique, narticles = corpus['fileCount'], corpus['uniqueArticleCount'], corpus['articleCount']
     html = f'''<!doctype html>
 <html lang="ko">
 <head>
   <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="2026년 10월 뉴스레터 26개를 바탕으로 정리한 9가지 AI 트렌드. 카드로 살펴보고 상세 분석과 근거 기사를 읽어보세요.">
+  <meta name="description" content="2026년 10월 뉴스레터 26개를 훑어서 뽑은 AI 트렌드 9가지. 카드로 가볍게 보고, 궁금하면 자세한 얘기랑 근거 기사까지 읽어 봐.">
   <meta name="theme-color" content="#f7f7f2"><title>10월의 AI, 9개의 흐름 | AI SIGNAL</title>
   <link rel="icon" type="image/svg+xml" href="assets/favicon.svg"><link rel="stylesheet" href="styles.css">
   <script src="app.js" defer></script>
 </head>
 <body>
-<a class="skip-link" href="#overview">본문으로 건너뛰기</a>
+<a class="skip-link" href="#overview">본문으로 바로 가기</a>
 <header class="site-header"><div class="header-inner">
   <a class="brand" href="#top" aria-label="AI SIGNAL 맨 위로"><span class="brand-icon" aria-hidden="true">✳</span>AI SIGNAL<span class="brand-divider"></span><span class="brand-sub">MONTHLY BRIEF</span></a>
-  <nav aria-label="주 메뉴"><a href="#overview">트렌드 한눈에</a><a href="#details">깊이 읽기</a><button class="method-button" data-open-method>분석 기준 <span aria-hidden="true">↗</span></button></nav>
+  <nav aria-label="주 메뉴"><a href="#overview">한눈에 보기</a><a href="#details">자세히 보기</a><button class="method-button" data-open-method>어떻게 정리했냐면 <span aria-hidden="true">↗</span></button></nav>
 </div></header>
 <main id="top" class="page-shell">
   <section class="hero" aria-labelledby="hero-title">
     <div class="hero-content"><div class="eyebrow"><span class="live-dot"></span>OCTOBER 2026<span class="eyebrow-line"></span>MONTHLY INTELLIGENCE</div>
-      <h1 id="hero-title">10월의 AI,<br>대답을 넘어 <span>실행으로.</span></h1>
-      <p class="hero-description">에이전트부터 피지컬 AI까지.<br>한 달의 뉴스레터에서 다음 변화의 방향을 읽습니다.</p>
-      <a class="primary-button" href="#overview">9가지 트렌드 살펴보기 <span aria-hidden="true">↓</span></a>
+      <h1 id="hero-title">10월의 AI,<br>말보다 <span>행동으로.</span></h1>
+      <p class="hero-description">일하는 AI 비서부터 현장을 누비는 로봇까지.<br>한 달 치 뉴스레터를 싹 훑어서, 요즘 AI가 어디로 가는지 정리해 봤어.</p>
+      <a class="primary-button" href="#overview">트렌드 9개 보러 가기 <span aria-hidden="true">↓</span></a>
     </div>
     <div class="hero-art" aria-hidden="true"><div class="orbit orbit-one"></div><div class="orbit orbit-two"></div><div class="art-axis"></div>
       <div class="art-center"><span class="art-spark">✳</span></div>
@@ -100,32 +101,32 @@ def main():
       <span class="art-caption">A NEW CHAPTER<br>OF INTELLIGENCE</span><span class="art-month">10<span>/ 2026</span></span>
     </div>
   </section>
-  <div class="issue-bar"><div class="issue-date"><span class="tiny-square"></span><span>2026.10.01 — 10.29</span><span class="period-tag">월중 리포트</span></div>
-    <div class="issue-stats"><span><strong>{nletters}</strong>개 뉴스레터</span><span><strong>{nunique}</strong>개 고유 기사 URL</span><span><strong>9</strong>가지 트렌드</span></div>
+  <div class="issue-bar"><div class="issue-date"><span class="tiny-square"></span><span>2026.10.01 — 10.29</span><span class="period-tag">이번 달 정리</span></div>
+    <div class="issue-stats"><span><strong>{nletters}</strong>개 뉴스레터</span><span><strong>{nunique}</strong>개 기사 (중복 빼고)</span><span><strong>9</strong>가지 트렌드</span></div>
   </div>
   <section id="overview" class="overview" aria-labelledby="overview-title">
-    <div class="section-heading"><div><div class="section-kicker">THE BIG PICTURE</div><h2 id="overview-title">9개의 카드로 읽는 이번 달</h2></div><p>카드를 선택하면 상세 분석으로 이어집니다. <span aria-hidden="true">↘</span></p></div>
-    <div class="filter-row"><div class="filters" role="group" aria-label="트렌드 카드 주제 선택"><button class="filter active" data-filter="all" aria-pressed="true">전체 흐름 <span>09</span></button><button class="filter" data-filter="product" aria-pressed="false">기술과 제품 <span>05</span></button><button class="filter" data-filter="industry" aria-pressed="false">산업과 투자 <span>02</span></button><button class="filter" data-filter="trust" aria-pressed="false">신뢰와 정책 <span>02</span></button></div><span class="filter-count" role="status" aria-live="polite" aria-atomic="true">9개 트렌드</span></div>
+    <div class="section-heading"><div><div class="section-kicker">THE BIG PICTURE</div><h2 id="overview-title">카드 9장으로 보는 이번 달</h2></div><p>궁금한 카드를 누르면 자세한 얘기로 넘어가. <span aria-hidden="true">↘</span></p></div>
+    <div class="filter-row"><div class="filters" role="group" aria-label="트렌드 카드 주제 선택"><button class="filter active" data-filter="all" aria-pressed="true">전체 <span>09</span></button><button class="filter" data-filter="product" aria-pressed="false">기술과 제품 <span>05</span></button><button class="filter" data-filter="industry" aria-pressed="false">산업과 투자 <span>02</span></button><button class="filter" data-filter="trust" aria-pressed="false">신뢰와 정책 <span>02</span></button></div><span class="filter-count" role="status" aria-live="polite" aria-atomic="true">9개 트렌드</span></div>
     <div class="cards-grid">{''.join(cards)}</div>
-    <p class="editorial-note"><span aria-hidden="true">↳</span> 카드는 빈도 순위가 아닌 주제별 해석입니다. 같은 URL의 반복 수록은 통계에서 한 번만 셌습니다.</p>
+    <p class="editorial-note"><span aria-hidden="true">↳</span> 카드 순서는 많이 나온 순이 아니라 주제별로 묶은 거야. 같은 기사가 여러 번 실린 건 한 번만 셌어.</p>
   </section>
   <section id="details" class="deep-dive" aria-labelledby="details-title">
-    <div class="deep-intro"><div><div class="section-kicker">BEYOND THE HEADLINES</div><h2 id="details-title">뉴스를 연결하면,<br>흐름이 보입니다.</h2></div><p>무엇이 달라졌고, 왜 중요한지.<br>9가지 트렌드를 근거 기사와 함께 살펴봅니다.</p></div>
-    <div class="reading-layout"><aside class="reading-sidebar"><div class="toc-heading">이달의 흐름 <span>01 — 09</span></div><nav aria-label="상세 트렌드 목차">{''.join(nav)}</nav><div class="sidebar-note">모든 분석은 저장된<br>10월 뉴스레터를 바탕으로 합니다.<button data-open-method>분석 범위 확인 <span aria-hidden="true">↗</span></button></div></aside>
+    <div class="deep-intro"><div><div class="section-kicker">BEYOND THE HEADLINES</div><h2 id="details-title">뉴스를 이어 보면,<br>흐름이 보여.</h2></div><p>뭐가 바뀌었고, 왜 중요한지.<br>트렌드 9개를 근거 기사랑 같이 풀어 볼게.</p></div>
+    <div class="reading-layout"><aside class="reading-sidebar"><div class="toc-heading">이번 달 흐름 <span>01 — 09</span></div><nav aria-label="상세 트렌드 목차">{''.join(nav)}</nav><div class="sidebar-note">모든 내용은 저장해 둔<br>10월 뉴스레터에서 나왔어.<button data-open-method>어떻게 정리했는지 보기 <span aria-hidden="true">↗</span></button></div></aside>
     <div class="reading-content">{''.join(details)}</div></div>
   </section>
-  <section class="method-strip" aria-label="분석 정보"><span class="method-icon" aria-hidden="true">◎</span><div><h2>흐름은 연결하고, 근거는 남겼습니다.</h2><p>10월 발행본 {nletters}개 · 기사 항목 {narticles}개 · 중복 URL {corpus['duplicateCount']}개 제외 · 고유 URL {nunique}개</p></div><button data-open-method>분석 기준과 자료 보기 <span aria-hidden="true">↗</span></button></section>
+  <section class="method-strip" aria-label="분석 정보"><span class="method-icon" aria-hidden="true">◎</span><div><h2>흐름은 이어 붙이고, 근거는 남겨 뒀어.</h2><p>10월 뉴스레터 {nletters}개 · 실린 기사 {narticles}개 · 겹친 기사 {corpus['duplicateCount']}개 빼고 · 실제 기사 {nunique}개</p></div><button data-open-method>정리 기준이랑 자료 보기 <span aria-hidden="true">↗</span></button></section>
 </main>
 <footer class="site-footer"><div class="footer-inner"><a class="brand" href="#top"><span class="brand-icon" aria-hidden="true">✳</span>AI SIGNAL</a><span>2026 OCTOBER EDITION · LOCAL NEWSLETTER ARCHIVE</span><a href="#top">맨 위로 <span aria-hidden="true">↑</span></a></div></footer>
 <a class="back-top" href="#top" aria-label="맨 위로" hidden>↑</a>
-<dialog id="method-dialog" aria-labelledby="method-title"><div class="dialog-header"><span class="section-kicker">ABOUT THIS BRIEF</span><button class="close-dialog" aria-label="분석 기준 닫기">×</button></div><h2 id="method-title">이렇게 읽고 정리했습니다.</h2>
-  <p>분석 대상은 <code>newsletters/202610*.html</code>에 저장된 <strong>2026년 10월 1일~29일 발행본 {nletters}개</strong>입니다. 10월 30~31일과 저장되지 않은 날짜는 포함하지 않았습니다. 기사 자체의 발행일이 9월이어도 10월 뉴스레터에 수록됐다면 분석에 포함했습니다.</p>
-  <dl class="method-metrics"><div><dt>기사 수록 항목</dt><dd>{narticles}</dd></div><div><dt>고유 기사 URL</dt><dd>{nunique}</dd></div><div><dt>정규화한 매체명</dt><dd>{len(corpus['sources'])}</dd></div></dl>
-  <h3>중복과 트렌드의 기준</h3><p>같은 URL의 반복 수록 {corpus['duplicateCount']}개를 제외했습니다. URL의 추적 매개변수와 끝 슬래시는 정리했고 기사 식별 매개변수는 유지했습니다. 서로 다른 URL로 다룬 같은 사건은 자동으로 합치지 않았으므로, 고유 URL 수는 독립적인 사건 수와 다릅니다.</p>
-  <p>전체 기사 제목에서 주제의 분포를 살펴보고, 관련 요약과 대표 사례를 연결해 변화를 9개 주제로 묶었습니다. 카드는 중요도·시장 점유율·빈도 순위가 아닙니다. 상세 설명마다 대표 근거 4개를 연결했으며, 하나의 기사가 여러 흐름과 관련될 수 있습니다.</p>
-  <h3>내용을 읽는 기준</h3><p>내용과 수치는 저장된 뉴스레터의 설명을 기준으로 해석했습니다. 기업 발표, 제한된 평가, 연구 시연, 전망, 시행 예정 정책은 각각의 상태를 구분했습니다. 같은 매체의 한글·영문 표기는 통합했습니다.</p>
-  <h3>분석한 뉴스레터 <span class="muted">26개</span></h3><p class="source-date-note">날짜를 선택하면 저장된 뉴스레터가 새 탭에서 열립니다.</p><div class="source-dates">{source_files}</div>
-  <p class="dialog-footnote">수록 매체: {' · '.join(escape(s) for s in corpus['sources'])}<br>작은 이미지는 각 주제를 설명하기 위해 제작한 벡터 일러스트입니다.</p>
+<dialog id="method-dialog" aria-labelledby="method-title"><div class="dialog-header"><span class="section-kicker">ABOUT THIS BRIEF</span><button class="close-dialog" aria-label="정리 기준 닫기">×</button></div><h2 id="method-title">이렇게 읽고 정리했어.</h2>
+  <p>읽은 건 <code>newsletters/202610*.html</code>에 저장된 <strong>2026년 10월 1일~29일 뉴스레터 {nletters}개</strong>야. 10월 30~31일이랑 저장 안 된 날은 빠졌어. 기사 자체는 9월에 나왔더라도 10월 뉴스레터에 실렸으면 같이 봤어.</p>
+  <dl class="method-metrics"><div><dt>실린 기사</dt><dd>{narticles}</dd></div><div><dt>중복 뺀 기사</dt><dd>{nunique}</dd></div><div><dt>매체 수</dt><dd>{len(corpus['sources'])}</dd></div></dl>
+  <h3>중복은 어떻게 셌냐면</h3><p>같은 주소(URL)의 기사가 여러 번 실린 {corpus['duplicateCount']}개는 한 번만 셌어. 주소 끝에 붙는 추적용 꼬리표는 떼고, 기사를 구분하는 부분은 남겼어. 다만 같은 사건을 다른 매체가 각자 쓴 건 따로 셌으니까, 기사 수가 곧 사건 수는 아니야.</p>
+  <p>기사 제목을 쭉 훑어서 어떤 주제가 많은지 보고, 비슷한 얘기끼리 퍼즐 맞추듯 이어 붙여서 9개 흐름으로 묶었어. 카드 순서는 중요도나 많이 나온 순서가 아니야. 흐름마다 대표 기사 4개를 근거로 달았고, 기사 하나가 여러 흐름에 걸칠 수도 있어.</p>
+  <h3>읽을 때 주의한 점</h3><p>내용이랑 숫자는 저장된 뉴스레터에 적힌 대로 봤어. 회사가 스스로 한 발표, 좁은 범위의 시험 결과, 연구실 시연, 앞으로의 전망, 아직 시행 전인 정책은 서로 다른 거라 섞지 않으려고 했어. 같은 매체를 한글·영문으로 다르게 적은 건 하나로 합쳤어.</p>
+  <h3>분석한 뉴스레터 <span class="muted">26개</span></h3><p class="source-date-note">날짜를 누르면 그날 뉴스레터가 새 탭에서 열려.</p><div class="source-dates">{source_files}</div>
+  <p class="dialog-footnote">실린 매체: {' · '.join(escape(s) for s in corpus['sources'])}<br>카드 속 작은 그림은 주제를 쉽게 떠올리라고 직접 그린 일러스트야.</p>
 </dialog>
 </body></html>'''
     (assets / "favicon.svg").write_text('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48"><rect width="48" height="48" rx="12" fill="#ed603b"/><path d="M24 9v30M9 24h30M13 13l22 22M13 35l22-22" stroke="#fff" stroke-width="5"/></svg>', encoding="utf-8")
